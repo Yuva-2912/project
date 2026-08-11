@@ -1,0 +1,3171 @@
+DrugName,DrugA_Count,DrugB_Count,Total_DDI_Records,In_Master_Dataset
+(+)-mefloquine,3,34,37,True
+(+)-menthol,8,14,22,True
+"(1,2,6,7-3h)testosterone",25,27,52,True
+"(1r,2s)-2-phenylcyclopropanaminium",76,0,76,True
+"(1s,3s,5s)-2-{(2s)-2-amino-2-[(1r,3s,5r,7s)-3-hydroxytricyclo[3.3.1.1~3,7~]dec-1-yl]acetyl}-2-azabicyclo[3.1.0]hexane-3-carbonitrile",19,30,49,True
+"(2r)-1-(2,6-dimethylphenoxy)propan-2-amine",5,25,30,True
+(3-carboxy-2-(r)-hydroxy-propyl)-trimethyl-ammonium,13,17,30,True
+"(5r)-5-(4-{[(2r)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydro-2h-chromen-2-yl]methoxy}benzyl)-1,3-thiazolidine-2,4-dione",43,15,58,True
+(6r)-folinic acid,1,8,9,True
+"(6s)-5,6,7,8-tetrahydrofolic acid",1,0,1,True
+(r)-atenolol,37,20,57,True
+(r)-bicalutamide,15,16,31,True
+(r)-etodolac,35,33,68,True
+(r)-fluoxetine,22,61,83,True
+(r)-gossypol,9,14,23,True
+(r)-praziquantel,21,3,24,True
+(r)-propafenone,44,25,69,True
+(r)-rolipram,17,6,23,True
+(r)-warfarin,31,51,82,True
+(s)-econazole,5,3,8,True
+(s)-indapamide,38,34,72,True
+"1,10-phenanthroline",10,3,13,True
+"1,2-benzodiazepine",8,30,38,True
+"1,6-fructose diphosphate (linear form)",0,4,4,True
+1-(2-phenylethyl)-4-phenyl-4-acetoxypiperidine,8,2,10,True
+"1-benzyl-4-[(5,6-dimethoxy-1-indanon-2-yl)methyl]piperidine",67,0,67,True
+1-benzylimidazole,12,8,20,True
+1-deoxymannojirimycin,17,14,31,True
+1-testosterone,2,1,3,True
+10-hydroxycamptothecin,3,1,4,True
+16-bromoepiandrosterone,1,0,1,True
+17alpha-estriol,3,8,11,True
+18-methyl-19-nortestosterone,2,0,2,True
+19-norandrostenedione,1,1,2,True
+"1alpha,24s-dihydroxyvitamin d2",7,2,9,True
+1alpha-hydroxyvitamin d5,6,9,15,True
+"2,4-diamino-5-(3,4,5-trimethoxy-benzyl)-pyrimidin-1-ium",38,15,53,True
+"2,4-thiazolidinedione",2,27,29,True
+"2,5-dimethoxy-4-ethylamphetamine",26,15,41,True
+"2,5-dimethoxy-4-ethylthioamphetamine",24,19,43,True
+2-(4-chlorophenyl)-5-quinoxalinecarboxamide,1,1,2,True
+2-chloro-5-[(1s)-1-hydroxy-3-oxo-2h-isoindol-1-yl]benzenesulfonamide,46,20,66,True
+2-chloroethyl-3-sarcosinamide-1-nitrosourea,1,0,1,True
+2-fluoroadenosine,10,4,14,True
+2-methoxyestradiol,1,0,1,True
+2-methoxyethanol,0,4,4,True
+25-desacetylrifapentine,1,2,3,True
+"3,4-dihydroxybenzoic acid",1,0,1,True
+"3,5-diiodothyropropionic acid",0,12,12,True
+"3,5-diiodotyrosine",8,8,16,True
+"3,5-dinitrocatechol",0,5,5,True
+3-isobutyl-1-methyl-7h-xanthine,11,1,12,True
+"4-bromo-2,5-dimethoxyamphetamine",49,12,61,True
+"4-bromo-2,5-dimethoxyphenethylamine",1,4,5,True
+4-hydroxycoumarin,5,34,39,True
+4-hydroxytestosterone,3,0,3,True
+4-methoxyamphetamine,26,29,55,True
+4-oxoretinol,2,1,3,True
+5-(2-methylpiperazine-1-sulfonyl)isoquinoline,2,0,2,True
+5-androstenedione,0,5,5,True
+5-fluorouridine,3,1,4,True
+"5-methoxy-n,n-dimethyltryptamine",1,40,41,True
+5-methyltetrahydrofolic acid,0,2,2,True
+5beta-dihydrotestosterone,6,5,11,True
+"6-chloro-3-(dichloromethyl)-3,4-dihydro-2h-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide",41,22,63,True
+6-deoxyerythronolide b,12,5,17,True
+6-o-benzylguanine,15,16,31,True
+"6s-5,6,7,8-tetrahydrobiopterin",4,2,6,True
+"7,8-dichloro-1,2,3,4-tetrahydroisoquinoline",6,44,50,True
+"7,9-dimethylguanine",10,8,18,True
+7-((carboxy(4-hydroxyphenyl)acetyl)amino)-7-methoxy-(3-((1-methyl-1h-tetrazol-5-yl)thio)methyl)-8-oxo-5-oxa-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid,18,16,34,True
+7-(2-amino-2-phenyl-acetylamino)-3-chloro-8-oxo-1-aza-bicyclo[4.2.0]oct-2-ene-2-carboxylic acid,24,17,41,True
+7-deazaguanine,11,9,20,True
+7-hydroxystaurosporine,0,2,2,True
+7-nitroindazole,16,22,38,True
+8-azaguanine,14,12,26,True
+8-chlorotheophylline,6,13,19,True
+9-(n-methyl-l-isoleucine)-cyclosporin a,4,5,9,True
+9-aminocamptothecin,19,0,19,True
+9-beta-d-xylofuranosyl-adenine,13,14,27,True
+9-deazaguanine,21,7,28,True
+9-methylguanine,4,20,24,True
+abacavir,20,19,39,True
+abafungin,4,4,8,True
+abametapir,14,22,36,True
+abediterol,6,28,34,True
+abemaciclib,7,13,20,True
+abexinostat,9,6,15,True
+abiraterone,20,13,33,True
+abrocitinib,15,14,29,True
+acalabrutinib,3,26,29,True
+acamprosate,7,0,7,True
+acarbose,19,5,24,True
+acebutolol,55,15,70,True
+aceclofenac,34,27,61,True
+acefylline,20,5,25,True
+acemetacin,56,16,72,True
+acenocoumarol,7,47,54,True
+acepromazine,25,25,50,True
+aceprometazine,1,42,43,True
+acetaminophen,17,47,64,True
+acetate,19,32,51,True
+acetazolamide,64,3,67,True
+acetoacetic acid,5,13,18,True
+acetohexamide,8,27,35,True
+acetophenazine,3,35,38,True
+acetyl sulfisoxazole,6,2,8,True
+acetylamino-acetic acid,8,10,18,True
+acetylcholine,2,3,5,True
+acetylcysteine,2,1,3,True
+acetyldigitoxin,16,6,22,True
+acetyldigoxin,28,7,35,True
+acetylleucine,0,6,6,True
+acetylsalicylic acid,72,7,79,True
+acipimox,4,2,6,True
+acitretin,2,1,3,True
+aclarubicin,0,3,3,True
+aclidinium,47,1,48,True
+acotiamide,3,9,12,True
+acrivastine,11,23,34,True
+acteoside,12,3,15,True
+acyclovir,21,26,47,True
+adagrasib,18,10,28,True
+adefovir,7,23,30,True
+adefovir dipivoxil,9,28,37,True
+ademetionine,1,1,2,True
+adenine,3,0,3,True
+adinazolam,34,8,42,True
+adipiplon,7,14,21,True
+adrafinil,34,0,34,True
+afatinib,4,14,18,True
+afimoxifene,1,2,3,True
+agmatine,11,31,42,True
+agomelatine,2,24,26,True
+aica ribonucleotide,5,7,12,True
+ajmaline,9,2,11,True
+alanosine,1,1,2,True
+alaproclate,43,10,53,True
+albaconazole,2,4,6,True
+albendazole,26,7,33,True
+albuterol,34,38,72,True
+alcaftadine,2,1,3,True
+alclofenac,51,3,54,True
+alclometasone,5,2,7,True
+alcloxa,1,1,2,True
+alcuronium,33,19,52,True
+aldosterone,19,25,44,True
+aldoxorubicin,0,3,3,True
+alectinib,22,11,33,True
+alendronic acid,6,9,15,True
+alexitol sodium,37,8,45,True
+alfacalcidol,3,5,8,True
+alfaxalone,30,10,40,True
+alfentanil,53,23,76,True
+alfuzosin,9,30,39,True
+algestone,23,3,26,True
+algestone acetophenide,17,0,17,True
+alimemazine,0,34,34,True
+aliskiren,6,24,30,True
+alitretinoin,25,39,64,True
+allicin,14,13,27,True
+allobarbital,20,3,23,True
+alloin,19,0,19,True
+allopurinol,20,24,44,True
+allylestrenol,60,0,60,True
+almasilate,11,25,36,True
+alminoprofen,49,14,63,True
+almotriptan,10,71,81,True
+alogliptin,2,67,69,True
+aloglutamol,2,9,11,True
+alosetron,40,15,55,True
+alpelisib,14,23,37,True
+alphacetylmethadol,4,62,66,True
+alphaprodine,10,22,32,True
+alprazolam,13,54,67,True
+alprenolol,31,44,75,True
+alprostadil,1,0,1,True
+alt-2074,1,0,1,True
+altrenogest,1,6,7,True
+altretamine,6,14,20,True
+aluminium,1,4,5,True
+aluminium acetotartrate,24,7,31,True
+aluminium clofibrate,0,2,2,True
+aluminium glycinate,33,7,40,True
+aluminium nicotinate,20,31,51,True
+aluminium phosphate,28,26,54,True
+aluminium tristearate,0,1,1,True
+aluminum chloride,0,1,1,True
+aluminum chlorohydrate,4,61,65,True
+aluminum sulfate,28,67,95,True
+alverine,2,26,28,True
+alvimopan,0,2,2,True
+alvocidib,8,1,9,True
+amantadine,75,10,85,True
+ambenonium,4,7,11,True
+ambrisentan,22,27,49,True
+ambroxol,25,13,38,True
+amcinonide,5,1,6,True
+amdinocillin,9,1,10,True
+amg-222,11,15,26,True
+amibegron,10,18,28,True
+amidephrine,0,7,7,True
+amifampridine,7,7,14,True
+amifostine,2,6,8,True
+amikacin,24,18,42,True
+amiloride,5,36,41,True
+amineptine,22,24,46,True
+aminoglutethimide,5,13,18,True
+aminohippuric acid,7,2,9,True
+aminolevulinic acid,0,1,1,True
+aminomethylbenzoic acid,0,1,1,True
+aminophenazone,24,40,64,True
+aminophylline,1,39,40,True
+aminopterin,0,1,1,True
+aminosalicylic acid,1,13,14,True
+amiodarone,53,23,76,True
+amisulpride,23,25,48,True
+amithiozone,1,1,2,True
+amitraz,9,10,19,True
+amitriptyline,54,36,90,True
+amitriptylinoxide,1,62,63,True
+amlodipine,50,15,65,True
+ammonia n-13,9,29,38,True
+ammonium bicarbonate,83,5,88,True
+ammonium lactate,12,8,20,True
+ammonium tetrathiomolybdate,0,1,1,True
+amobarbital,17,43,60,True
+amodiaquine,21,16,37,True
+amonafide,0,1,1,True
+amoxapine,27,50,77,True
+amoxicillin,21,15,36,True
+amperozide,17,16,33,True
+amphetamine,32,22,54,True
+amphotericin b,46,4,50,True
+ampicillin,36,3,39,True
+amprenavir,2,58,60,True
+amrinone,4,22,26,True
+amrubicin,1,2,3,True
+amsacrine,2,18,20,True
+amyl nitrite,11,3,14,True
+anagliptin,9,10,19,True
+anagrelide,23,22,45,True
+anastrozole,0,18,18,True
+andrographolide,16,1,17,True
+androstenediol,2,2,4,True
+androstenedione,9,0,9,True
+anecortave,2,0,2,True
+angiotensin 1-7,12,21,33,True
+anileridine,1,1,2,True
+aniline,1,3,4,True
+aniracetam,1,33,34,True
+anisodamine,10,47,57,True
+anisotropine methylbromide,0,20,20,True
+annamycin,3,1,4,True
+antazoline,9,12,21,True
+antipyrine,18,80,98,True
+antrafenine,24,38,62,True
+apalutamide,53,17,70,True
+apaziquone,0,3,3,True
+apixaban,15,37,52,True
+apomorphine,5,59,64,True
+apraclonidine,0,1,1,True
+apramycin,2,33,35,True
+apremilast,23,21,44,True
+aprepitant,37,1,38,True
+aprindine,14,9,23,True
+aprobarbital,17,33,50,True
+aprocitentan,22,4,26,True
+apronalide,13,12,25,True
+arachidonic acid,1,5,6,True
+aramchol,2,3,5,True
+aranidipine,20,21,41,True
+arbaclofen,40,33,73,True
+arbaclofen placarbil,15,10,25,True
+arbekacin,22,20,42,True
+arbutamine,21,9,30,True
+arecoline,3,2,5,True
+arformoterol,88,4,92,True
+argatroban,15,13,28,True
+aripiprazole,74,8,82,True
+aripiprazole lauroxil,83,14,97,True
+arketamine,6,67,73,True
+armodafinil,0,34,34,True
+arotinolol,57,4,61,True
+arsenic trioxide,51,30,81,True
+artefenomel,1,3,4,True
+artemether,10,24,34,True
+artemisinin,9,2,11,True
+artemotil,1,2,3,True
+artenimol,17,0,17,True
+artesunate,3,0,3,True
+articaine,26,50,76,True
+as-8112,1,0,1,True
+asciminib,8,28,36,True
+ascorbic acid,15,4,19,True
+asenapine,13,58,71,True
+aspartame,3,0,3,True
+aspartic acid,13,3,16,True
+aspoxicillin,5,0,5,True
+astaxanthin,15,11,26,True
+astemizole,32,10,42,True
+asunaprevir,5,40,45,True
+ataluren,4,3,7,True
+atamestane,0,1,1,True
+atazanavir,70,3,73,True
+aticaprant,1,1,2,True
+atipamezole,11,5,16,True
+atogepant,5,3,8,True
+atomoxetine,17,41,58,True
+atorvastatin,3,28,31,True
+atosiban,0,1,1,True
+atovaquone,12,9,21,True
+atracurium besylate,4,51,55,True
+atrasentan,2,6,8,True
+atropine,20,38,58,True
+auranofin,27,1,28,True
+aurodox,1,0,1,True
+aurothioglucose,4,26,30,True
+avacopan,4,13,17,True
+avanafil,10,54,64,True
+avapritinib,15,5,20,True
+avasimibe,8,14,22,True
+avatrombopag,8,9,17,True
+avibactam,4,3,7,True
+avilamycin,0,1,1,True
+axelopran,4,0,4,True
+axitinib,17,17,34,True
+azacitidine,16,24,40,True
+azaperone,2,33,35,True
+azapropazone,5,36,41,True
+azatadine,9,27,36,True
+azathioprine,26,17,43,True
+azd-3043,17,19,36,True
+azd-5991,1,0,1,True
+azelaic acid,33,1,34,True
+azelastine,39,28,67,True
+azelnidipine,3,38,41,True
+azidamfenicol,0,2,2,True
+azidocillin,4,4,8,True
+azilsartan medoxomil,12,19,31,True
+azimilide,10,17,27,True
+azithromycin,18,20,38,True
+azlocillin,9,7,16,True
+azosemide,26,10,36,True
+aztreonam,5,38,43,True
+bacampicillin,1,3,4,True
+bacitracin,44,4,48,True
+bafilomycin a1,0,1,1,True
+balaglitazone,22,11,33,True
+balsalazide,54,16,70,True
+bambermycins,1,1,2,True
+bambuterol,38,1,39,True
+bamifylline,3,17,20,True
+banoxantrone,0,6,6,True
+barbexaclone,36,22,58,True
+barbital,59,12,71,True
+baricitinib,4,35,39,True
+barnidipine,12,49,61,True
+batefenterol,5,29,34,True
+batimastat,0,1,1,True
+bazedoxifene,0,4,4,True
+beclamide,20,9,29,True
+beclomethasone dipropionate,24,20,44,True
+becocalcidiol,1,6,7,True
+bedaquiline,10,14,24,True
+befunolol,0,1,1,True
+belinostat,19,12,31,True
+belotecan,0,2,2,True
+belumosudil,8,1,9,True
+belzutifan,5,6,11,True
+bempedoic acid,6,4,10,True
+benactyzine,22,9,31,True
+benazepril,5,36,41,True
+benazeprilat,15,19,34,True
+bencyclane,36,6,42,True
+bendamustine,0,27,27,True
+bendazac,10,0,10,True
+bendroflumethiazide,48,14,62,True
+benfluorex,24,1,25,True
+benidipine,18,39,57,True
+benmoxin,58,6,64,True
+benorilate,51,11,62,True
+benoxaprofen,31,29,60,True
+benperidol,22,3,25,True
+benserazide,41,1,42,True
+bentazepam,41,0,41,True
+benzatropine,49,13,62,True
+benzbromarone,3,16,19,True
+benzgalantamine,11,5,16,True
+benzhydrocodone,2,16,18,True
+benzilone,0,23,23,True
+benziodarone,1,0,1,True
+benznidazole,29,2,31,True
+benzocaine,68,1,69,True
+benzoctamine,26,6,32,True
+benzoic acid,1,10,11,True
+benzonatate,4,1,5,True
+benzphetamine,3,43,46,True
+benzquinamide,18,6,24,True
+benzthiazide,24,32,56,True
+benzydamine,55,5,60,True
+benzyl alcohol,10,78,88,True
+benzylpenicillin,25,20,45,True
+benzylpenicilloyl polylysine,10,5,15,True
+benzylthiouracil,2,8,10,True
+bepotastine,1,40,41,True
+bepridil,17,49,66,True
+beraprost,34,4,38,True
+berberine ursodeoxycholate,4,11,15,True
+bergapten,2,0,2,True
+berotralstat,8,39,47,True
+besifloxacin,0,1,1,True
+beta-d-galactosamine,1,2,3,True
+beta-isosparteine,5,11,16,True
+beta-naphthoflavone,3,4,7,True
+betahistine,4,8,12,True
+betaine,11,7,18,True
+betamethasone,11,52,63,True
+betamethasone phosphate,6,25,31,True
+betaxolol,20,25,45,True
+bethanechol,4,2,6,True
+bethanidine,12,13,25,True
+betrixaban,2,31,33,True
+betulinic acid,2,6,8,True
+bevantolol,39,14,53,True
+bevonium,5,18,23,True
+bexagliflozin,27,5,32,True
+bexarotene,19,9,28,True
+bezafibrate,10,6,16,True
+bezitramide,18,10,28,True
+bicifadine,12,17,29,True
+bicisate,6,28,34,True
+bictegravir,1,8,9,True
+bietaserpine,5,27,32,True
+bifemelane,12,18,30,True
+bifeprunox,25,2,27,True
+bifonazole,5,13,18,True
+bilastine,22,0,22,True
+bimatoprost,8,1,9,True
+binimetinib,27,0,27,True
+bioallethrin,0,7,7,True
+biochanin a,2,6,8,True
+biperiden,1,29,30,True
+biricodar,3,1,4,True
+bisacodyl,6,8,14,True
+bisegliptin,25,0,25,True
+bismuth subcitrate potassium,39,33,72,True
+bismuth subgallate,20,7,27,True
+bismuth subnitrate,36,18,54,True
+bismuth subsalicylate,2,10,12,True
+bisoprolol,12,67,79,True
+bisoxatin,42,3,45,True
+bitolterol,23,7,30,True
+bivalirudin,9,16,25,True
+bleomycin,23,25,48,True
+blonanserin,5,60,65,True
+boceprevir,19,12,31,True
+bolandiol,0,1,1,True
+bolasterone,5,1,6,True
+boldenone,1,4,5,True
+bopindolol,12,29,41,True
+bornaprine,18,0,18,True
+bortezomib,47,13,60,True
+bortezomib d-mannitol,1,0,1,True
+bosentan,49,19,68,True
+bosutinib,14,31,45,True
+bq-123,5,16,21,True
+brefeldin a,14,6,20,True
+brequinar,2,9,11,True
+bretylium,35,0,35,True
+brexanolone,40,0,40,True
+brexpiprazole,2,60,62,True
+brigatinib,28,1,29,True
+brilaroxazine,13,12,25,True
+brimonidine,4,36,40,True
+brincidofovir,1,6,7,True
+brinzolamide,2,0,2,True
+brivaracetam,36,42,78,True
+brofaromine,4,40,44,True
+bromazepam,11,53,64,True
+bromfenac,0,5,5,True
+bromisoval,27,4,31,True
+bromocriptine,42,32,74,True
+bromodiphenhydramine,1,0,1,True
+bromotheophylline,9,29,38,True
+bromperidol,13,16,29,True
+brompheniramine,3,64,67,True
+brotizolam,8,22,30,True
+broxuridine,0,3,3,True
+bryostatin 1,5,7,12,True
+bucindolol,40,11,51,True
+buclizine,13,21,34,True
+budesonide,9,51,60,True
+budipine,1,0,1,True
+bufexamac,4,5,9,True
+buflomedil,14,19,33,True
+buformin,2,28,30,True
+bufotenine,11,35,46,True
+bufuralol,17,30,47,True
+bumadizone,47,14,61,True
+bumetanide,33,25,58,True
+bunaftine,0,19,19,True
+bunazosin,2,11,13,True
+bupivacaine,67,30,97,True
+bupranolol,46,15,61,True
+buprenorphine,21,56,77,True
+bupropion,15,46,61,True
+buspirone,32,45,77,True
+busulfan,23,3,26,True
+butabarbital,2,59,61,True
+butacaine,19,13,32,True
+butalbital,14,35,49,True
+butamben,27,16,43,True
+butanilicaine,6,31,37,True
+butaperazine,33,5,38,True
+buthiazide,39,22,61,True
+buthionine sulfoximine,2,2,4,True
+butobarbital,11,22,33,True
+butorphanol,21,15,36,True
+butylphthalide,9,6,15,True
+butylscopolamine,1,12,13,True
+butyrfentanyl,4,9,13,True
+butyrylthiocholine,1,0,1,True
+ca4p,1,1,2,True
+cabazitaxel,41,1,42,True
+cabergoline,39,34,73,True
+cabotegravir,0,2,2,True
+cabozantinib,11,15,26,True
+cadralazine,7,15,22,True
+cafedrine,8,19,27,True
+caffeine,6,13,19,True
+calcifediol,4,0,4,True
+calcitriol,19,7,26,True
+calcium,7,7,14,True
+calcium cation,12,0,12,True
+calcium glubionate anhydrous,0,13,13,True
+calcium glucoheptonate,7,8,15,True
+calcium gluconate,17,39,56,True
+calcium levulinate,11,2,13,True
+calcium pangamate,0,12,12,True
+calyculin a,1,0,1,True
+camazepam,8,20,28,True
+camptothecin,0,9,9,True
+camylofin,6,9,15,True
+canagliflozin,8,48,56,True
+candesartan,27,20,47,True
+candesartan cilexetil,39,7,46,True
+candicidin,7,5,12,True
+candoxatril,0,26,26,True
+canertinib,0,1,1,True
+cangrelor,11,17,28,True
+cannabidiol,24,40,64,True
+cannabidivarin,13,28,41,True
+cannabinol,10,34,44,True
+canrenoic acid,9,18,27,True
+canrenone,7,33,40,True
+capecitabine,35,14,49,True
+capivasertib,11,8,19,True
+capmatinib,12,11,23,True
+capravirine,0,8,8,True
+capreomycin,26,9,35,True
+caprylic acid,0,3,3,True
+capsaicin,2,66,68,True
+captodiame,22,8,30,True
+captopril,25,9,34,True
+carbamazepine,78,10,88,True
+carbamoylcholine,1,6,7,True
+carbenicillin,9,2,11,True
+carbetocin,7,4,11,True
+carbidopa,10,35,45,True
+carbimazole,11,3,14,True
+carbinoxamine,21,25,46,True
+carbocisteine,1,0,1,True
+carbomycin,11,1,12,True
+carboprost,1,0,1,True
+carboquone,0,1,1,True
+carboxyamidotriazole,3,26,29,True
+carbromal,21,16,37,True
+carbutamide,14,38,52,True
+carfecillin,2,11,13,True
+carfentanil,2,25,27,True
+carfilzomib,27,1,28,True
+carindacillin,7,5,12,True
+cariporide,16,6,22,True
+cariprazine,38,25,63,True
+carisbamate,16,16,32,True
+carisoprodol,25,13,38,True
+carmegliptin,21,7,28,True
+carmofur,1,0,1,True
+carmustine,45,4,49,True
+caroverine,12,13,25,True
+caroxazone,34,25,59,True
+carprofen,19,36,55,True
+carteolol,10,7,17,True
+carvedilol,26,30,56,True
+caspofungin,5,2,7,True
+castanospermine,5,1,6,True
+cathine,38,3,41,True
+cathinone,12,17,29,True
+cediranib,1,2,3,True
+cefacetrile,8,30,38,True
+cefaclor,17,34,51,True
+cefadroxil,26,4,30,True
+cefaloridine,25,3,28,True
+cefalotin,4,27,31,True
+cefamandole,14,13,27,True
+cefamandole nafate,1,3,4,True
+cefapirin,12,25,37,True
+cefatrizine,6,17,23,True
+cefazedone,4,26,30,True
+cefazolin,15,24,39,True
+cefbuperazone,15,31,46,True
+cefcapene,28,13,41,True
+cefdinir,19,30,49,True
+cefditoren,22,14,36,True
+cefepime,19,9,28,True
+cefetamet,17,16,33,True
+cefixime,1,1,2,True
+cefmenoxime,28,7,35,True
+cefmetazole,10,29,39,True
+cefminox,20,10,30,True
+cefodizime,3,31,34,True
+cefonicid,27,3,30,True
+cefoperazone,28,6,34,True
+ceforanide,8,22,30,True
+cefotaxime,25,10,35,True
+cefotetan,9,26,35,True
+cefotiam,8,15,23,True
+cefoxitin,5,26,31,True
+cefozopran,12,23,35,True
+cefpiramide,18,22,40,True
+cefpirome,37,4,41,True
+cefpodoxime,0,21,21,True
+cefprozil,3,25,28,True
+cefradine,16,23,39,True
+cefroxadine,11,20,31,True
+cefsulodin,8,23,31,True
+ceftaroline fosamil,4,25,29,True
+ceftazidime,18,24,42,True
+ceftezole,24,7,31,True
+ceftibuten,9,28,37,True
+ceftiofur,0,2,2,True
+ceftizoxime,17,24,41,True
+ceftobiprole,5,23,28,True
+ceftobiprole medocaril,5,2,7,True
+ceftolozane,25,15,40,True
+ceftriaxone,6,34,40,True
+cefuroxime,19,7,26,True
+celecoxib,22,57,79,True
+celiprolol,37,23,60,True
+cenobamate,39,15,54,True
+cephalexin,0,62,62,True
+cephaloglycin,28,7,35,True
+cephalosporin analog,0,2,2,True
+cephalosporin c,3,0,3,True
+cephalothin group,9,24,33,True
+ceritinib,16,31,47,True
+cerium oxalate,2,0,2,True
+cerivastatin,11,29,40,True
+cerlapirdine,17,20,37,True
+cethromycin,20,17,37,True
+cetirizine,7,58,65,True
+cevimeline,6,31,37,True
+chloral hydrate,20,42,62,True
+chlorambucil,14,9,23,True
+chloramphenicol,4,25,29,True
+chloramphenicol succinate,2,2,4,True
+chlorcyclizine,2,14,16,True
+chlordiazepoxide,32,1,33,True
+chlorhexadol,10,21,31,True
+chloride ion,9,33,42,True
+chlormadinone,3,25,28,True
+chlormadinone acetate,6,13,19,True
+chlormezanone,7,25,32,True
+chloroform,3,2,5,True
+chloroprocaine,17,44,61,True
+chloropyramine,2,0,2,True
+chloroquine,14,59,73,True
+chlorothiazide,37,22,59,True
+chlorotrianisene,9,1,10,True
+chlorpheniramine,16,33,49,True
+chlorphenoxamine,15,14,29,True
+chlorphentermine,1,34,35,True
+chlorproethazine,27,3,30,True
+chlorproguanil,2,3,5,True
+chlorpromazine,0,110,110,True
+chlorpropamide,21,40,61,True
+chlorprothixene,10,46,56,True
+chlorsulfaquinoxaline,8,1,9,True
+chlortetracycline,2,0,2,True
+chlorzoxazone,20,63,83,True
+cholecalciferol,6,15,21,True
+cholesterol,3,3,6,True
+cholic acid,13,1,14,True
+choline,35,45,80,True
+chromic cation,41,3,44,True
+chromium,4,23,27,True
+chromium picolinate,3,1,4,True
+cibenzoline,17,6,23,True
+ciclesonide,34,22,56,True
+cicletanine,64,7,71,True
+ciclopirox,0,2,2,True
+cidofovir,4,28,32,True
+cidoxepin,40,68,108,True
+ciglitazone,3,29,32,True
+cilansetron,12,9,21,True
+cilastatin,2,1,3,True
+cilazapril,26,8,34,True
+cilazaprilat,2,6,8,True
+cilnidipine,34,17,51,True
+cilostazol,18,49,67,True
+cimetidine,78,2,80,True
+cimetropium,6,4,10,True
+cimicoxib,39,21,60,True
+cinacalcet,5,13,18,True
+cinazepam,15,17,32,True
+cinchocaine,34,47,81,True
+cinchophen,0,1,1,True
+cinitapride,3,50,53,True
+cinnamaldehyde,2,1,3,True
+cinnarizine,51,8,59,True
+cinolazepam,2,31,33,True
+cinoxacin,6,35,41,True
+ciprofibrate,2,1,3,True
+ciprofloxacin,42,33,75,True
+cirazoline,2,25,27,True
+cis-diamminechlorocholylglycinateplatinum(ii),2,3,5,True
+cisapride,54,10,64,True
+citalopram,13,60,73,True
+citrulline,3,5,8,True
+cladribine,9,19,28,True
+clarithromycin,57,0,57,True
+clavulanic acid,5,0,5,True
+clemastine,2,49,51,True
+clenbuterol,10,26,36,True
+clevidipine,43,23,66,True
+clidinium,30,15,45,True
+clinafloxacin,4,6,10,True
+clindamycin,17,10,27,True
+clobazam,55,4,59,True
+clobetasol,3,1,4,True
+clobetasol propionate,27,0,27,True
+clobetasone,0,11,11,True
+clocortolone,0,4,4,True
+clocortolone acetate,29,2,31,True
+clodronic acid,19,0,19,True
+clofarabine,6,39,45,True
+clofazimine,4,25,29,True
+clofedanol,0,1,1,True
+clofenamide,14,17,31,True
+clofibrate,6,10,16,True
+clofibride,4,1,5,True
+clomethiazole,20,19,39,True
+clometocillin,6,1,7,True
+clomifene,20,5,25,True
+clomipramine,64,16,80,True
+clomocycline,7,1,8,True
+clonazepam,57,11,68,True
+clonidine,60,15,75,True
+clonixin,59,6,65,True
+clopamide,12,13,25,True
+clopenthixol,13,57,70,True
+clopidogrel,37,8,45,True
+cloprednol,0,53,53,True
+cloprostenol,2,13,15,True
+cloranolol,3,37,40,True
+clorazepic acid,6,57,63,True
+clorexolone,3,18,21,True
+clorgiline,44,7,51,True
+cloricromen,11,4,15,True
+clorindione,21,30,51,True
+clorobiocin,1,0,1,True
+clorsulon,5,5,10,True
+clostebol,1,0,1,True
+clothiapine,26,15,41,True
+clotiazepam,38,6,44,True
+clotrimazole,0,1,1,True
+cloxacillin,3,7,10,True
+cloxazolam,2,25,27,True
+clozapine,30,67,97,True
+cm-4307,27,24,51,True
+cobicistat,1,26,27,True
+cobimetinib,26,1,27,True
+cocaine,1,72,73,True
+codeine,21,28,49,True
+colchicine,35,13,48,True
+colistimethate,31,2,33,True
+combretastatin a4,2,0,2,True
+conivaptan,41,19,60,True
+copanlisib,6,20,26,True
+copper,1,0,1,True
+cordycepin,0,1,1,True
+corticosterone,2,3,5,True
+cortisone,20,17,37,True
+cortisone acetate,34,14,48,True
+cortivazol,13,25,38,True
+coumaphos,24,2,26,True
+coumarin,0,64,64,True
+coumermycin a1,1,0,1,True
+crenolanib,1,1,2,True
+crizotinib,22,21,43,True
+cudc-101,11,7,18,True
+curcumin,6,36,42,True
+curcumin sulfate,13,12,25,True
+cyamemazine,12,25,37,True
+cyanocobalamin,9,29,38,True
+cyclacillin,8,0,8,True
+cyclandelate,4,27,31,True
+cyclic adenosine monophosphate,3,2,5,True
+cyclizine,8,45,53,True
+cyclobarbital,2,31,33,True
+cyclobenzaprine,25,18,43,True
+cycloguanil,1,1,2,True
+cyclohexylammonium ion,1,1,2,True
+cyclopentamine,4,1,5,True
+cyclopenthiazide,72,2,74,True
+cyclopentolate,2,5,7,True
+cyclophosphamide,44,5,49,True
+cyclopropane,12,9,21,True
+cycloserine,9,0,9,True
+cyclosporine,40,47,87,True
+cyclothiazide,61,3,64,True
+cycrimine,6,17,23,True
+cymarin,1,18,19,True
+cyproheptadine,33,25,58,True
+cyproterone acetate,12,23,35,True
+cysteamine,2,0,2,True
+cytarabine,3,15,18,True
+d-chiro-inositol,24,6,30,True
+d-levofloxacin,48,13,61,True
+d-phenylalanine,9,0,9,True
+d-tryptophan,8,28,36,True
+dabigatran,1,27,28,True
+dabigatran etexilate,39,22,61,True
+dabrafenib,63,3,66,True
+dacarbazine,40,11,51,True
+daclatasvir,22,10,32,True
+dacomitinib,21,23,44,True
+dactinomycin,11,16,27,True
+dactolisib,3,1,4,True
+daidzein,0,1,1,True
+daidzin,1,2,3,True
+dalfampridine,18,16,34,True
+dalfopristin,6,7,13,True
+danazol,13,20,33,True
+danicopan,11,14,25,True
+danoprevir,0,46,46,True
+dantrolene,21,14,35,True
+dantron,7,8,15,True
+dapagliflozin,17,9,26,True
+dapiprazole,0,1,1,True
+dapoxetine,9,47,56,True
+daprodustat,1,9,10,True
+dapsone,12,12,24,True
+daptomycin,33,6,39,True
+dar-0100a,4,0,4,True
+darexaban,18,6,24,True
+daridorexant,23,18,41,True
+darifenacin,31,14,45,True
+darodipine,6,14,20,True
+darolutamide,25,2,27,True
+darunavir,56,7,63,True
+dasabuvir,19,11,30,True
+dasatinib,2,63,65,True
+dasotraline,1,4,5,True
+daunorubicin,9,28,37,True
+deacetoxycephalosporin c,3,0,3,True
+deacetylbisacodyl,5,11,16,True
+deanol,11,24,35,True
+debrisoquine,26,16,42,True
+decamethonium,19,22,41,True
+decamethoxine,0,1,1,True
+decitabine,4,11,15,True
+deferasirox,35,3,38,True
+deferiprone,7,28,35,True
+deflazacort,40,3,43,True
+degarelix,15,7,22,True
+dehydroascorbic acid,2,2,4,True
+dehydrocholic acid,6,8,14,True
+delafloxacin,52,9,61,True
+delamanid,1,10,11,True
+delapril,5,38,43,True
+delavirdine,6,34,40,True
+delorazepam,43,2,45,True
+delpazolid,1,0,1,True
+demecarium,1,11,12,True
+demeclocycline,8,3,11,True
+demecolcine,3,3,6,True
+demegestone,10,11,21,True
+deoxycholic acid,5,4,9,True
+deoxyepinephrine,12,19,31,True
+deoxyspergualin,5,2,7,True
+deptropine,0,1,1,True
+dequalinium,3,1,4,True
+deramciclane,14,30,44,True
+dermatan sulfate,20,2,22,True
+dersalazine,13,0,13,True
+deserpidine,26,2,28,True
+desflurane,45,10,55,True
+desipramine,59,15,74,True
+deslanoside,8,18,26,True
+desloratadine,41,16,57,True
+desmopressin,25,34,59,True
+desogestrel,13,21,34,True
+desomorphine,24,22,46,True
+desonide,0,3,3,True
+desoximetasone,3,23,26,True
+desoxycorticosterone acetate,0,3,3,True
+desoxycorticosterone pivalate,2,3,5,True
+desvenlafaxine,60,41,101,True
+detomidine,17,36,53,True
+deucravacitinib,9,0,9,True
+deudextromethorphan,32,33,65,True
+deudomperidone,27,10,37,True
+deupirfenidone,30,16,46,True
+deuruxolitinib,47,9,56,True
+deutetrabenazine,33,30,63,True
+deutivacaftor,6,21,27,True
+dexamethasone acetate,54,1,55,True
+dexamethasone isonicotinate,40,4,44,True
+dexetimide,10,8,18,True
+dexfenfluramine,42,8,50,True
+dexibuprofen,49,15,64,True
+dexisometheptene mucate,2,32,34,True
+dexketoprofen,67,12,79,True
+dexlansoprazole,20,13,33,True
+dexloxiglumide,8,17,25,True
+dexmecamylamine,43,21,64,True
+dexmedetomidine,72,7,79,True
+dexmethylphenidate,39,6,45,True
+dexniguldipine,16,47,63,True
+dexpanthenol,16,24,40,True
+dexpramipexole,62,9,71,True
+dexpropranolol,72,4,76,True
+dexrabeprazole,0,38,38,True
+dexrazoxane,42,1,43,True
+dextilidine,5,29,34,True
+dextofisopam,8,19,27,True
+dextromethadone,17,64,81,True
+dextromoramide,28,16,44,True
+dextropropoxyphene,10,50,60,True
+dextrorphan,27,11,38,True
+dextrothyroxine,3,33,36,True
+dexverapamil,20,61,81,True
+dezocine,8,28,36,True
+diacerein,6,15,21,True
+diamorphine,22,11,33,True
+dianhydrogalactitol,1,0,1,True
+diatrizoate,2,33,35,True
+diazepam,63,0,63,True
+diazoxide,27,11,38,True
+dibekacin,0,1,1,True
+dibenzepin,25,30,55,True
+dibromotyrosine,21,0,21,True
+dichlorobenzyl alcohol,29,3,32,True
+dichlorvos,14,18,32,True
+diclofenac,79,4,83,True
+diclofenamide,31,8,39,True
+dicloxacillin,2,16,18,True
+dicoumarol,50,8,58,True
+dicyclomine,35,6,41,True
+didanosine,28,3,31,True
+didox,1,0,1,True
+dienestrol,2,2,4,True
+dienogest,46,1,47,True
+diethyl ether,13,30,43,True
+diethylcarbamazine,6,14,20,True
+diethylnorspermine,5,17,22,True
+diethylpropion,4,43,47,True
+diethylstilbestrol,15,21,36,True
+difemerine,13,7,20,True
+difenoxin,4,12,16,True
+difenpiramide,27,37,64,True
+diflorasone,5,16,21,True
+difloxacin,22,18,40,True
+diflunisal,47,11,58,True
+difluocortolone,33,31,64,True
+difluprednate,1,5,6,True
+digitoxin,5,29,34,True
+digoxin,44,36,80,True
+dihematoporphyrin ether,0,1,1,True
+dihexyverine,8,6,14,True
+dihydralazine,7,29,36,True
+"dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1h,5h)-pyrimidinedione",9,1,10,True
+dihydro-alpha-ergocryptine,2,2,4,True
+dihydrocodeine,16,33,49,True
+dihydroergocornine,19,35,54,True
+dihydroergocristine,34,9,43,True
+dihydroergotamine,39,32,71,True
+dihydroetorphine,38,0,38,True
+dihydromorphine,29,9,38,True
+dihydrostreptomycin,32,2,34,True
+dihydrotachysterol,2,1,3,True
+diltiazem,64,27,91,True
+dimenhydrinate,0,96,96,True
+dimercaprol,4,24,28,True
+dimetacrine,13,45,58,True
+dimethyl fumarate,4,2,6,True
+dimethyl sulfoxide,36,5,41,True
+dimethyltryptamine,23,4,27,True
+dimetindene,13,7,20,True
+dimetotiazine,1,0,1,True
+dinoprost,3,5,8,True
+dinoprostone,2,12,14,True
+diosmin,25,4,29,True
+diphemanil,9,11,20,True
+diphenadione,38,20,58,True
+diphenidol,7,20,27,True
+diphenoxylate,32,11,43,True
+diphenylpyraline,3,2,5,True
+dipivefrin,1,3,4,True
+diprenorphine,0,1,1,True
+dipyridamole,27,15,42,True
+dirithromycin,2,9,11,True
+diroximel fumarate,0,12,12,True
+disopyramide,18,69,87,True
+distigmine,11,0,11,True
+disulfiram,45,2,47,True
+ditazole,4,23,27,True
+ditiocarb,24,17,41,True
+dixyrazine,20,19,39,True
+dl-alpha-tocopherol,10,8,18,True
+dl-methylephedrine,49,5,54,True
+dobutamine,43,19,62,True
+docetaxel,1,34,35,True
+doconexent,11,11,22,True
+docusate,11,3,14,True
+dofetilide,28,14,42,True
+dolasetron,12,53,65,True
+dolastatin 10,1,1,2,True
+dolutegravir,6,14,20,True
+domoic acid,3,15,18,True
+dopamine,5,53,58,True
+dopexamine,13,22,35,True
+doramectin,19,21,40,True
+doravirine,0,17,17,True
+dordaviprone,2,0,2,True
+doripenem,35,2,37,True
+dorzolamide,7,4,11,True
+dosulepin,37,51,88,True
+dotarizine,32,27,59,True
+dovitinib,8,16,24,True
+doxacurium,51,12,63,True
+doxapram,5,22,27,True
+doxazosin,16,28,44,True
+doxefazepam,6,27,33,True
+doxercalciferol,6,0,6,True
+doxifluridine,0,10,10,True
+doxofylline,43,19,62,True
+doxorubicin,43,0,43,True
+doxycycline,34,23,57,True
+doxylamine,50,8,58,True
+dpdpe,21,17,38,True
+droloxifene,0,1,1,True
+dronabinol,46,8,54,True
+dronedarone,3,78,81,True
+droperidol,23,50,73,True
+drospirenone,33,28,61,True
+drostanolone propionate,0,4,4,True
+drotebanol,19,10,29,True
+droxicam,36,31,67,True
+droxidopa,25,33,58,True
+duloxetine,4,86,90,True
+durlobactam,2,0,2,True
+dutasteride,23,14,37,True
+dutogliptin,26,6,32,True
+duvelisib,2,23,25,True
+dyclonine,58,4,62,True
+dydrogesterone,3,1,4,True
+dyphylline,25,17,42,True
+ebastine,20,5,25,True
+ebselen,34,7,41,True
+ecabet,0,1,1,True
+ecgonine,2,0,2,True
+echothiophate,1,0,1,True
+ecopipam,25,3,28,True
+edetate calcium disodium anhydrous,12,10,22,True
+edivoxetine,25,2,27,True
+edoxaban,40,12,52,True
+edrophonium,9,31,40,True
+efaproxiral,1,0,1,True
+efatutazone,1,1,2,True
+efavirenz,4,71,75,True
+eflornithine,0,1,1,True
+efonidipine,23,28,51,True
+efrotomycin,1,2,3,True
+elacestrant,8,12,20,True
+elacridar,4,6,10,True
+elafibranor,13,0,13,True
+elagolix,19,3,22,True
+elbasvir,20,2,22,True
+elcatonin,3,1,4,True
+eldecalcitol,4,1,5,True
+eletriptan,28,42,70,True
+elexacaftor,14,18,32,True
+eliglustat,21,11,32,True
+ellagic acid,8,0,8,True
+elocalcitol,1,2,3,True
+elsamitrucin,2,1,3,True
+eltoprazine,7,34,41,True
+eltrombopag,5,30,35,True
+eluxadoline,12,17,29,True
+elvitegravir,17,6,23,True
+emedastine,16,3,19,True
+emepronium,26,9,35,True
+emetine,3,0,3,True
+emetonium iodide,17,12,29,True
+emodin,9,18,27,True
+emopamil,22,3,25,True
+empagliflozin,15,15,30,True
+emtricitabine,0,1,1,True
+emylcamate,5,14,19,True
+enalapril,34,7,41,True
+enalaprilat,26,23,49,True
+enasidenib,51,10,61,True
+encainide,8,12,20,True
+encorafenib,57,6,63,True
+endralazine,33,0,33,True
+enflurane,25,8,33,True
+englitazone,16,7,23,True
+enibomal,0,2,2,True
+enmetazobactam,1,0,1,True
+enoxacin,30,10,40,True
+enoximone,0,1,1,True
+enprostil,2,0,2,True
+enrofloxacin,9,21,30,True
+ensartinib,1,0,1,True
+entacapone,29,10,39,True
+entecavir,3,9,12,True
+entinostat,11,9,20,True
+entrectinib,36,8,44,True
+enviomycin,1,0,1,True
+enzalutamide,6,67,73,True
+epanolol,3,54,57,True
+eperisone,11,49,60,True
+ephedrine,33,20,53,True
+epibatidine,0,2,2,True
+epicillin,4,5,9,True
+epicriptine,1,1,2,True
+epimestrol,2,6,8,True
+epinastine,6,38,44,True
+epinephrine,14,40,54,True
+epirizole,22,43,65,True
+epitizide,13,29,42,True
+eplerenone,41,21,62,True
+eplivanserin,5,21,26,True
+epofolate,5,17,22,True
+epoprostenol,36,21,57,True
+epothilone d,4,13,17,True
+eprinomectin,5,14,19,True
+eprosartan,21,24,45,True
+equilenin,3,1,4,True
+equilin,2,3,5,True
+equol,7,0,7,True
+eravacycline,17,2,19,True
+erdafitinib,15,16,31,True
+ergocalciferol,2,2,4,True
+ergometrine,8,59,67,True
+ergotamine,12,61,73,True
+eribulin,8,23,31,True
+erlotinib,63,0,63,True
+ertapenem,23,7,30,True
+ertugliflozin,7,17,24,True
+erythrityl tetranitrate,1,4,5,True
+erythromycin,16,49,65,True
+esculin,0,1,1,True
+esflurbiprofen,18,59,77,True
+eslicarbazepine,43,3,46,True
+eslicarbazepine acetate,19,32,51,True
+esmirtazapine,27,45,72,True
+esmolol,53,0,53,True
+esomeprazole,8,11,19,True
+esreboxetine,34,2,36,True
+estazolam,46,4,50,True
+estetrol,56,0,56,True
+estradiol,9,41,50,True
+estradiol acetate,55,12,67,True
+estradiol benzoate,9,44,53,True
+estradiol cypionate,15,70,85,True
+estradiol dienanthate,22,22,44,True
+estradiol valerate,26,53,79,True
+estramustine,12,1,13,True
+estramustine phosphate,4,0,4,True
+estrone,5,0,5,True
+estrone sulfate,42,31,73,True
+eszopiclone,71,13,84,True
+etacrynic acid,46,1,47,True
+etafedrine,32,14,46,True
+etamiphylline,18,2,20,True
+etanidazole,1,2,3,True
+ethacizine,5,3,8,True
+ethadione,13,30,43,True
+ethambutol,69,1,70,True
+ethanol,36,29,65,True
+ethchlorvynol,0,31,31,True
+ethenzamide,16,44,60,True
+ethinylestradiol,58,1,59,True
+ethionamide,4,0,4,True
+ethosuximide,52,16,68,True
+ethotoin,9,23,32,True
+ethoxzolamide,18,18,36,True
+ethyl biscoumacetate,37,23,60,True
+ethyl chloride,21,11,32,True
+ethyl loflazepate,24,2,26,True
+ethylmorphine,25,23,48,True
+ethynodiol diacetate,9,14,23,True
+eticlopride,2,0,2,True
+etidocaine,14,32,46,True
+etidronic acid,11,3,14,True
+etifoxine,20,4,24,True
+etilefrine,8,23,31,True
+etilevodopa,0,3,3,True
+etiracetam,21,15,36,True
+etizolam,7,38,45,True
+etofenamate,3,49,52,True
+etofibrate,1,6,7,True
+etoglucid,1,2,3,True
+etomidate,38,34,72,True
+etonogestrel,34,12,46,True
+etoperidone,36,17,53,True
+etoposide,9,34,43,True
+etoricoxib,40,44,84,True
+etorphine,37,2,39,True
+etrasimod,29,26,55,True
+etravirine,6,22,28,True
+etretinate,1,0,1,True
+etybenzatropine,15,7,22,True
+etynodiol,9,4,13,True
+everolimus,36,9,45,True
+evogliptin,20,9,29,True
+exatecan,0,1,1,True
+exemestane,4,1,5,True
+exisulind,0,1,1,True
+ezetimibe,1,7,8,True
+ezogabine,29,42,71,True
+fabomotizole,6,30,36,True
+fallypride,1,1,2,True
+famotidine,3,32,35,True
+famphur,6,1,7,True
+farnesyl diphosphate,3,15,18,True
+farnesyl thiopyrophosphate,9,10,19,True
+fasitibant,9,3,12,True
+fasudil,11,12,23,True
+favipiravir,1,17,18,True
+fazadinium bromide,16,12,28,True
+febarbamate,11,22,33,True
+febuxostat,10,2,12,True
+fedratinib,33,15,48,True
+felbamate,5,53,58,True
+felbinac,1,10,11,True
+felcisetrag,14,15,29,True
+felodipine,20,38,58,True
+fenbufen,1,55,56,True
+fencamfamin,20,3,23,True
+fendiline,23,20,43,True
+fenethylline,12,13,25,True
+fenofibrate,3,48,51,True
+fenofibric acid,10,15,25,True
+fenoldopam,14,45,59,True
+fenoprofen,19,39,58,True
+fenoterol,29,18,47,True
+fenozolone,12,24,36,True
+fenpiverinium,8,16,24,True
+fenproporex,21,14,35,True
+fenprostalene,1,0,1,True
+fenquizone,24,5,29,True
+fenretinide,4,0,4,True
+fentanyl,30,46,76,True
+fenthion,8,10,18,True
+fentiazac,46,13,59,True
+fenyramidol,3,20,23,True
+feprazone,1,6,7,True
+ferric cation,1,2,3,True
+ferric maltol,2,5,7,True
+ferric oxide,3,2,5,True
+ferric pyrophosphate,1,36,37,True
+ferrous cation,2,0,2,True
+ferrous fumarate,3,4,7,True
+ferrous succinate,6,0,6,True
+ferulic acid,5,4,9,True
+fesoterodine,48,6,54,True
+fexinidazole,34,22,56,True
+fexofenadine,5,14,19,True
+fezolinetant,3,10,13,True
+fiacitabine,3,1,4,True
+fidaxomicin,0,3,3,True
+filanesib,1,0,1,True
+filgotinib,5,7,12,True
+fimasartan,40,2,42,True
+fimepinostat,8,2,10,True
+finafloxacin,1,0,1,True
+finasteride,27,5,32,True
+finerenone,49,4,53,True
+fingolimod,11,10,21,True
+firocoxib,55,7,62,True
+flavoxate,8,30,38,True
+flecainide,34,2,36,True
+fleroxacin,5,28,33,True
+flibanserin,31,31,62,True
+floctafenine,69,5,74,True
+flomoxef,4,27,31,True
+florbetaben f-18,16,12,28,True
+florbetapir f-18,0,36,36,True
+florfenicol,3,0,3,True
+floxuridine,19,22,41,True
+fluanisone,21,11,32,True
+fluasterone,1,1,2,True
+fluclorolone,4,23,27,True
+flucloxacillin,3,16,19,True
+fluconazole,34,44,78,True
+flucytosine,5,35,40,True
+fludeoxyglucose,26,0,26,True
+fludiazepam,9,13,22,True
+fludrocortisone,36,0,36,True
+fluindione,27,35,62,True
+flumatinib,2,0,2,True
+flumazenil,13,12,25,True
+flumequine,32,5,37,True
+flunarizine,24,52,76,True
+flunisolide,5,29,34,True
+flunitrazepam,14,26,40,True
+flunixin,34,29,63,True
+flunoxaprofen,1,1,2,True
+fluocinolone acetonide,42,16,58,True
+fluocinonide,6,27,33,True
+fluocortin,12,20,32,True
+fluocortolone,45,8,53,True
+fluocortolone caproate,3,19,22,True
+fluocortolone pivalate,0,16,16,True
+fluorescein,10,2,12,True
+fluoroestradiol f-18,2,0,2,True
+fluorometholone,19,6,25,True
+fluorouracil,55,13,68,True
+fluoxymesterone,1,5,6,True
+flupentixol,33,25,58,True
+fluperolone,3,24,27,True
+fluphenazine,21,24,45,True
+flupirtine,23,8,31,True
+fluprednidene,1,47,48,True
+fluprednidene acetate,5,3,8,True
+fluprednisolone,19,14,33,True
+fluprostenol,0,2,2,True
+flurandrenolide,4,3,7,True
+flurazepam,24,37,61,True
+flurbiprofen axetil,27,0,27,True
+flurithromycin,1,16,17,True
+fluspirilene,27,34,61,True
+flutamide,22,29,51,True
+fluticasone,14,21,35,True
+fluticasone furoate,5,40,45,True
+fluticasone propionate,12,46,58,True
+fluvastatin,29,6,35,True
+fluvoxamine,77,9,86,True
+folic acid,11,17,28,True
+fomepizole,12,24,36,True
+fondaparinux,31,8,39,True
+forasartan,3,13,16,True
+foretinib,0,1,1,True
+formebolone,3,0,3,True
+formestane,15,23,38,True
+formic acid,1,0,1,True
+formocortal,3,1,4,True
+formononetin,4,0,4,True
+fosamprenavir,11,14,25,True
+fosaprepitant,30,0,30,True
+fosbretabulin,1,0,1,True
+foscarnet,1,36,37,True
+fosfomycin,6,31,37,True
+fosgemcitabine palabenamide,0,1,1,True
+fosinopril,57,6,63,True
+fosinoprilat,3,35,38,True
+foslevodopa,0,1,1,True
+fosmidomycin,3,1,4,True
+fosnetupitant,20,4,24,True
+fosphenytoin,7,71,78,True
+fospropofol,13,16,29,True
+fostamatinib,29,14,43,True
+fostemsavir,8,18,26,True
+fotemustine,0,3,3,True
+framycetin,18,19,37,True
+frovatriptan,6,42,48,True
+fruquintinib,20,1,21,True
+fulvestrant,1,2,3,True
+fumagillin,2,2,4,True
+furafylline,15,4,19,True
+furazolidone,21,34,55,True
+furosemide,0,72,72,True
+fusafungine,5,0,5,True
+fusidic acid,33,13,46,True
+futibatinib,9,3,12,True
+gabapentin,8,30,38,True
+gabapentin enacarbil,15,41,56,True
+gabexate,0,24,24,True
+gaboxadol,0,40,40,True
+gadobenic acid,19,26,45,True
+gadodiamide,7,25,32,True
+gadofosveset trisodium,11,19,30,True
+gadopentetic acid,9,19,28,True
+gadoteric acid,2,27,29,True
+gadoteridol,16,10,26,True
+gadoxetic acid,4,0,4,True
+galantamine,38,4,42,True
+gallamine,40,10,50,True
+gallamine triethiodide,22,26,48,True
+gallopamil,6,27,33,True
+gamithromycin,1,1,2,True
+gamma-hydroxybutyric acid,10,19,29,True
+gamolenic acid,0,3,3,True
+ganaxolone,18,18,36,True
+ganciclovir,28,18,46,True
+gantacurium,1,46,47,True
+garenoxacin,20,16,36,True
+gatifloxacin,3,45,48,True
+gavestinel,1,1,2,True
+ge-2270a,3,0,3,True
+gedocarnil,9,17,26,True
+gefapixant,2,0,2,True
+gefitinib,5,25,30,True
+geldanamycin,0,3,3,True
+gemcitabine,16,31,47,True
+gemfibrozil,43,18,61,True
+gemifloxacin,0,43,43,True
+gemigliptin,0,33,33,True
+geneticin,25,3,28,True
+genistein,10,17,27,True
+gentamicin,26,4,30,True
+gentamicin c1a,10,30,40,True
+gepefrine,3,41,44,True
+gepirone,13,33,46,True
+geranyl diphosphate,1,0,1,True
+geranylgeranyl diphosphate,11,8,19,True
+gestodene,6,16,22,True
+gestonorone,4,1,5,True
+gestrinone,16,2,18,True
+gilteritinib,37,10,47,True
+gimatecan,1,4,5,True
+gimeracil,2,23,25,True
+ginsenoside rb1,1,0,1,True
+gitoformate,23,3,26,True
+givinostat,1,16,17,True
+glasdegib,8,20,28,True
+glecaprevir,13,11,24,True
+gleptoferron,3,0,3,True
+glibornuride,15,30,45,True
+gliclazide,42,6,48,True
+glimepiride,10,36,46,True
+glipizide,2,61,63,True
+gliquidone,19,17,36,True
+glisoxepide,2,45,47,True
+glpg-0492,1,6,7,True
+glutaric acid,6,2,8,True
+glutethimide,15,9,24,True
+glyburide,2,63,65,True
+glycerin,7,11,18,True
+glycerol phenylbutyrate,0,64,64,True
+glycochenodeoxycholic acid,9,3,12,True
+glycol salicylate,14,14,28,True
+glycopyrronium,18,0,18,True
+glycyrrhizic acid,3,0,3,True
+glymidine,10,11,21,True
+goserelin,53,2,55,True
+gosogliptin,5,11,16,True
+gpi-1485,4,3,7,True
+gramicidin d,1,1,2,True
+granisetron,27,16,43,True
+grapiprant,6,4,10,True
+grazoprevir,4,13,17,True
+grepafloxacin,38,0,38,True
+griseofulvin,7,0,7,True
+gsk-1004723,1,1,2,True
+gsk-239512,0,1,1,True
+gsk-256066,1,0,1,True
+gsk-2636771,0,1,1,True
+gts-21,9,7,16,True
+guacetisal,48,19,67,True
+guadecitabine,1,1,2,True
+guanabenz,5,29,34,True
+guanadrel,18,10,28,True
+guanazodine,1,24,25,True
+guanethidine,44,0,44,True
+guanfacine,63,21,84,True
+guanidine,0,12,12,True
+guanine,1,13,14,True
+guanoclor,4,26,30,True
+guanoxabenz,9,17,26,True
+guanoxan,18,6,24,True
+gw842166,6,27,33,True
+hadacidin,0,2,2,True
+halazepam,1,27,28,True
+halcinonide,3,4,7,True
+halofantrine,31,6,37,True
+halofuginone,1,1,2,True
+halometasone,6,1,7,True
+haloperidol,40,32,72,True
+halothane,52,6,58,True
+haloxon,0,2,2,True
+harmaline,20,37,57,True
+he3286,1,1,2,True
+heptabarbital,19,17,36,True
+hesperetin,19,0,19,True
+hetacillin,13,1,14,True
+hexafluronium,26,13,39,True
+hexamethonium,10,61,71,True
+hexaminolevulinate,0,1,1,True
+hexapropymate,22,13,35,True
+hexestrol,2,3,5,True
+hexobarbital,15,53,68,True
+hexocyclium,0,23,23,True
+hexoprenaline,12,16,28,True
+higenamine,2,30,32,True
+histamine,7,1,8,True
+histapyrrodine,1,0,1,True
+histrelin,16,4,20,True
+homatropine,0,5,5,True
+homatropine methylbromide,3,24,27,True
+huperzine a,0,14,14,True
+hydracarbazine,8,51,59,True
+hydralazine,25,34,59,True
+hydrochlorothiazide,65,28,93,True
+hydrocodone,37,19,56,True
+hydrocortamate,7,1,8,True
+hydrocortisone,33,19,52,True
+hydrocortisone aceponate,3,2,5,True
+hydrocortisone acetate,40,1,41,True
+hydrocortisone butyrate,44,3,47,True
+hydrocortisone cypionate,27,7,34,True
+hydrocortisone phosphate,11,2,13,True
+hydrocortisone probutate,4,0,4,True
+hydrocortisone succinate,7,31,38,True
+hydrocortisone valerate,5,0,5,True
+hydroflumethiazide,59,6,65,True
+hydrogen iodide,6,28,34,True
+hydrogen peroxide,19,14,33,True
+hydrolyzed cephalothin,18,12,30,True
+hydromorphone,9,65,74,True
+hydroquinidine,3,2,5,True
+hydroxocobalamin,1,39,40,True
+hydroxyamphetamine,3,1,4,True
+hydroxychloroquine,5,45,50,True
+hydroxyfasudil,1,4,5,True
+hydroxyprogesterone,8,0,8,True
+hydroxyprogesterone caproate,23,6,29,True
+hydroxytyrosol,9,4,13,True
+hydroxyurea,6,15,21,True
+hydroxyzine,0,53,53,True
+hygromycin b,30,9,39,True
+hymecromone,0,1,1,True
+hyodeoxycholic acid,7,1,8,True
+hyperforin,1,0,1,True
+hypericin,29,5,34,True
+hypoxanthine,17,5,22,True
+ibandronate,15,12,27,True
+ibipinabant,31,0,31,True
+ibopamine,0,1,1,True
+ibrexafungerp,6,0,6,True
+ibrutinib,4,39,43,True
+ibudilast,2,23,25,True
+ibuproxam,53,7,60,True
+ibutilide,57,1,58,True
+icosapent,24,13,37,True
+icosapent ethyl,4,12,16,True
+icotinib,10,10,20,True
+idalopirdine,2,25,27,True
+idarubicin,2,34,36,True
+idazoxan,15,10,25,True
+idebenone,18,16,34,True
+idelalisib,18,14,32,True
+idraparinux,16,0,16,True
+ifenprodil,16,40,56,True
+iferanserin,6,14,20,True
+ifetroban,14,0,14,True
+ifosfamide,43,9,52,True
+ilaprazole,3,1,4,True
+iloperidone,5,67,72,True
+iloprost,16,5,21,True
+ilorasertib,1,1,2,True
+imagabalin,16,19,35,True
+imatinib,42,20,62,True
+imetelstat,3,3,6,True
+imidafenacin,11,39,50,True
+imidapril,15,19,34,True
+imidazole salicylate,2,65,67,True
+imipenem,0,20,20,True
+imipramine,101,0,101,True
+imipramine oxide,27,33,60,True
+imiquimod,1,0,1,True
+incadronic acid,12,6,18,True
+indacaterol,18,30,48,True
+indalpine,18,63,81,True
+indenolol,21,23,44,True
+indigotindisulfonic acid,24,4,28,True
+indinavir,34,4,38,True
+indiplon,24,2,26,True
+indirubin,2,0,2,True
+indisulam,18,29,47,True
+indium in-111 oxyquinoline,14,10,24,True
+indobufen,59,5,64,True
+indocyanine green,4,0,4,True
+indole-3-carbinol,1,1,2,True
+indomethacin,74,4,78,True
+indoprofen,11,32,43,True
+indoramin,17,9,26,True
+inecalcitol,9,1,10,True
+infigratinib,10,10,20,True
+inosine,6,25,31,True
+iobenguane,18,23,41,True
+iodixanol,17,16,33,True
+iofetamine i-123,29,16,45,True
+ioflupane f-18,30,9,39,True
+iohexol,1,5,6,True
+iopromide,27,11,38,True
+iothalamic acid,9,23,32,True
+ioversol,35,0,35,True
+ioxilan,7,25,32,True
+ipidacrine,0,8,8,True
+ipragliflozin,24,0,24,True
+ipratropium,11,10,21,True
+iprazochrome,5,31,36,True
+iprindole,21,30,51,True
+iproclozide,26,6,32,True
+iproniazid,29,29,58,True
+iptacopan,13,26,39,True
+irbesartan,1,46,47,True
+irinotecan,10,38,48,True
+irofulven,0,1,1,True
+iron,0,2,2,True
+iron polymaltose,3,0,3,True
+iron sucrose,12,2,14,True
+isavuconazole,45,4,49,True
+isavuconazonium,15,45,60,True
+isepamicin,8,31,39,True
+isobromindione,0,1,1,True
+isocarboxazid,5,64,69,True
+isoetharine,22,9,31,True
+isoflavone,31,5,36,True
+isoflurane,28,38,66,True
+isoflurophate,8,5,13,True
+isoniazid,33,45,78,True
+isoprenaline,21,12,33,True
+isopropamide,16,9,25,True
+isosorbide,23,18,41,True
+isosorbide dinitrate,13,11,24,True
+isosorbide mononitrate,2,55,57,True
+isosulfan blue,2,24,26,True
+isothipendyl,0,2,2,True
+isoxicam,3,60,63,True
+isoxsuprine,38,3,41,True
+isradipine,53,21,74,True
+istradefylline,33,14,47,True
+itraconazole,11,38,49,True
+ivabradine,27,0,27,True
+ivermectin,14,0,14,True
+ivosidenib,2,47,49,True
+ixabepilone,21,6,27,True
+ixazomib,22,23,45,True
+jnj-26489112,15,17,32,True
+josamycin,1,4,5,True
+kanamycin,13,17,30,True
+kaolin,1,1,2,True
+kebuzone,33,25,58,True
+ketanserin,1,2,3,True
+ketazolam,35,46,81,True
+ketobemidone,50,1,51,True
+ketoconazole,9,58,67,True
+ketorolac,24,34,58,True
+ketotifen,0,7,7,True
+kitasamycin,11,7,18,True
+kos-1584,2,12,14,True
+krn-5500,1,0,1,True
+krn-7000,1,1,2,True
+l-deprenyl-d2 c-11,38,28,66,True
+labetalol,16,49,65,True
+lacidipine,44,14,58,True
+lacosamide,9,28,37,True
+lactitol,4,22,26,True
+lactulose,18,12,30,True
+lafutidine,3,0,3,True
+lamivudine,26,14,40,True
+lamotrigine,37,64,101,True
+lanatoside c,10,9,19,True
+landiolol,10,33,43,True
+lanicemine,26,4,30,True
+laniquidar,0,7,7,True
+lanopepden,2,4,6,True
+lanreotide,8,15,23,True
+lanthanum iii cation,3,0,3,True
+lapatinib,36,1,37,True
+laquinimod,4,0,4,True
+larotrectinib,1,3,4,True
+lasmiditan,7,43,50,True
+latanoprost,2,1,3,True
+latanoprostene bunod,3,2,5,True
+lavoltidine,1,11,12,True
+lazertinib,6,9,15,True
+lcl-161,2,1,3,True
+ledipasvir,6,32,38,True
+lefamulin,33,20,53,True
+leflunomide,4,26,30,True
+lemborexant,36,22,58,True
+lenabasum,2,39,41,True
+lenacapavir,22,1,23,True
+lenalidomide,45,7,52,True
+leniolisib,9,5,14,True
+lenvatinib,12,40,52,True
+lercanidipine,2,60,62,True
+lesinurad,40,5,45,True
+lestaurtinib,0,7,7,True
+letaxaban,23,7,30,True
+letermovir,13,4,17,True
+letrozole,9,3,12,True
+levallorphan,0,1,1,True
+levmetamfetamine,29,37,66,True
+levobunolol,2,0,2,True
+levocabastine,0,20,20,True
+levodopa,7,33,40,True
+levomenol,0,1,1,True
+levomilnacipran,66,18,84,True
+levonordefrin,33,10,43,True
+levonorgestrel,6,22,28,True
+levosimendan,6,25,31,True
+levosulpiride,38,3,41,True
+levovirin,23,14,37,True
+lexacalcitol,5,3,8,True
+liarozole,0,4,4,True
+licofelone,10,24,34,True
+lidocaine,46,35,81,True
+lidoflazine,3,39,42,True
+limaprost,8,8,16,True
+linaclotide,8,4,12,True
+linagliptin,29,27,56,True
+lincomycin,2,7,9,True
+linezolid,11,44,55,True
+linsidomine,26,5,31,True
+linzagolix,7,1,8,True
+liothyronine,37,4,41,True
+lipoic acid,3,0,3,True
+lisdexamfetamine,7,29,36,True
+lisinopril,23,32,55,True
+lisofylline,12,9,21,True
+lisuride,54,4,58,True
+lithium cation,52,15,67,True
+lobeglitazone,44,5,49,True
+lobeline,4,5,9,True
+lobucavir,27,6,33,True
+lofentanil,30,15,45,True
+lofepramine,23,42,65,True
+lofexidine,56,37,93,True
+lomefloxacin,1,49,50,True
+lomerizine,19,11,30,True
+lometrexol,0,4,4,True
+lomifylline,0,13,13,True
+lomitapide,11,15,26,True
+lomustine,10,8,18,True
+lonafarnib,37,4,41,True
+lonazolac,8,61,69,True
+lonidamine,0,2,2,True
+loperamide,16,28,44,True
+lopinavir,51,34,85,True
+loprazolam,8,30,38,True
+lorajmine,7,12,19,True
+loratadine,21,7,28,True
+lorazepam,55,9,64,True
+lorcainide,1,21,22,True
+lorcaserin,4,60,64,True
+lorlatinib,19,6,25,True
+lormetazepam,26,8,34,True
+lornoxicam,5,56,61,True
+lorpiprazole,46,5,51,True
+lortalamine,10,11,21,True
+losartan,19,24,43,True
+loteprednol,0,5,5,True
+lovastatin,11,6,17,True
+loxapine,4,26,30,True
+loxoprofen,5,48,53,True
+lubiprostone,5,33,38,True
+luliconazole,0,6,6,True
+lumacaftor,16,29,45,True
+lumateperone,26,9,35,True
+lumefantrine,18,3,21,True
+lumiracoxib,48,22,70,True
+luprostiol,0,3,3,True
+lurasidone,29,30,59,True
+lurbinectedin,0,3,3,True
+lurtotecan,0,1,1,True
+luseogliflozin,2,12,14,True
+lusutrombopag,8,9,17,True
+lymecycline,11,0,11,True
+lynestrenol,0,32,32,True
+lypressin,1,0,1,True
+lysergic acid diethylamide,12,35,47,True
+m-chlorophenylpiperazine,5,19,24,True
+macimorelin,7,26,33,True
+macitentan,47,14,61,True
+maduramicin,0,4,4,True
+mafosfamide,1,3,4,True
+magnesium,7,33,40,True
+magnesium cation,25,8,33,True
+magnesium orotate,2,9,11,True
+magnesium silicate,7,10,17,True
+magnesium trisilicate,35,43,78,True
+malacidin b,0,1,1,True
+malathion,2,0,2,True
+maltotetraose,0,2,2,True
+mangafodipir,0,31,31,True
+manidipine,77,3,80,True
+mannitol busulfan,8,7,15,True
+mannosulfan,2,1,3,True
+maprotiline,26,58,84,True
+maraviroc,2,2,4,True
+marbofloxacin,1,0,1,True
+maribavir,7,2,9,True
+masoprocol,0,2,2,True
+mavacamten,11,22,33,True
+mavorixafor,8,31,39,True
+maxacalcitol,6,1,7,True
+mazaticol,26,1,27,True
+mazindol,1,36,37,True
+mebanazine,45,13,58,True
+mebeverine,4,16,20,True
+mebhydrolin,1,0,1,True
+mebicar,2,24,26,True
+mebrofenin,14,21,35,True
+mebutamate,19,12,31,True
+mebutizide,34,22,56,True
+mechlorethamine,25,6,31,True
+meclizine,27,25,52,True
+meclocycline,2,0,2,True
+meclofenamic acid,19,38,57,True
+medazepam,0,28,28,True
+medifoxamine,12,20,32,True
+medrogestone,6,1,7,True
+medroxyprogesterone acetate,18,26,44,True
+medrysone,5,3,8,True
+mefenamic acid,55,17,72,True
+mefenorex,2,24,26,True
+mefruside,9,22,31,True
+megestrol acetate,25,32,57,True
+melagatran,19,4,23,True
+melatonin,37,4,41,True
+melengestrol,17,21,38,True
+melengestrol acetate,9,28,37,True
+melevodopa,0,1,1,True
+melitracen,47,10,57,True
+meloxicam,2,113,115,True
+melperone,64,10,74,True
+melphalan,5,13,18,True
+memantine,40,6,46,True
+menadione,1,0,1,True
+menthyl salicylate,4,28,32,True
+mepenzolate,24,2,26,True
+meperidine,2,73,75,True
+mephedrone,2,44,46,True
+mephenesin,1,2,3,True
+mephenoxalone,1,27,28,True
+mephentermine,12,29,41,True
+mephenytoin,55,15,70,True
+mepindolol,23,21,44,True
+mepivacaine,49,30,79,True
+meprednisone,21,28,49,True
+meprobamate,15,14,29,True
+meptazinol,33,16,49,True
+mepyramine,4,46,50,True
+mequitazine,23,11,34,True
+mercaptopurine,26,8,34,True
+merestinib,1,2,3,True
+meropenem,29,6,35,True
+mersalyl,33,10,43,True
+mesalazine,27,21,48,True
+mesoridazine,15,32,47,True
+mesterolone,1,4,5,True
+mestranol,19,8,27,True
+metabutethamine,41,4,45,True
+metacycline,8,9,17,True
+metadoxine,14,16,30,True
+metahexamide,5,47,52,True
+metamizole,32,19,51,True
+metampicillin,8,0,8,True
+metaraminol,8,39,47,True
+metaxalone,31,9,40,True
+metenolone,4,1,5,True
+metergoline,4,38,42,True
+metformin,2,56,58,True
+methacholine,10,6,16,True
+methallenestril,3,1,4,True
+methanesulfonyl fluoride,6,5,11,True
+methantheline,23,5,28,True
+methapyrilene,22,5,27,True
+methaqualone,24,12,36,True
+metharbital,37,7,44,True
+methazolamide,43,8,51,True
+methdilazine,2,0,2,True
+methenamine,1,3,4,True
+methimazole,31,45,76,True
+methocarbamol,21,8,29,True
+methohexital,17,26,43,True
+methoserpidine,8,19,27,True
+methotrexate,54,6,60,True
+methotrimeprazine,11,48,59,True
+methoxamine,4,17,21,True
+methoxsalen,16,22,38,True
+methoxyflurane,17,33,50,True
+methoxyphenamine,21,21,42,True
+methscopolamine,22,15,37,True
+methsuximide,67,1,68,True
+methyclothiazide,58,3,61,True
+methyl salicylate,3,11,14,True
+methyl-1-testosterone,1,1,2,True
+methyldopa,49,4,53,True
+methylecgonine,1,0,1,True
+methylene blue,32,70,102,True
+methylenedioxyethamphetamine,10,14,24,True
+methylergometrine,5,31,36,True
+methylestrenolone,0,2,2,True
+methylnaltrexone,23,6,29,True
+methylpentynol,12,19,31,True
+methylphenobarbital,48,2,50,True
+methylphosphinate,10,1,11,True
+methylprednisolone,7,30,37,True
+methylprednisolone aceponate,25,2,27,True
+methylprednisolone hemisuccinate,13,4,17,True
+methylprednisone,2,9,11,True
+methylpropylpropanediol dinitrate,1,0,1,True
+methylselenocysteine,1,0,1,True
+methyltestosterone,37,11,48,True
+methylthiouracil,10,2,12,True
+methyprylon,12,23,35,True
+methysergide,38,29,67,True
+metiamide,4,1,5,True
+meticillin,0,8,8,True
+meticrane,26,3,29,True
+metildigoxin,24,10,34,True
+metipranolol,10,0,10,True
+metixene,23,7,30,True
+metoclopramide,24,58,82,True
+metocurine,47,17,64,True
+metolazone,59,1,60,True
+metoprine,3,2,5,True
+metoprolol,40,19,59,True
+metrifonate,5,7,12,True
+metronidazole,5,24,29,True
+metyrapone,33,9,42,True
+metyrosine,21,16,37,True
+mevastatin,3,0,3,True
+mezlocillin,0,9,9,True
+mianserin,14,50,64,True
+mibefradil,48,14,62,True
+mibolerone,3,2,5,True
+micafungin,1,0,1,True
+miconazole,43,4,47,True
+micronomicin,2,0,2,True
+midazolam,65,20,85,True
+midecamycin,15,6,21,True
+midodrine,19,20,39,True
+midomafetamine,12,35,47,True
+midostaurin,41,1,42,True
+mifamurtide,0,7,7,True
+mifepristone,12,52,64,True
+miglitol,21,11,32,True
+milrinone,12,18,30,True
+miltefosine,0,2,2,True
+minaprine,50,27,77,True
+minocycline,34,4,38,True
+minoxidil,0,33,33,True
+mirabegron,34,51,85,True
+mirodenafil,7,7,14,True
+misoprostol,0,1,1,True
+mitapivat,3,25,28,True
+mitemcinal,13,0,13,True
+mitiglinide,4,28,32,True
+mitobronitol,0,2,2,True
+mitoguazone,0,1,1,True
+mitomycin,2,7,9,True
+mitotane,27,17,44,True
+mitoxantrone,15,14,29,True
+mivacurium,34,15,49,True
+mizolastine,5,8,13,True
+mizoribine,10,2,12,True
+mk-212,28,1,29,True
+mln576,2,0,2,True
+mmda,3,55,58,True
+mobocertinib,34,0,34,True
+mocetinostat,9,4,13,True
+moclobemide,3,57,60,True
+moexipril,5,35,40,True
+moexiprilat,10,2,12,True
+mofebutazone,17,34,51,True
+molindone,27,10,37,True
+molsidomine,2,8,10,True
+momelotinib,0,11,11,True
+mometasone,14,27,41,True
+mometasone furoate,9,42,51,True
+monastrol,0,1,1,True
+monofluorophosphate ion,17,2,19,True
+monomethyl fumarate,5,5,10,True
+montelukast,4,20,24,True
+montmorillonite,0,1,1,True
+moperone,31,0,31,True
+moricizine,36,7,43,True
+morniflumate,29,17,46,True
+morphine,51,8,59,True
+mosapramine,14,18,32,True
+mosapride,3,23,26,True
+motesanib,1,0,1,True
+motexafin gadolinium,1,0,1,True
+motretinide,1,1,2,True
+moxestrol,1,2,3,True
+moxifloxacin,44,7,51,True
+moxisylyte,10,40,50,True
+moxonidine,4,20,24,True
+mrk-409,24,8,32,True
+mupirocin,0,1,1,True
+muraglitazar,2,5,7,True
+murepavadin,2,4,6,True
+muzolimine,16,30,46,True
+mycophenolate mofetil,16,45,61,True
+mycophenolic acid,32,11,43,True
+myxothiazol,0,1,1,True
+"n-(2-hydroxybenzyl)-2,5-dimethoxy-4-cyanophenylethylamine",7,20,27,True
+n-acetyltyrosine,35,2,37,True
+n-methylnicotinamide,0,28,28,True
+n-propargyl-1(s)-aminoindan,21,60,81,True
+nabilone,46,11,57,True
+nabumetone,53,5,58,True
+nadolol,17,71,88,True
+nafamostat,18,18,36,True
+nafarelin,2,1,3,True
+nafcillin,24,8,32,True
+naftidrofuryl,18,6,24,True
+naftopidil,36,8,44,True
+nalbuphine,16,16,32,True
+naldemedine,25,0,25,True
+nalidixic acid,22,23,45,True
+nalmefene,3,21,24,True
+nalorphine,2,0,2,True
+naloxegol,2,37,39,True
+naloxone,5,34,39,True
+naltrexone,21,1,22,True
+naluzotan,10,35,45,True
+namitecan,2,0,2,True
+nanatinostat,2,2,4,True
+nandrolone,2,4,6,True
+nandrolone decanoate,9,2,11,True
+nandrolone phenpropionate,2,4,6,True
+naphazoline,40,6,46,True
+naproxen,74,8,82,True
+naquotinib,0,2,2,True
+naratriptan,42,0,42,True
+naringenin,4,2,6,True
+naronapride,4,17,21,True
+natamycin,1,0,1,True
+nateglinide,30,37,67,True
+navitoclax,2,2,4,True
+neamine,8,29,37,True
+nebivolol,34,20,54,True
+nebularine,1,0,1,True
+nedocromil,17,16,33,True
+nefazodone,19,83,102,True
+nefiracetam,14,18,32,True
+nelarabine,19,6,25,True
+nelfinavir,30,31,61,True
+nemonoxacin,28,1,29,True
+neocitrullamon,19,27,46,True
+neosaxitoxin,13,19,32,True
+neostigmine,12,1,13,True
+nepafenac,2,3,5,True
+neratinib,17,10,27,True
+netilmicin,30,0,30,True
+netoglitazone,9,13,22,True
+netupitant,11,42,53,True
+nevirapine,25,20,45,True
+ngx267,1,2,3,True
+nialamide,21,29,50,True
+niaprazine,5,18,23,True
+nicardipine,5,74,79,True
+nicergoline,3,43,46,True
+niclosamide,3,16,19,True
+nicomorphine,29,10,39,True
+nicorandil,32,27,59,True
+nicotine,7,11,18,True
+nicotinyl alcohol,1,0,1,True
+nifedipine,43,27,70,True
+nifenazone,67,2,69,True
+niflumic acid,38,28,66,True
+nifuratel,0,1,1,True
+nigericin,2,0,2,True
+nilotinib,50,8,58,True
+niludipine,3,27,30,True
+nilutamide,3,42,45,True
+nilvadipine,66,12,78,True
+nimesulide,50,20,70,True
+nimodipine,15,38,53,True
+nimustine,0,1,1,True
+nintedanib,2,29,31,True
+niperotidine,4,0,4,True
+niraparib,1,1,2,True
+nirmatrelvir,2,3,5,True
+nirogacestat,7,32,39,True
+nisoldipine,11,55,66,True
+nisoxetine,12,12,24,True
+nitrazepam,21,11,32,True
+nitrendipine,22,41,63,True
+nitric oxide,19,25,44,True
+nitrite,10,4,14,True
+nitroaspirin,43,17,60,True
+nitrofurantoin,23,34,57,True
+nitroglycerin,7,21,28,True
+nitroprusside,45,0,45,True
+nitrous oxide,40,9,49,True
+nizatidine,4,17,21,True
+nizofenone,3,12,15,True
+nocodazole,0,1,1,True
+nolatrexed,0,2,2,True
+nomegestrol,11,14,25,True
+nomegestrol acetate,14,9,23,True
+nomifensine,2,34,36,True
+nonoxynol-9,6,2,8,True
+nordazepam,31,1,32,True
+norelgestromin,13,7,20,True
+norepinephrine,11,22,33,True
+norethindrone enanthate,15,0,15,True
+norethisterone,3,30,33,True
+norethynodrel,14,8,22,True
+norfenefrine,18,16,34,True
+norfloxacin,22,18,40,True
+norgestimate,18,12,30,True
+norgestrienone,19,5,24,True
+normethadone,7,39,46,True
+nortriptyline,45,55,100,True
+noscapine,16,0,16,True
+novobiocin,1,11,12,True
+ns-398,32,24,56,True
+nylidrin,15,29,44,True
+nystatin,0,4,4,True
+obeticholic acid,0,15,15,True
+obp-801,0,2,2,True
+ocinaplon,12,14,26,True
+octamoxin,44,9,53,True
+octinoxate,2,32,34,True
+octopamine,11,22,33,True
+octylphenoxy polyethoxyethanol,5,12,17,True
+odanacatib,12,2,14,True
+olanzapine,51,36,87,True
+olaparib,37,3,40,True
+oleandomycin,4,7,11,True
+oleandrin,6,5,11,True
+oliceridine,45,7,52,True
+olmesartan,6,34,40,True
+olmutinib,2,0,2,True
+olodaterol,49,7,56,True
+olorofim,1,0,1,True
+olsalazine,12,22,34,True
+oltipraz,1,0,1,True
+olutasidenib,6,6,12,True
+omacetaxine mepesuccinate,6,1,7,True
+omadacycline,15,6,21,True
+omapatrilat,20,10,30,True
+omarigliptin,19,8,27,True
+omaveloxolone,9,32,41,True
+ombitasvir,9,12,21,True
+onapristone,2,2,4,True
+ondansetron,47,9,56,True
+ondelopran,2,1,3,True
+ont-093,0,2,2,True
+opicapone,20,2,22,True
+opipramol,5,54,59,True
+orbifloxacin,14,23,37,True
+orciprenaline,25,12,37,True
+oritavancin,8,24,32,True
+orlistat,8,1,9,True
+orm-12741,4,2,6,True
+ormeloxifene,2,21,23,True
+ornidazole,1,2,3,True
+orphenadrine,19,47,66,True
+orvepitant,1,25,26,True
+osanetant,28,4,32,True
+oseltamivir,3,23,26,True
+osilodrostat,9,22,31,True
+osimertinib,28,11,39,True
+ospemifene,16,10,26,True
+otamixaban,5,18,23,True
+oteseconazole,7,5,12,True
+otilonium,27,22,49,True
+ouabain,15,8,23,True
+oxabolone cipionate,15,16,31,True
+oxacillin,5,29,34,True
+oxaflozane,26,4,30,True
+oxamniquine,2,5,7,True
+oxandrolone,6,15,21,True
+oxaprotiline,45,10,55,True
+oxaprozin,28,30,58,True
+oxatomide,15,0,15,True
+oxazepam,61,1,62,True
+oxazepam acetate,22,4,26,True
+oxcarbazepine,49,5,54,True
+oxetacaine,37,4,41,True
+oxi-4503,1,0,1,True
+oxidronic acid,23,15,38,True
+oxiracetam,32,3,35,True
+oxitriptan,19,12,31,True
+oxitropium,7,11,18,True
+oxolinic acid,16,8,24,True
+oxprenolol,67,3,70,True
+oxybenzone,24,6,30,True
+oxybuprocaine,60,6,66,True
+oxybutynin,5,34,39,True
+oxycodone,57,5,62,True
+oxyfedrine,23,10,33,True
+oxymetazoline,8,30,38,True
+oxymetholone,6,0,6,True
+oxymorphone,6,25,31,True
+oxypertine,2,26,28,True
+oxyphenbutazone,42,17,59,True
+oxyphencyclimine,18,3,21,True
+oxyphenisatin,4,9,13,True
+oxyphenisatin acetate,9,7,16,True
+oxyphenonium,17,6,23,True
+oxytetracycline,15,6,21,True
+ozanimod,1,17,18,True
+paclitaxel,17,25,42,True
+pacritinib,19,11,30,True
+padeliporfin,6,2,8,True
+pagoclone,20,5,25,True
+palbociclib,44,1,45,True
+palifosfamide,1,0,1,True
+paliperidone,34,68,102,True
+palmidrol,21,8,29,True
+palonosetron,56,11,67,True
+palovarotene,0,13,13,True
+pamidronic acid,4,30,34,True
+pancuronium,40,12,52,True
+panobinostat,37,11,48,True
+pantoprazole,29,17,46,True
+pantothenic acid,1,3,4,True
+papaverine,3,23,26,True
+paraldehyde,6,36,42,True
+paramethadione,13,37,50,True
+paramethasone,29,19,48,True
+paraoxon,1,16,17,True
+parecoxib,12,59,71,True
+pargyline,51,9,60,True
+paricalcitol,13,0,13,True
+paritaprevir,5,26,31,True
+paromomycin,3,32,35,True
+paroxetine,72,0,72,True
+pasireotide,7,23,30,True
+patent blue,28,8,36,True
+patupilone,7,7,14,True
+pazopanib,49,13,62,True
+pazufloxacin,6,28,34,True
+pd173955,0,1,1,True
+peficitinib,7,0,7,True
+pefloxacin,28,3,31,True
+peldesine,26,7,33,True
+pelitinib,0,2,2,True
+pemafibrate,1,1,2,True
+pemetrexed,3,52,55,True
+pemigatinib,12,2,14,True
+penamecillin,3,7,10,True
+penbutolol,47,41,88,True
+penciclovir,5,5,10,True
+penclomedine,1,2,3,True
+penfluridol,33,34,67,True
+penicillamine,5,22,27,True
+penicillin g acyl-serine,2,11,13,True
+penimepicycline,1,14,15,True
+pentaerithrityl,0,18,18,True
+pentaerythritol tetranitrate,11,28,39,True
+pentamidine,16,56,72,True
+pentazocine,8,32,40,True
+penthienate,9,7,16,True
+pentifylline,8,12,20,True
+pentobarbital,15,61,76,True
+pentolinium,3,56,59,True
+pentosan polysulfate,19,5,24,True
+pentostatin,39,9,48,True
+pentoxifylline,70,5,75,True
+perampanel,27,30,57,True
+perazine,4,35,39,True
+perchlorate,11,40,51,True
+perflubutane,3,2,5,True
+perflutren,6,12,18,True
+pergolide,6,57,63,True
+perhexiline,38,9,47,True
+periciazine,33,19,52,True
+perillyl alcohol,2,3,5,True
+perindopril,34,14,48,True
+perindoprilat,18,17,35,True
+permethrin,9,23,32,True
+perospirone,43,10,53,True
+perphenazine,12,37,49,True
+perphenazine enanthate,14,26,40,True
+peruvoside,12,13,25,True
+pexidartinib,17,16,33,True
+pf-00610355,1,34,35,True
+phenacemide,6,32,38,True
+phenacetin,38,2,40,True
+phenazocine,2,37,39,True
+phenazopyridine,13,23,36,True
+phencyclidine,17,13,30,True
+phendimetrazine,23,23,46,True
+phenelzine,26,56,82,True
+phenethyl isothiocyanate,3,1,4,True
+phenethylamine,27,2,29,True
+pheneticillin,4,7,11,True
+pheneturide,50,0,50,True
+phenformin,26,15,41,True
+phenglutarimide,23,0,23,True
+phenibut,26,3,29,True
+phenindamine,2,0,2,True
+phenindione,25,27,52,True
+pheniprazine,12,56,68,True
+pheniramine,12,6,18,True
+phenmetrazine,11,18,29,True
+phenobarbital,87,12,99,True
+phenol,25,12,37,True
+phenolphthalein,10,9,19,True
+phenoperidine,27,10,37,True
+phenothiazine,2,2,4,True
+phenoxybenzamine,10,24,34,True
+phenoxymethylpenicillin,8,0,8,True
+phenoxypropazine,17,29,46,True
+phenprobamate,25,5,30,True
+phenprocoumon,81,7,88,True
+phenserine,10,7,17,True
+phensuximide,2,30,32,True
+phentermine,43,6,49,True
+phentolamine,14,12,26,True
+phenyl aminosalicylate,7,3,10,True
+phenylacetic acid,0,4,4,True
+phenylbutazone,9,54,63,True
+phenylbutyric acid,10,6,16,True
+phenylephrine,11,34,45,True
+phenytoin,68,9,77,True
+pholcodine,22,14,36,True
+phosmet,12,6,18,True
+phosphocreatine,29,4,33,True
+phthalylsulfathiazole,2,0,2,True
+phylloquinone,25,11,36,True
+physostigmine,10,11,21,True
+pibrentasvir,2,21,23,True
+piceatannol,1,0,1,True
+piclamilast,1,0,1,True
+piclozotan,10,35,45,True
+picosulfuric acid,16,35,51,True
+picotamide,4,6,10,True
+pidotimod,7,21,28,True
+pilocarpine,4,7,11,True
+pilsicainide,16,0,16,True
+pimavanserin,11,30,41,True
+pimecrolimus,7,4,11,True
+pimozide,2,60,62,True
+pinacidil,24,11,35,True
+pinaverium,36,7,43,True
+pinazepam,19,14,33,True
+pindolol,42,33,75,True
+pinometostat,0,1,1,True
+pioglitazone,22,11,33,True
+pipamperone,44,2,46,True
+pipecuronium,29,16,45,True
+pipemidic acid,28,13,41,True
+pipenzolate,9,15,24,True
+piperacillin,33,15,48,True
+piperaquine,8,22,30,True
+piperazine,9,5,14,True
+piperidolate,19,11,30,True
+piperine,6,4,10,True
+pipobroman,1,0,1,True
+pipotiazine,22,11,33,True
+piracetam,20,8,28,True
+pirarubicin,10,5,15,True
+pirbuterol,7,27,34,True
+pirenzepine,5,11,16,True
+piretanide,12,32,44,True
+piribedil,1,3,4,True
+piritramide,33,14,47,True
+piritrexim,1,1,2,True
+pirlimycin,8,2,10,True
+pirlindole,51,18,69,True
+piromidic acid,6,8,14,True
+piroxicam,24,32,56,True
+pirprofen,20,29,49,True
+pirtobrutinib,32,5,37,True
+pitavastatin,1,2,3,True
+pitolisant,35,36,71,True
+pivagabine,15,21,36,True
+pivampicillin,0,11,11,True
+pivhydrazine,47,7,54,True
+pivmecillinam,3,2,5,True
+pixantrone,0,3,3,True
+pizotifen,45,11,56,True
+platelet activating factor,3,2,5,True
+platinum,1,0,1,True
+plazomicin,29,14,43,True
+plecanatide,11,8,19,True
+plerixafor,1,20,21,True
+plevitrexed,4,0,4,True
+plicamycin,0,1,1,True
+plitidepsin,1,2,3,True
+plumbagin,2,13,15,True
+polaprezinc,4,3,7,True
+poldine,9,4,13,True
+polmacoxib,17,6,23,True
+polythiazide,53,9,62,True
+pomalidomide,22,72,94,True
+ponatinib,15,33,48,True
+ponesimod,15,13,28,True
+porfiromycin,1,1,2,True
+posaconazole,11,33,44,True
+posizolid,2,1,3,True
+potassium,12,24,36,True
+potassium cation,20,23,43,True
+potassium triiodide,0,14,14,True
+pracinostat,15,7,22,True
+practolol,48,4,52,True
+pradigastat,3,0,3,True
+prajmaline,8,14,22,True
+pralatrexate,19,26,45,True
+pralidoxime,19,15,34,True
+pralsetinib,37,8,45,True
+pramlintide,5,20,25,True
+pramocaine,64,6,70,True
+pranlukast,7,9,16,True
+pranoprofen,1,7,8,True
+prasterone,4,0,4,True
+prasterone enantate,1,0,1,True
+prasterone sulfate,14,2,16,True
+prasugrel,54,8,62,True
+pravastatin,7,22,29,True
+prazepam,17,17,34,True
+prazosin,25,13,38,True
+prednicarbate,3,3,6,True
+prednimustine,1,0,1,True
+prednisolone,10,31,41,True
+prednisolone acetate,13,16,29,True
+prednisolone hemisuccinate,41,0,41,True
+prednisolone phosphate,26,19,45,True
+prednisone,8,59,67,True
+prednisone acetate,25,18,43,True
+prednylidene,8,40,48,True
+pregabalin,83,7,90,True
+pregnenolone,3,1,4,True
+prenalterol,36,1,37,True
+prenylamine,41,13,54,True
+pretomanid,2,31,33,True
+previtamin d(3),0,4,4,True
+pridinol,7,32,39,True
+prifinium,0,19,19,True
+prilocaine,29,41,70,True
+primaquine,37,19,56,True
+primidone,82,15,97,True
+probenecid,48,8,56,True
+probucol,10,3,13,True
+procainamide,12,32,44,True
+procaine,54,34,88,True
+procarbazine,61,5,66,True
+procaterol,31,4,35,True
+prochlorperazine,9,49,58,True
+procyclidine,0,18,18,True
+profenamine,29,1,30,True
+progabide,20,10,30,True
+progesterone,8,43,51,True
+proglumetacin,38,34,72,True
+proguanil,8,15,23,True
+promazine,1,85,86,True
+promegestone,1,3,4,True
+promethazine,38,44,82,True
+propacetamol,28,67,95,True
+propanidid,16,8,24,True
+propantheline,11,47,58,True
+proparacaine,15,15,30,True
+propatyl nitrate,1,5,6,True
+propenidazole,1,0,1,True
+propentofylline,8,19,27,True
+propicillin,9,1,10,True
+propiomazine,12,43,55,True
+propiopromazine,0,22,22,True
+propiverine,31,39,70,True
+propofol,22,32,54,True
+propoxycaine,40,5,45,True
+propylthiouracil,8,5,13,True
+propyphenazone,16,38,54,True
+proquazone,35,19,54,True
+proscillaridin,8,13,21,True
+prostaglandin b2,2,1,3,True
+prostaglandin d2,4,0,4,True
+prostaglandin g2,1,3,4,True
+prostalene,1,2,3,True
+prothipendyl,29,16,45,True
+protionamide,1,0,1,True
+protirelin,0,6,6,True
+protocatechualdehyde,4,0,4,True
+protokylol,15,18,33,True
+protriptyline,54,1,55,True
+proxibarbal,6,18,24,True
+proxyphylline,23,15,38,True
+prucalopride,2,56,58,True
+prulifloxacin,17,18,35,True
+prussian blue,3,4,7,True
+prx-08066,20,9,29,True
+psilocybin,14,19,33,True
+puromycin,11,26,37,True
+pyrantel,7,61,68,True
+pyrazinamide,22,11,33,True
+pyrazolam,22,4,26,True
+pyridostigmine,7,7,14,True
+pyrimethamine,3,5,8,True
+pyrithyldione,11,9,20,True
+pyronaridine,2,0,2,True
+quazepam,21,11,32,True
+quercetin,15,15,30,True
+quetiapine,25,67,92,True
+quifenadine,1,1,2,True
+quinacrine,10,4,14,True
+quinagolide,4,1,5,True
+quinapril,21,13,34,True
+quinaprilat,24,3,27,True
+quinestrol,1,2,3,True
+quinethazone,38,0,38,True
+quingestanol,11,18,29,True
+quingestanol acetate,0,1,1,True
+quinidine,83,40,123,True
+quinisocaine,3,41,44,True
+quinupramine,41,21,62,True
+quinupristin,2,8,10,True
+quizartinib,40,8,48,True
+"r,s-warfarin alcohol",1,22,23,True
+r-306465,1,1,2,True
+raclopride,4,31,35,True
+ractopamine,1,28,29,True
+radezolid,1,1,2,True
+radium ra-223 cation,2,2,4,True
+raloxifene,18,10,28,True
+raltegravir,6,2,8,True
+raltitrexed,13,6,19,True
+ramatroban,7,10,17,True
+ramelteon,7,67,74,True
+ramipril,23,7,30,True
+ramiprilat,18,13,31,True
+ramosetron,16,27,43,True
+ranitidine,9,38,47,True
+ranolazine,3,83,86,True
+rapacuronium,41,15,56,True
+ravuconazole,2,2,4,True
+rebastinib,0,1,1,True
+regadenoson,0,2,2,True
+regorafenib,31,9,40,True
+relcovaptan,22,2,24,True
+relebactam,4,4,8,True
+relugolix,31,0,31,True
+remacemide,3,35,38,True
+remdesivir,2,8,10,True
+remifentanil,0,59,59,True
+remikiren,5,23,28,True
+remimazolam,29,2,31,True
+remogliflozin etabonate,3,22,25,True
+remoxipride,45,14,59,True
+renzapride,1,27,28,True
+repaglinide,24,9,33,True
+repinotan,0,16,16,True
+reposal,13,4,17,True
+repotrectinib,30,3,33,True
+reproterol,2,26,28,True
+rescinnamine,6,25,31,True
+reserpine,27,50,77,True
+resmetirom,15,2,17,True
+resorcinol,26,5,31,True
+resveratrol,4,7,11,True
+retapamulin,7,11,18,True
+revefenacin,28,8,36,True
+revumenib,17,3,20,True
+rhein,23,7,30,True
+ribociclib,21,41,62,True
+ribostamycin,16,21,37,True
+ricolinostat,4,8,12,True
+ridaforolimus,17,3,20,True
+ridogrel,10,3,13,True
+rifabutin,27,0,27,True
+rifalazil,0,3,3,True
+rifampin,29,12,41,True
+rifamycin,2,0,2,True
+rifapentine,6,31,37,True
+rifaximin,5,12,17,True
+rigosertib,1,1,2,True
+rilmenidine,34,2,36,True
+rilpivirine,3,45,48,True
+riluzole,34,13,47,True
+rimegepant,9,7,16,True
+rimexolone,4,3,7,True
+rimiterol,21,16,37,True
+rimonabant,22,14,36,True
+riociguat,8,45,53,True
+ripretinib,18,1,19,True
+risdiplam,2,0,2,True
+risedronic acid,19,3,22,True
+risperidone,25,51,76,True
+ritanserin,23,20,43,True
+ritlecitinib,41,4,45,True
+ritobegron,10,28,38,True
+ritodrine,27,9,36,True
+ritonavir,34,31,65,True
+rivaroxaban,31,18,49,True
+rivastigmine,3,13,16,True
+rivoceranib,1,2,3,True
+rivoglitazone,9,31,40,True
+rizatriptan,16,33,49,True
+ro 12-7310,2,0,2,True
+robenacoxib,2,66,68,True
+rociletinib,0,2,2,True
+rociverine,3,16,19,True
+rocuronium,1,50,51,True
+rofecoxib,23,37,60,True
+roflumilast,40,26,66,True
+rokitamycin,6,11,17,True
+rolapitant,16,2,18,True
+rolitetracycline,7,4,11,True
+rolofylline,12,17,29,True
+romidepsin,21,18,39,True
+romifidine,33,16,49,True
+ronifibrate,2,0,2,True
+ropinirole,11,28,39,True
+ropivacaine,4,90,94,True
+roquinimex,0,1,1,True
+rosiglitazone,3,49,52,True
+rosoxacin,2,33,35,True
+rosuvastatin,39,5,44,True
+rotigotine,45,29,74,True
+roxadustat,1,18,19,True
+roxarsone,0,1,1,True
+roxatidine acetate,3,1,4,True
+roxithromycin,14,16,30,True
+rucaparib,27,14,41,True
+rufinamide,17,17,34,True
+rufloxacin,15,24,39,True
+rupatadine,4,34,38,True
+s-ethylisothiourea,7,21,28,True
+sacubitril,18,33,51,True
+safinamide,42,39,81,True
+safrazine,40,14,54,True
+sagopilone,16,0,16,True
+salicylamide,18,26,44,True
+salinomycin,1,0,1,True
+salirasib,0,1,1,True
+salmeterol,52,7,59,True
+salsalate,11,49,60,True
+salvinorin a,11,13,24,True
+samidorphan,10,27,37,True
+sapacitabine,2,0,2,True
+saprisartan,35,5,40,True
+saquinavir,22,35,57,True
+"sar9, met (o2)11-substance p",1,0,1,True
+saracatinib,10,6,16,True
+sarafloxacin,9,37,46,True
+saralasin,12,17,29,True
+sarecycline,5,12,17,True
+saredutant,16,16,32,True
+sarpogrelate,36,7,43,True
+sc-236,30,21,51,True
+scopolamine,12,37,49,True
+secobarbital,48,41,89,True
+segesterone acetate,10,0,10,True
+seladelpar,14,9,23,True
+selamectin,16,0,16,True
+selenious acid,16,9,25,True
+selenium,36,7,43,True
+seletracetam,34,1,35,True
+selexipag,15,35,50,True
+seliciclib,2,0,2,True
+selinexor,1,1,2,True
+selpercatinib,7,27,34,True
+selumetinib,34,3,37,True
+semaglutide,27,1,28,True
+semaxanib,1,1,2,True
+sennosides,10,2,12,True
+seocalcitol,3,5,8,True
+seproxetine,12,64,76,True
+seratrodast,2,36,38,True
+serdexmethylphenidate,9,23,32,True
+serotonin,16,21,37,True
+sertindole,36,16,52,True
+sertraline,13,51,64,True
+setiptiline,3,0,3,True
+setrobuvir,2,0,2,True
+sevelamer,3,16,19,True
+sevoflurane,46,9,55,True
+sibutramine,18,57,75,True
+sildenafil,42,4,46,True
+silibinin,8,6,14,True
+silodosin,14,16,30,True
+silver sulfadiazine,17,42,59,True
+simeprevir,36,24,60,True
+simfibrate,2,1,3,True
+simvastatin,16,26,42,True
+sinefungin,0,1,1,True
+siponimod,29,16,45,True
+sirolimus,15,25,40,True
+sisomicin,7,27,34,True
+sitafloxacin,20,31,51,True
+sitagliptin,36,28,64,True
+sitaxentan,21,22,43,True
+sn-38,8,2,10,True
+soblidotin,2,1,3,True
+sodium aurothiomalate,4,28,32,True
+sodium aurotiosulfate,2,0,2,True
+sodium cation,36,6,42,True
+sodium feredetate,0,4,4,True
+sodium tetradecyl sulfate,26,9,35,True
+sodium zirconium cyclosilicate,2,1,3,True
+sofosbuvir,7,24,31,True
+sofpironium,2,3,5,True
+solabegron,19,7,26,True
+solifenacin,53,5,58,True
+solithromycin,9,3,12,True
+solriamfetol,20,55,75,True
+somatostatin,2,6,8,True
+sonidegib,4,18,22,True
+sotagliflozin,8,28,36,True
+sotalol,2,49,51,True
+sotorasib,15,19,34,True
+sparfloxacin,33,6,39,True
+sparfosic acid,0,4,4,True
+sparsentan,6,29,35,True
+sparsomycin,0,2,2,True
+spectinomycin,2,1,3,True
+spermidine,3,0,3,True
+spermine,1,5,6,True
+spiradoline,11,23,34,True
+spiramycin,2,0,2,True
+spirapril,32,11,43,True
+spironolactone,35,26,61,True
+squalamine,0,2,2,True
+stanolone acetate,3,0,3,True
+stanozolol,2,2,4,True
+stavudine,0,11,11,True
+stepronin,6,2,8,True
+stiripentol,68,33,101,True
+streptolydigin,2,0,2,True
+streptomycin,9,26,35,True
+streptozocin,15,0,15,True
+strontium cation sr-89,14,21,35,True
+strontium ranelate,3,0,3,True
+styramate,17,16,33,True
+succinylcholine,59,1,60,True
+succinylsulfathiazole,2,2,4,True
+sucralfate,9,37,46,True
+sufentanil,38,14,52,True
+sugammadex,1,4,5,True
+sulbactam,23,7,30,True
+sulbenicillin,4,3,7,True
+sulconazole,1,0,1,True
+sulfacetamide,1,1,2,True
+sulfadicramide,0,3,3,True
+sulfadimethoxine,0,4,4,True
+sulfadoxine,3,5,8,True
+sulfaethoxypyridazine,1,1,2,True
+sulfaguanidine,4,0,4,True
+sulfaisodimidine,1,0,1,True
+sulfamazone,3,0,3,True
+sulfamerazine,0,4,4,True
+sulfameter,9,1,10,True
+sulfamethazine,2,0,2,True
+sulfamethizole,1,6,7,True
+sulfamethoxazole,52,25,77,True
+sulfamethoxypyridazine,3,4,7,True
+sulfametomidine,1,1,2,True
+sulfametopyrazine,2,1,3,True
+sulfametrole,5,2,7,True
+sulfamoxole,16,3,19,True
+sulfanilamide,2,1,3,True
+sulfanitran,5,1,6,True
+sulfaperin,1,0,1,True
+sulfaphenazole,9,15,24,True
+sulfapyridine,15,5,20,True
+sulfaquinoxaline,2,3,5,True
+sulfasalazine,48,30,78,True
+sulfathiourea,3,3,6,True
+sulfinpyrazone,22,14,36,True
+sulfisoxazole,26,18,44,True
+sulforaphane,0,1,1,True
+sulindac,34,27,61,True
+sulopenem etzadroxil,4,1,5,True
+sulprostone,0,1,1,True
+sultamicillin,2,5,7,True
+sulthiame,29,12,41,True
+sultopride,11,28,39,True
+sumatriptan,46,26,72,True
+sunitinib,6,45,51,True
+suprofen,4,3,7,True
+surinabant,26,11,37,True
+suvorexant,34,23,57,True
+suxibuzone,28,32,60,True
+synephrine,0,20,20,True
+tacrine,2,23,25,True
+tacrolimus,37,40,77,True
+tadalafil,4,45,49,True
+tafamidis,1,9,10,True
+tafenoquine,10,8,18,True
+tafluprost,0,2,2,True
+talampicillin,1,8,9,True
+talastine,1,0,1,True
+talazoparib,7,6,13,True
+talbutal,37,4,41,True
+talinolol,34,36,70,True
+tallimustine,1,0,1,True
+talniflumate,61,2,63,True
+talopram,16,13,29,True
+tamoxifen,30,32,62,True
+tamsulosin,57,9,66,True
+tandospirone,28,1,29,True
+tandutinib,6,15,21,True
+tapentadol,30,17,47,True
+taranabant,15,26,41,True
+tariquidar,4,4,8,True
+tasimelteon,28,54,82,True
+tasosartan,15,0,15,True
+taspoglutide,3,17,20,True
+taurochenodeoxycholic acid,6,1,7,True
+taurocholic acid,4,21,25,True
+taurolidine,2,0,2,True
+taxifolin,38,4,42,True
+tazarotene,4,10,14,True
+tazemetostat,13,18,31,True
+tazobactam,11,3,14,True
+tecarfarin,1,0,1,True
+technetium tc-99m sestamibi,5,6,11,True
+tecovirimat,11,2,13,True
+tedisamil,18,2,20,True
+tedizolid,0,1,1,True
+tedizolid phosphate,3,8,11,True
+tefinostat,1,1,2,True
+tegafur,8,47,55,True
+tegaserod,36,18,54,True
+tegoprazan,4,1,5,True
+teicoplanin,2,0,2,True
+telaprevir,46,5,51,True
+telavancin,21,31,52,True
+telithromycin,29,20,49,True
+telmisartan,15,21,36,True
+telotristat ethyl,26,16,42,True
+temafloxacin,12,22,34,True
+temazepam,12,32,44,True
+temefos,2,11,13,True
+temocapril,33,7,40,True
+temocillin,6,1,7,True
+temozolomide,33,2,35,True
+temsirolimus,46,1,47,True
+tenamfetamine,19,33,52,True
+tenapanor,1,0,1,True
+teneligliptin,3,18,21,True
+tenidap,34,17,51,True
+teniposide,21,26,47,True
+tenofovir,17,34,51,True
+tenofovir alafenamide,22,30,52,True
+tenofovir disoproxil,27,17,44,True
+tenoxicam,32,24,56,True
+tepotinib,22,1,23,True
+tepoxalin,6,61,67,True
+terazosin,5,30,35,True
+terbinafine,28,5,33,True
+terbutaline,9,53,62,True
+terfenadine,49,16,65,True
+terguride,21,11,32,True
+teriflunomide,8,30,38,True
+terodiline,9,31,40,True
+tertatolol,34,7,41,True
+tesevatinib,1,1,2,True
+tesmilifene,24,18,42,True
+testolactone,39,0,39,True
+testosterone cypionate,45,23,68,True
+testosterone decanoate,3,1,4,True
+testosterone enantate benzilic acid hydrazone,3,4,7,True
+testosterone enanthate,7,41,48,True
+testosterone isocaproate,1,3,4,True
+testosterone phenylpropionate,4,2,6,True
+testosterone propionate,20,37,57,True
+testosterone succinate,9,0,9,True
+testosterone undecanoate,14,42,56,True
+tetracaine,50,17,67,True
+tetracosactide,1,5,6,True
+tetracycline,16,34,50,True
+tetrahydrocannabivarin,0,42,42,True
+tetrahydropalmatine,51,0,51,True
+tetrandrine,8,38,46,True
+tetrazepam,15,6,21,True
+tetrodotoxin,71,3,74,True
+tetryzoline,34,4,38,True
+tezacaftor,12,10,22,True
+tezacitabine,0,1,1,True
+tezosentan,0,1,1,True
+thalidomide,14,53,67,True
+theobromine,3,49,52,True
+theodrenaline,7,53,60,True
+thiabendazole,1,23,24,True
+thiamine,2,0,2,True
+thiamphenicol,0,1,1,True
+thiamylal,6,42,48,True
+thiazinam,43,5,48,True
+thiethylperazine,3,48,51,True
+thiocolchicoside,21,19,40,True
+thiopental,29,20,49,True
+thiopropazate,32,0,32,True
+thioproperazine,6,59,65,True
+thiopyrophosphate,2,0,2,True
+thioridazine,46,28,74,True
+thiosalicylic acid,7,6,13,True
+thiostrepton,2,3,5,True
+thiotepa,26,7,33,True
+thiothixene,32,4,36,True
+thonzylamine,11,7,18,True
+thymol,1,0,1,True
+tiagabine,13,21,34,True
+tiamulin,0,1,1,True
+tianeptine,50,29,79,True
+tiapride,42,35,77,True
+tiaprofenic acid,38,20,58,True
+tibolone,2,6,8,True
+ticagrelor,16,31,47,True
+ticarcillin,1,6,7,True
+ticlopidine,19,29,48,True
+tiemonium iodide,20,6,26,True
+tienilic acid,55,0,55,True
+tigecycline,7,4,11,True
+tildipirosin,7,4,11,True
+tiletamine,15,20,35,True
+tilmicosin,5,5,10,True
+tiludronic acid,33,5,38,True
+timepidium,5,14,19,True
+timolol,72,5,77,True
+tinidazole,34,15,49,True
+tinoridine,24,29,53,True
+tioclomarol,11,39,50,True
+tioconazole,0,2,2,True
+tioguanine,1,12,13,True
+tiopronin,0,33,33,True
+tiotropium,34,22,56,True
+tipifarnib,1,1,2,True
+tipiracil,0,3,3,True
+tipranavir,13,44,57,True
+tiracizine,3,2,5,True
+tirapazamine,1,2,3,True
+tiratricol,4,21,25,True
+tirofiban,34,7,41,True
+tisopurine,0,3,3,True
+tivozanib,8,14,22,True
+tixocortol,1,68,69,True
+tizanidine,3,67,70,True
+tnp-470,1,3,4,True
+tobramycin,13,24,37,True
+tocainide,21,1,22,True
+tocladesine,0,1,1,True
+tocopherylquinone,21,14,35,True
+tocotrienol,0,1,1,True
+tofacitinib,12,30,42,True
+tofogliflozin,2,21,23,True
+tolazamide,26,45,71,True
+tolazoline,16,12,28,True
+tolbutamide,42,22,64,True
+tolcapone,41,35,76,True
+tolfenamic acid,4,48,52,True
+tolmetin,15,44,59,True
+tolonidine,14,14,28,True
+toloxatone,36,26,62,True
+tolperisone,32,6,38,True
+tolterodine,26,50,76,True
+tolvaptan,40,11,51,True
+topiramate,34,29,63,True
+topiroxostat,13,39,52,True
+topotecan,13,33,46,True
+torasemide,30,41,71,True
+toremifene,2,27,29,True
+tovorafenib,0,16,16,True
+toyocamycin,0,2,2,True
+trabectedin,15,26,41,True
+tramadol,15,60,75,True
+tramazoline,11,15,26,True
+trametinib,14,14,28,True
+tramiprosate,10,25,35,True
+trandolapril,4,23,27,True
+trandolaprilat,15,0,15,True
+tranexamic acid,0,2,2,True
+tranilast,21,24,45,True
+trans-2-hydroxycinnamic acid,1,6,7,True
+transcrocetinate,0,2,2,True
+trapidil,6,1,7,True
+travoprost,3,2,5,True
+trazodone,31,55,86,True
+treosulfan,0,2,2,True
+treprostinil,24,31,55,True
+trestolone,0,19,19,True
+trestolone acetate,1,2,3,True
+tretamine,13,1,14,True
+tretazicar,1,2,3,True
+tretoquinol,13,24,37,True
+triamcinolone,42,11,53,True
+triamterene,43,9,52,True
+triaziquone,1,0,1,True
+triazolam,51,25,76,True
+tricaine,2,31,33,True
+trichloroethylene,7,33,40,True
+trichostatin a,0,1,1,True
+triclabendazole,26,21,47,True
+triclofos,0,28,28,True
+tridihexethyl,9,11,20,True
+triethylenetetramine,9,21,30,True
+trifluoperazine,4,70,74,True
+trifluperidol,18,5,23,True
+triflupromazine,3,44,47,True
+trifluridine,7,41,48,True
+triflusal,3,17,20,True
+triglu-5-formyl-tetrahydrofolate,0,1,1,True
+trihexyphenidyl,15,9,24,True
+trilaciclib,9,6,15,True
+trilostane,19,2,21,True
+trimazosin,2,33,35,True
+trimebutine,33,33,66,True
+trimethadione,40,23,63,True
+trimethaphan,44,5,49,True
+trimethobenzamide,17,5,22,True
+trimetrexate,16,14,30,True
+trimipramine,0,89,89,True
+trioxsalen,1,0,1,True
+tripamide,11,32,43,True
+tripelennamine,4,5,9,True
+triprolidine,32,3,35,True
+triptolide,6,0,6,True
+triptorelin,2,17,19,True
+trofinetide,11,1,12,True
+trofosfamide,3,5,8,True
+trolamine,10,2,12,True
+troleandomycin,14,20,34,True
+trolnitrate,3,0,3,True
+tropatepine,17,8,25,True
+tropicamide,9,0,9,True
+tropisetron,2,56,58,True
+trospium,13,16,29,True
+trovafloxacin,8,27,35,True
+troxacitabine,1,0,1,True
+troxerutin,16,13,29,True
+tubercidin,0,1,1,True
+tubocurarine,33,13,46,True
+tucaresol,0,1,1,True
+tucatinib,10,19,29,True
+tucidinostat,3,7,10,True
+tulathromycin a,0,1,1,True
+tulobuterol,2,27,29,True
+tylosin,1,4,5,True
+tylvalosin,2,4,6,True
+tyramine,29,8,37,True
+ubenimex,0,1,1,True
+ubidecarenone,4,0,4,True
+ubrogepant,19,2,21,True
+udenafil,21,10,31,True
+ularitide,20,9,29,True
+ulipristal,19,2,21,True
+ulobetasol,4,3,7,True
+umbralisib,8,3,11,True
+umeclidinium,31,11,42,True
+umifenovir,5,1,6,True
+unoprostone,2,11,13,True
+upadacitinib,4,9,13,True
+uracil,1,1,2,True
+uracil mustard,5,1,6,True
+urapidil,41,13,54,True
+urethane,20,9,29,True
+uric acid,11,6,17,True
+vabicaserin,18,16,34,True
+vaborbactam,20,8,28,True
+vadadustat,31,11,42,True
+vadimezan,1,10,11,True
+valaciclovir,24,5,29,True
+valbenazine,27,19,46,True
+valdecoxib,45,33,78,True
+valganciclovir,9,34,43,True
+valinomycin,6,2,8,True
+valnoctamide,16,14,30,True
+valomaciclovir,15,1,16,True
+valproate bismuth,29,29,58,True
+valpromide,24,10,34,True
+valrubicin,0,2,2,True
+valsartan,49,0,49,True
+valspodar,0,14,14,True
+vamorolone,0,43,43,True
+vancomycin,19,10,29,True
+vandetanib,10,29,39,True
+vanoxerine,1,3,4,True
+vardenafil,11,27,38,True
+varenicline,29,5,34,True
+vatalanib,0,1,1,True
+vecuronium,51,0,51,True
+velpatasvir,20,7,27,True
+vemurafenib,49,7,56,True
+venetoclax,18,23,41,True
+venlafaxine,32,38,70,True
+veralipride,15,20,35,True
+vericiguat,6,9,15,True
+verinurad,0,1,1,True
+vernakalant,7,23,30,True
+vesnarinone,0,1,1,True
+vibegron,9,0,9,True
+vicriviroc,19,5,24,True
+vigabatrin,9,23,32,True
+vilanterol,56,11,67,True
+vilazodone,20,42,62,True
+vildagliptin,12,17,29,True
+viloxazine,5,78,83,True
+vinbarbital,13,20,33,True
+vinblastine,23,13,36,True
+vincamine,9,24,33,True
+vincristine,24,25,49,True
+vindesine,25,9,34,True
+vinflunine,10,9,19,True
+vinorelbine,37,11,48,True
+vinpocetine,53,8,61,True
+vintafolide,2,3,5,True
+vinyl ether,7,18,25,True
+vinylbital,24,8,32,True
+viomycin,10,3,13,True
+vismodegib,5,2,7,True
+vitamin a,1,1,2,True
+voclosporin,25,2,27,True
+voglibose,21,4,25,True
+volasertib,0,1,1,True
+vonoprazan,14,0,14,True
+vorapaxar,1,43,44,True
+vorasidenib,9,12,21,True
+voriconazole,40,1,41,True
+vorinostat,4,30,34,True
+vortioxetine,5,85,90,True
+vosaroxin,0,2,2,True
+voxelotor,26,8,34,True
+voxilaprevir,20,11,31,True
+win 55212-2,56,12,68,True
+wortmannin,20,24,44,True
+xamoterol,33,4,37,True
+xanomeline,16,4,20,True
+xanthine,17,12,29,True
+xenon,22,6,28,True
+ximelagatran,2,30,32,True
+xipamide,25,17,42,True
+xylazine,54,4,58,True
+xylometazoline,28,5,33,True
+yohimbine,47,2,49,True
+zafirlukast,0,20,20,True
+zalcitabine,0,4,4,True
+zaleplon,57,20,77,True
+zaltoprofen,38,30,68,True
+zanamivir,31,0,31,True
+zanubrutinib,10,14,24,True
+zavegepant,4,1,5,True
+zelavespib,0,1,1,True
+zeranol,5,2,7,True
+zidovudine,30,16,46,True
+zileuton,11,10,21,True
+zilucoplan,13,5,18,True
+zimelidine,26,33,59,True
+zinc,2,1,3,True
+zinc cation,2,0,2,True
+zinc oxide,0,2,2,True
+zinc substituted heme c,1,1,2,True
+ziprasidone,50,49,99,True
+zofenopril,27,10,37,True
+zolazepam,24,3,27,True
+"zoledronate d,l-lysine monohydrate",1,16,17,True
+zolmitriptan,12,48,60,True
+zolpidem,3,50,53,True
+zomepirac,0,60,60,True
+zonisamide,16,67,83,True
+zorubicin,2,0,2,True
+zosuquidar,5,2,7,True
+zotepine,34,6,40,True
+zuranolone,27,11,38,True

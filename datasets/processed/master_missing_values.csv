@@ -1,0 +1,147 @@
+DrugID,DrugName,CID,ConnectivitySMILES,MolecularWeight,XLogP,TPSA,HBondDonorCount,HBondAcceptorCount,RotatableBondCount,Source,PubChemStatus
+23,"1,6-Fructose Diphosphate (Linear Form)",,,,,,,,,,Unresolved
+83,ALT-2074,130165.0,CC1(CN[Se]C2=CC=CC=C21)C,226.19,,12.0,1.0,1.0,0.0,PubChem,Available
+149,Alcloxa,136146352.0,C1(C(=O)NC(=N1)[O-])NC(=O)N.[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-],314.55,,124.0,7.0,9.0,1.0,PubChem,Available
+155,Alexitol sodium,91663271.0,C(C(C(C(C(CO)O)O)O)O)O.C(=O)([O-])[O-].[OH-].[Na+].[Al+3],309.16,,186.0,7.0,10.0,5.0,PubChem,Available
+170,Almasilate,131704329.0,O.[O-][Si]([O-])([O-])[O-].[O-][Si]([O-])([O-])[O-].[Mg+2].[Al+3].[Al+3],280.45,,185.0,1.0,9.0,0.0,PubChem,Available
+174,Aloglutamol,72941505.0,C(C(C(C(C(C(=O)[O-])O)O)O)O)O.C(C(CO)(CO)N)O.[OH-].[OH-].[Al+3],377.28,,230.0,11.0,13.0,7.0,PubChem,Available
+184,Aluminium,5359268.0,[Al],26.981538,,0.0,0.0,0.0,0.0,PubChem,Available
+185,Aluminium acetotartrate,76968033.0,CC(=O)[O-].C(C(C(=O)[O-])O)(C(=O)[O-])O.[Al+3],234.1,,161.0,2.0,8.0,1.0,PubChem,Available
+186,Aluminium clofibrate,10390009.0,CC(C)(C(=O)[O-])OC1=CC=C(C=C1)Cl.CC(C)(C(=O)[O-])OC1=CC=C(C=C1)Cl.[OH-].[Al+3],471.3,,99.7,1.0,7.0,4.0,PubChem,Available
+187,Aluminium glycinate,73415751.0,C(C(=O)[O-])N.O.[OH-].[OH-].[Al+3],153.07,,69.2,4.0,6.0,0.0,PubChem,Available
+188,Aluminium nicotinate,16098.0,C1=CC(=CN=C1)C(=O)[O-].C1=CC(=CN=C1)C(=O)[O-].C1=CC(=CN=C1)C(=O)[O-].[Al+3],393.3,,159.0,0.0,9.0,0.0,PubChem,Available
+189,Aluminium phosphate,64655.0,[O-]P(=O)([O-])[O-].[Al+3],121.953,,86.3,0.0,4.0,0.0,PubChem,Available
+190,Aluminium tristearate,12496.0,CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].CCCCCCCCCCCCCCCCCC(=O)[O-].[Al+3],877.4,,120.0,0.0,6.0,45.0,PubChem,Available
+191,Aluminum chloride,24012.0,[Al](Cl)(Cl)Cl,133.34,,0.0,0.0,0.0,0.0,PubChem,Available
+192,Aluminum chlorohydrate,71586946.0,O.[OH-].[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-],192.47,,6.0,6.0,7.0,0.0,PubChem,Available
+193,Aluminum sulfate,24850.0,[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[O-]S(=O)(=O)[O-].[Al+3].[Al+3],342.2,,266.0,0.0,12.0,0.0,PubChem,Available
+215,Aminophylline,9433.0,CN1C2=C(C(=O)N(C1=O)C)NC=N2.CN1C2=C(C(=O)N(C1=O)C)NC=N2.C(CN)N,420.43,,191.0,4.0,8.0,1.0,PubChem,Available
+226,Ammonium bicarbonate,14013.0,C(=O)(O)[O-].[NH4+],79.056,,61.4,2.0,3.0,0.0,PubChem,Available
+227,Ammonium lactate,62358.0,CC(C(=O)[O-])O.[NH4+],107.11,,61.4,2.0,3.0,0.0,PubChem,Available
+228,Ammonium tetrathiomolybdate,15251598.0,[NH4+].[NH4+].[SH-].[SH-].S=[Mo]=S,262.3,,68.2,4.0,4.0,0.0,PubChem,Available
+255,Anisotropine methylbromide,657201.0,CCCC(CCC)C(=O)OC1CC2CCC(C1)[N+]2(C)C.[Br-],362.3,,26.3,0.0,3.0,7.0,PubChem,Available
+287,Arsenic trioxide,14888.0,[O-2].[O-2].[O-2].[As+3].[As+3],197.841,,3.0,0.0,3.0,0.0,PubChem,Available
+314,Atracurium besylate,47320.0,C[N+]1(CCC2=CC(=C(C=C2C1CC3=CC(=C(C=C3)OC)OC)OC)OC)CCC(=O)OCCCCCOC(=O)CC[N+]4(CCC5=CC(=C(C=C5C4CC6=CC(=C(C=C6)OC)OC)OC)OC)C.C1=CC=C(C=C1)S(=O)(=O)[O-].C1=CC=C(C=C1)S(=O)(=O)[O-],1243.5,,258.0,0.0,18.0,26.0,PubChem,Available
+317,Auranofin,16667669.0,CCP(CC)CC.CC(=O)OCC1C(C(C(C(O1)[S-])OC(=O)C)OC(=O)C)OC(=O)C.[Au+],678.5,,115.0,0.0,10.0,12.0,PubChem,Available
+319,Aurothioglucose,6104.0,C(C1C(C(C(C(O1)[S-])O)O)O)O.[Au+],392.18,,91.2,4.0,6.0,1.0,PubChem,Available
+355,Barbexaclone,71196.0,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2.CC(CC1CCCCC1)NC,387.5,,87.3,3.0,4.0,5.0,PubChem,Available
+404,Benzylpenicilloyl polylysine,,,,,,,,,,Unresolved
+409,Berberine ursodeoxycholate,137552085.0,CC(CCC(=O)[O-])C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C.COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,727.9,,121.0,2.0,8.0,5.0,PubChem,Available
+444,Bismuth subcitrate potassium,91667825.0,C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].C(C(=O)[O-])C(CC(=O)[O-])(C(=O)[O-])[O-].[K+].[K+].[K+].[K+].[K+].[Bi+3],780.65,,287.0,0.0,14.0,4.0,PubChem,Available
+445,Bismuth subgallate,73415769.0,C1=C(C=C(C(=C1O)[O-])[O-])C(=O)O.[OH-].[Bi+3],394.09,,105.0,3.0,6.0,1.0,PubChem,Available
+446,Bismuth subnitrate,73415757.0,[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[O-2].[Bi+3].[Bi+3].[Bi+3].[Bi+3].[Bi+3],1461.99,,262.0,9.0,22.0,0.0,PubChem,Available
+447,Bismuth subsalicylate,53629521.0,C1=CC=C(C(=C1)C(=O)[O-])[O-].[OH-].[Bi+3],362.09,,64.2,1.0,4.0,0.0,PubChem,Available
+460,Bortezomib,387447.0,B(C(CC(C)C)NC(=O)C(CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O,384.2,,124.0,4.0,6.0,9.0,PubChem,Available
+461,Bortezomib D-mannitol,12990536.0,B1(OC(C(O1)C(CO)O)C(CO)O)C(CC(C)C)NC(=O)C(CC2=CC=CC=C2)NC(=O)C3=NC=CN=C3,530.4,,183.0,6.0,10.0,13.0,PubChem,Available
+532,Calcium,5460341.0,[Ca],40.08,,0.0,0.0,0.0,0.0,PubChem,Available
+533,Calcium cation,271.0,[Ca+2],40.08,,0.0,0.0,0.0,0.0,PubChem,Available
+534,Calcium glubionate anhydrous,6093407.0,C(C1C(C(C(C(O1)OC(C(CO)O)C(C(C(=O)[O-])O)O)O)O)O)O.C(C(C(C(C(C(=O)[O-])O)O)O)O)O.[Ca+2],592.5,,362.0,13.0,19.0,11.0,PubChem,Available
+535,Calcium glucoheptonate,62859.0,C(C(C(C(C(C(C(=O)[O-])O)O)O)O)O)O.C(C(C(C(C(C(C(=O)[O-])O)O)O)O)O)O.[Ca+2],490.42,,323.0,12.0,16.0,10.0,PubChem,Available
+536,Calcium gluconate,9290.0,C(C(C(C(C(C(=O)[O-])O)O)O)O)O.C(C(C(C(C(C(=O)[O-])O)O)O)O)O.[Ca+2],430.37,,283.0,10.0,14.0,8.0,PubChem,Available
+537,Calcium levulinate,68651.0,CC(=O)CCC(=O)[O-].CC(=O)CCC(=O)[O-].O.O.[Ca+2],306.32,,116.0,2.0,8.0,4.0,PubChem,Available
+538,Calcium pangamate,76966485.0,CN(C)CC(=O)OCC(C(C(C(C(=O)[O-])O)O)O)O.CN(C)CC(=O)OCC(C(C(C(C(=O)[O-])O)O)O)O.[Ca+2],600.6,,301.0,8.0,18.0,16.0,PubChem,Available
+559,Capreomycin,3000502.0,CC1C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)NC(C(=O)NCC(C(=O)N1)N)C2CCN=C(N2)N)CNC(=O)CC(CCCN)N.C1CN=C(NC1C2C(=O)NCC(C(=O)NC(C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)N2)CNC(=O)CC(CCCN)N)CO)N)N,1321.4,,737.0,27.0,23.0,19.0,PubChem,Available
+605,Cefamandole nafate,23665731.0,CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)NC(=O)C(C4=CC=CC=C4)OC=O)SC2)C(=O)[O-].[Na+],512.5,,210.0,1.0,11.0,9.0,PubChem,Available
+653,Cephalosporin analog,,,,,,,,,,Unresolved
+656,Cerium oxalate,165565.0,C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].C(=O)(C(=O)[O-])[O-].[Ce+3].[Ce+3],544.29,,241.0,0.0,12.0,0.0,PubChem,Available
+694,Chromic cation,27668.0,[Cr+3],51.996,,0.0,0.0,0.0,0.0,PubChem,Available
+695,Chromium,23976.0,[Cr],51.996,,0.0,0.0,0.0,0.0,PubChem,Available
+696,Chromium picolinate,151932.0,C1=CC=NC(=C1)C(=O)[O-].C1=CC=NC(=C1)C(=O)[O-].C1=CC=NC(=C1)C(=O)[O-].[Cr+3],418.3,,159.0,0.0,9.0,0.0,PubChem,Available
+783,Colistimethate,,,,,,,,,,Unresolved
+787,Copper,23978.0,[Cu],63.55,,0.0,0.0,0.0,0.0,PubChem,Available
+801,Cyanocobalamin,166596686.0,CC1=CC2=C(C=C1C)[N+](=CN2)C3C(C(C(O3)CO)OP(=O)(O)OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=CC8=NC(=C(C4=N5)C)C(C8(C)C)CCC(=N)[O-])N7)CCC(=N)[O-])(C)CC(=O)N)C)CCC(=N)[O-])(C)CC(=O)N)C)CC(=O)N)C)O.[C]#N.[Co+2],1355.4,,497.0,12.0,22.0,26.0,PubChem,Available
+870,Decamethoxine,118984404.0,CC1CCC(C(C1)OC(=O)C[N+](C)(C)CCCCCCCCCC[N+](C)(C)CC(=O)OC2CC(CCC2C(C)C)C)C(C)C.[Cl-].[Cl-],693.9,,52.6,0.0,6.0,21.0,PubChem,Available
+922,Dexisometheptene mucate,76853225.0,CC(CCC=C(C)C)NC.CC(CCC=C(C)C)NC.C(C(C(C(=O)O)O)O)(C(C(=O)O)O)O,492.6,,180.0,8.0,10.0,13.0,PubChem,Available
+979,Dihematoporphyrin ether,,,,,,,,,,Unresolved
+993,Dimenhydrinate,10660.0,CN1C2=C(C(=O)N(C1=O)C)NC(=N2)Cl.CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,470.0,,81.8,1.0,5.0,6.0,PubChem,Available
+1061,Dutogliptin,11253490.0,B(C1CCCN1C(=O)CNC2CCNC2)(O)O,241.1,,84.8,4.0,5.0,4.0,PubChem,Available
+1067,Ebselen,3194.0,C1=CC=C(C=C1)N2C(=O)C3=CC=CC=C3[Se]2,274.19,,20.3,0.0,1.0,1.0,PubChem,Available
+1072,Edetate calcium disodium anhydrous,6093170.0,C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+].[Ca+2],374.27,,167.0,0.0,10.0,7.0,PubChem,Available
+1102,Emetonium iodide,80084.0,CC[N+](C)(CC)CCOC(C1=CC=CC=C1)C2=CC=CC=C2.[I-],425.3,,9.2,0.0,2.0,8.0,PubChem,Available
+1240,Fazadinium bromide,6321422.0,CC1=C(N(C2=CC=CC=[N+]12)N=NN3C4=CC=CC=[N+]4C(=C3C5=CC=CC=C5)C)C6=CC=CC=C6.[Br-].[Br-],604.3,,42.8,0.0,4.0,4.0,PubChem,Available
+1268,Ferric cation,29936.0,[Fe+3],55.84,,0.0,0.0,0.0,0.0,PubChem,Available
+1269,Ferric maltol,169535.0,CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].CC1=C(C(=O)C=CO1)[O-].[Fe+3],431.2,,148.0,0.0,9.0,0.0,PubChem,Available
+1270,Ferric oxide,518696.0,O=[Fe]O[Fe]=O,159.69,,43.4,0.0,3.0,0.0,PubChem,Available
+1271,Ferric pyrophosphate,24877.0,[O-]P(=O)([O-])OP(=O)([O-])[O-].[O-]P(=O)([O-])OP(=O)([O-])[O-].[O-]P(=O)([O-])OP(=O)([O-])[O-].[Fe+3].[Fe+3].[Fe+3].[Fe+3],745.21,,407.0,0.0,21.0,0.0,PubChem,Available
+1272,Ferrous cation,27284.0,[Fe+2],55.84,,0.0,0.0,0.0,0.0,PubChem,Available
+1273,Ferrous fumarate,6433164.0,C(=CC(=O)[O-])C(=O)[O-].[Fe+2],169.9,,80.3,0.0,4.0,0.0,PubChem,Available
+1274,Ferrous succinate,10464762.0,C(CC(=O)[O-])C(=O)[O-].[Fe+2],171.92,,80.3,0.0,4.0,1.0,PubChem,Available
+1399,Gadobenic acid,18177388.0,[H+].[H+].C1=CC=C(C=C1)COCC(C(=O)[O-])N(CCN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3],667.7,,220.0,2.0,14.0,15.0,PubChem,Available
+1400,Gadodiamide,153921.0,CNC(=O)CN(CCN(CCN(CC(=O)NC)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3],573.66,,188.0,2.0,11.0,13.0,PubChem,Available
+1401,Gadofosveset trisodium,73049652.0,C1CC(CCC1OP(=O)([O-])OCC(CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])(C2=CC=CC=C2)C3=CC=CC=C3.[Na+].[Na+].[Na+].[Gd+3],957.9,,269.0,0.0,17.0,18.0,PubChem,Available
+1402,Gadopentetic acid,6857474.0,C(CN(CC(=O)O)CC(=O)[O-])N(CCN(CC(=O)O)CC(=O)[O-])CC(=O)[O-].[Gd+3],547.57,,205.0,2.0,13.0,13.0,PubChem,Available
+1403,Gadoteric acid,158536.0,C1CN(CCN(CCN(CCN1CC(=O)O)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3],558.64,,171.0,1.0,12.0,5.0,PubChem,Available
+1404,Gadoteridol,60714.0,CC(CN1CCN(CCN(CCN(CC1)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])O.[Gd+3],558.7,,154.0,1.0,11.0,5.0,PubChem,Available
+1405,Gadoxetic acid,25203894.0,[H+].[H+].CCOC1=CC=C(C=C1)CC(CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Gd+3],681.7,,220.0,2.0,14.0,15.0,PubChem,Available
+1408,Gallamine triethiodide,6172.0,CC[N+](CC)(CC)CCOC1=C(C(=CC=C1)OCC[N+](CC)(CC)CC)OCC[N+](CC)(CC)CC.[I-].[I-].[I-],891.5,,27.7,0.0,6.0,21.0,PubChem,Available
+1445,Gleptoferron,,,,,,,,,,Unresolved
+1509,Homatropine methylbromide,6646.0,C[N+]1(C2CCC1CC(C2)OC(=O)C(C3=CC=CC=C3)O)C.[Br-],370.3,,46.5,1.0,4.0,4.0,PubChem,Available
+1528,Hydrolyzed Cephalothin,,,,,,,,,,Unresolved
+1531,Hydroxocobalamin,44475014.0,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[OH-].[Co+3],1346.4,,453.0,10.0,20.0,26.0,PubChem,Available
+1576,Imidazole salicylate,37425.0,C1=CC=C(C(=C1)C(=O)O)O.C1=CN=CN1,206.2,,86.2,3.0,4.0,1.0,PubChem,Available
+1590,Indium In-111 oxyquinoline,119117.0,C1=CC2=C(C(=C1)[O-])N=CC=C2.C1=CC2=C(C(=C1)[O-])N=CC=C2.C1=CC2=C(C(=C1)[O-])N=CC=C2.[In+3],543.4,,108.0,0.0,6.0,0.0,PubChem,Available
+1592,Indocyanine green,5282412.0,CC1(C(=[N+](C2=C1C3=CC=CC=C3C=C2)CCCCS(=O)(=O)[O-])C=CC=CC=CC=C4C(C5=C(N4CCCCS(=O)(=O)[O-])C=CC6=CC=CC=C65)(C)C)C.[Na+],775.0,,137.0,0.0,7.0,12.0,PubChem,Available
+1620,Iron,23925.0,[Fe],55.84,,0.0,0.0,0.0,0.0,PubChem,Available
+1621,Iron polymaltose,,,,,,,,,,Unresolved
+1622,Iron sucrose,,,,,,,,,,Unresolved
+1638,Isosulfan blue,50108.0,CCN(CC)C1=CC=C(C=C1)C(=C2C=CC(=[N+](CC)CC)C=C2)C3=C(C=CC(=C3)S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+],566.7,,137.0,0.0,7.0,7.0,PubChem,Available
+1646,Ivermectin,,,,,,,,,,Unresolved
+1649,Ixazomib,25183872.0,B(C(CC(C)C)NC(=O)CNC(=O)C1=C(C=CC(=C1)Cl)Cl)(O)O,361.0,,98.7,4.0,4.0,7.0,PubChem,Available
+1656,Kaolin,,,,,,,,,,Unresolved
+1664,Kitasamycin,,,,,,,,,,Unresolved
+1681,Lanthanum III cation,104897.0,[La+3],138.9055,,0.0,0.0,0.0,0.0,PubChem,Available
+1735,Lithium cation,28486.0,[Li+],7.0,,0.0,0.0,0.0,0.0,PubChem,Available
+1791,Maduramicin,68595.0,CC1CC(C(OC1C2CC(C(O2)C3(CCC(O3)C4(CCC5(O4)CC(C(C(O5)C(C)C6C(C(C(C(O6)(CC(=O)O)O)C)OC)OC)C)O)C)C)OC7CC(C(C(O7)C)OC)OC)(C)O)C.N,934.2,,210.0,5.0,18.0,13.0,PubChem,Available
+1793,Magnesium,5462224.0,[Mg],24.305,,0.0,0.0,0.0,0.0,PubChem,Available
+1794,Magnesium cation,888.0,[Mg+2],24.305,,0.0,0.0,0.0,0.0,PubChem,Available
+1795,Magnesium orotate,3036905.0,C1=C(NC(=O)NC1=O)C(=O)[O-].C1=C(NC(=O)NC1=O)C(=O)[O-].[Mg+2],334.48,,197.0,4.0,8.0,0.0,PubChem,Available
+1796,Magnesium silicate,72941442.0,[O-2].[O-2].[O-2].[Mg+2].[Si+4],100.39,,3.0,0.0,3.0,0.0,PubChem,Available
+1797,Magnesium trisilicate,5311266.0,[O-][Si](=O)O[Si]([O-])([O-])O[Si](=O)[O-].[Mg+2].[Mg+2],260.86,,145.0,0.0,8.0,2.0,PubChem,Available
+1801,Mangafodipir,76967443.0,CC1=C(C(=CC(=N1)COP(=O)(O)[O-])CN(CCN(CC2=CC(=NC(=C2O)C)COP(=O)(O)[O-])CC(=O)O)CC(=O)O)O.[Mn+2],691.4,,287.0,6.0,18.0,17.0,PubChem,Available
+1864,Mersalyl,9806195.0,COC(CNC(=O)C1=CC=CC=C1OCC(=O)[O-])C[Hg+].[OH-].[Na+],505.85,,88.7,2.0,6.0,7.0,PubChem,Available
+1871,Metadoxine,115198.0,CC1=NC=C(C(=C1O)CO)CO.C1CC(=O)NC1C(=O)O,298.29,,140.0,5.0,7.0,3.0,PubChem,Available
+1907,Methylene blue,6099.0,CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2.[Cl-],319.9,,43.9,0.0,4.0,1.0,PubChem,Available
+1920,Methylselenocysteine,147004.0,C[Se]CC(C(=O)O)N,182.09,,63.3,2.0,3.0,3.0,PubChem,Available
+1953,Mifamurtide,123133557.0,CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCCNC(=O)C(C)NC(=O)CCC(C(=O)N)NC(=O)C(C)NC(=O)C(C)OC(C(C=O)NC(=O)C)C(C(CO)O)O)OC(=O)CCCCCCCCCCCCCCC.O.[Na+],1277.5,,388.0,10.0,20.0,58.0,PubChem,Available
+1990,Montmorillonite,71586775.0,O.[O-2].[O-2].[O-2].O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.[Al+3].[Al+3],360.31,,141.0,1.0,12.0,0.0,PubChem,Available
+1998,Motexafin gadolinium,158385.0,CCC1=C(C2=CC3=NC(=CN=C4C=C(C(=CC4=NC=C5C(=C(C(=N5)C=C1[N-]2)CCCO)C)OCCOCCOCCOC)OCCOCCOCCOC)C(=C3CCCO)C)CC.CC(=O)[O-].CC(=O)[O-].[Gd+3],1148.4,,245.0,2.0,19.0,28.0,PubChem,Available
+2101,Nitroprusside,,,,,,,,,,Unresolved
+2136,Octylphenoxy polyethoxyethanol,,,,,,,,,,Unresolved
+2214,PRX-08066,76972919.0,C1CN(CCC1NC2=C3C=C(SC3=NC=N2)Cl)CC4=CC(=C(C=C4)F)C#N.C(=CC(=O)O)C(=O)O,518.0,,168.0,3.0,11.0,6.0,PubChem,Available
+2217,Padeliporfin,171041442.0,[H+].[H+].CCC1C(C2=NC1=CC3=C(C(=C([N-]3)C(=C4C(C(C(=N4)C=C5C(=C(C(=C2)[N-]5)C(=O)C)C)C)CCC(=O)[O-])CC(=O)OC)C(=O)NCCS(=O)(=O)[O-])C)C.[Pd+2],840.3,,205.0,3.0,13.0,10.0,PubChem,Available
+2260,Penimepicycline,54686187.0,CC1(C(N2C(S1)C(C2=O)NC(=O)COC3=CC=CC=C3)C(=O)O)C.CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)NCN5CCN(CC5)CCO)N(C)C)O,937.0,,316.0,9.0,18.0,11.0,PubChem,Available
+2269,Pentosan polysulfate,,,,,,,,,,Unresolved
+2346,Pinacidil,55329.0,CC(C(C)(C)C)N=C(NC#N)NC1=CC=NC=C1.O,263.34,,74.1,3.0,4.0,5.0,PubChem,Available
+2386,Platinum,23939.0,[Pt],195.08,,0.0,0.0,0.0,0.0,PubChem,Available
+2394,Polaprezinc,9817450.0,C1=C(N=C[N-]1)CC(C(=O)[O-])NC(=O)CCN.[Zn+2],289.6,,109.0,2.0,6.0,5.0,PubChem,Available
+2397,Polythiazide,,,,,,,,,,Unresolved
+2404,Potassium,5462222.0,[K],39.0983,,0.0,0.0,0.0,0.0,PubChem,Available
+2405,Potassium cation,813.0,[K+],39.0983,,0.0,0.0,0.0,0.0,PubChem,Available
+2406,Potassium triiodide,105053.0,[K+].I[I-]I,419.8117,,0.0,0.0,1.0,0.0,PubChem,Available
+2492,Prussian blue,2724251.0,[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[C-]#N.[Fe+2].[Fe+2].[Fe+2].[Fe+3].[Fe+3].[Fe+3].[Fe+3],859.2,,428.0,0.0,36.0,0.0,PubChem,Available
+2524,Radium Ra-223 cation,,,,,,,,,,Unresolved
+2621,Roxarsone,5104.0,C1=CC(=C(C=C1[As](=O)(O)O)[N+](=O)[O-])O,263.04,,124.0,3.0,6.0,1.0,PubChem,Available
+2657,Selenious acid,1091.0,O[Se](=O)O,128.99,,57.5,2.0,3.0,0.0,PubChem,Available
+2658,Selenium,6326970.0,[Se],78.97,,0.0,0.0,0.0,0.0,PubChem,Available
+2677,Sevelamer,,,,,,,,,,Unresolved
+2683,Silver sulfadiazine,441244.0,C1=CN=C(N=C1)[N-]S(=O)(=O)C2=CC=C(C=C2)N.[Ag+],357.14,,95.3,1.0,6.0,3.0,PubChem,Available
+2695,Sodium aurothiomalate,22318.0,C(C(C(=O)[O-])[S-])C(=O)[O-].[Na+].[Na+].[Au+],390.08,,81.3,0.0,5.0,1.0,PubChem,Available
+2696,Sodium aurotiosulfate,161780.0,O.O.[O-]S(=O)(=S)[O-].[O-]S(=O)(=S)[O-].[Na+].[Na+].[Na+].[Au+],526.2,,209.0,2.0,10.0,0.0,PubChem,Available
+2697,Sodium cation,923.0,[Na+],22.9897693,,0.0,0.0,0.0,0.0,PubChem,Available
+2698,Sodium feredetate,27461.0,C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Na+].[Fe+3],367.05,,167.0,0.0,10.0,7.0,PubChem,Available
+2699,Sodium tetradecyl sulfate,23665772.0,CCCCC(CC)CCC(CC(C)C)OS(=O)(=O)[O-].[Na+],316.43,,74.8,0.0,4.0,11.0,PubChem,Available
+2700,Sodium zirconium cyclosilicate,155804812.0,[O-][Si]1(O[Si](O[Si](O1)([O-])[O-])([O-])[O-])[O-].[Na+].[Na+].[Zr+4],365.45,,166.0,0.0,9.0,0.0,PubChem,Available
+2732,Strontium cation Sr-89,3083408.0,[Sr+2],88.9074508,,0.0,0.0,0.0,0.0,PubChem,Available
+2733,Strontium ranelate,6918182.0,C(C1=C(SC(=C1C#N)N(CC(=O)[O-])CC(=O)[O-])C(=O)[O-])C(=O)[O-].[Sr+2].[Sr+2],513.5,,216.0,0.0,11.0,4.0,PubChem,Available
+2737,Sucralfate,,,,,,,,,,Unresolved
+2818,Technetium Tc-99m sestamibi,22617237.0,CC(C)(C[N+]#[C-])OC.CC(C)(C[N+]#[C-])OC.CC(C)(C[N+]#[C-])OC.CC(C)(C[N+]#[C-])OC.CC(C)(C[N+]#[C-])OC.CC(C)(C[N+]#[C-])OC.[Tc],775.9,,81.5,0.0,12.0,12.0,PubChem,Available
+2913,Tiemonium iodide,72142.0,C[N+]1(CCOCC1)CCC(C2=CC=CC=C2)(C3=CC=CS3)O.[I-],445.4,,57.7,1.0,4.0,5.0,PubChem,Available
+3058,Vaborbactam,56649692.0,B1(C(CCC(O1)CC(=O)O)NC(=O)CC2=CC=CS2)O,297.14,,124.0,3.0,6.0,5.0,PubChem,Available
+3068,Valproate bismuth,20835964.0,CCCC(CCC)C(=O)[O-].CCCC(CCC)C(=O)[O-].CCCC(CCC)C(=O)[O-].[Bi+3],638.6,,120.0,0.0,6.0,12.0,PubChem,Available
+3128,Xenon,23991.0,[Xe],131.29,,0.0,0.0,0.0,0.0,PubChem,Available
+3147,Zinc,23994.0,[Zn],65.4,,0.0,0.0,0.0,0.0,PubChem,Available
+3148,Zinc Substituted Heme C,6323369.0,CC=C1C(=C2C=C3C(=CC)C(=C([N-]3)C=C4C(=C(C(=CC5=C(C(=C([N-]5)C=C1[N-]2)C)CCC(=O)O)[N-]4)CCC(=O)O)C)C)C.[Zn],628.0,,78.6,2.0,8.0,6.0,PubChem,Available
+3149,Zinc cation,32051.0,[Zn+2],65.4,,0.0,0.0,0.0,0.0,PubChem,Available
+3150,Zinc oxide,3007857.0,[O-2].[Zn+2],81.4,,1.0,0.0,1.0,0.0,PubChem,Available
+3154,"Zoledronate D,L-Lysine Monohydrate",91826755.0,C1=CN(C=N1)CC(O)(P(=O)(O)O)P(=O)(O)O.C(CCN)CC(C(=O)O)N.O,436.29,,243.0,9.0,13.0,9.0,PubChem,Available
+3166,cis-Diamminechlorocholylglycinateplatinum(II),154095.0,CC(CCC(=O)NCC(=O)[O-])C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C.N.N.[Cl-].[Pt+2],729.2,,132.0,6.0,9.0,5.0,PubChem,Available

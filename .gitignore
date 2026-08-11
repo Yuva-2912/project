@@ -1,0 +1,120 @@
+# ==============================================================================
+# Python & Bytecode
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+.virtual_documents/
+
+# ==============================================================================
+# Virtual Environments
+# ==============================================================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==============================================================================
+# Large Datasets (>100MB GitHub limit)
+# ==============================================================================
+# These generated datasets can be re-created using scripts in src/features/
+datasets/final/ddi_pair_features.csv
+datasets/final/ddi_training_dataset.csv
+
+# ==============================================================================
+# Machine Learning Artifacts & Models
+# ==============================================================================
+# Ignore heavy model checkpoints, weights, and serialized objects
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.onnx
+models/*.h5
+models/*.hdf5
+models/*.ckpt
+models/*.pkl
+models/*.pickle
+models/*.joblib
+models/*.safetensors
+checkpoints/
+*.ckpt
+
+# Keep directory structure via .gitkeep
+!models/.gitkeep
+
+# ==============================================================================
+# Logs & Outputs
+# ==============================================================================
+outputs/*
+!outputs/.gitkeep
+logs/
+*.log
+pubchem_log.txt
+wandb/
+runs/
+*.out
+*.err
+
+# ==============================================================================
+# Temporary Files & Accidental Directories
+# ==============================================================================
+-Force/
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# ==============================================================================
+# Environment Variables & Sensitive Data
+# ==============================================================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+secrets.json
+
+# ==============================================================================
+# IDEs & Code Editors
+# ==============================================================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.project
+.pydevproject
+.settings/
+
+# ==============================================================================
+# Operating System Files
+# ==============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/

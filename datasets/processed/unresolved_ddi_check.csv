@@ -1,0 +1,20 @@
+DrugName,Appears_as_DrugA,Appears_as_DrugB,DrugA_Count,DrugB_Count,Total_DDI_Records,Required_for_DDI_Model
+Sucralfate,True,True,9,37,46,True
+Iron polymaltose,True,False,3,0,3,True
+Iron sucrose,True,True,12,2,14,True
+Hydrolyzed Cephalothin,True,True,18,12,30,True
+Colistimethate,True,True,31,2,33,True
+Nitroprusside,True,False,45,0,45,True
+Pentosan polysulfate,True,True,19,5,24,True
+Gleptoferron,True,False,3,0,3,True
+Polythiazide,True,True,53,9,62,True
+Benzylpenicilloyl polylysine,True,True,10,5,15,True
+Ivermectin,True,False,14,0,14,True
+Kitasamycin,True,True,11,7,18,True
+Radium Ra-223 cation,True,True,2,2,4,True
+Sevelamer,True,True,3,16,19,True
+Octylphenoxy polyethoxyethanol,True,True,5,12,17,True
+Kaolin,True,True,1,1,2,True
+"1,6-Fructose Diphosphate (Linear Form)",False,True,0,4,4,True
+Dihematoporphyrin ether,False,True,0,1,1,True
+Cephalosporin analog,False,True,0,2,2,True

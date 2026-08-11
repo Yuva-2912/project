@@ -1,0 +1,586 @@
+Ligand ID,Ligand,Target,Target ID,Target Gene Symbol,Target UniProt ID,Target Ensembl Gene ID,Target Species,Approved,Type,Action,Primary Target,Affinity Median,Affinity Units,PubMed ID
+8737,IGN523,4F2hc,890,SLC3A2,P08195,ENSG00000168003,Human,False,Antibody,Binding,True,8.890000343322754,pKd,
+7277,probucol,ABCA1,756,ABCA1,O95477,ENSG00000165029,Human,True,Inhibitor,Inhibition,True,,-,15514211|15140889
+9183,bihelical apoA-I mimetic peptide 5A,ABCA1,756,ABCA1,O95477,ENSG00000165029,Human,False,,Binding,False,,-,18805791
+10372,compound 14 [PMID: 30925062],ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Competitive,False,5.760000228881836,pIC50,30925062
+10372,compound 14 [PMID: 30925062],ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Competitive,False,6.170000076293945,pIC50,30925062
+11741,biricodar,ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Inhibition,False,5.300000190734863,pIC50,11844674
+13578,elacridar,ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Inhibition,False,7.400000095367432,pKi,12636153
+12787,encequidar,ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Inhibition,False,7.28000020980835,pIC50,33729781
+11787,tariquidar,ABCB1,768,Abcb1a,P21447,ENSMUSG00000040584,Mouse,False,Inhibitor,Inhibition,False,7.420000076293945,pIC50,10098671
+11745,valspodar,ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Inhibition,False,5.889999866485596,pKi,10198227
+11786,WS-898,ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Inhibition,False,8.300000190734863,pIC50,34723530
+11788,zosuquidar,ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,Inhibitor,Inhibition,False,7.230000019073486,pKi,10411602
+13577,WS-917,ABCB1,768,ABCB1,P08183,ENSG00000085563,Human,False,,Binding,False,8.300000190734863,pIC50,39425773
+4545,glycochenodeoxycholic acid,ABCB11,778,ABCB11,O95342,ENSG00000073734,Human,False,,Binding,False,5.150000095367432,pKi,12404239
+10372,compound 14 [PMID: 30925062],ABCC1,779,ABCC1,P33527,ENSG00000103222,Human,False,Inhibitor,Competitive,False,5.300000190734863,pIC50,30925062
+11741,biricodar,ABCC1,779,ABCC1,P33527,ENSG00000103222,Human,False,Inhibitor,Inhibition,False,5.289999961853027,pIC50,11844674
+8762,WP814,ABCC1,779,ABCC1,P33527,ENSG00000103222,Human,False,Inhibitor,Inhibition,False,7.150000095367432,pKi,9647783
+8776,PAK-104P,ABCC2,780,ABCC2,Q92887,ENSG00000023839,Human,False,Inhibitor,Inhibition,False,5.429999828338623,pKi,10570049
+8802,estradiol disulfate,ABCC4,782,ABCC4,O15439,ENSG00000125257,Human,False,Inhibitor,Inhibition,False,6.699999809265137,pIC50,12523936
+8829,compound 2 [PMID: 22380603],ABCC5,783,ABCC5,O15440,ENSG00000114770,Human,False,Inhibitor,Inhibition,False,7.190000057220459,pKi,22380603
+4743,sildenafil,ABCC5,783,ABCC5,O15440,ENSG00000114770,Human,True,Inhibitor,Inhibition,False,5.920000076293945,pKi,22380603
+8808,compound 13b [PMID: 19101153],ABCC9,2746,ABCC9,O60706,ENSG00000069431,Human,False,Allosteric modulator,Positive,False,6.170000076293945,pEC50,19101153
+1024,cyclosporin A,ABCG2,792,ABCG2,Q9UNQ0,ENSG00000118777,Human,True,Inhibitor,Inhibition,False,6.300000190734863,pKi,11437380
+13578,elacridar,ABCG2,792,ABCG2,Q9UNQ0,ENSG00000118777,Human,False,Inhibitor,Inhibition,False,6.710000038146973,pIC50,24900683
+13578,elacridar,ABCG2,792,ABCG2,Q9UNQ0,ENSG00000118777,Human,False,Inhibitor,Inhibition,False,6.900000095367432,pIC50,21570282
+10008,Fumitremorgin C,ABCG2,792,,,,,False,Inhibitor,Inhibition,False,,-,
+10007,Ko 143,ABCG2,792,,,,,False,Inhibitor,Inhibition,False,,-,
+10006,KS 176,ABCG2,792,,,,,False,Inhibitor,Inhibition,False,6.230000019073486,pIC50,
+12446,nobiletin,ABCG2,792,ABCG2,Q9UNQ0,ENSG00000118777,Human,False,Inhibitor,Inhibition,False,5.360000133514404,pIC50,21354800
+10372,compound 14 [PMID: 30925062],ABCG2,792,ABCG2,Q9UNQ0,ENSG00000118777,Human,False,Inhibitor,Non-competitive,False,5.619999885559082,pIC50,30925062
+4541,[<sup>14</sup>C]acetylCoA,AcetylCoA transporter,1134,SLC33A1,O00400,ENSG00000169359,Human,False,,Binding,False,,-,
+4501,benzylcysteine,Alanine/serine/cysteine transporter 2,874,SLC1A5,Q15758,ENSG00000105281,Human,False,Inhibitor,Inhibition,False,3.109999895095825,pKi,15107471
+4500,benzylserine,Alanine/serine/cysteine transporter 2,874,SLC1A5,Q15758,ENSG00000105281,Human,False,Inhibitor,Inhibition,False,3.049999952316284,pKi,15107471
+13102,compound 25e [PMID: 38217503],Alanine/serine/cysteine transporter 2,874,SLC1A5,Q15758,ENSG00000105281,Human,False,Inhibitor,Inhibition,False,5.289999961853027,pIC50,38217503
+4508,p-nitrophenyl glutamyl anilide,Alanine/serine/cysteine transporter 2,874,Slc1a5,,ENSRNOG00000015948,Rat,False,Inhibitor,Inhibition,False,4.260000228881836,pKi,15670919
+4624,[<sup>14</sup>C]methylamine,Ammonium transporter Rh type A,1198,RHAG,Q02094,ENSG00000112077,Human,False,,Binding,False,,-,12846905
+4624,[<sup>14</sup>C]methylamine,Ammonium transporter Rh type C,1200,Rhcg,Q9QXP0,ENSMUSG00000030549,Mouse,False,,Binding,False,,-,16131648
+4693,"&alpha;-methyl-D,L-tryptophan","ATB<sup>0,+</sup>",937,SLC6A14,Q9UN76,ENSG00000268104,Human,False,Inhibitor,Inhibition,False,3.6,pIC50,18522536
+5488,esomeprazole,ATP4A,849,ATP4A,P20648,ENSG00000105675,Human,True,Inhibitor,Inhibition,True,,-,
+10512,ilaprazole,ATP4A,849,,,,Rabbit,True,Inhibitor,Inhibition,False,8.050000190734863,pIC50,11304936
+13761,linaprazan,ATP4A,849,ATP4A,P20648,ENSG00000105675,Human,True,Inhibitor,Inhibition,False,6.5,pIC50,19467868
+4279,omeprazole,ATP4A,849,ATP4A,P20648,ENSG00000105675,Human,True,Inhibitor,Inhibition,True,,-,
+12007,revaprazan,ATP4A,849,,,,Pig,True,Inhibitor,Inhibition,False,6.460000038146973,pIC50,20810280
+12007,revaprazan,ATP4A,849,,,,Pig,True,Inhibitor,Inhibition,False,5.639999866485596,pIC50,35604136
+12008,tegoprazan,ATP4A,849,ATP4A,P20648,ENSG00000105675,Human,True,Inhibitor,Inhibition,False,6.28000020980835,pIC50,29180359
+11549,vonoprazan,ATP4A,849,,,,Pig,True,Inhibitor,Inhibition,False,7.71999979019165,pIC50,22512618
+13433,zastaprazan,ATP4A,849,,,,Pig,True,Inhibitor,Inhibition,False,7.78000020980835,pIC50,37147903
+6801,chlorpropamide,"ATP-binding cassette, sub-family C (CFTR/MRP), member 8",2594,ABCC8,Q09428,ENSG00000006071,Human,True,Inhibitor,Inhibition,False,,-,
+6841,repaglinide,"ATP-binding cassette, sub-family C (CFTR/MRP), member 8",2594,ABCC8,Q09428,ENSG00000006071,Human,True,Inhibitor,Inhibition,True,6.96999979019165,pIC50,15380228
+4837,bumetanide,Basolateral Na-K-Cl symporter,969,SLC12A2,P55011,ENSG00000064651,Human,True,Inhibitor,Inhibition,False,5.599999904632568,pIC50,11882915
+4839,furosemide,Basolateral Na-K-Cl symporter,969,SLC12A2,P55011,ENSG00000064651,Human,True,Inhibitor,Inhibition,False,5.130000114440918,pIC50,11882915
+13840,IAMA-6,Basolateral Na-K-Cl symporter,969,SLC12A2,P55011,ENSG00000064651,Human,False,Inhibitor,Inhibition,False,,-,34137257
+4742,piretanide,Basolateral Na-K-Cl symporter,969,SLC12A2,P55011,ENSG00000064651,Human,False,Inhibitor,Inhibition,False,5.619999885559082,pIC50,11882915
+4756,LU32-176B,BGT1,932,Slc6a12,P31651,ENSMUSG00000030109,Mouse,False,Inhibitor,Inhibition,False,4.0,pIC50,15550575
+4610,NNC052090,BGT1,932,Slc6a12,P31651,ENSMUSG00000030109,Mouse,False,Inhibitor,Inhibition,False,5.900000095367432,pKi,9134205
+6512,(R)-EF-1520,BGT1,932,SLC6A12,P48065,ENSG00000111181,Human,False,Inhibitor,Inhibition,False,,pIC50,
+4583,(R/S) EF-1500,BGT1,932,SLC6A12,P48065,ENSG00000111181,Human,False,Inhibitor,Inhibition,False,4.9,pIC50,
+6513,(S)-EF-1520,BGT1,932,SLC6A12,P48065,ENSG00000111181,Human,False,Inhibitor,Inhibition,False,,pIC50,
+7601,benzatropine,B<sup>0</sup>AT1,939,SLC6A19,Q695T7,ENSG00000174358,Human,True,Inhibitor,Inhibition,False,4.360000133514404,pIC50,28176326
+10256,cinromide,B<sup>0</sup>AT1,939,SLC6A19,Q695T7,ENSG00000174358,Human,False,Inhibitor,Inhibition,False,6.400000095367432,pIC50,30589598
+11229,inhibitor CB3,B<sup>0</sup>AT1,939,SLC6A19,Q695T7,ENSG00000174358,Human,False,Inhibitor,Inhibition,False,5.309999942779541,pIC50,32180718
+11228,inhibitor E18,B<sup>0</sup>AT1,939,SLC6A19,Q695T7,ENSG00000174358,Human,False,Inhibitor,Inhibition,False,5.46999979019165,pIC50,32180718
+11227,inhibitor E4,B<sup>0</sup>AT1,939,SLC6A19,Q695T7,ENSG00000174358,Human,False,Inhibitor,Inhibition,False,5.110000133514404,pIC50,32180718
+7401,nimesulide,B<sup>0</sup>AT1,939,Slc6a19,Q2A865,ENSRNOG00000026501,Rat,True,Inhibitor,Inhibition,False,4.639999866485596,pIC50,24704252
+7216,loratadine,B<sup>0</sup>AT2,940,SLC6A15,Q9H2J7,ENSG00000072041,Human,True,Inhibitor,Inhibition,False,5.400000095367432,pIC50,25318072
+4494,hemicholinium-3,Choline transporter-like 1,1204,SLC44A1,Q8WWI5,ENSG00000070214,Human,False,Inhibitor,Inhibition,False,,pKi,
+4494,hemicholinium-3,CHT,914,SLC5A7,Q9GZV3,ENSG00000115665,Human,False,Inhibitor,Inhibition,False,,pKi,12675135
+4493,[<sup>3</sup>H]hemicholinium-3,CHT,914,SLC5A7,Q9GZV3,ENSG00000115665,Human,False,,,False,,pKd,
+4707,ompenaclid,CT1,934,SLC6A8,P48029,ENSG00000130821,Human,False,Inhibitor,Inhibition,False,5.46999979019165,pKd,40892912
+13931,HG106,Cystine/glutamate transporter,902,SLC7A11,Q9UPY5,ENSG00000151012,Human,False,Inhibitor,Inhibition,False,,-,31874110
+13930,imidazole ketone erastin,Cystine/glutamate transporter,902,SLC7A11,Q9UPY5,ENSG00000151012,Human,False,Inhibitor,Inhibition,False,7.519999980926514,pIC50,30799221
+1372,quisqualate,Cystine/glutamate transporter,902,SLC7A11,Q9UPY5,ENSG00000151012,Human,False,Inhibitor,Inhibition,False,5.300000190734863,pIC50,20303751
+7118,atomoxetine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,5.96999979019165,pKd,9871604
+7601,benzatropine,DAT,927,Slc6a3,P23977,ENSRNOG00000017302,Rat,True,Inhibitor,Inhibition,False,6.929999828338623,pKi,7562926
+7135,bupropion,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,6.349999904632568,pIC50,19821577
+2398,clomipramine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,5.659999847412109,pKd,9537821
+2286,cocaine,DAT,927,Slc6a3,P23977,ENSRNOG00000017302,Rat,True,Inhibitor,Inhibition,True,7.099999904632568,pIC50,15566309
+8520,compound 58 [PMID: 25037917],DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,False,Inhibitor,Inhibition,False,5.210000038146973,pIC50,25037917
+7158,desvenlafaxine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,6.070000171661377,pKi,24900709
+2147,dexamfetamine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,6.960000038146973,pKi,23602445
+7554,dexmethylphenidate,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,7.599999904632568,pKi,21129986
+4639,GBR12935,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,False,Inhibitor,Inhibition,False,7.599999904632568,pKi,
+7435,levomilnacipran,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,5.489999771118164,pIC50,18468895
+4797,mazindol,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,8.0,pKi,
+7236,methylphenidate,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,7.099999904632568,pIC50,17228864
+7555,modafinil,DAT,927,Slc6a3,P23977,ENSRNOG00000017302,Rat,True,Inhibitor,Inhibition,False,5.420000076293945,pKi,15537337
+4792,nomifensine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,,-,
+7266,phenelzine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,5.079999923706055,pKi,9537821
+2586,sibutramine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,6.300000190734863,pKi,
+10342,solriamfetol,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,4.849999904632568,pKi,29891587
+10342,solriamfetol,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,5.539999961853027,pIC50,29891587
+4638,[<sup>3</sup>H]GBR12935,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,False,Inhibitor,Inhibition,False,8.5,pKd,8302271
+4605,[<sup>3</sup>H]WIN35428,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,False,Inhibitor,Inhibition,False,8.0,pKd,8302271
+12766,toludesvenlafaxine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,False,6.309999942779541,pIC50,31617718
+7317,trimipramine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,True,Inhibitor,Inhibition,True,5.420000076293945,pKi,9537821
+9983,vanoxerine,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,False,Inhibitor,Inhibition,False,9.0,pKi,2530094|6237922|1678014
+4606,WIN35428,DAT,927,SLC6A3,Q01959,ENSG00000142319,Human,False,Inhibitor,Inhibition,False,7.900000095367432,pKi,8878059
+8814,compound 6b [PMID: 22749870],DMT1,967,SLC11A2,P49281,ENSG00000110911,Human,False,Inhibitor,Inhibition,False,7.099999904632568,pIC50,22749870
+4717,dilazep,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,False,Inhibitor,Inhibition,False,9.0,pKi,
+4807,dipyridamole,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,True,Inhibitor,Inhibition,True,8.800000190734863,pKi,14634039
+4590,draflazine,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,False,Inhibitor,Inhibition,False,9.600000381469728,pKi,10763851
+13932,EOS-984,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,False,Inhibitor,Inhibition,False,,pIC50,
+4734,KF24345,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,False,Inhibitor,Inhibition,False,9.4,pKi,14634039
+4513,NBTGR ,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,False,Inhibitor,Inhibition,False,9.3,pKi,
+4512,nitrobenzylmercaptopurine ribonucleoside,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,False,Inhibitor,Inhibition,False,9.699999809265137,pKi,
+1765,ticagrelor,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,True,Inhibitor,Inhibition,False,7.300000190734863,pKi,24414167
+4511,[<sup>3</sup>H]nitrobenzylmercaptopurine ribonucleoside,Equilibrative nucleoside transporter 1,1117,SLC29A1,Q99808,ENSG00000112759,Human,False,,,False,9.3,pKd,
+8881,compound 1a [PMID: 23597791],Erythrocyte urea transporter,982,Slc14a1,Q8VHL0,ENSMUSG00000059336,Mouse,False,Inhibitor,Inhibition,False,7.599999904632568,pIC50,23597791
+8881,compound 1a [PMID: 23597791],Erythrocyte urea transporter,982,SLC14A1,Q13336,ENSG00000141469,Human,False,Inhibitor,Inhibition,True,7.960000038146973,pIC50,23597791
+11156,compound 8ay [PMID: 29589443],Erythrocyte urea transporter,982,Slc14a1,P97689,ENSRNOG00000016753,Rat,False,Inhibitor,Inhibition,False,5.699999809265137,pIC50,29589443
+14091,compound E3,Erythrocyte urea transporter,982,Slc14a1,Q8VHL0,ENSMUSG00000059336,Mouse,False,Inhibitor,Inhibition,False,7.320000171661377,pIC50,40299675|40523902
+14091,compound E3,Erythrocyte urea transporter,982,Slc14a1,P97689,ENSRNOG00000016753,Rat,False,Inhibitor,Inhibition,False,8.119999885559082,pIC50,40299675|40523902
+14091,compound E3,Erythrocyte urea transporter,982,SLC14A1,Q13336,ENSG00000141469,Human,False,Inhibitor,Inhibition,False,7.599999904632568,pIC50,40299675|40523902
+4631,DL-TBOA,Excitatory amino acid transporter 1,868,SLC1A3,P43003,ENSG00000079215,Human,False,Inhibitor,Inhibition,False,5.0,pKB,9463476
+4609,UCPH-101,Excitatory amino acid transporter 1,868,SLC1A3,P43003,ENSG00000079215,Human,False,Inhibitor,Inhibition,False,6.9,pIC50,19161278
+4492,[<sup>3</sup>H]ETB-TBOA,Excitatory amino acid transporter 1,868,Slc1a3,P24942,ENSRNOG00000016163,Rat,False,,Binding,False,7.800000190734863,pKd,17047096
+4698,[<sup>3</sup>H]D-aspartic acid,Excitatory amino acid transporter 1,868,SLC1A3,P43003,ENSG00000079215,Human,False,,,False,,-,
+4534,[<sup>3</sup>H]L-aspartic acid,Excitatory amino acid transporter 1,868,SLC1A3,P43003,ENSG00000079215,Human,False,,,False,,-,
+4075,[<sup>3</sup>H]SYM2081,Excitatory amino acid transporter 1,868,SLC1A3,P43003,ENSG00000079215,Human,False,,,False,,-,
+12135,(R)-AS-1,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,Allosteric modulator,Positive,False,7.960000038146973,pEC50,35984707
+4571,dihydrokainate,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,Inhibitor,Inhibition,False,5.0,pKB,
+4631,DL-TBOA,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,Inhibitor,Inhibition,False,6.9,pKB,9463476
+4317,SYM2081,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,Inhibitor,Inhibition,False,5.5,pKB,9145919
+4573,threo-3-methylglutamate,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,Inhibitor,Inhibition,False,4.7,pKB,9145919
+4531,WAY-213613,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,Inhibitor,Inhibition,False,7.099999904632568,pIC50,16014807
+4492,[<sup>3</sup>H]ETB-TBOA,Excitatory amino acid transporter 2,869,Slc1a2,P31596,ENSRNOG00000005479,Rat,False,,Binding,False,7.800000190734863,pKd,17047096
+4698,[<sup>3</sup>H]D-aspartic acid,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,,,False,,-,
+4534,[<sup>3</sup>H]L-aspartic acid,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,,,False,,-,
+4075,[<sup>3</sup>H]SYM2081,Excitatory amino acid transporter 2,869,SLC1A2,P43004,ENSG00000110436,Human,False,,,False,,-,
+4631,DL-TBOA,Excitatory amino acid transporter 3,870,SLC1A1,P43005,ENSG00000106688,Human,False,Inhibitor,Inhibition,False,5.099999904632568,pIC50,11078189
+4625,L-&beta;-BA,Excitatory amino acid transporter 3,870,SLC1A1,P43005,ENSG00000106688,Human,False,Inhibitor,Inhibition,False,6.099999904632568,pKi,16183084
+4626,NBI-59159,Excitatory amino acid transporter 3,870,SLC1A1,P43005,ENSG00000106688,Human,False,Inhibitor,Inhibition,False,7.099999904632568,pIC50,17017964
+4492,[<sup>3</sup>H]ETB-TBOA,Excitatory amino acid transporter 3,870,Slc1a1,P51907,ENSRNOG00000014816,Rat,False,,Binding,False,6.5,pKd,17047096
+4698,[<sup>3</sup>H]D-aspartic acid,Excitatory amino acid transporter 3,870,SLC1A1,P43005,ENSG00000106688,Human,False,,,False,,-,
+4534,[<sup>3</sup>H]L-aspartic acid,Excitatory amino acid transporter 3,870,SLC1A1,P43005,ENSG00000106688,Human,False,,,False,,-,
+4631,DL-TBOA,Excitatory amino acid transporter 4,871,SLC1A6,P48664,ENSG00000105143,Human,False,Inhibitor,Inhibition,False,5.4,pKi,11677257
+4573,threo-3-methylglutamate,Excitatory amino acid transporter 4,871,SLC1A6,P48664,ENSG00000105143,Human,False,Inhibitor,Inhibition,False,4.3,pKi,11299317
+4492,[<sup>3</sup>H]ETB-TBOA,Excitatory amino acid transporter 4,871,Slc1a6,O35921,ENSRNOG00000007509,Rat,False,,Binding,False,7.900000095367432,pKd,17047096
+4698,[<sup>3</sup>H]D-aspartic acid,Excitatory amino acid transporter 4,871,SLC1A6,P48664,ENSG00000105143,Human,False,,,False,,-,
+4534,[<sup>3</sup>H]L-aspartic acid,Excitatory amino acid transporter 4,871,SLC1A6,P48664,ENSG00000105143,Human,False,,,False,,-,
+4631,DL-TBOA,Excitatory amino acid transporter 5,872,SLC1A7,O00341,ENSG00000162383,Human,False,Inhibitor,Inhibition,False,5.5,pKi,11677257
+4492,[<sup>3</sup>H]ETB-TBOA,Excitatory amino acid transporter 5,872,Slc1a7,,ENSRNOG00000011644,Rat,False,,Binding,False,7.599999904632568,pKd,17047096
+4698,[<sup>3</sup>H]D-aspartic acid,Excitatory amino acid transporter 5,872,SLC1A7,O00341,ENSG00000162383,Human,False,,,False,,-,
+4534,[<sup>3</sup>H]L-aspartic acid,Excitatory amino acid transporter 5,872,SLC1A7,O00341,ENSG00000162383,Human,False,,,False,,-,
+8801,compound 5k [PMID: 23528296],Fatty acid transport protein 1,1108,SLC27A1,Q6PCB7,ENSG00000130304,Human,False,Inhibitor,Inhibition,False,7.340000152587891,pIC50,23528296
+8810,compound 1l [PMID: 16644217],Fatty acid transport protein 4,1111,SLC27A4,Q6P1M0,ENSG00000167114,Human,False,Inhibitor,Inhibition,False,7.050000190734863,pIC50,16644217
+8416,LY2928057,Ferroportin,1194,SLC40A1,Q9NP59,ENSG00000138449,Human,False,Antibody,Binding,True,,-,
+11183,vamifeport,Ferroportin,1194,Slc40a1,Q9JHI9,ENSMUSG00000025993,Mouse,False,Inhibitor,Antagonist,False,8.050000190734863,pIC50,31638596
+4612,CI-966,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,6.599999904632568,pIC50,7851497
+14485,E2730,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,5.960000038146973,pIC50,37052238
+14485,E2730,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,6.150000095367432,pKd,37052238
+4756,LU32-176B,GAT1,929,Slc6a1,P31648,ENSMUSG00000030310,Mouse,False,Inhibitor,Inhibition,False,5.400000095367432,pIC50,15550575
+4669,NNC-711,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,7.400000095367432,pIC50,7851497
+6512,(R)-EF-1520,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,,pIC50,
+4583,(R/S) EF-1500,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,,pIC50,
+6513,(S)-EF-1520,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,,pIC50,
+4705,SKF89976A,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,6.900000095367432,pIC50,
+4685,[<sup>3</sup>H]tiagabine,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,False,Inhibitor,Inhibition,False,,-,
+4818,tiagabine,GAT1,929,SLC6A1,P30531,ENSG00000157103,Human,True,Inhibitor,Inhibition,True,7.199999809265137,pIC50,7851497
+4677,SNAP-5114,GAT2,930,Slc6a13,P31646,ENSRNOG00000012876,Rat,False,Inhibitor,Inhibition,False,4.699999809265137,pIC50,7874447
+4677,SNAP-5114,GAT3,931,,,,,False,Inhibitor,Inhibition,False,5.179999828338623,pIC50,7874447
+8845,S-4048,Glucose-6-phosphate transporter,1168,Slc37a4,,ENSRNOG00000011361,Rat,False,Inhibitor,Inhibition,False,8.699999809265137,pIC50,
+8885,compound 30 [PMID: 22468970],Glucose transporter  1,875,SLC2A1,P11166,ENSG00000117394,Human,False,Allosteric modulator,Negative,False,5.699999809265137,pIC50,22468970
+4643,[<sup>3</sup>H]2-deoxyglucose,Glucose transporter  1,875,SLC2A1,P11166,ENSG00000117394,Human,False,,,False,,-,
+4643,[<sup>3</sup>H]2-deoxyglucose,Glucose transporter  2,876,SLC2A2,P11168,ENSG00000163581,Human,False,,,False,,-,
+4643,[<sup>3</sup>H]2-deoxyglucose,Glucose transporter  3,877,SLC2A3,P11169,ENSG00000059804,Human,False,,,False,,-,
+4643,[<sup>3</sup>H]2-deoxyglucose,Glucose transporter  4,878,SLC2A4,P14672,ENSG00000181856,Human,False,,,False,,-,
+11296,ASP2535,GlyT1,935,Slc6a9,P28572,ENSRNOG00000019484,Rat,False,Inhibitor,Inhibition,False,7.039999961853027,pIC50,22542656
+7546,bitopertin,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,7.329999923706055,pKi,30080045
+7546,bitopertin,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,True,7.519999980926514,pEC50,20491477
+10064,GlyT1 inhibitor 27a,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,True,9.100000381469728,pKi,30080045
+10065,GlyT1 inhibitor 51b,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,True,7.739999771118164,pKi,30080045
+4598,GSK931145,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,7.6,pIC50,
+12110,iclepertin,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,8.300000190734863,pIC50,30136756
+12110,iclepertin,GlyT1,935,Slc6a9,P28572,ENSRNOG00000019484,Rat,False,Inhibitor,Inhibition,False,8.279999732971191,pIC50,30136756
+4712,LY2365109,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,7.800000190734863,pIC50,18602930
+4604,N-methyl-SSR504734,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,8.6,pIC50,
+4600,Org 24598,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,8.199999809265137,pIC50,11454468
+9057,PF-03463275,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,True,7.940000057220459,pKi,19410451
+4618,(R)-NFPS,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,,pIC50,18602930
+4778,SSR-103800,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,Inhibitor,Inhibition,False,8.699999809265137,pIC50,18621075
+4584,[<sup>35</sup>S]ACPPB,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,,Binding,False,8.699999809265137,pKd,18355687
+4490,[<sup>3</sup>H]GSK931145,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,,Binding,False,8.800000190734863,pKd,20691713
+4602,[<sup>3</sup>H](R)-NPTS,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,,Binding,False,9.0,pKd,12657266
+4491,[<sup>3</sup>H]SB-733993,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,,Binding,False,8.699999809265137,pKd,20691713
+4619,[<sup>3</sup>H]NFPS,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,,,False,,pKd,
+4603,[<sup>3</sup>H]N-methyl-SSR504734,GlyT1,935,SLC6A9,P48067,ENSG00000196517,Human,False,,,False,,pKd,
+4622,ALX 1393,GlyT2,936,SLC6A5,Q9Y345,ENSG00000165970,Human,False,Inhibitor,Inhibition,False,7.0,pIC50,23962079
+4767,ALX 1405,GlyT2,936,SLC6A5,Q9Y345,ENSG00000165970,Human,False,Inhibitor,Inhibition,False,,-,
+7546,bitopertin,GlyT2,936,SLC6A5,Q9Y345,ENSG00000165970,Human,False,Inhibitor,Inhibition,False,4.519999980926514,pEC50,20491477
+11297,GT-0198,GlyT2,936,SLC6A5,Q9Y345,ENSG00000165970,Human,False,Inhibitor,Inhibition,False,8.800000190734863,pIC50,25837937
+11298,opiranserin,GlyT2,936,SLC6A5,Q9Y345,ENSG00000165970,Human,False,Inhibitor,Inhibition,False,6.070000171661377,pIC50,28815639
+4667,Org 25543,GlyT2,936,SLC6A5,Q9Y345,ENSG00000165970,Human,False,Inhibitor,Inhibition,False,7.800000190734863,pIC50,11495577
+14499,RPI-GLYT2-82,GlyT2,936,SLC6A5,Q9Y345,ENSG00000165970,Human,False,Inhibitor,Inhibition,False,6.260000228881836,pIC50,41986873
+4589,DIOA,K-Cl cotransporter 1,971,SLC12A4,Q9UP95,ENSG00000124067,Human,False,Inhibitor,Inhibition,False,,-,
+4589,DIOA,K-Cl cotransporter 2,972,SLC12A5,Q9H2X9,ENSG00000124140,Human,False,Inhibitor,Inhibition,False,,-,
+4665,VU0240551,K-Cl cotransporter 2,972,SLC12A5,Q9H2X9,ENSG00000124140,Human,False,Inhibitor,Inhibition,False,6.25,pIC50,19279215
+4589,DIOA,K-Cl cotransporter 3,973,SLC12A6,Q9UHW9,ENSG00000140199,Human,False,Inhibitor,Inhibition,False,,-,
+4589,DIOA,K-Cl cotransporter 4,974,SLC12A7,Q9Y666,ENSG00000113504,Human,False,Inhibitor,Inhibition,False,,-,
+4837,bumetanide,Kidney-specific Na-K-Cl symporter,968,SLC12A1,Q13621,ENSG00000074803,Human,True,Inhibitor,Inhibition,True,6.480000019073486,pIC50,11882915
+4839,furosemide,Kidney-specific Na-K-Cl symporter,968,SLC12A1,Q13621,ENSG00000074803,Human,True,Inhibitor,Inhibition,True,5.150000095367432,pIC50,11882915
+4742,piretanide,Kidney-specific Na-K-Cl symporter,968,SLC12A1,Q13621,ENSG00000074803,Human,False,Inhibitor,Inhibition,False,5.96999979019165,pIC50,11882915
+11156,compound 8ay [PMID: 29589443],Kidney urea transporter,983,Slc14a2,Q62668,ENSRNOG00000061714,Rat,False,Inhibitor,Inhibition,False,6.820000171661377,pIC50,29589443
+14091,compound E3,Kidney urea transporter,983,SLC14A2,Q15849,ENSG00000132874,Human,False,Inhibitor,Inhibition,False,7.71999979019165,pIC50,40299675|40523902
+9347,KYT-0353,L-type amino acid transporter 1,896,SLC7A5,Q01650,ENSG00000103257,Human,False,Inhibitor,Inhibition,True,,-,19900191
+1231,cimetidine,MATE2,1217,SLC47A2,Q86VL8,ENSG00000180638,Human,True,Inhibitor,Inhibition,False,5.1,pKi,19164462
+4800,pyrimethamine,MATE2,1217,Slc47a2,Q3V050,ENSMUSG00000069855,Mouse,True,Inhibitor,Inhibition,False,6.3,pKi,20065018
+4503,[<sup>14</sup>C]metformin,MATE2,1217,SLC47A2,Q86VL8,ENSG00000180638,Human,False,,,False,,-,17509534
+4575,[<sup>14</sup>C]TEA,MATE2,1217,SLC47A2,Q86VL8,ENSG00000180638,Human,False,,,False,,-,17509534
+4689,bongkrek acid,Mitochondrial adenine nucleotide translocator 1,1062,SLC25A4,P12235,ENSG00000151729,Human,False,Inhibitor,Inhibition,False,,-,
+4572,carboxyatractyloside,Mitochondrial adenine nucleotide translocator 1,1062,SLC25A4,P12235,ENSG00000151729,Human,False,Inhibitor,Inhibition,False,,-,
+4701,"1,2,3-benzenetricarboxylic acid",Mitochondrial citrate transporter,1051,SLC25A1,P53007,ENSG00000100075,Human,False,Inhibitor,Inhibition,False,,-,
+12853,CTPI-2,Mitochondrial citrate transporter,1051,SLC25A1,P53007,ENSG00000100075,Human,False,Inhibitor,Inhibition,False,5.460000038146973,pKd,29651165
+11300,&alpha;-cyano-4-hydroxycinnamate,mitochondrial pyruvate carrier 1,3022,Mpc1,P63031,ENSRNOG00000012415,Rat,False,Inhibitor,Inhibition,False,5.820000171661377,pIC50,1156402
+11301,"&alpha;-Cyano-5-phenyl-2,4-pentadienic acid",mitochondrial pyruvate carrier 1,3022,Mpc1,P63031,ENSRNOG00000012415,Rat,False,Inhibitor,Inhibition,False,6.699999809265137,pIC50,1156402
+11299,&alpha;-cyanocinnamate,mitochondrial pyruvate carrier 1,3022,Mpc1,P63031,ENSRNOG00000012415,Rat,False,Inhibitor,Inhibition,False,6.699999809265137,pIC50,1156402
+11303,mitoglitazone,mitochondrial pyruvate carrier 1,3022,Mpc1,P63030,ENSMUSG00000023861,Mouse,False,Inhibitor,Inhibition,False,5.889999866485596,pIC50,23513224
+11302,UK-5099,mitochondrial pyruvate carrier 1,3022,Mpc1,P63031,ENSRNOG00000012415,Rat,False,Inhibitor,Inhibition,False,7.300000190734863,pIC50,1156402
+6647,entacapone,mitochondrial pyruvate carrier 1 like,3024,MPC1L,P0DKB6,ENSG00000238205,Human,True,Inhibitor,Inhibition,False,6.199999809265137,pIC50,35278701
+12601,lonidamine,mitochondrial pyruvate carrier 1 like,3024,MPC1L,P0DKB6,ENSG00000238205,Human,False,Inhibitor,Inhibition,False,5.340000152587891,pIC50,35278701
+11303,mitoglitazone,mitochondrial pyruvate carrier 1 like,3024,MPC1L,P0DKB6,ENSG00000238205,Human,False,Inhibitor,Inhibition,False,5.570000171661377,pIC50,35278701
+10917,nitrofurantoin,mitochondrial pyruvate carrier 1 like,3024,MPC1L,P0DKB6,ENSG00000238205,Human,True,Inhibitor,Inhibition,False,5.480000019073486,pIC50,35278701
+11302,UK-5099,mitochondrial pyruvate carrier 1 like,3024,MPC1L,P0DKB6,ENSG00000238205,Human,False,Inhibitor,Inhibition,False,7.28000020980835,pIC50,35278701
+2919,zaprinast,mitochondrial pyruvate carrier 1 like,3024,MPC1L,P0DKB6,ENSG00000238205,Human,False,Inhibitor,Inhibition,False,6.489999771118164,pIC50,35278701
+11300,&alpha;-cyano-4-hydroxycinnamate,mitochondrial pyruvate carrier 2,3023,Mpc2,P38718,ENSRNOG00000003150,Rat,False,Inhibitor,Inhibition,False,5.820000171661377,pIC50,1156402
+11301,"&alpha;-Cyano-5-phenyl-2,4-pentadienic acid",mitochondrial pyruvate carrier 2,3023,Mpc2,P38718,ENSRNOG00000003150,Rat,False,Inhibitor,Inhibition,False,6.699999809265137,pIC50,1156402
+11299,&alpha;-cyanocinnamate,mitochondrial pyruvate carrier 2,3023,Mpc2,P38718,ENSRNOG00000003150,Rat,False,Inhibitor,Inhibition,False,6.699999809265137,pIC50,1156402
+6647,entacapone,mitochondrial pyruvate carrier 2,3023,MPC2,O95563,ENSG00000143158,Human,True,Inhibitor,Inhibition,False,6.21999979019165,pIC50,35278701
+12601,lonidamine,mitochondrial pyruvate carrier 2,3023,Mpc2,P38718,ENSRNOG00000003150,Rat,False,Inhibitor,Inhibition,False,5.599999904632568,pIC50,26831515
+12601,lonidamine,mitochondrial pyruvate carrier 2,3023,MPC2,O95563,ENSG00000143158,Human,False,Inhibitor,Inhibition,False,5.340000152587891,pIC50,35278701
+11303,mitoglitazone,mitochondrial pyruvate carrier 2,3023,Mpc2,Q9D023,ENSMUSG00000026568,Mouse,False,Inhibitor,Inhibition,False,5.889999866485596,pIC50,23513224
+10917,nitrofurantoin,mitochondrial pyruvate carrier 2,3023,MPC2,O95563,ENSG00000143158,Human,True,Inhibitor,Inhibition,False,5.480000019073486,pIC50,35278701
+11302,UK-5099,mitochondrial pyruvate carrier 2,3023,Mpc2,P38718,ENSRNOG00000003150,Rat,False,Inhibitor,Inhibition,False,7.300000190734863,pIC50,1156402
+11302,UK-5099,mitochondrial pyruvate carrier 2,3023,MPC2,O95563,ENSG00000143158,Human,False,Inhibitor,Inhibition,False,7.28000020980835,pIC50,35278701
+2919,zaprinast,mitochondrial pyruvate carrier 2,3023,MPC2,O95563,ENSG00000143158,Human,False,Inhibitor,Inhibition,False,6.519999980926514,pIC50,35278701
+10605,AZD3965,Monocarboxylate transporter 1,988,SLC16A1,P53985,ENSG00000155380,Human,False,Inhibitor,Inhibition,False,8.489999771118164,pKi,29050199
+8813,compound 30 [PMID: 16455256],Monocarboxylate transporter 1,988,SLC16A1,P53985,ENSG00000155380,Human,False,Inhibitor,Inhibition,False,8.319999694824219,pKi,16455256
+10405,BAY-8002,Monocarboxylate transporter 1,988,SLC16A1,P53985,ENSG00000155380,Human,False,Inhibitor,,False,8.300000190734863,pKi,30115664
+10405,BAY-8002,Monocarboxylate transporter 1,988,SLC16A1,P53985,ENSG00000155380,Human,False,Inhibitor,,False,9.0,pIC50,30115664
+8818,7ACC2,Monocarboxylate transporter 2,990,SLC16A7,O60669,ENSG00000118596,Human,False,Inhibitor,Inhibition,False,7.960000038146973,pIC50,24095010
+10605,AZD3965,Monocarboxylate transporter 2,990,SLC16A7,O60669,ENSG00000118596,Human,False,Inhibitor,Inhibition,False,7.699999809265137,pKi,29050199
+10405,BAY-8002,Monocarboxylate transporter 2,990,SLC16A7,O60669,ENSG00000118596,Human,False,Inhibitor,,False,8.300000190734863,pIC50,30115664
+11735,compound 18n [PMID: 34382802],Monocarboxylate transporter 4,989,SLC16A3,O15427,ENSG00000141526,Human,False,Inhibitor,Inhibition,False,9.0,pIC50,34382802
+1231,cimetidine,Multidrug and toxin extrusion,1216,SLC47A1,Q96FL8,ENSG00000142494,Human,True,Inhibitor,Inhibition,False,6.0,pKi,19164462
+4800,pyrimethamine,Multidrug and toxin extrusion,1216,SLC47A1,Q96FL8,ENSG00000142494,Human,True,Inhibitor,Inhibition,False,7.099999904632568,pKi,20065018
+4503,[<sup>14</sup>C]metformin,Multidrug and toxin extrusion,1216,SLC47A1,Q96FL8,ENSG00000142494,Human,False,,,False,,-,17509534|16850272
+4575,[<sup>14</sup>C]TEA,Multidrug and toxin extrusion,1216,SLC47A1,Q96FL8,ENSG00000142494,Human,False,,,False,,-,16330770|16850272
+4835,chlorothiazide,Na-Cl symporter,970,SLC12A3,P55017,ENSG00000070915,Human,True,Inhibitor,Inhibition,True,,-,
+4167,cyclothiazide,Na-Cl symporter,970,SLC12A3,P55017,ENSG00000070915,Human,True,Inhibitor,Inhibition,True,,-,
+4836,hydrochlorothiazide,Na-Cl symporter,970,SLC12A3,P55017,ENSG00000070915,Human,True,Inhibitor,Inhibition,True,,-,
+4838,metolazone,Na-Cl symporter,970,SLC12A3,P55017,ENSG00000070915,Human,True,Inhibitor,Inhibition,True,,-,
+11242,BI01383298,Na<sup>+</sup>/citrate cotransporter,981,SLC13A5,Q86YT5,ENSG00000141485,Human,False,Inhibitor,Inhibition,False,7.25,pIC50,
+12852,compound 7 [PMID: 37428122],Na<sup>+</sup>/citrate cotransporter,981,SLC13A5,Q86YT5,ENSG00000141485,Human,False,Inhibitor,Inhibition,False,7.300000190734863,pIC50,37428122
+12851,ETG-5773,Na<sup>+</sup>/citrate cotransporter,981,SLC13A5,Q86YT5,ENSG00000141485,Human,False,Inhibitor,Inhibition,False,6.800000190734863,pIC50,36005604
+12849,PF-06649298,Na<sup>+</sup>/citrate cotransporter,981,SLC13A5,Q86YT5,ENSG00000141485,Human,False,Inhibitor,Inhibition,False,6.400000095367432,pIC50,26620127
+12850,PF-06761281,Na<sup>+</sup>/citrate cotransporter,981,SLC13A5,Q86YT5,ENSG00000141485,Human,False,Inhibitor,Inhibition,False,6.289999961853027,pIC50,26734723
+200,amitriptyline,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,6.480000019073486,pKi,23602445
+201,amoxapine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.889999866485596,pKi,
+7118,atomoxetine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.6899995803833,pKd,9871604
+7135,bupropion,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,6.360000133514404,pKi,19442525
+7547,citalopram,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,3.0,pKi,23168018
+2398,clomipramine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.420000076293945,pKd,9537821
+2399,desipramine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.680000305175781,pKi,20462211
+7158,desvenlafaxine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,6.190000057220459,pKi,24900709
+2147,dexamfetamine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.0,pKi,23602445
+7554,dexmethylphenidate,NET,926,Slc6a2,,ENSRNOG00000016311,Rat,True,Inhibitor,Inhibition,False,6.570000171661377,pKi,17489581
+7549,dosulepin,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.340000152587891,pKi,9537821
+1225,doxepin,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.539999961853027,pKi,
+202,duloxetine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.220000267028809,pKi,23084899
+9880,H05,NET,926,Slc6a2,,ENSRNOG00000016311,Rat,False,Inhibitor,Inhibition,False,8.170000076293945,pKi,29615471
+357,imipramine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.800000190734863,pKi,
+7545,<i>N</i>-desalkylquetiapine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,False,Inhibitor,Inhibition,False,7.920000076293945,pKi,18059438
+7435,levomilnacipran,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.400000095367432,pIC50,18468895
+7551,lofepramine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.270000457763672,pKi,9537821
+2402,maprotiline,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.920000076293945,pKi,19836247
+4797,mazindol,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,8.899999618530273,pKi,
+7236,methylphenidate,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,7.210000038146973,pIC50,
+135,mianserin,NET,926,Slc6a2,,ENSRNOG00000016311,Rat,True,Inhibitor,Inhibition,False,7.590000152587891,pKi,6747993
+7436,milnacipran,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,9.100000381469728,pIC50,23347683
+7247,nefazodone,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,6.440000057220459,pKd,9871604
+4637,nisoxetine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,False,Inhibitor,Inhibition,False,8.399999618530273,pKi,
+4792,nomifensine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.100000381469727,pKi,
+2404,nortriptyline,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.199999809265137,pKi,10715164
+7537,norzotepine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,False,Inhibitor,Inhibition,False,7.960000038146973,pIC50,20223878
+7266,phenelzine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,5.0,pKi,9537821
+7285,protriptyline,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.770000457763672,pIC50,22420844
+7285,protriptyline,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.850000381469727,pKd,9537821
+7285,protriptyline,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.170000076293945,pKi,18983139
+50,quetiapine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,6.03000020980835,pKi,18059438
+4808,reboxetine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,8.0,pKi,10812041
+2586,sibutramine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,5.25,pKi,
+10342,solriamfetol,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,5.360000133514404,pIC50,29891587
+10342,solriamfetol,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,5.429999828338623,pKi,29891587
+4591,[<sup>3</sup>H]mazindol,NET,926,Slc6a2,,ENSRNOG00000016311,Rat,False,Inhibitor,Inhibition,False,9.300000190734863,pKd,15300361
+4636,[<sup>3</sup>H]nisoxetine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,False,Inhibitor,Inhibition,False,8.399999618530273,pKd,
+7477,tapentadol,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,5.059999942779541,pKi,17656655
+12766,toludesvenlafaxine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,6.119999885559082,pIC50,31617718
+7317,trimipramine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,5.610000133514404,pKi,9537821
+7321,venlafaxine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,True,6.269999980926514,pIC50,20378347
+59,ziprasidone,NET,926,Slc6a2,,ENSRNOG00000016311,Rat,True,Inhibitor,Inhibition,False,7.320000171661377,pKi,18595716
+103,zotepine,NET,926,SLC6A2,P23975,ENSG00000103546,Human,True,Inhibitor,Inhibition,False,7.150000095367432,pIC50,20223878
+6816,ezetimibe,NPC1 like intracellular cholesterol transporter 1,2629,NPC1L1,Q9UHC9,ENSG00000015520,Human,True,Antagonist,Inhibition,True,6.659999847412109,pKd,15928087
+4738,naringin,OATP1A2,1219,SLCO1A2,P46721,ENSG00000084453,Human,False,Inhibitor,Inhibition,False,,-,17301733
+2765,rifampicin,OATP1A2,1219,SLCO1A2,P46721,ENSG00000084453,Human,True,Inhibitor,Inhibition,False,4.289999961853027,pKi,12085361
+4570,rifamycin SV,OATP1A2,1219,SLCO1A2,P46721,ENSG00000084453,Human,True,Inhibitor,Inhibition,False,4.960000038146973,pKi,12085361
+4505,[<sup>3</sup>H]BSP,OATP1A2,1219,SLCO1A2,P46721,ENSG00000084453,Human,False,,,False,,-,
+3819,[<sup>3</sup>H]DPDPE,OATP1A2,1219,SLCO1A2,P46721,ENSG00000084453,Human,False,,,False,,-,
+4748,[<sup>3</sup>H]estrone-3-sulphate,OATP1A2,1219,SLCO1A2,P46721,ENSG00000084453,Human,False,,,False,,-,
+1024,cyclosporin A,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,True,Inhibitor,Inhibition,False,7.289999961853027,pKi,14530907|22541068
+4749,estrone-3-sulphate,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,True,Inhibitor,Inhibition,False,7.21999979019165,pIC50,20448812
+3439,gemfibrozil,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,True,Inhibitor,Inhibition,False,,-,17470528
+4688,glycyrrhizin,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,False,Inhibitor,Inhibition,False,,-,
+4844,indocyanine green,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,False,Inhibitor,Inhibition,False,,-,
+2765,rifampicin,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,True,Inhibitor,Inhibition,False,5.960000038146973,pKi,22541068
+4570,rifamycin SV,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,True,Inhibitor,Inhibition,False,5.699999809265137,pKi,12085361
+13593,sarsagenin,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,False,Inhibitor,Inhibition,False,6.889999866485596,pKi,23571415
+2953,pravastatin,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,True,,Binding,False,,-,
+4687,[<sup>3</sup>H]estradiol-17&beta;-glucuronide,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,False,,,False,,-,
+4748,[<sup>3</sup>H]estrone-3-sulphate,OATP1B1,1220,SLCO1B1,Q9Y6L6,ENSG00000134538,Human,False,,,False,,-,
+1024,cyclosporin A,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,True,Inhibitor,Inhibition,False,6.099999904632568,pIC50,17496208|22541068
+3439,gemfibrozil,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,True,Inhibitor,Inhibition,False,,-,
+4688,glycyrrhizin,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,False,Inhibitor,Inhibition,False,,-,
+2765,rifampicin,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,True,Inhibitor,Inhibition,False,5.800000190734863,pIC50,17496208|22541068
+4570,rifamycin SV,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,True,Inhibitor,Inhibition,False,,-,
+13593,sarsagenin,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,False,Inhibitor,Inhibition,False,7.099999904632568,pKi,23571415
+4743,sildenafil,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,True,Inhibitor,Inhibition,False,6.099999904632568,pIC50,17496208
+4505,[<sup>3</sup>H]BSP,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,False,,,False,,-,
+4765,"[<sup>3</sup>H]CCK-8 (human, mouse, rat)",OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,False,,,False,,-,
+4687,[<sup>3</sup>H]estradiol-17&beta;-glucuronide,OATP1B3,1221,SLCO1B3,Q9NPD5,ENSG00000111700,Human,False,,,False,,-,
+1608,DPDPE,OATP1C1,1222,SLCO1C1,Q9NYB5,ENSG00000139155,Human,False,Inhibitor,Inhibition,False,,-,
+4357,probenecid,OATP1C1,1222,SLCO1C1,Q9NYB5,ENSG00000139155,Human,True,Inhibitor,Inhibition,False,,-,
+4547,taurocholic acid,OATP1C1,1222,SLCO1C1,Q9NYB5,ENSG00000139155,Human,False,Inhibitor,Inhibition,False,,-,
+4627,[<sup>125</sup>I]thyroxine,OATP1C1,1222,SLCO1C1,Q9NYB5,ENSG00000139155,Human,False,,,False,,-,
+4505,[<sup>3</sup>H]BSP,OATP1C1,1222,SLCO1C1,Q9NYB5,ENSG00000139155,Human,False,,,False,,-,
+4748,[<sup>3</sup>H]estrone-3-sulphate,OATP1C1,1222,SLCO1C1,Q9NYB5,ENSG00000139155,Human,False,,,False,,-,
+4530,bromocresol green,OATP2A1,1223,Slco2a1,Q00910,ENSRNOG00000009005,Rat,False,Inhibitor,Inhibition,False,5.440000057220459,pKi,7754369
+4506,bromsulphthalein,OATP2A1,1223,Slco2a1,Q00910,ENSRNOG00000009005,Rat,False,Inhibitor,Inhibition,False,5.239999771118164,pKi,7754369
+1916,[<sup>3</sup>H]PGE<sub>2</sub>,OATP2A1,1223,SLCO2A1,Q92959,ENSG00000174640,Human,False,,Binding,False,,-,9506966
+4920,erlotinib,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,True,Inhibitor,Inhibition,False,6.28000020980835,pKi,22541068
+3439,gemfibrozil,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,True,Inhibitor,Inhibition,False,,-,
+2414,glibenclamide,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,True,Inhibitor,Inhibition,False,,-,
+4570,rifamycin SV,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,True,Inhibitor,Inhibition,False,,-,
+4743,sildenafil,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,True,Inhibitor,Inhibition,False,,-,17496208
+6193,verlukast,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,False,Inhibitor,Inhibition,False,5.550000190734863,pKi,22541068
+4505,[<sup>3</sup>H]BSP,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,False,,,False,,-,
+4748,[<sup>3</sup>H]estrone-3-sulphate,OATP2B1,1224,SLCO2B1,O94956,ENSG00000137491,Human,False,,,False,,-,
+4748,[<sup>3</sup>H]estrone-3-sulphate,OATP3A1,1225,SLCO3A1,Q9UIG8,ENSG00000176463,Human,False,,,False,,-,
+1916,[<sup>3</sup>H]PGE<sub>2</sub>,OATP3A1,1225,SLCO3A1,Q9UIG8,ENSG00000176463,Human,False,,,False,,-,
+4748,[<sup>3</sup>H]estrone-3-sulphate,OATP4A1,1226,SLCO4A1,Q96BD0,ENSG00000101187,Human,False,,,False,,-,
+4725,[<sup>3</sup>H]digoxin,OATP4C1,1227,SLCO4C1,Q6ZQN7,ENSG00000173930,Human,False,,,False,,-,
+4357,probenecid,Organic anion transporter 1,1025,SLC22A6,Q4U2R8,ENSG00000197901,Human,True,Inhibitor,Inhibition,True,4.900000095367432,pIC50,12472777
+8798,cefalotin,Organic anion transporter 3,1027,SLC22A8,Q8TCC7,ENSG00000149452,Human,True,Inhibitor,Inhibition,False,7.590000152587891,pIC50,11909604
+13271,NPT520-34,Organic anion transporter 3,1027,SLC22A8,Q8TCC7,ENSG00000149452,Human,False,Inhibitor,Inhibition,False,6.599999904632568,pIC50,34117864
+8798,cefalotin,Organic anion transporter 4,1030,SLC22A11,Q9NSA0,ENSG00000168065,Human,True,Inhibitor,Inhibition,False,6.699999809265137,pKi,11909604
+516,clonidine,Organic cation transporter 1,1019,SLC22A1,O15245,ENSG00000175003,Human,True,Inhibitor,Inhibition,False,6.260000228881836,pKi,9655880
+8482,decynium 22,Organic cation transporter 2,1020,SLC22A2,O15244,ENSG00000112499,Human,False,Inhibitor,Inhibition,False,7.0,pKi,9260930
+8826,disprocynium24,Organic cation transporter 3,1021,SLC22A3,O75751,ENSG00000146477,Human,False,Inhibitor,Inhibition,False,7.820000171661377,pKi,10196521
+4702,4-AMBA,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,Inhibitor,Inhibition,False,2.299999952316284,pKi,15930458|9882198|19789362
+4499,Lys[Z(NO<sub>2</sub>)]-Lys[Z(NO<sub>2</sub>)],Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,Inhibitor,Inhibition,False,4.900000095367432,pKi,16868651
+4498,Lys[Z(NO<sub>2</sub>)]-Pro,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,Inhibitor,Inhibition,False,,pKi,11284702
+9486,Lys[Z(NO<sub>2</sub>)]-Val,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,Inhibitor,Inhibition,False,5.699999809265137,pKi,14706812|36697632
+11370,"(3,5)-[<sup>19</sup>F]<sub>2</sub>-Phe-&psi;-Ala",Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,32622809
+12598,glycyl-[<sup>13</sup>C<sub>3</sub>]-sarcosine,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,34371711
+4489,[<sup>11</sup>C]GlySar,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,18344442
+4599,[<sup>14</sup>C]GlySar,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,11284702|7592745|9610386|27543355|11454935|9374833|15567297|18713951|9379359|9753615|18824524|9092716|10578127|10748266|15974593|8843163|30135242
+11367,[<sup>18</sup>F]FEPPG,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,32024310
+4659,[<sup>3</sup>H]GlySar,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,9706043|22950754|16627568|8956326|20660104|11714740|12538834|16434549|11602669|27903454
+11368,[<sup>3</sup>H]-IPP,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,28315445|29684535
+11369,[<sup>3</sup>H]-LKP,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,28315445|29684535
+12597,[<sup>3</sup>H]mirogabalin,Peptide transporter 1,984,SLC15A1,P46059,ENSG00000088386,Human,False,,,False,,-,36170033
+4702,4-AMBA,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,Inhibitor,Inhibition,False,2.5,pKi,16868651|11751927
+4499,Lys[Z(NO<sub>2</sub>)]-Lys[Z(NO<sub>2</sub>)],Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,Inhibitor,Inhibition,False,8.0,pKi,16868651|11751927
+4498,Lys[Z(NO<sub>2</sub>)]-Pro,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,Inhibitor,Inhibition,False,6.199999809265137,pKi,16868651|11751927
+9486,Lys[Z(NO<sub>2</sub>)]-Val,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,Inhibitor,Inhibition,False,7.0,pKi,16868651|11751927
+11370,"(3,5)-[<sup>19</sup>F]<sub>2</sub>-Phe-&psi;-Ala",Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,,,False,,-,32622809
+12599,"Ac-[<sup>13</sup>C,<sup>15</sup>N]PGP",Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,,,False,,-,33830084
+4489,[<sup>11</sup>C]GlySar,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,,,False,,-,15781409
+4599,[<sup>14</sup>C]GlySar,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,,,False,,-,7592745|9610386|11454935|9374833|15567297|18713951|18824524|9092716|10578127|10748266|24548120|14715149|7756356
+11367,[<sup>18</sup>F]FEPPG,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,,,False,,-,32024310
+4659,[<sup>3</sup>H]GlySar,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,,,False,,-,22950754|16434549|27903454|18367661|27836942|26494147
+12597,[<sup>3</sup>H]mirogabalin,Peptide transporter 2,985,SLC15A2,Q16348,ENSG00000163406,Human,False,,,False,,-,36170033
+4623,[<sup>14</sup>C]histidine,Peptide transporter 3,986,SLC15A3,Q8IY34,ENSG00000110446,Human,False,,,False,,-,11336635
+4670,[<sup>3</sup>H]histidine,Peptide transporter 3,986,SLC15A3,Q8IY34,ENSG00000110446,Human,False,,,False,,-,11336635
+13090,AJ2-30,Peptide transporter 4,987,SLC15A4,Q8N697,ENSG00000139370,Human,False,Inhibitor,Inhibition,False,5.739999771118164,pIC50,38191941
+4623,[<sup>14</sup>C]histidine,Peptide transporter 4,987,SLC15A4,Q8N697,ENSG00000139370,Human,False,,Binding,False,,-,9092568|27845049|29305823
+4670,[<sup>3</sup>H]histidine,Peptide transporter 4,987,SLC15A4,Q8N697,ENSG00000139370,Human,False,,,False,,-,16289537|27543355|22950754|27845049
+1231,cimetidine,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,True,Inhibitor,Inhibition,False,3.299999952316284,pKi,16099839|27506881
+8482,decynium 22,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,False,Inhibitor,Inhibition,False,7.0,pKi,16099839|27506881
+2399,desipramine,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,True,Inhibitor,Inhibition,False,4.489999771118164,pKi,16099839|27506881
+4807,dipyridamole,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,True,Inhibitor,Inhibition,False,5.900000095367432,pKi,24021350
+203,fluoxetine,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,True,Inhibitor,Inhibition,False,4.639999866485596,pKi,16099839|27506881
+2342,quinidine,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,True,Inhibitor,Inhibition,False,4.599999904632568,pKi,16099839|27506881
+2510,quinine,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,True,Inhibitor,Inhibition,False,4.570000171661377,pKi,16099839|27506881
+4607,rhodamine123,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,False,Inhibitor,Inhibition,False,5.989999771118164,pKi,16099839|27506881
+2406,verapamil,Plasma membrane monoamine transporter,1120,SLC29A4,Q7RTT9,ENSG00000164638,Human,True,Inhibitor,Inhibition,False,4.730000019073486,pKi,16099839|27506881
+8520,compound 58 [PMID: 25037917],PROT,938,SLC6A7,Q99884,ENSG00000011083,Human,False,Inhibitor,Inhibition,True,7.739999771118164,pIC50,25037917
+4576,LP-403812,PROT,938,SLC6A7,Q99884,ENSG00000011083,Human,False,Inhibitor,Inhibition,False,7.0,pIC50,19159658
+1013,17&beta;-estradiol,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,True,Inhibitor,Inhibition,False,,pIC50,32835702
+4671,5-hydroxy-L-tryptophan,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,False,Inhibitor,Inhibition,False,3.0,pKi,16126914
+5,5-hydroxytryptamine,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,False,Inhibitor,Inhibition,False,2.2,pKi,16126914
+2714,diclofenac,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,True,Inhibitor,Inhibition,False,3.569999933242798,pIC50,39861697
+7071,ethinylestradiol,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,True,Inhibitor,Inhibition,False,,pIC50,32835702
+4194,flurbiprofen,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,True,Inhibitor,Inhibition,False,3.549999952316284,pIC50,39861697
+2713,ibuprofen,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,True,Inhibitor,Inhibition,False,3.0199999809265137,pIC50,39861697
+4709,indole-3-propionic acid,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,False,Inhibitor,Inhibition,False,2.3,pKi,16126914
+717,L-tryptophan,Proton-coupled Amino acid Transporter 1,1161,SLC36A1,Q7Z2H8,ENSG00000123643,Human,False,Inhibitor,Inhibition,False,2.3,pKi,16126914
+4671,5-hydroxy-L-tryptophan,Proton-coupled Amino acid Transporter 2,1162,SLC36A2,Q495M3,ENSG00000186335,Human,False,Inhibitor,Inhibition,False,2.8,pIC50,20691150
+4693,"&alpha;-methyl-D,L-tryptophan",Proton-coupled Amino acid Transporter 2,1162,SLC36A2,Q495M3,ENSG00000186335,Human,False,Inhibitor,Inhibition,False,2.5,pIC50,20691150
+1909,indomethacin,Proton-coupled folate transporter,1213,SLC46A1,Q96NT5,ENSG00000076351,Human,True,Inhibitor,Inhibition,False,3.7,pIC50,17129779
+4840,sulfasalazine,Proton-coupled folate transporter,1213,SLC46A1,Q96NT5,ENSG00000076351,Human,True,Inhibitor,Inhibition,False,4.2,pIC50,17129779
+6690,[<sup>3</sup>H]folinic acid,Proton-coupled folate transporter,1213,SLC46A1,Q96NT5,ENSG00000076351,Human,False,,Binding,False,,-,
+6689,[<sup>3</sup>H]N<sup>5</sup>-methylfolate,Proton-coupled folate transporter,1213,SLC46A1,Q96NT5,ENSG00000076351,Human,False,,Binding,False,,-,
+6688,[<sup>3</sup>H]pemetrexed,Proton-coupled folate transporter,1213,SLC46A1,Q96NT5,ENSG00000076351,Human,False,,Binding,False,,-,
+4562,[<sup>3</sup>H]folic acid,Proton-coupled folate transporter,1213,SLC46A1,Q96NT5,ENSG00000076351,Human,False,,,False,,-,
+4674,[<sup>3</sup>H]methotrexate,Proton-coupled folate transporter,1213,SLC46A1,Q96NT5,ENSG00000076351,Human,False,,,False,,-,
+8890,compound 9 [PMID: 15615544],Reduced folate transporter 1,1014,SLC19A1,P41440,ENSG00000173638,Human,False,Inhibitor,Inhibition,False,6.550000190734863,pKi,15615544
+4815,methotrexate,Reduced folate transporter 1,1014,SLC19A1,P41440,ENSG00000173638,Human,True,Inhibitor,Inhibition,False,5.329999923706055,pKi,15615544
+4562,[<sup>3</sup>H]folic acid,Reduced folate transporter 1,1014,SLC19A1,P41440,ENSG00000173638,Human,False,,,False,,-,9525913
+4674,[<sup>3</sup>H]methotrexate,Reduced folate transporter 1,1014,SLC19A1,P41440,ENSG00000173638,Human,False,,,False,,-,9525913
+12968,CDN1163,SERCA1,840,,,,Rabbit,False,Allosteric modulator,Activation,False,5.21999979019165,pEC50,34297466
+8822,TGN4,SERCA1,840,ATP2A1,O14983,ENSG00000196296,Human,False,Allosteric modulator,Negative,False,8.920000076293945,pIC50,15828839
+200,amitriptyline,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,6.849999904632568,pKi,23602445
+201,amoxapine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.739999771118164,pKi,
+7118,atomoxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,False,8.050000190734863,pKd,9871604
+7547,citalopram,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.359999656677246,pKi,18487050
+2398,clomipramine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,9.550000190734863,pKd,9537821
+2398,clomipramine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,9.68000030517578,pKi,9537821
+7901,dapoxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.949999809265137,pIC50,
+2399,desipramine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,6.789999961853027,pKi,9400006
+2399,desipramine,SERT,928,Slc6a4,P31652,ENSRNOG00000003476,Rat,True,Inhibitor,Inhibition,False,7.699999809265137,pKi,20945906
+7158,desvenlafaxine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.820000171661377,pKi,24900709
+7549,dosulepin,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.069999694824219,pKi,9537821
+1225,doxepin,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.170000076293945,pKi,9537821
+202,duloxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.300000190734863,pKi,18387300
+7177,escitalopram,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.680000305175781,pKd,27049939
+7177,escitalopram,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,9.0,pIC50,19720528
+203,fluoxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.5,pKi,9537821
+7189,fluvoxamine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.65999984741211,pKd,9537821
+7189,fluvoxamine,SERT,928,Slc6a4,P31652,ENSRNOG00000003476,Rat,True,Inhibitor,Inhibition,False,8.1899995803833,pKi,11311448
+9880,H05,SERT,928,Slc6a4,P31652,ENSRNOG00000003476,Rat,False,Inhibitor,Inhibition,False,8.319999694824219,pKi,29615471
+13148,ibogaine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,False,Inhibitor,Inhibition,False,6.300000190734863,pIC50,35707155
+357,imipramine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.690000057220459,pKi,8496700
+7435,levomilnacipran,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,6.489999771118164,pIC50,18468895
+7551,lofepramine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.21999979019165,pKi,9537821
+9099,lumateperone,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,False,7.210000038146973,pKi,25120104|24559051
+7436,milnacipran,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.300000190734863,pIC50,23347683
+7247,nefazodone,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,6.699999809265137,pKd,9871604
+2404,nortriptyline,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.15999984741211,pKi,
+7537,norzotepine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,False,Inhibitor,Inhibition,False,5.210000038146973,pIC50,20223878
+4790,paroxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,9.600000381469728,pKi,9537821
+4790,paroxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,10.100000381469728,pKd,27049939
+7266,phenelzine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,False,5.0,pKi,9537821
+7285,protriptyline,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.710000038146973,pKd,9537821
+4798,sertraline,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,9.100000381469728,pKi,
+2586,sibutramine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,False,5.960000038146973,pKi,
+4621,[<sup>3</sup>H]citalopram,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,False,Inhibitor,Inhibition,False,8.300000190734863,pKd,
+4561,[<sup>3</sup>H]paroxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,False,Inhibitor,Inhibition,False,9.699999809265137,pKd,
+12766,toludesvenlafaxine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,False,6.139999866485596,pIC50,31617718
+7317,trimipramine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,6.829999923706055,pKi,9537821
+7321,venlafaxine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,7.570000171661377,pIC50,20378347
+7427,vilazodone,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,,pIC50,19499624|15341484
+7351,vortioxetine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,True,8.800000190734863,pKi,21486038
+59,ziprasidone,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,False,7.28000020980835,pKi,
+103,zotepine,SERT,928,SLC6A4,P31645,ENSG00000108576,Human,True,Inhibitor,Inhibition,False,5.139999866485596,pIC50,20223878
+4757,phlorizin,SGLT6,925,SLC5A11,Q8WWX8,ENSG00000158865,Human,False,Inhibitor,Inhibition,False,4.099999904632568,pKi,12133831
+4820,fenoprofen,SMCT1,922,SLC5A8,Q8N695,ENSG00000256870,Human,True,Inhibitor,Inhibition,False,4.570000171661377,pIC50,16729224
+2713,ibuprofen,SMCT1,922,SLC5A8,Q8N695,ENSG00000256870,Human,True,Inhibitor,Inhibition,False,4.199999809265137,pIC50,16729224
+4795,ketoprofen,SMCT1,922,SLC5A8,Q8N695,ENSG00000256870,Human,True,Inhibitor,Inhibition,False,3.920000076293945,pIC50,16729224
+4757,phlorizin,SMIT,924,SLC5A3,P53794,ENSG00000198743,Human,False,Inhibitor,Inhibition,False,,-,12133831
+1024,cyclosporin A,Sodium/bile acid and sulphated solute cotransporter 1,959,SLC10A1,Q14973,ENSG00000100652,Human,True,Inhibitor,Inhibition,False,5.119999885559082,pKi,23339484
+1024,cyclosporin A,Sodium/bile acid and sulphated solute cotransporter 1,959,SLC10A1,Q14973,ENSG00000100652,Human,True,Inhibitor,Inhibition,False,6.0,pIC50,10565843
+589,irbesartan,Sodium/bile acid and sulphated solute cotransporter 1,959,SLC10A1,Q14973,ENSG00000100652,Human,True,Inhibitor,Inhibition,False,4.920000076293945,pKi,23339484
+7596,(+)-propranolol,Sodium/bile acid and sulphated solute cotransporter 1,959,SLC10A1,Q14973,ENSG00000100652,Human,False,Inhibitor,Inhibition,False,5.260000228881836,pIC50,10565843
+63,(-)-propranolol,Sodium/bile acid and sulphated solute cotransporter 1,959,SLC10A1,Q14973,ENSG00000100652,Human,False,Inhibitor,Inhibition,False,8.210000038146973,pIC50,10565843
+7104,ursodeoxycholic acid,Sodium/bile acid and sulphated solute cotransporter 1,959,SLC10A1,Q14973,ENSG00000100652,Human,True,Inhibitor,Inhibition,False,5.440000057220459,pIC50,10565843
+12775,bulevirtide,Sodium/bile acid and sulphated solute cotransporter 1,959,SLC10A1,Q14973,ENSG00000100652,Human,True,,Binding,False,,-,
+6529,264W94,Sodium/bile acid and sulphated solute cotransporter 2,960,SLC10A2,Q12908,ENSG00000125255,Human,False,Inhibitor,Inhibition,False,7.32,pIC50,14552767|23678871
+9996,elobixibat,Sodium/bile acid and sulphated solute cotransporter 2,960,SLC10A2,Q12908,ENSG00000125255,Human,True,Inhibitor,Inhibition,False,8.920000076293945,pIC50,
+14439,linerixibat,Sodium/bile acid and sulphated solute cotransporter 2,960,SLC10A2,Q12908,ENSG00000125255,Human,True,Inhibitor,Inhibition,True,7.380000114440918,pIC50,23678871
+11708,maralixibat,Sodium/bile acid and sulphated solute cotransporter 2,960,SLC10A2,Q12908,ENSG00000125255,Human,True,Inhibitor,Inhibition,False,9.550000190734863,pIC50,16134951
+11194,odevixibat,Sodium/bile acid and sulphated solute cotransporter 2,960,SLC10A2,Q12908,ENSG00000125255,Human,True,Inhibitor,Inhibition,False,9.800000190734863,pIC50,
+6530,SC-435,Sodium/bile acid and sulphated solute cotransporter 2,960,SLC10A2,Q12908,ENSG00000125255,Human,False,Inhibitor,Inhibition,False,8.82,pIC50,12810816
+4546,[<sup>3</sup>H]taurocholic acid,Sodium/bile acid and sulphated solute cotransporter 2,960,SLC10A2,Q12908,ENSG00000125255,Human,False,,,False,,-,9458785
+11160,neurounina-1,Sodium/calcium exchanger 1,945,,,,Dog,False,Activator,Activation,False,8.850000381469727,pEC50,23066092
+13934,SAR296968,Sodium/calcium exchanger 1,945,SLC8A1,P32418,ENSG00000183023,Human,False,Inhibitor,Inhibition,False,7.130000114440918,pIC50,33602875
+11160,neurounina-1,Sodium/calcium exchanger 2,946,Slc8a2,P48768,ENSRNOG00000001492,Rat,False,Activator,Activation,False,8.770000457763672,pEC50,23066092
+13934,SAR296968,Sodium/calcium exchanger 2,946,SLC8A2,Q9UPR5,ENSG00000118160,Human,False,Inhibitor,Inhibition,False,7.639999866485596,pIC50,33602875
+13934,SAR296968,Sodium/calcium exchanger 3,947,SLC8A3,P57103,ENSG00000100678,Human,False,Inhibitor,Inhibition,False,6.889999866485596,pIC50,33602875
+9484,YM-244769,Sodium/calcium exchanger 3,947,SLC8A3,P57103,ENSG00000100678,Human,False,Inhibitor,Inhibition,True,7.739999771118164,pIC50,16973719
+4542,[<sup>14</sup>C]alanine,sodium-coupled neutral amino acid transporter 1,1169,SLC38A1,Q9H2H9,ENSG00000111371,Human,False,,,False,,-,
+4543,[<sup>3</sup>H]alanine,sodium-coupled neutral amino acid transporter 1,1169,SLC38A1,Q9H2H9,ENSG00000111371,Human,False,,,False,,-,
+4542,[<sup>14</sup>C]alanine,sodium-coupled neutral amino acid transporter 2,1170,SLC38A2,Q96QD8,ENSG00000134294,Human,False,,,False,,-,
+4543,[<sup>3</sup>H]alanine,sodium-coupled neutral amino acid transporter 2,1170,SLC38A2,Q96QD8,ENSG00000134294,Human,False,,,False,,-,
+4633,[<sup>14</sup>C]glutamine,Sodium-coupled neutral amino acid transporter 3,1172,SLC38A3,Q99624,ENSG00000188338,Human,False,,,False,,-,
+4634,[<sup>3</sup>H]glutamine,Sodium-coupled neutral amino acid transporter 3,1172,SLC38A3,Q99624,ENSG00000188338,Human,False,,,False,,-,
+4542,[<sup>14</sup>C]alanine,sodium-coupled neutral amino acid transporter 4,1171,SLC38A4,Q969I6,ENSG00000139209,Human,False,,,False,,-,
+4635,[<sup>14</sup>C]glycine,sodium-coupled neutral amino acid transporter 4,1171,SLC38A4,Q969I6,ENSG00000139209,Human,False,,,False,,-,
+4543,[<sup>3</sup>H]alanine,sodium-coupled neutral amino acid transporter 4,1171,SLC38A4,Q969I6,ENSG00000139209,Human,False,,,False,,-,
+4084,[<sup>3</sup>H]glycine,sodium-coupled neutral amino acid transporter 4,1171,SLC38A4,Q969I6,ENSG00000139209,Human,False,,,False,,-,
+4623,[<sup>14</sup>C]histidine,Sodium-coupled neutral amino acid transporter 5,1173,SLC38A5,Q8WUX1,ENSG00000017483,Human,False,,,False,,-,
+4670,[<sup>3</sup>H]histidine,Sodium-coupled neutral amino acid transporter 5,1173,SLC38A5,Q8WUX1,ENSG00000017483,Human,False,,,False,,-,
+4285,phloretin,Sodium-dependent vitamin C transporter 1,1041,SLC23A1,Q9UHI7,ENSG00000170482,Human,False,Inhibitor,Inhibition,False,4.190000057220459,pKi,10331392
+4532,[<sup>14</sup>C]ascorbic acid,Sodium-dependent vitamin C transporter 1,1041,SLC23A1,Q9UHI7,ENSG00000170482,Human,False,,Binding,False,,-,11895172
+4532,[<sup>14</sup>C]ascorbic acid,Sodium-dependent vitamin C transporter 2,1042,SLC23A2,Q9UGH3,ENSG00000089057,Human,False,,,False,,-,
+12335,bexagliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,5.25,pIC50,21737266
+4582,canagliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,6.199999809265137,pIC50,22355316
+4594,dapagliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,6.400000095367432,pIC50,21398124
+4754,empagliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,5.099999904632568,pIC50,21985634
+11905,enavogliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,6.260000228881836,pIC50,32183468
+8376,ertugliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,5.710000038146973,pIC50,21449606
+9394,ipragliflozin,Sodium/glucose cotransporter 1,915,Slc5a1,Q8C3K6,ENSMUSG00000011034,Mouse,True,Inhibitor,Inhibition,False,5.860000133514404,pIC50,22139434
+9394,ipragliflozin,Sodium/glucose cotransporter 1,915,Slc5a1,P53790,ENSRNOG00000017775,Rat,True,Inhibitor,Inhibition,False,5.929999828338623,pIC50,22139434
+9394,ipragliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,5.730000019073486,pIC50,22139434
+10654,licogliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,False,Inhibitor,Inhibition,False,7.659999847412109,pIC50,
+9547,mizagliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,False,Inhibitor,Inhibition,False,7.570000171661377,pKi,28410751
+4588,remogliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,False,Inhibitor,Inhibition,False,5.300000190734863,pKi,18583547
+4587,sergliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,False,Inhibitor,Inhibition,False,5.099999904632568,pKi,17050778
+8312,sotagliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,True,7.440000057220459,pIC50,22739142
+9395,tofogliflozin,Sodium/glucose cotransporter 1,915,SLC5A1,P13866,ENSG00000100170,Human,True,Inhibitor,Inhibition,False,5.070000171661377,pIC50,22889351
+12335,bexagliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,8.640000343322754,pIC50,21737266
+4582,canagliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,8.399999618530273,pIC50,22355316
+4594,dapagliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,9.300000190734863,pIC50,20637636
+4754,empagliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,8.5,pIC50,21985634
+11905,enavogliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,False,9.100000381469728,pIC50,32183468
+8376,ertugliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,9.0600004196167,pIC50,21449606
+9394,ipragliflozin,Sodium/glucose cotransporter 2,916,Slc5a2,Q923I7,ENSMUSG00000030781,Mouse,True,Inhibitor,Inhibition,False,8.25,pIC50,22139434
+9394,ipragliflozin,Sodium/glucose cotransporter 2,916,Slc5a2,P53792,ENSRNOG00000020039,Rat,True,Inhibitor,Inhibition,False,8.199999809265137,pIC50,22139434
+9394,ipragliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,8.130000114440918,pIC50,22139434
+13950,janagliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,False,8.600000381469727,pIC50,
+10654,licogliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,False,Inhibitor,Inhibition,False,9.300000190734863,pIC50,
+4588,remogliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,False,Inhibitor,Inhibition,True,7.900000095367432,pKi,18583547
+4587,sergliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,False,Inhibitor,Inhibition,True,6.800000190734863,pKi,17050778
+8312,sotagliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,8.739999771118164,pIC50,22739142
+9395,tofogliflozin,Sodium/glucose cotransporter 2,916,SLC5A2,P31639,ENSG00000140675,Human,True,Inhibitor,Inhibition,True,8.539999961853027,pIC50,22889351
+2421,amiloride,Sodium/hydrogen exchanger 1,948,Slc9a1,P26431,ENSRNOG00000007982,Rat,True,Inhibitor,Inhibition,False,,pKi,12832126
+2421,amiloride,Sodium/hydrogen exchanger 2,949,,,,Rabbit,True,Inhibitor,Inhibition,False,,pKi,12832126
+2421,amiloride,Sodium/hydrogen exchanger 3,950,Slc9a3,P26433,ENSRNOG00000015159,Rat,True,Inhibitor,Inhibition,False,4.0,pKi,12832126
+14075,repunapanor,Sodium/hydrogen exchanger 3,950,SLC9A3,P48764,ENSG00000066230,Human,False,Inhibitor,Inhibition,False,8.619999885559082,pIC50,
+8449,tenapanor,Sodium/hydrogen exchanger 3,950,Slc9a3,P26433,ENSRNOG00000015159,Rat,True,Inhibitor,Inhibition,False,7.0,pIC50,
+2421,amiloride,Sodium/hydrogen exchanger 5,952,SLC9A5,Q14940,ENSG00000135740,Human,True,Inhibitor,Inhibition,False,4.679999828338623,pKi,12832126
+8485,compound 48 [PMID: 25815140],Sodium/nucleoside cotransporter 2,1115,SLC28A2,O43868,ENSG00000137860,Human,False,Inhibitor,Inhibition,False,6.190000057220459,pIC50,25815140
+8405,lifastuzumab vedotin,Sodium phosphate 2,1136,SLC34A2,O95436,ENSG00000157765,Human,False,Antibody,Binding,True,,-,
+12115,compound 15 [PMID: 35034442],Sodium phosphate 2,1136,SLC34A2,O95436,ENSG00000157765,Human,False,Inhibitor,Inhibition,False,7.190000057220459,pIC50,35034442
+11611,CGP-37157,Sodium/potassium/calcium exchanger 6,1050,SLC8B1,Q6J4K2,ENSG00000089060,Human,False,Inhibitor,Inhibition,False,5.800000190734863,pIC50,26774037
+6794,acetyldigitoxin,sodium/potassium-transporting ATPase subunit &alpha;-1,833,ATP1A1,P05023,ENSG00000163399,Human,True,Inhibitor,Inhibition,True,,-,
+6806,deslanoside,sodium/potassium-transporting ATPase subunit &alpha;-1,833,ATP1A1,P05023,ENSG00000163399,Human,True,Inhibitor,Inhibition,True,,-,
+6782,digitoxin,sodium/potassium-transporting ATPase subunit &alpha;-1,833,,,,Dog,True,Inhibitor,Inhibition,False,8.100000381469727,pIC50,8421289
+6782,digitoxin,sodium/potassium-transporting ATPase subunit &alpha;-1,833,ATP1A1,P05023,ENSG00000163399,Human,True,Inhibitor,Inhibition,True,,-,
+4726,digoxin,sodium/potassium-transporting ATPase subunit &alpha;-1,833,,,,Dog,True,Inhibitor,Inhibition,False,6.400000095367432,pIC50,12904068
+4726,digoxin,sodium/potassium-transporting ATPase subunit &alpha;-1,833,ATP1A1,P05023,ENSG00000163399,Human,True,Inhibitor,Inhibition,True,,-,
+8837,compound 16 [PMID: 19097778],Solute carrier family 28 member 3,1116,SLC28A3,Q9HAS3,ENSG00000197506,Human,False,Inhibitor,Inhibition,False,5.539999961853027,pKi,19097778
+4285,phloretin,solute carrier family 60 member 2,3044,Mfsd4b4,,ENSRNOG00000024543,Rat,False,Inhibitor,Inhibition,False,,-,12590146
+4757,phlorizin,solute carrier family 60 member 2,3044,Mfsd4b4,,ENSRNOG00000024543,Rat,False,Inhibitor,Inhibition,False,,-,12590146
+4539,urea,solute carrier family 60 member 2,3044,Mfsd4b4,,ENSRNOG00000024543,Rat,False,Inhibitor,Inhibition,False,,-,26423860
+12696,SLB1122168,"SPNS lysolipid transporter 2, sphingosine-1-phosphate",3048,SPNS2,Q8IVW8,ENSG00000183018,Human,False,Inhibitor,Inhibition,False,7.03000020980835,pIC50,37010497
+12695,SLF1081851,"SPNS lysolipid transporter 2, sphingosine-1-phosphate",3048,SPNS2,Q8IVW8,ENSG00000183018,Human,False,Inhibitor,Inhibition,False,5.710000038146973,pIC50,35609189
+13436,SLF80821178,"SPNS lysolipid transporter 2, sphingosine-1-phosphate",3048,SPNS2,Q8IVW8,ENSG00000183018,Human,False,Inhibitor,Inhibition,False,7.289999961853027,pIC50,
+9041,brivaracetam,synaptic vesicle glycoprotein 2A,2634,Sv2a,Q02563,ENSRNOG00000021182,Rat,True,Inhibitor,Inhibition,True,7.0,pIC50,14736235
+6826,levetiracetam,synaptic vesicle glycoprotein 2A,2634,Sv2a,Q02563,ENSRNOG00000021182,Rat,True,Inhibitor,Inhibition,True,5.800000190734863,pKi,8605950
+6826,levetiracetam,synaptic vesicle glycoprotein 2A,2634,Sv2a,Q02563,ENSRNOG00000021182,Rat,True,Inhibitor,Inhibition,True,6.099999904632568,pIC50,14736235
+4628,[<sup>3</sup>H]thiamine,Thiamine transporter 1,1015,SLC19A2,O60779,ENSG00000117479,Human,False,,,False,,-,10542220
+4628,[<sup>3</sup>H]thiamine,Thiamine transporter 2,1016,SLC19A3,Q9BZV2,ENSG00000135917,Human,False,,,False,,-,11731220
+11389,dotinurad,Urate anion exchanger 1,1031,SLC22A12,Q96S37,ENSG00000197891,Human,True,Inhibitor,Inhibition,True,6.400000095367432,pIC50,31371478
+7673,lesinurad,Urate anion exchanger 1,1031,SLC22A12,Q96S37,ENSG00000197891,Human,True,Inhibitor,Inhibition,False,,-,20719377
+5826,sufinpyrazone,Urate anion exchanger 1,1031,SLC22A12,Q96S37,ENSG00000197891,Human,True,Inhibitor,Inhibition,True,4.0,pIC50,17325024
+9327,verinurad,Urate anion exchanger 1,1031,SLC22A12,Q96S37,ENSG00000197891,Human,False,Inhibitor,Inhibition,False,,-,
+4768,aminobenzovesamicol,Vesicular acetylcholine transporter,1013,SLC18A3,Q16572,ENSG00000187714,Human,False,Inhibitor,Inhibition,False,10.9,pKi,7702637
+4759,vesamicol,Vesicular acetylcholine transporter,1013,SLC18A3,Q16572,ENSG00000187714,Human,False,Inhibitor,Inhibition,False,8.7,pKi,7702637
+4762,[<sup>123</sup>I]iodobenzovesamicol,Vesicular acetylcholine transporter,1013,SLC18A3,Q16572,ENSG00000187714,Human,False,,,False,,-,
+4758,[<sup>3</sup>H]vesamicol,Vesicular acetylcholine transporter,1013,SLC18A3,Q16572,ENSG00000187714,Human,False,,,False,8.4,pKd,8910293
+4821,vigabatrin,Vesicular inhibitory amino acid transporter,1133,SLC32A1,Q9H598,ENSG00000101438,Human,True,Inhibitor,Inhibition,False,2.1,pIC50,9349821
+88,ketanserin,Vesicular monoamine transporter 1,1011,SLC18A1,P54219,ENSG00000036565,Human,True,Inhibitor,Inhibition,False,5.8,pKi,8643547
+4823,reserpine,Vesicular monoamine transporter 1,1011,SLC18A1,P54219,ENSG00000036565,Human,True,Inhibitor,Inhibition,False,7.45,pKi,8643547
+4834,tetrabenazine,Vesicular monoamine transporter 1,1011,SLC18A1,P54219,ENSG00000036565,Human,True,Inhibitor,Inhibition,False,4.7,pKi,8643547
+8707,deutetrabenazine,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,True,Inhibitor,Inhibition,True,,-,
+88,ketanserin,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,True,Inhibitor,Inhibition,False,6.300000190734863,pKi,8643547
+4823,reserpine,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,True,Inhibitor,Inhibition,True,7.900000095367432,pKi,8643547
+4608,[<sup>11</sup>C]DTBZ,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,False,Inhibitor,Inhibition,False,,-,
+4763,[<sup>125</sup>I]7-azido-8-iodoketanserine,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,False,Inhibitor,Inhibition,False,,-,9325342
+4764,[<sup>125</sup>I]iodovinyl-TBZ,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,False,Inhibitor,Inhibition,False,8.1,pKd,7855735
+4766,[<sup>3</sup>H]TBZOH,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,False,Inhibitor,Inhibition,False,8.2,pKd,8910293
+4834,tetrabenazine,Vesicular monoamine transporter 2,1012,SLC18A2,Q05940,ENSG00000165646,Human,True,Inhibitor,Inhibition,True,7.0,pKi,8643547
+8694,valbenazine,Vesicular monoamine transporter 2,1012,Slc18a2,Q01827,ENSRNOG00000008890,Rat,True,Inhibitor,Inhibition,True,6.730000019073486,pKi,
+9605,clodronic acid,Vesicular nucleotide transporter,1010,SLC17A9,Q9BYT1,ENSG00000101194,Human,True,Inhibitor,Inhibition,False,7.809999942779541,pIC50,28720702
+8882,enoxacin,V-type ATPase V<sub>1</sub> motor B2 subunit,812,ATP6V1B2,P21281,ENSG00000147416,Human,True,Inhibitor,Inhibition,False,5.0,pIC50,19630402

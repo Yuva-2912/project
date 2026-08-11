@@ -1,0 +1,15 @@
+Metric,Value,NonNull,Missing,UniqueValues
+Total DDI Records,50000.0,,,
+Unique Drug Pairs,50000.0,,,
+Duplicate Pair Records,0.0,,,
+Self Drug Pairs,0.0,,,
+Unique Drugs in DDI,3170.0,,,
+DDI Drugs Matched to Master,3170.0,,,
+DDI Drugs Not Matched to Master,0.0,,,
+Master Drugs,3170.0,,,
+Master Drugs Appearing in DDI,3170.0,,,
+n_faers_reports,,50000.0,0.0,927.0
+faers_prr_max_strict,,873.0,49127.0,856.0
+faers_ror95_lcl_max_strict,,873.0,49127.0,855.0
+faers_pt_covered_strict,,873.0,49127.0,48.0
+faers_best_pt_code_strict,,873.0,49127.0,429.0

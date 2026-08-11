@@ -1,0 +1,20 @@
+DrugID,DrugName,CID,ConnectivitySMILES,MolecularWeight,XLogP,TPSA,HBondDonorCount,HBondAcceptorCount,RotatableBondCount,RecoveryStatus
+23,"1,6-Fructose Diphosphate (Linear Form)",,,,,,,,,Not found
+404,Benzylpenicilloyl polylysine,,,,,,,,,Not found
+653,Cephalosporin analog,,,,,,,,,Not found
+783,Colistimethate,,,,,,,,,Not found
+979,Dihematoporphyrin ether,,,,,,,,,Not found
+1445,Gleptoferron,,,,,,,,,Not found
+1528,Hydrolyzed Cephalothin,,,,,,,,,Not found
+1621,Iron polymaltose,,,,,,,,,Not found
+1622,Iron sucrose,,,,,,,,,Not found
+1646,Ivermectin,,,,,,,,,Not found
+1656,Kaolin,,,,,,,,,Not found
+1664,Kitasamycin,,,,,,,,,Not found
+2101,Nitroprusside,,,,,,,,,Not found
+2136,Octylphenoxy polyethoxyethanol,,,,,,,,,Not found
+2269,Pentosan polysulfate,,,,,,,,,Not found
+2397,Polythiazide,,,,,,,,,Not found
+2524,Radium Ra-223 cation,,,,,,,,,Not found
+2677,Sevelamer,,,,,,,,,Not found
+2737,Sucralfate,,,,,,,,,Not found

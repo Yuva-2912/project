@@ -1,0 +1,3171 @@
+InChIKey14,DrugName,DrugID,Source,DrugName_Normalized
+XEEQGYMUWCZPDN,(+)-Mefloquine,0,Drug_A,(+)-mefloquine
+NOOLISFMXDJSKH,(+)-menthol,1,Drug_A,(+)-menthol
+MUMGGOZAMZWBJJ,"(1,2,6,7-3H)Testosterone",2,Drug_A,"(1,2,6,7-3h)testosterone"
+AELCINSCMGFISI,"(1R,2S)-2-Phenylcyclopropanaminium",3,Drug_A,"(1r,2s)-2-phenylcyclopropanaminium"
+QGJUIPDUBHWZPV,"(1S,3S,5S)-2-{(2S)-2-amino-2-[(1R,3S,5R,7S)-3-hydroxytricyclo[3.3.1.1~3,7~]dec-1-yl]acetyl}-2-azabicyclo[3.1.0]hexane-3-carbonitrile",4,Drug_A,"(1s,3s,5s)-2-{(2s)-2-amino-2-[(1r,3s,5r,7s)-3-hydroxytricyclo[3.3.1.1~3,7~]dec-1-yl]acetyl}-2-azabicyclo[3.1.0]hexane-3-carbonitrile"
+VLPIATFUUWWMKC,"(2R)-1-(2,6-dimethylphenoxy)propan-2-amine",5,Drug_A,"(2r)-1-(2,6-dimethylphenoxy)propan-2-amine"
+PHIQHXFUZVPYII,(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium,6,Drug_A,(3-carboxy-2-(r)-hydroxy-propyl)-trimethyl-ammonium
+GXPHKUHSUJUWKP,"(5R)-5-(4-{[(2R)-6-HYDROXY-2,5,7,8-TETRAMETHYL-3,4-DIHYDRO-2H-CHROMEN-2-YL]METHOXY}BENZYL)-1,3-THIAZOLIDINE-2,4-DIONE",7,Drug_A,"(5r)-5-(4-{[(2r)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydro-2h-chromen-2-yl]methoxy}benzyl)-1,3-thiazolidine-2,4-dione"
+VVIAGPKUTFNRDU,(6R)-Folinic acid,8,Drug_A,(6r)-folinic acid
+MSTNYGQPCMXVAQ,"(6S)-5,6,7,8-tetrahydrofolic acid",9,Drug_A,"(6s)-5,6,7,8-tetrahydrofolic acid"
+METKIMKYRPQLGS,(R)-Atenolol,10,Drug_A,(r)-atenolol
+LKJPYSCBVHEWIU,(R)-Bicalutamide,11,Drug_A,(r)-bicalutamide
+RTHCYVBBDHJXIQ,(R)-Fluoxetine,12,Drug_A,(r)-fluoxetine
+QBKSWRVVCFFDOT,(R)-Gossypol,13,Drug_A,(r)-gossypol
+FSVJFNAIGNNGKK,(R)-Praziquantel,14,Drug_A,(r)-praziquantel
+JWHAUXFOSRPERK,(R)-Propafenone,15,Drug_A,(r)-propafenone
+HJORMJIFDVBMOB,(R)-Rolipram,16,Drug_A,(r)-rolipram
+NNYBQONXHNTVIJ,(R)-etodolac,17,Drug_A,(r)-etodolac
+PJVWKTKQMONHTI,(R)-warfarin,18,Drug_A,(r)-warfarin
+NDDAHWYSQHTHNT,(S)-Indapamide,19,Drug_A,(s)-indapamide
+LEZWWPYKPKIXLL,(S)-econazole,20,Drug_A,(s)-econazole
+DGEZNRSVGBDHLK,"1,10-Phenanthroline",21,Drug_A,"1,10-phenanthroline"
+SVUOLADPCWQTTE,"1,2-Benzodiazepine",22,Drug_A,"1,2-benzodiazepine"
+XPYBSIWDXQFNMH,"1,6-Fructose Diphosphate (Linear Form)",23,Drug_B,"1,6-fructose diphosphate (linear form)"
+BVURVTVDNWSNFN,1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine,24,Drug_A,1-(2-phenylethyl)-4-phenyl-4-acetoxypiperidine
+ADEBPBSSDYVVLD,"1-BENZYL-4-[(5,6-DIMETHOXY-1-INDANON-2-YL)METHYL]PIPERIDINE",25,Drug_A,"1-benzyl-4-[(5,6-dimethoxy-1-indanon-2-yl)methyl]piperidine"
+OKJCFMUGMSVJBG,1-Testosterone,26,Drug_A,1-testosterone
+KKKDZZRICRFGSD,1-benzylimidazole,27,Drug_A,1-benzylimidazole
+LXBIFEVIBLOUGU,1-deoxymannojirimycin,28,Drug_A,1-deoxymannojirimycin
+HAWSQZCWOQZXHI,10-hydroxycamptothecin,29,Drug_A,10-hydroxycamptothecin
+CWVMWSZEMZOUPC,16-Bromoepiandrosterone,30,Drug_A,16-bromoepiandrosterone
+PROQIPRRNZUXQM,17alpha-Estriol,31,Drug_A,17alpha-estriol
+FBYZQDCRLYHHHP,18-methyl-19-nortestosterone,32,Drug_A,18-methyl-19-nortestosterone
+JRIZOGLBRPZBLQ,19-norandrostenedione,33,Drug_A,19-norandrostenedione
+ODZFJAXAEXQSKL,"1alpha,24S-Dihydroxyvitamin D2",34,Drug_A,"1alpha,24s-dihydroxyvitamin d2"
+NWFOBODUYTUMNC,1alpha-Hydroxyvitamin D5,35,Drug_A,1alpha-hydroxyvitamin d5
+IEDVJHCEMCRBQM,"2,4-Diamino-5-(3,4,5-Trimethoxy-Benzyl)-Pyrimidin-1-Ium",36,Drug_A,"2,4-diamino-5-(3,4,5-trimethoxy-benzyl)-pyrimidin-1-ium"
+ZOBPZXTWZATXDG,"2,4-thiazolidinedione",37,Drug_A,"2,4-thiazolidinedione"
+HXJKWPGVENNMCC,"2,5-Dimethoxy-4-ethylamphetamine",38,Drug_A,"2,5-dimethoxy-4-ethylamphetamine"
+MCYCODJKXUJSAT,"2,5-Dimethoxy-4-ethylthioamphetamine",39,Drug_A,"2,5-dimethoxy-4-ethylthioamphetamine"
+FLYGLPYJEQPCFY,2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide,40,Drug_A,2-(4-chlorophenyl)-5-quinoxalinecarboxamide
+HBUBKKRHXORPQB,2-Fluoroadenosine,41,Drug_A,2-fluoroadenosine
+CQOQDQWUFQDJMK,2-Methoxyestradiol,42,Drug_A,2-methoxyestradiol
+XNWFRZJHXBZDAG,2-Methoxyethanol,43,Drug_B,2-methoxyethanol
+JIVPVXMEBJLZRO,2-chloro-5-[(1S)-1-hydroxy-3-oxo-2H-isoindol-1-yl]benzenesulfonamide,44,Drug_A,2-chloro-5-[(1s)-1-hydroxy-3-oxo-2h-isoindol-1-yl]benzenesulfonamide
+HYHJFNXFVPGMBI,2-chloroethyl-3-sarcosinamide-1-nitrosourea,45,Drug_A,2-chloroethyl-3-sarcosinamide-1-nitrosourea
+LPUNEQQTZOWCNO,25-desacetylrifapentine,46,Drug_A,25-desacetylrifapentine
+YQUVCSBJEUQKSH,"3,4-Dihydroxybenzoic Acid",47,Drug_A,"3,4-dihydroxybenzoic acid"
+NYPYHUZRZVSYKL,"3,5-Diiodotyrosine",48,Drug_A,"3,5-diiodotyrosine"
+VDCDWNDTNSWDFJ,"3,5-Dinitrocatechol",49,Drug_B,"3,5-dinitrocatechol"
+WONYMNWUJVKVII,"3,5-diiodothyropropionic acid",50,Drug_B,"3,5-diiodothyropropionic acid"
+APIXJSLKIYYUKG,3-isobutyl-1-methyl-7H-xanthine,51,Drug_A,3-isobutyl-1-methyl-7h-xanthine
+FXMWUTGUCAKGQL,"4-Bromo-2,5-dimethoxyamphetamine",52,Drug_A,"4-bromo-2,5-dimethoxyamphetamine"
+YMHOBZXQZVXHBM,"4-Bromo-2,5-dimethoxyphenethylamine",53,Drug_A,"4-bromo-2,5-dimethoxyphenethylamine"
+BQOIJSIMMIDHMO,4-Hydroxytestosterone,54,Drug_A,4-hydroxytestosterone
+NEGYEDYHPHMHGK,4-Methoxyamphetamine,55,Drug_A,4-methoxyamphetamine
+PLIUCYCUYQIBDZ,4-Oxoretinol,56,Drug_A,4-oxoretinol
+VXIXUWQIVKSKSA,4-hydroxycoumarin,57,Drug_A,4-hydroxycoumarin
+BDVFVCGFMNCYPV,5-(2-methylpiperazine-1-sulfonyl)isoquinoline,58,Drug_A,5-(2-methylpiperazine-1-sulfonyl)isoquinoline
+SQGZFRITSMYKRH,5-androstenedione,59,Drug_B,5-androstenedione
+FHIDNBAQOFJWCA,5-fluorouridine,60,Drug_A,5-fluorouridine
+ZSTKHSQDNIGFLM,"5-methoxy-N,N-dimethyltryptamine",61,Drug_A,"5-methoxy-n,n-dimethyltryptamine"
+ZNOVTXRBGFNYRX,5-methyltetrahydrofolic acid,62,Drug_B,5-methyltetrahydrofolic acid
+NVKAWKQGWWIWPM,5beta-dihydrotestosterone,63,Drug_A,5beta-dihydrotestosterone
+LMJSLTNSBFUCMU,"6-CHLORO-3-(DICHLOROMETHYL)-3,4-DIHYDRO-2H-1,2,4-BENZOTHIADIAZINE-7-SULFONAMIDE 1,1-DIOXIDE",64,Drug_A,"6-chloro-3-(dichloromethyl)-3,4-dihydro-2h-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide"
+HQZOLNNEQAKEHT,6-Deoxyerythronolide B,65,Drug_A,6-deoxyerythronolide b
+KRWMERLEINMZFT,6-O-benzylguanine,66,Drug_A,6-o-benzylguanine
+FNKQXYHWGSIFBK,"6S-5,6,7,8-Tetrahydrobiopterin",67,Drug_A,"6s-5,6,7,8-tetrahydrobiopterin"
+WFPUBEDBBOGGIQ,"7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline",68,Drug_A,"7,8-dichloro-1,2,3,4-tetrahydroisoquinoline"
+UCYXILDOFXGENE,"7,9-Dimethylguanine",69,Drug_A,"7,9-dimethylguanine"
+JWCSIUVGFCSJCK,7-((Carboxy(4-Hydroxyphenyl)Acetyl)Amino)-7-Methoxy-(3-((1-Methyl-1h-Tetrazol-5-Yl)Thio)Methyl)-8-Oxo-5-Oxa-1-Azabicyclo[4.2.0]Oct-2-Ene-2-Carboxylic Acid,70,Drug_A,7-((carboxy(4-hydroxyphenyl)acetyl)amino)-7-methoxy-(3-((1-methyl-1h-tetrazol-5-yl)thio)methyl)-8-oxo-5-oxa-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+JAPHQRWPEGVNBT,7-(2-Amino-2-Phenyl-Acetylamino)-3-Chloro-8-Oxo-1-Aza-Bicyclo[4.2.0]Oct-2-Ene-2-Carboxylic Acid,71,Drug_A,7-(2-amino-2-phenyl-acetylamino)-3-chloro-8-oxo-1-aza-bicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+LOSIULRWFAEMFL,7-Deazaguanine,72,Drug_A,7-deazaguanine
+PBCZSGKMGDDXIJ,7-Hydroxystaurosporine,73,Drug_B,7-hydroxystaurosporine
+PQCAUHUKTBHUSA,7-Nitroindazole,74,Drug_A,7-nitroindazole
+LPXQRXLUHJKZIE,8-azaguanine,75,Drug_A,8-azaguanine
+RYIGNEOBDRVTHA,8-chlorotheophylline,76,Drug_A,8-chlorotheophylline
+RPJPZDVUUKWPGT,9-(N-methyl-L-isoleucine)-cyclosporin A,77,Drug_A,9-(n-methyl-l-isoleucine)-cyclosporin a
+OIRDTQYFTABQOQ,9-Beta-D-Xylofuranosyl-Adenine,78,Drug_A,9-beta-d-xylofuranosyl-adenine
+FFYPRJYSJODFFD,9-Deazaguanine,79,Drug_A,9-deazaguanine
+UUWJNBOCAPUTBK,9-Methylguanine,80,Drug_A,9-methylguanine
+FUXVKZWTXQUGMW,9-aminocamptothecin,81,Drug_A,9-aminocamptothecin
+NOTGFIUVDGNKRI,AICA ribonucleotide,82,Drug_A,aica ribonucleotide
+FXRYWOJYVGJZLE,ALT-2074,83,Drug_A,alt-2074
+NVSWJKWHLUTHLP,AMG-222,84,Drug_A,amg-222
+DALSFUWTAOKVTF,AS-8112,85,Drug_A,as-8112
+QPUVKSKJCNGSGT,AZD-3043,86,Drug_A,azd-3043
+KBQCEQAXHPIRTF,AZD-5991,87,Drug_A,azd-5991
+MCGSCOLBFJQGHM,Abacavir,88,Drug_A,abacavir
+TYBHXIFFPVFXQW,Abafungin,89,Drug_A,abafungin
+PTRATZCAGVBFIQ,Abametapir,90,Drug_A,abametapir
+SFYAXIFVXBKRPK,Abediterol,91,Drug_A,abediterol
+UZWDCWONPYILKI,Abemaciclib,92,Drug_A,abemaciclib
+MAUCONCHVWBMHK,Abexinostat,93,Drug_A,abexinostat
+GZOSMCIZMLWJML,Abiraterone,94,Drug_A,abiraterone
+IUEWXNHSKRWHDY,Abrocitinib,95,Drug_A,abrocitinib
+WDENQIQQYWYTPO,Acalabrutinib,96,Drug_A,acalabrutinib
+AFCGFAGUEYAMAO,Acamprosate,97,Drug_A,acamprosate
+CEMXHAPUFJOOSV,Acarbose,98,Drug_A,acarbose
+GOEMGAFJFRBGGG,Acebutolol,99,Drug_A,acebutolol
+MNIPYSSQXLZQLJ,Aceclofenac,100,Drug_A,aceclofenac
+HCYFGRCYSCXKNQ,Acefylline,101,Drug_A,acefylline
+FSQKKOOTNAMONP,Acemetacin,102,Drug_A,acemetacin
+VABCILAOYCMVPS,Acenocoumarol,103,Drug_A,acenocoumarol
+NOSIYYJFMPDDSA,Acepromazine,104,Drug_A,acepromazine
+XLOQNFNTQIRSOX,Aceprometazine,105,Drug_A,aceprometazine
+RZVAJINKPMORJF,Acetaminophen,106,Drug_A,acetaminophen
+QTBSBXVTEAMEQO,Acetate,107,Drug_A,acetate
+BZKPWHYZMXOIDC,Acetazolamide,108,Drug_A,acetazolamide
+WDJHALXBUFZDSR,Acetoacetic acid,109,Drug_A,acetoacetic acid
+VGZSUPCWNCWDAN,Acetohexamide,110,Drug_A,acetohexamide
+WNTYBHLDCKXEOT,Acetophenazine,111,Drug_A,acetophenazine
+JFNWFXVFBDDWCX,Acetyl sulfisoxazole,112,Drug_A,acetyl sulfisoxazole
+OKJIRPAQVSHGFK,Acetylamino-Acetic Acid,113,Drug_A,acetylamino-acetic acid
+OIPILFWXSMYKGL,Acetylcholine,114,Drug_A,acetylcholine
+PWKSKIMOESPYIA,Acetylcysteine,115,Drug_A,acetylcysteine
+HPMZBILYSWLILX,Acetyldigitoxin,116,Drug_A,acetyldigitoxin
+HWKJSYYYURVNQU,Acetyldigoxin,117,Drug_A,acetyldigoxin
+WXNXCEHXYPACJF,Acetylleucine,118,Drug_B,acetylleucine
+BSYNRYMUTXBXSQ,Acetylsalicylic acid,119,Drug_A,acetylsalicylic acid
+DJQOOSBJCLSSEY,Acipimox,120,Drug_A,acipimox
+IHUNBGSDBOWDMA,Acitretin,121,Drug_A,acitretin
+USZYSDMBJDPRIF,Aclarubicin,122,Drug_B,aclarubicin
+ASMXXROZKSBQIH,Aclidinium,123,Drug_A,aclidinium
+TWHZNAUBXFZMCA,Acotiamide,124,Drug_A,acotiamide
+PWACSDKDOHSSQD,Acrivastine,125,Drug_A,acrivastine
+FBSKJMQYURKNSU,Acteoside,126,Drug_A,acteoside
+MKUXAQIIEYXACX,Acyclovir,127,Drug_A,acyclovir
+PEMUGDMSUDYLHU,Adagrasib,128,Drug_A,adagrasib
+SUPKOOSCJHTBAH,Adefovir,129,Drug_A,adefovir
+WOZSCQDILHKSGG,Adefovir dipivoxil,130,Drug_A,adefovir dipivoxil
+MEFKEPWMEQBLKI,Ademetionine,131,Drug_A,ademetionine
+GFFGJBXGBJISGV,Adenine,132,Drug_A,adenine
+GJSLOMWRLALDCT,Adinazolam,133,Drug_A,adinazolam
+UAMAIHOEGLEXSV,Adipiplon,134,Drug_A,adipiplon
+CGNMLOKEMNBUAI,Adrafinil,135,Drug_A,adrafinil
+ULXXDDBFHOBEHA,Afatinib,136,Drug_A,afatinib
+TXUZVZSFRXZGTL,Afimoxifene,137,Drug_A,afimoxifene
+QYPPJABKJHAVHS,Agmatine,138,Drug_A,agmatine
+YJYPHIXNFHFHND,Agomelatine,139,Drug_A,agomelatine
+CJDRUOGAGYHKKD,Ajmaline,140,Drug_A,ajmaline
+MLFKVJCWGUZWNV,Alanosine,141,Drug_A,alanosine
+FZSPJBYOKQPKCD,Alaproclate,142,Drug_A,alaproclate
+UHIXWHUVLCAJQL,Albaconazole,143,Drug_A,albaconazole
+HXHWSAZORRCQMX,Albendazole,144,Drug_A,albendazole
+NDAUXUAQIAJITI,Albuterol,145,Drug_A,albuterol
+MWTBKTRZPHJQLH,Alcaftadine,146,Drug_A,alcaftadine
+ARHWPKZXBHOEEE,Alclofenac,147,Drug_A,alclofenac
+FJXOGVLKCZQRDN,Alclometasone,148,Drug_A,alclometasone
+POJWUDADGALRAB,Alcloxa,149,Drug_A,alcloxa
+MUQUYTSLDVKIOF,Alcuronium,150,Drug_A,alcuronium
+PQSUYGKTWSAVDQ,Aldosterone,151,Drug_A,aldosterone
+OBMJQRLIQQTJLR,Aldoxorubicin,152,Drug_B,aldoxorubicin
+KDGFLJKFZUIJMX,Alectinib,153,Drug_A,alectinib
+OGSPWJRAVKPPFI,Alendronic acid,154,Drug_A,alendronic acid
+FBPFZTCFMRRESA,Alexitol sodium,155,Drug_A,alexitol sodium
+OFHCOWSQAMBJIW,Alfacalcidol,156,Drug_A,alfacalcidol
+DUHUCHOQIDJXAT,Alfaxalone,157,Drug_A,alfaxalone
+IDBPHNDTYPBSNI,Alfentanil,158,Drug_A,alfentanil
+WNMJYKCGWZFFKR,Alfuzosin,159,Drug_A,alfuzosin
+CXDWHYOBSJTRJU,Algestone,160,Drug_A,algestone
+AHBKIEXBQNRDNL,Algestone acetophenide,161,Drug_A,algestone acetophenide
+ZZHLYYDVIOPZBE,Alimemazine,162,Drug_B,alimemazine
+UXOWGYHJODZGMF,Aliskiren,163,Drug_A,aliskiren
+SHGAZHPCJJPHSC,Alitretinoin,164,Drug_A,alitretinoin
+JDLKFOPOAOFWQN,Allicin,165,Drug_A,allicin
+FDQGNLOWMMVRQL,Allobarbital,166,Drug_A,allobarbital
+AFHJQYHRLPMKHU,Alloin,167,Drug_A,alloin
+OFCNXPDARWKPPY,Allopurinol,168,Drug_A,allopurinol
+ATXHVCQZZJYMCF,Allylestrenol,169,Drug_A,allylestrenol
+RMAQACBXLXPBSY,Almasilate,170,Drug_A,almasilate
+FPHLBGOJWPEVME,Alminoprofen,171,Drug_A,alminoprofen
+WKEMJKQOLOHJLZ,Almotriptan,172,Drug_A,almotriptan
+ZSBOMTDTBDDKMP,Alogliptin,173,Drug_A,alogliptin
+YMILRBLJDGKUDX,Aloglutamol,174,Drug_A,aloglutamol
+JSWZEAMFRNKZNL,Alosetron,175,Drug_A,alosetron
+STUWGJZDJHPWGZ,Alpelisib,176,Drug_A,alpelisib
+XBMIVRRWGCYBTQ,Alphacetylmethadol,177,Drug_A,alphacetylmethadol
+UVAZQQHAVMNMHE,Alphaprodine,178,Drug_A,alphaprodine
+VREFGVBLTWBCJP,Alprazolam,179,Drug_A,alprazolam
+PAZJSJFMUHDSTF,Alprenolol,180,Drug_A,alprenolol
+GMVPRGQOIOIIMI,Alprostadil,181,Drug_A,alprostadil
+VWAUPFMBXBWEQY,Altrenogest,182,Drug_A,altrenogest
+UUVWYPNAQBNQJQ,Altretamine,183,Drug_A,altretamine
+XAGFODPZIPBFFR,Aluminium,184,Drug_A,aluminium
+FEWJPZIEWOKRBE,Aluminium acetotartrate,185,Drug_A,aluminium acetotartrate
+TXCGAZHTZHNUAI,Aluminium clofibrate,186,Drug_B,aluminium clofibrate
+DHMQDGOQFOQNFH,Aluminium glycinate,187,Drug_A,aluminium glycinate
+PVNIIMVLHYAWGP,Aluminium nicotinate,188,Drug_A,aluminium nicotinate
+NBIIXXVUZAFLBC,Aluminium phosphate,189,Drug_A,aluminium phosphate
+QIQXTHQIDYTFRH,Aluminium tristearate,190,Drug_B,aluminium tristearate
+VSCWAEJMTAWNJL,Aluminum chloride,191,Drug_B,aluminum chloride
+XLYOFNOQVPJJNP,Aluminum chlorohydrate,192,Drug_A,aluminum chlorohydrate
+QAOWNCQODCNURD,Aluminum sulfate,193,Drug_A,aluminum sulfate
+ZPFXAOWNKLFJDN,Alverine,194,Drug_A,alverine
+UPNUIXSCZBYVBB,Alvimopan,195,Drug_B,alvimopan
+BIIVYFLTOXDAOV,Alvocidib,196,Drug_A,alvocidib
+DKNWSYNQZKUICI,Amantadine,197,Drug_A,amantadine
+OMHBPUNFVFNHJK,Ambenonium,198,Drug_A,ambenonium
+OUJTZYPIHDYQMC,Ambrisentan,199,Drug_A,ambrisentan
+JBDGDEWWOUBZPM,Ambroxol,200,Drug_A,ambroxol
+ILKJAFIWWBXGDU,Amcinonide,201,Drug_A,amcinonide
+BWWVAEOLVKTZFQ,Amdinocillin,202,Drug_A,amdinocillin
+RDJQCOBTKKAQAH,Amibegron,203,Drug_A,amibegron
+ZHOWHMXTJFZXRB,Amidephrine,204,Drug_B,amidephrine
+OYTKINVCDFNREN,Amifampridine,205,Drug_A,amifampridine
+JKOQGQFVAUAYPM,Amifostine,206,Drug_A,amifostine
+LKCWBDHBTVXHDL,Amikacin,207,Drug_A,amikacin
+XSDQTOBWRPYKKA,Amiloride,208,Drug_A,amiloride
+ONNOFKFOZAJDHT,Amineptine,209,Drug_A,amineptine
+ROBVIMPUHSLWNV,Aminoglutethimide,210,Drug_A,aminoglutethimide
+HSMNQINEKMPTIC,Aminohippuric acid,211,Drug_A,aminohippuric acid
+ZGXJTSGNIOSYLO,Aminolevulinic acid,212,Drug_B,aminolevulinic acid
+QCTBMLYLENLHLA,Aminomethylbenzoic acid,213,Drug_B,aminomethylbenzoic acid
+RMMXTBMQSGEXHJ,Aminophenazone,214,Drug_A,aminophenazone
+ZFXYFBGIUFBOJW,Aminophylline,215,Drug_A,aminophylline
+TVZGACDUOSZQKY,Aminopterin,216,Drug_B,aminopterin
+WUBBRNOQWQTFEX,Aminosalicylic acid,217,Drug_A,aminosalicylic acid
+IYIKLHRQXLHMJQ,Amiodarone,218,Drug_A,amiodarone
+NTJOBXMMWNYJFB,Amisulpride,219,Drug_A,amisulpride
+SRVJKTDHMYAMHA,Amithiozone,220,Drug_A,amithiozone
+QXAITBQSYVNQDR,Amitraz,221,Drug_A,amitraz
+KRMDCWKBEZIMAB,Amitriptyline,222,Drug_A,amitriptyline
+ZPMKQFOGINQDAM,Amitriptylinoxide,223,Drug_A,amitriptylinoxide
+HTIQEAQVCYTUBX,Amlodipine,224,Drug_A,amlodipine
+QGZKDVFQNNGYKY,Ammonia N-13,225,Drug_A,ammonia n-13
+BVKZGUZCCUSVTD,Ammonium bicarbonate,226,Drug_A,ammonium bicarbonate
+JVTAAEKCZFNVCJ,Ammonium lactate,227,Drug_A,ammonium lactate
+IEGNLZVDENYZEJ,Ammonium tetrathiomolybdate,228,Drug_B,ammonium tetrathiomolybdate
+VIROVYVQCGLCII,Amobarbital,229,Drug_A,amobarbital
+OVCDSSHSILBFBN,Amodiaquine,230,Drug_A,amodiaquine
+UPALIKSFLSVKIS,Amonafide,231,Drug_B,amonafide
+QWGDMFLQWFTERH,Amoxapine,232,Drug_A,amoxapine
+LSQZJLSUYDQPKJ,Amoxicillin,233,Drug_A,amoxicillin
+NNAIYOXJNVGUOM,Amperozide,234,Drug_A,amperozide
+KWTSXDURSIMDCE,Amphetamine,235,Drug_A,amphetamine
+APKFDSVGJQXUKY,Amphotericin B,236,Drug_A,amphotericin b
+AVKUERGKIZMTKX,Ampicillin,237,Drug_A,ampicillin
+YMARZQAQMVYCKC,Amprenavir,238,Drug_A,amprenavir
+RNLQIBCLLYYYFJ,Amrinone,239,Drug_A,amrinone
+VJZITPJGSQKZMX,Amrubicin,240,Drug_A,amrubicin
+XCPGHVQEEXUHNC,Amsacrine,241,Drug_A,amsacrine
+CSDTZUBPSYWZDX,Amyl Nitrite,242,Drug_A,amyl nitrite
+LDXYBEHACFJIEL,Anagliptin,243,Drug_A,anagliptin
+OTBXOEAOVRKTNQ,Anagrelide,244,Drug_A,anagrelide
+YBBLVLTVTVSKRW,Anastrozole,245,Drug_B,anastrozole
+BOJKULTULYSRAS,Andrographolide,246,Drug_A,andrographolide
+QADHLRWLCPCEKT,Androstenediol,247,Drug_A,androstenediol
+AEMFNILZOJDQLW,Androstenedione,248,Drug_A,androstenedione
+BCFCRXOJOFDUMZ,Anecortave,249,Drug_A,anecortave
+PVHLMTREZMEJCG,Angiotensin 1-7,250,Drug_A,angiotensin 1-7
+LKYQLAWMNBFNJT,Anileridine,251,Drug_A,anileridine
+PAYRUJLWNCNPSJ,Aniline,252,Drug_A,aniline
+ZXNRTKGTQJPIJK,Aniracetam,253,Drug_A,aniracetam
+WTQYWNWRJNXDEG,Anisodamine,254,Drug_A,anisodamine
+XGGHHHBGPSNXFE,Anisotropine methylbromide,255,Drug_B,anisotropine methylbromide
+CIDNKDMVSINJCG,Annamycin,256,Drug_A,annamycin
+REYFJDPCWQRWAA,Antazoline,257,Drug_A,antazoline
+VEQOALNAAJBPNY,Antipyrine,258,Drug_A,antipyrine
+NWGGKKGAFZIVBJ,Antrafenine,259,Drug_A,antrafenine
+HJBWBFZLDZWPHF,Apalutamide,260,Drug_A,apalutamide
+MXPOCMVWFLDDLZ,Apaziquone,261,Drug_B,apaziquone
+QNZCBYKSOIHPEH,Apixaban,262,Drug_A,apixaban
+VMWNQDUVQKEIOC,Apomorphine,263,Drug_A,apomorphine
+IEJXVRYNEISIKR,Apraclonidine,264,Drug_B,apraclonidine
+XZNUGFQTQHRASN,Apramycin,265,Drug_A,apramycin
+IMOZEMNVLZVGJZ,Apremilast,266,Drug_A,apremilast
+ATALOFNDEOCMKK,Aprepitant,267,Drug_A,aprepitant
+NZLBHDRPUJLHCE,Aprindine,268,Drug_A,aprindine
+UORJNBVJVRLXMQ,Aprobarbital,269,Drug_A,aprobarbital
+DKULOVKANLVDEA,Aprocitentan,270,Drug_A,aprocitentan
+KSUUMAWCGDNLFK,Apronalide,271,Drug_A,apronalide
+YZXBAPSDXZZRGB,Arachidonic Acid,272,Drug_A,arachidonic acid
+SHKXZIQNFMOPBS,Aramchol,273,Drug_A,aramchol
+NCUCGYYHUFIYNU,Aranidipine,274,Drug_A,aranidipine
+KPYSYYIEGFHWSV,Arbaclofen,275,Drug_A,arbaclofen
+JXTAALBWJQJLGN,Arbaclofen Placarbil,276,Drug_A,arbaclofen placarbil
+MKKYBZZTJQGVCD,Arbekacin,277,Drug_A,arbekacin
+IIRWWTKISYTTBL,Arbutamine,278,Drug_A,arbutamine
+HJJPJSXJAXAIPN,Arecoline,279,Drug_A,arecoline
+BPZSYCZIITTYBL,Arformoterol,280,Drug_A,arformoterol
+KXNPVXPOPUZYGB,Argatroban,281,Drug_A,argatroban
+CEUORZQYGODEFX,Aripiprazole,282,Drug_A,aripiprazole
+DDINXHAORAAYAD,Aripiprazole lauroxil,283,Drug_A,aripiprazole lauroxil
+YQEZLKZALYSWHR,Arketamine,284,Drug_A,arketamine
+YFGHCGITMMYXAQ,Armodafinil,285,Drug_B,armodafinil
+BHIAIPWSVYSKJS,Arotinolol,286,Drug_A,arotinolol
+IKWTVSLWAPBBKU,Arsenic trioxide,287,Drug_A,arsenic trioxide
+XLCNVWUKICLURR,Artefenomel,288,Drug_A,artefenomel
+SXYIRMFQILZOAM,Artemether,289,Drug_A,artemether
+BLUAFEHZUWYNDE,Artemisinin,290,Drug_A,artemisinin
+NLYNIRQVMRLPIQ,Artemotil,291,Drug_A,artemotil
+BJDCWCLMFKKGEE,Artenimol,292,Drug_A,artenimol
+FIHJKUPKCHIPAT,Artesunate,293,Drug_A,artesunate
+QTGIAADRBBLJGA,Articaine,294,Drug_A,articaine
+VOVZXURTCKPRDQ,Asciminib,295,Drug_A,asciminib
+CIWBSHSKHKDKBQ,Ascorbic acid,296,Drug_A,ascorbic acid
+VSWBSWWIRNCQIJ,Asenapine,297,Drug_A,asenapine
+IAOZJIPTCAWIRG,Aspartame,298,Drug_A,aspartame
+CKLJMWTZIZZHCS,Aspartic acid,299,Drug_A,aspartic acid
+BHELIUBJHYAEDK,Aspoxicillin,300,Drug_A,aspoxicillin
+MQZIGYBFDRPAKN,Astaxanthin,301,Drug_A,astaxanthin
+GXDALQBWZGODGZ,Astemizole,302,Drug_A,astemizole
+XRWSZZJLZRKHHD,Asunaprevir,303,Drug_A,asunaprevir
+OOUGLTULBSNHNF,Ataluren,304,Drug_A,ataluren
+PEPMWUSGRKINHX,Atamestane,305,Drug_B,atamestane
+AXRYRYVKAWYZBR,Atazanavir,306,Drug_A,atazanavir
+ZHPMYDSXGRRERG,Aticaprant,307,Drug_A,aticaprant
+HSWPZIDYAHLZDD,Atipamezole,308,Drug_A,atipamezole
+QIVUCLWGARAQIO,Atogepant,309,Drug_A,atogepant
+VHGCDTVCOLNTBX,Atomoxetine,310,Drug_A,atomoxetine
+XUKUURHRXDUEBC,Atorvastatin,311,Drug_A,atorvastatin
+VWXRQYYUEIYXCZ,Atosiban,312,Drug_B,atosiban
+KUCQYCKVKVOKAY,Atovaquone,313,Drug_A,atovaquone
+YXSLJKQTIDHPOT,Atracurium besylate,314,Drug_A,atracurium besylate
+MOTJMGVDPWRKOC,Atrasentan,315,Drug_A,atrasentan
+RKUNBYITZUJHSG,Atropine,316,Drug_A,atropine
+AUJRCFUBUPVWSZ,Auranofin,317,Drug_A,auranofin
+NTAHMPNXQOYXSX,Aurodox,318,Drug_A,aurodox
+XHVAWZZCDCWGBK,Aurothioglucose,319,Drug_A,aurothioglucose
+PUKBOVABABRILL,Avacopan,320,Drug_A,avacopan
+WEAJZXNPAWBCOA,Avanafil,321,Drug_A,avanafil
+DWYRIWUZIJHQKQ,Avapritinib,322,Drug_A,avapritinib
+PTQXTEKSNBVPQJ,Avasimibe,323,Drug_A,avasimibe
+OFZJKCQENFPZBH,Avatrombopag,324,Drug_A,avatrombopag
+NDCUAPJVLWFHHB,Avibactam,325,Drug_A,avibactam
+XIRGHRXBGGPPKY,Avilamycin,326,Drug_B,avilamycin
+ATLYLVPZNWDJBW,Axelopran,327,Drug_A,axelopran
+RITAVMQDGBJQJZ,Axitinib,328,Drug_A,axitinib
+NMUSYJAQQFHJEW,Azacitidine,329,Drug_A,azacitidine
+XTKDAFGWCDAMPY,Azaperone,330,Drug_A,azaperone
+WOIIIUDZSOLAIW,Azapropazone,331,Drug_A,azapropazone
+SEBMTIQKRHYNIT,Azatadine,332,Drug_A,azatadine
+LMEKQMALGUDUQG,Azathioprine,333,Drug_A,azathioprine
+BDJRBEYXGGNYIS,Azelaic acid,334,Drug_A,azelaic acid
+MBUVEWMHONZEQD,Azelastine,335,Drug_A,azelastine
+ZKFQEACEUNWPMT,Azelnidipine,336,Drug_A,azelnidipine
+SGRUZFCHLOFYHZ,Azidamfenicol,337,Drug_B,azidamfenicol
+ODFHGIPNGIAMDK,Azidocillin,338,Drug_A,azidocillin
+QJFSABGVXDWMIW,Azilsartan medoxomil,339,Drug_A,azilsartan medoxomil
+MREBEPTUUMTTIA,Azimilide,340,Drug_A,azimilide
+MQTOSJVFKKJCRP,Azithromycin,341,Drug_A,azithromycin
+JTWOMNBEOCYFNV,Azlocillin,342,Drug_A,azlocillin
+HMEDEBAJARCKCT,Azosemide,343,Drug_A,azosemide
+WZPBZJONDBGPKJ,Aztreonam,344,Drug_A,aztreonam
+VYCMAAOURFJIHD,BQ-123,345,Drug_A,bq-123
+PFOLLRNADZZWEX,Bacampicillin,346,Drug_A,bacampicillin
+CLKOFPXJLQSYAH,Bacitracin,347,Drug_A,bacitracin
+XDHNQDDQEHDUTM,Bafilomycin A1,348,Drug_B,bafilomycin a1
+IETKPTYAGKZLKY,Balaglitazone,349,Drug_A,balaglitazone
+IPOKCKJONYRRHP,Balsalazide,350,Drug_A,balsalazide
+FUIOWSNNCWZETH,Bambermycins,351,Drug_A,bambermycins
+ANZXOIAKUNOVQU,Bambuterol,352,Drug_A,bambuterol
+VVUYEFBRTFASAH,Bamifylline,353,Drug_A,bamifylline
+YZBAXVICWUUHGG,Banoxantrone,354,Drug_B,banoxantrone
+JCRIVQIOJSSCQD,Barbexaclone,355,Drug_A,barbexaclone
+FTOAOBMCPZCFFF,Barbital,356,Drug_A,barbital
+XUZMWHLSFXCVMG,Baricitinib,357,Drug_A,baricitinib
+VXMOONUMYLCFJD,Barnidipine,358,Drug_A,barnidipine
+URWYQGVSPQJGGB,Batefenterol,359,Drug_A,batefenterol
+XFILPEOLDIKJHX,Batimastat,360,Drug_B,batimastat
+UCJGJABZCDBEDK,Bazedoxifene,361,Drug_B,bazedoxifene
+JPYQFYIEOUVJDU,Beclamide,362,Drug_A,beclamide
+KUVIULQEHSCUHY,Beclomethasone dipropionate,363,Drug_A,beclomethasone dipropionate
+QSLUXQQUPXBIHH,Becocalcidiol,364,Drug_A,becocalcidiol
+QUIJNHUBAXPXFS,Bedaquiline,365,Drug_A,bedaquiline
+ZPQPDBIHYCBNIG,Befunolol,366,Drug_B,befunolol
+NCNRHFGMJRPRSK,Belinostat,367,Drug_A,belinostat
+LNHWXBUNXOXMRL,Belotecan,368,Drug_B,belotecan
+GKHIVNAUVKXIIY,Belumosudil,369,Drug_A,belumosudil
+LOMMPXLFBTZENJ,Belzutifan,370,Drug_A,belzutifan
+HYHMLYSLQUKXKP,Bempedoic acid,371,Drug_A,bempedoic acid
+IVQOFBKHQCTVQV,Benactyzine,372,Drug_A,benactyzine
+XPCFTKFZXHTYIP,Benazepril,373,Drug_A,benazepril
+MADRIHWFJGRSBP,Benazeprilat,374,Drug_A,benazeprilat
+FYJJXENSONZJRG,Bencyclane,375,Drug_A,bencyclane
+YTKUWDBFDASYHO,Bendamustine,376,Drug_B,bendamustine
+BYFMCKSPFYVMOU,Bendazac,377,Drug_A,bendazac
+HDWIHXWEUNVBIY,Bendroflumethiazide,378,Drug_A,bendroflumethiazide
+CJAVTWRYCDNHSM,Benfluorex,379,Drug_A,benfluorex
+QZVNQOLPLYWLHQ,Benidipine,380,Drug_A,benidipine
+BEWNZPMDJIGBED,Benmoxin,381,Drug_A,benmoxin
+FEJKLNWAOXSSNR,Benorilate,382,Drug_A,benorilate
+MITFXPHMIHQXPI,Benoxaprofen,383,Drug_A,benoxaprofen
+FEBOTPHFXYHVPL,Benperidol,384,Drug_A,benperidol
+BNQDCRGUHNALGH,Benserazide,385,Drug_A,benserazide
+AIZFEOPQVZBNGH,Bentazepam,386,Drug_A,bentazepam
+GIJXKZJWITVLHI,Benzatropine,387,Drug_A,benzatropine
+WHQCHUCQKNIQEC,Benzbromarone,388,Drug_A,benzbromarone
+JKVNJTYHRABHIY,Benzgalantamine,389,Drug_A,benzgalantamine
+VPMRSLWWUXNYRY,Benzhydrocodone,390,Drug_A,benzhydrocodone
+ZKCWITXZGWUJAV,Benzilone,391,Drug_B,benzilone
+CZCHIEJNWPNBDE,Benziodarone,392,Drug_A,benziodarone
+CULUWZNBISUWAS,Benznidazole,393,Drug_A,benznidazole
+BLFLLBZGZJTVJG,Benzocaine,394,Drug_A,benzocaine
+GNRXCIONJWKSEA,Benzoctamine,395,Drug_A,benzoctamine
+WPYMKLBDIGXBTP,Benzoic acid,396,Drug_A,benzoic acid
+MAFMQEKGGFWBAB,Benzonatate,397,Drug_A,benzonatate
+YXKTVDFXDRQTKV,Benzphetamine,398,Drug_A,benzphetamine
+JSZILQVIPPROJI,Benzquinamide,399,Drug_A,benzquinamide
+NDTSRXAMMQDVSW,Benzthiazide,400,Drug_A,benzthiazide
+CNBGNNVCVSKAQZ,Benzydamine,401,Drug_A,benzydamine
+WVDDGKGOMKODPV,Benzyl alcohol,402,Drug_A,benzyl alcohol
+JGSARLDLIJGVTE,Benzylpenicillin,403,Drug_A,benzylpenicillin
+IMPVZRLKKKXMKQ,Benzylpenicilloyl polylysine,404,Drug_A,benzylpenicilloyl polylysine
+PNXBXCRWXNESOV,Benzylthiouracil,405,Drug_A,benzylthiouracil
+YWGDOWXRIALTES,Bepotastine,406,Drug_A,bepotastine
+UIEATEWHFDRYRU,Bepridil,407,Drug_A,bepridil
+CTPOHARTNNSRSR,Beraprost,408,Drug_A,beraprost
+RUDATBOHQWOJDD,Berberine ursodeoxycholate,409,Drug_A,berberine ursodeoxycholate
+BGEBZHIAGXMEMV,Bergapten,410,Drug_A,bergapten
+UXNXMBYCBRBRFD,Berotralstat,411,Drug_A,berotralstat
+QFFGVLORLPOAEC,Besifloxacin,412,Drug_B,besifloxacin
+UUQMNUMQCIQDMZ,Betahistine,413,Drug_A,betahistine
+KWIUHFFTVRNATP,Betaine,414,Drug_A,betaine
+UREBDLICKHMUKA,Betamethasone,415,Drug_A,betamethasone
+VQODGRNSFPNSQE,Betamethasone phosphate,416,Drug_A,betamethasone phosphate
+NWIUTZDMDHAVTP,Betaxolol,417,Drug_A,betaxolol
+NZUPCNDJBJXXRF,Bethanechol,418,Drug_A,bethanechol
+NIVZHWNOUVJHKV,Bethanidine,419,Drug_A,bethanidine
+XHOLNRLADUSQLD,Betrixaban,420,Drug_A,betrixaban
+QGJZLNKBHJESQX,Betulinic Acid,421,Drug_A,betulinic acid
+HXLAFSUPPDYFEO,Bevantolol,422,Drug_A,bevantolol
+UHUMRJKDOOEQIG,Bevonium,423,Drug_A,bevonium
+BTCRKOKVYTVOLU,Bexagliflozin,424,Drug_A,bexagliflozin
+NAVMQTYZDKMPEU,Bexarotene,425,Drug_A,bexarotene
+IIBYAHWJQTYFKB,Bezafibrate,426,Drug_A,bezafibrate
+FLKWNFFCSSJANB,Bezitramide,427,Drug_A,bezitramide
+OFYVIGTWSQPCLF,Bicifadine,428,Drug_A,bicifadine
+RZQNBTMGBODDSK,Bicisate,429,Drug_A,bicisate
+SOLUWJRYJLAZCX,Bictegravir,430,Drug_A,bictegravir
+WFTSRDISOMSAQC,Bietaserpine,431,Drug_A,bietaserpine
+QSQQPMHPCBLLGX,Bifemelane,432,Drug_A,bifemelane
+CYGODHVAJQTCBG,Bifeprunox,433,Drug_A,bifeprunox
+OCAPBUJLXMYKEJ,Bifonazole,434,Drug_A,bifonazole
+ACCMWZWAEFYUGZ,Bilastine,435,Drug_A,bilastine
+AQOKCDNYWBIDND,Bimatoprost,436,Drug_A,bimatoprost
+ACWZRVQXLIRSDF,Binimetinib,437,Drug_A,binimetinib
+ZCVAOQKBXKSDMS,Bioallethrin,438,Drug_B,bioallethrin
+WUADCCWRTIWANL,Biochanin A,439,Drug_A,biochanin a
+YSXKPIUOCJLQIE,Biperiden,440,Drug_A,biperiden
+CGVWPQOFHSAKRR,Biricodar,441,Drug_A,biricodar
+KHOITXIGCFIULA,Bisacodyl,442,Drug_A,bisacodyl
+AKFNKZFJBFQFAA,Bisegliptin,443,Drug_A,bisegliptin
+KRKNYBCHXYNGOX,Bismuth subcitrate potassium,444,Drug_A,bismuth subcitrate potassium
+JAONZGLTYYUPCT,Bismuth subgallate,445,Drug_A,bismuth subgallate
+GRYLNZFGIOXLOG,Bismuth subnitrate,446,Drug_A,bismuth subnitrate
+ZREIPSZUJIFJNP,Bismuth subsalicylate,447,Drug_A,bismuth subsalicylate
+VHYCDWMUTMEGQY,Bisoprolol,448,Drug_A,bisoprolol
+BPKUDUSVDVLOPY,Bisoxatin,449,Drug_A,bisoxatin
+FZGVEKPRDOIXJY,Bitolterol,450,Drug_A,bitolterol
+OIRCOABEOLEUMC,Bivalirudin,451,Drug_A,bivalirudin
+OYVAGSVQBOHSSS,Bleomycin,452,Drug_A,bleomycin
+XVGOZDAJGBALKS,Blonanserin,453,Drug_A,blonanserin
+LHHCSNFAOIFYRV,Boceprevir,454,Drug_A,boceprevir
+CMXKUJNZWYTFJN,Bolandiol,455,Drug_B,bolandiol
+IVFYLRMMHVYGJH,Bolasterone,456,Drug_A,bolasterone
+RSIHSRDYCUFFLA,Boldenone,457,Drug_A,boldenone
+UUOJIACWOAYWEZ,Bopindolol,458,Drug_A,bopindolol
+BDNMABJZSXTKAQ,Bornaprine,459,Drug_A,bornaprine
+GXJABQQUPOEUTA,Bortezomib,460,Drug_A,bortezomib
+QDMRNLRJDHCHLB,Bortezomib D-mannitol,461,Drug_A,bortezomib d-mannitol
+GJPICJJJRGTNOD,Bosentan,462,Drug_A,bosentan
+UBPYILGKFZZVDX,Bosutinib,463,Drug_A,bosutinib
+KQNZDYYTLMIZCT,Brefeldin A,464,Drug_A,brefeldin a
+PHEZJEYUWHETKO,Brequinar,465,Drug_A,brequinar
+AAQOQKQBGPPFNS,Bretylium,466,Drug_A,bretylium
+AURFZBICLPNKBZ,Brexanolone,467,Drug_A,brexanolone
+ZKIAIYBUSXZPLP,Brexpiprazole,468,Drug_A,brexpiprazole
+AILRADAXUVEEIR,Brigatinib,469,Drug_A,brigatinib
+PMKMNTBZJOXTJW,Brilaroxazine,470,Drug_A,brilaroxazine
+XYLJNLCSTIOKRM,Brimonidine,471,Drug_A,brimonidine
+WXJFKKQWPMNTIM,Brincidofovir,472,Drug_A,brincidofovir
+HCRKCZRJWPKOAR,Brinzolamide,473,Drug_A,brinzolamide
+MSYKRHVOOPPJKU,Brivaracetam,474,Drug_A,brivaracetam
+WZXHSWVDAYOFPE,Brofaromine,475,Drug_A,brofaromine
+VMIYHDSEFNYJSL,Bromazepam,476,Drug_A,bromazepam
+ZBPLOVFIXSTCRZ,Bromfenac,477,Drug_B,bromfenac
+CMCCHHWTTBEZNM,Bromisoval,478,Drug_A,bromisoval
+OZVBMTJYIDMWIL,Bromocriptine,479,Drug_A,bromocriptine
+NUNIWXHYABYXKF,Bromodiphenhydramine,480,Drug_A,bromodiphenhydramine
+SKTFQHRVFFOHTQ,Bromotheophylline,481,Drug_A,bromotheophylline
+RKLNONIVDFXQRX,Bromperidol,482,Drug_A,bromperidol
+ZDIGNSYAACHWNL,Brompheniramine,483,Drug_A,brompheniramine
+UMSGKTJDUHERQW,Brotizolam,484,Drug_A,brotizolam
+WOVKYSAHUYNSMH,Broxuridine,485,Drug_B,broxuridine
+MJQUEDHRCUIRLF,Bryostatin 1,486,Drug_A,bryostatin 1
+FBMYKMYQHCBIGU,Bucindolol,487,Drug_A,bucindolol
+MOYGZHXDRJNJEP,Buclizine,488,Drug_A,buclizine
+VOVIALXJUBGFJZ,Budesonide,489,Drug_A,budesonide
+QIHLUZAFSSMXHQ,Budipine,490,Drug_A,budipine
+MXJWRABVEGLYDG,Bufexamac,491,Drug_A,bufexamac
+OWYLAEYXIQKAOL,Buflomedil,492,Drug_A,buflomedil
+XSEUMFJMFFMCIU,Buformin,493,Drug_A,buformin
+VTTONGPRPXSUTJ,Bufotenine,494,Drug_A,bufotenine
+SSEBTPPFLLCUMN,Bufuralol,495,Drug_A,bufuralol
+FLWFHHFTIRLFPV,Bumadizone,496,Drug_A,bumadizone
+MAEIEVLCKWDQJH,Bumetanide,497,Drug_A,bumetanide
+WWGZXRYELYWJBD,Bunaftine,498,Drug_B,bunaftine
+RHLJLALHBZGAFM,Bunazosin,499,Drug_A,bunazosin
+LEBVLXFERQHONN,Bupivacaine,500,Drug_A,bupivacaine
+HQIRNZOQPUAHHV,Bupranolol,501,Drug_A,bupranolol
+RMRJXGBAOAMLHD,Buprenorphine,502,Drug_A,buprenorphine
+SNPPWIUOZRMYNY,Bupropion,503,Drug_A,bupropion
+QWCRAEMEVRGPNT,Buspirone,504,Drug_A,buspirone
+COVZYZSDYWQREU,Busulfan,505,Drug_A,busulfan
+ZRIHAIZYIMGOAB,Butabarbital,506,Drug_A,butabarbital
+HQFWVSGBVLEQGA,Butacaine,507,Drug_A,butacaine
+UZVHFVZFNXBMQJ,Butalbital,508,Drug_A,butalbital
+IUWVALYLNVXWKX,Butamben,509,Drug_A,butamben
+VWYQKFLLGRBICZ,Butanilicaine,510,Drug_A,butanilicaine
+DVLBYTMYSMAKHP,Butaperazine,511,Drug_A,butaperazine
+HGBFRHCDYZJRAO,Buthiazide,512,Drug_A,buthiazide
+KJQFBVYMGADDTQ,Buthionine sulfoximine,513,Drug_A,buthionine sulfoximine
+STDBAQMTJLUMFW,Butobarbital,514,Drug_A,butobarbital
+IFKLAQQSCNILHL,Butorphanol,515,Drug_A,butorphanol
+HJXMNVQARNZTEE,Butylphthalide,516,Drug_A,butylphthalide
+YBCNXCRZPWQOBR,Butylscopolamine,517,Drug_A,butylscopolamine
+QQOMYEQLWQJRKK,Butyrfentanyl,518,Drug_A,butyrfentanyl
+AWBGQVBMGBZGLS,Butyrylthiocholine,519,Drug_A,butyrylthiocholine
+LGZKGOGODCLQHG,CA4P,520,Drug_A,ca4p
+MLDQJTXFUGDVEO,CM-4307,521,Drug_A,cm-4307
+PLIVFNIUGLLCEK,CUDC-101,522,Drug_A,cudc-101
+BMQGVNUXMIRLCK,Cabazitaxel,523,Drug_A,cabazitaxel
+KORNTPPJEAJQIU,Cabergoline,524,Drug_A,cabergoline
+WCWSTNLSLKSJPK,Cabotegravir,525,Drug_B,cabotegravir
+ONIQOQHATWINJY,Cabozantinib,526,Drug_A,cabozantinib
+QLTVVOATEHFXLT,Cadralazine,527,Drug_A,cadralazine
+UJSKUDDDPKGBJY,Cafedrine,528,Drug_A,cafedrine
+RYYVLZVUVIJVGH,Caffeine,529,Drug_A,caffeine
+JWUBBDSIWDLEOM,Calcifediol,530,Drug_A,calcifediol
+GMRQFYUYWCNGIN,Calcitriol,531,Drug_A,calcitriol
+OYPRJOBELJOOCE,Calcium,532,Drug_A,calcium
+BHPQYMZQTOCNFJ,Calcium cation,533,Drug_A,calcium cation
+YPCRNBPOUVJVMU,Calcium glubionate anhydrous,534,Drug_B,calcium glubionate anhydrous
+KWMLJOLKUYYJFJ,Calcium glucoheptonate,535,Drug_A,calcium glucoheptonate
+RGHNJXZEOKUKBD,Calcium gluconate,536,Drug_A,calcium gluconate
+JOOXCMJARBKPKM,Calcium levulinate,537,Drug_A,calcium levulinate
+ZQTHOIGMSJMBLM,Calcium pangamate,538,Drug_B,calcium pangamate
+FKAWLXNLHHIHLA,Calyculin A,539,Drug_A,calyculin a
+PXBVEXGRHZFEOF,Camazepam,540,Drug_A,camazepam
+VSJKWCGYPAHWDS,Camptothecin,541,Drug_B,camptothecin
+RYOOHIUJEJZCFT,Camylofin,542,Drug_A,camylofin
+XTNGUQKDFGDXSJ,Canagliflozin,543,Drug_A,canagliflozin
+HTQMVQVXFRQIKW,Candesartan,544,Drug_A,candesartan
+GHOSNRCGJFBJIB,Candesartan cilexetil,545,Drug_A,candesartan cilexetil
+OPGSFDUODIJJGF,Candicidin,546,Drug_A,candicidin
+ZTWZVMIYIIVABD,Candoxatril,547,Drug_B,candoxatril
+OMZCMEYTWSXEPZ,Canertinib,548,Drug_B,canertinib
+PAEBIVWUMLRPSK,Cangrelor,549,Drug_A,cangrelor
+QHMBSVQNZZTUGM,Cannabidiol,550,Drug_A,cannabidiol
+REOZWEGFPHTFEI,Cannabidivarin,551,Drug_A,cannabidivarin
+VBGLYOIFKLUMQG,Cannabinol,552,Drug_A,cannabinol
+PBKZPPIHUVSDNM,Canrenoic acid,553,Drug_A,canrenoic acid
+UJVLDDZCTMKXJK,Canrenone,554,Drug_A,canrenone
+GAGWJHPBXLXJQN,Capecitabine,555,Drug_A,capecitabine
+JDUBGYFRJFOXQC,Capivasertib,556,Drug_A,capivasertib
+LIOLIMKSCNQPLV,Capmatinib,557,Drug_A,capmatinib
+YQXCVAGCMNFUMQ,Capravirine,558,Drug_B,capravirine
+JNIIDKODPGHQSS,Capreomycin,559,Drug_A,capreomycin
+WWZKQHOCKIZLMA,Caprylic acid,560,Drug_B,caprylic acid
+YKPUWZUDDOIDPM,Capsaicin,561,Drug_A,capsaicin
+IZLPZXSZLLELBJ,Captodiame,562,Drug_A,captodiame
+FAKRSMQSSFJEIM,Captopril,563,Drug_A,captopril
+FFGPTBGBLSHEPO,Carbamazepine,564,Drug_A,carbamazepine
+VPJXQGSRWJZDOB,Carbamoylcholine,565,Drug_A,carbamoylcholine
+FPPNZSSZRUTDAP,Carbenicillin,566,Drug_A,carbenicillin
+NSTRIRCPWQHTIA,Carbetocin,567,Drug_A,carbetocin
+TZFNLOMSOLWIDK,Carbidopa,568,Drug_A,carbidopa
+CFOYWRHIYXMDOT,Carbimazole,569,Drug_A,carbimazole
+OJFSXZCBGQGRNV,Carbinoxamine,570,Drug_A,carbinoxamine
+GBFLZEXEOZUWRN,Carbocisteine,571,Drug_A,carbocisteine
+FQVHOULQCKDUCY,Carbomycin,572,Drug_A,carbomycin
+DLJKPYFALUEJCK,Carboprost,573,Drug_A,carboprost
+SHHKQEUPHAENFK,Carboquone,574,Drug_B,carboquone
+WNRZHQBJSXRYJK,Carboxyamidotriazole,575,Drug_A,carboxyamidotriazole
+OPNPQXLQERQBBV,Carbromal,576,Drug_A,carbromal
+VDTNNGKXZGSZIP,Carbutamide,577,Drug_A,carbutamide
+NZDASSHFKWDBBU,Carfecillin,578,Drug_A,carfecillin
+YDSDEBIZUNNPOB,Carfentanil,579,Drug_A,carfentanil
+BLMPQMFVWMYDKT,Carfilzomib,580,Drug_A,carfilzomib
+JIRBAUWICKGBFE,Carindacillin,581,Drug_A,carindacillin
+IWXNYAIICFKCTM,Cariporide,582,Drug_A,cariporide
+KPWSJANDNDDRMB,Cariprazine,583,Drug_A,cariprazine
+OLBWFRRUHYQABZ,Carisbamate,584,Drug_A,carisbamate
+OFZCIYFFPZCNJE,Carisoprodol,585,Drug_A,carisoprodol
+GUYMHFIHHOEFOA,Carmegliptin,586,Drug_A,carmegliptin
+AOCCBINRVIKJHY,Carmofur,587,Drug_A,carmofur
+DLGOEMSEDOSKAD,Carmustine,588,Drug_A,carmustine
+MSPRUJDUTKRMLM,Caroverine,589,Drug_A,caroverine
+KYCBWEZLKCTALM,Caroxazone,590,Drug_A,caroxazone
+PUXBGTOOZJQSKH,Carprofen,591,Drug_A,carprofen
+LWAFSWPYPHEXKX,Carteolol,592,Drug_A,carteolol
+OGHNVEJMJSYVRP,Carvedilol,593,Drug_A,carvedilol
+JYIKNQVWKBUSNH,Caspofungin,594,Drug_A,caspofungin
+JDVVGAQPNNXQDW,Castanospermine,595,Drug_A,castanospermine
+DLNKOYKMWOXYQA,Cathine,596,Drug_A,cathine
+PUAQLLVFLMYYJJ,Cathinone,597,Drug_A,cathinone
+XXJWYDDUDKYVKI,Cediranib,598,Drug_A,cediranib
+RRYMAQUWDLIUPV,Cefacetrile,599,Drug_A,cefacetrile
+QYIYFLOTGYLRGG,Cefaclor,600,Drug_A,cefaclor
+BOEGTKLJZSQCCD,Cefadroxil,601,Drug_A,cefadroxil
+CZTQZXZIADLWOZ,Cefaloridine,602,Drug_A,cefaloridine
+XIURVHNZVLADCM,Cefalotin,603,Drug_A,cefalotin
+OLVCFLKTBJRLHI,Cefamandole,604,Drug_A,cefamandole
+RRJHESVQVSRQEX,Cefamandole nafate,605,Drug_A,cefamandole nafate
+UQLLWWBDSUHNEB,Cefapirin,606,Drug_A,cefapirin
+UOCJDOLVGGIYIQ,Cefatrizine,607,Drug_A,cefatrizine
+VTLCNEGVSVJLDN,Cefazedone,608,Drug_A,cefazedone
+MLYYVTUWGNIJIB,Cefazolin,609,Drug_A,cefazolin
+SMSRCGPDNDCXFR,Cefbuperazone,610,Drug_A,cefbuperazone
+HJJRIJDTIPFROI,Cefcapene,611,Drug_A,cefcapene
+RTXOFQZKPXMALH,Cefdinir,612,Drug_A,cefdinir
+KMIPKYQIOVAHOP,Cefditoren,613,Drug_A,cefditoren
+HVFLCNVBZFFHBT,Cefepime,614,Drug_A,cefepime
+MQLRYUCJDNBWMV,Cefetamet,615,Drug_A,cefetamet
+OKBVVJOGVLARMR,Cefixime,616,Drug_A,cefixime
+HJJDBAOLQAWBMH,Cefmenoxime,617,Drug_A,cefmenoxime
+SNBUBQHDYVFSQF,Cefmetazole,618,Drug_A,cefmetazole
+JSDXOWVAHXDYCU,Cefminox,619,Drug_A,cefminox
+XDZKBRJLTGRPSS,Cefodizime,620,Drug_A,cefodizime
+DYAIAHUQIPBDIP,Cefonicid,621,Drug_A,cefonicid
+GCFBRXLSHGKWDP,Cefoperazone,622,Drug_A,cefoperazone
+SLAYUXIURFNXPG,Ceforanide,623,Drug_A,ceforanide
+GPRBEKHLDVQUJE,Cefotaxime,624,Drug_A,cefotaxime
+SRZNHPXWXCNNDU,Cefotetan,625,Drug_A,cefotetan
+QYQDKDWGWDOFFU,Cefotiam,626,Drug_A,cefotiam
+WZOZEZRFJCJXNZ,Cefoxitin,627,Drug_A,cefoxitin
+QDUIJCOKQCCXQY,Cefozopran,628,Drug_A,cefozopran
+PWAUCHMQEXVFJR,Cefpiramide,629,Drug_A,cefpiramide
+DKOQGJHPHLTOJR,Cefpirome,630,Drug_A,cefpirome
+WYUSVOMTXWRGEK,Cefpodoxime,631,Drug_B,cefpodoxime
+WDLWHQDACQUCJR,Cefprozil,632,Drug_A,cefprozil
+RDLPVSKMFDYCOR,Cefradine,633,Drug_A,cefradine
+RDMOROXKXONCAL,Cefroxadine,634,Drug_A,cefroxadine
+SYLKGLMBLAAGSC,Cefsulodin,635,Drug_A,cefsulodin
+ZCCUWMICIWSJIX,Ceftaroline fosamil,636,Drug_A,ceftaroline fosamil
+ORFOPKXBNMVMKC,Ceftazidime,637,Drug_A,ceftazidime
+DZMVCVMFETWNIU,Ceftezole,638,Drug_A,ceftezole
+UNJFKXSSGBWRBZ,Ceftibuten,639,Drug_A,ceftibuten
+ZBHXIWJRIFEVQY,Ceftiofur,640,Drug_B,ceftiofur
+NNULBSISHYWZJU,Ceftizoxime,641,Drug_A,ceftizoxime
+VOAZJEPQLGBXGO,Ceftobiprole,642,Drug_A,ceftobiprole
+HFTSMHTWUFCYMJ,Ceftobiprole medocaril,643,Drug_A,ceftobiprole medocaril
+JHFNIHVVXRKLEF,Ceftolozane,644,Drug_A,ceftolozane
+VAAUVRVFOQPIGI,Ceftriaxone,645,Drug_A,ceftriaxone
+JFPVXVDWJQMJEE,Cefuroxime,646,Drug_A,cefuroxime
+RZEKVGVHFLEQIL,Celecoxib,647,Drug_A,celecoxib
+JOATXPAWOHTVSZ,Celiprolol,648,Drug_A,celiprolol
+GFHAXPJGXSQLPT,Cenobamate,649,Drug_A,cenobamate
+ZAIPMKNFIOOWCQ,Cephalexin,650,Drug_B,cephalexin
+FUBBGQLTSCSAON,Cephaloglycin,651,Drug_A,cephaloglycin
+HOKIDJSKDBPKTQ,Cephalosporin C,652,Drug_A,cephalosporin c
+PEUIVMLYMKXUBF,Cephalosporin analog,653,Drug_B,cephalosporin analog
+UUWFGEKEQSCSMB,Cephalothin Group,654,Drug_A,cephalothin group
+VERWOWGGCGHDQE,Ceritinib,655,Drug_A,ceritinib
+MUBZPKHOEPUJKR,Cerium oxalate,656,Drug_A,cerium oxalate
+SEERZIQQUAZTOL,Cerivastatin,657,Drug_A,cerivastatin
+NXQGEDVQXVTCDA,Cerlapirdine,658,Drug_A,cerlapirdine
+PENDGIOBPJLVBT,Cethromycin,659,Drug_A,cethromycin
+ZKLPARSLTMPFCP,Cetirizine,660,Drug_A,cetirizine
+WUTYZMFRCNBCHQ,Cevimeline,661,Drug_A,cevimeline
+RNFNDJAIBTYOQL,Chloral hydrate,662,Drug_A,chloral hydrate
+JCKYGMPEJWAADB,Chlorambucil,663,Drug_A,chlorambucil
+WIIZWVCIJKGZOK,Chloramphenicol,664,Drug_A,chloramphenicol
+LIRCDOVJWUGTMW,Chloramphenicol succinate,665,Drug_A,chloramphenicol succinate
+WFNAKBGANONZEQ,Chlorcyclizine,666,Drug_A,chlorcyclizine
+ANTSCNMPPGJYLG,Chlordiazepoxide,667,Drug_A,chlordiazepoxide
+QVFWZNCVPCJQOP,Chlorhexadol,668,Drug_A,chlorhexadol
+VEXZGXHMUGYJMC,Chloride ion,669,Drug_A,chloride ion
+VUHJZBBCZGVNDZ,Chlormadinone,670,Drug_A,chlormadinone
+QMBJSIBWORFWQT,Chlormadinone acetate,671,Drug_A,chlormadinone acetate
+WEQAYVWKMWHEJO,Chlormezanone,672,Drug_A,chlormezanone
+HEDRZPFGACZZDS,Chloroform,673,Drug_A,chloroform
+VDANGULDQQJODZ,Chloroprocaine,674,Drug_A,chloroprocaine
+ICKFFNBDFNZJSX,Chloropyramine,675,Drug_A,chloropyramine
+WHTVZRBIWZFKQO,Chloroquine,676,Drug_A,chloroquine
+JBMKAUGHUNFTOL,Chlorothiazide,677,Drug_A,chlorothiazide
+BFPSDSIWYFKGBC,Chlorotrianisene,678,Drug_A,chlorotrianisene
+SOYKEARSMXGVTM,Chlorpheniramine,679,Drug_A,chlorpheniramine
+KKHPNPMTPORSQE,Chlorphenoxamine,680,Drug_A,chlorphenoxamine
+ZCKAMNXUHHNZLN,Chlorphentermine,681,Drug_A,chlorphentermine
+DBOUGBAQLIXZLV,Chlorproethazine,682,Drug_A,chlorproethazine
+ISZNZKHCRKXXAU,Chlorproguanil,683,Drug_A,chlorproguanil
+ZPEIMTDSQAKGNT,Chlorpromazine,684,Drug_B,chlorpromazine
+RKWGIWYCVPQPMF,Chlorpropamide,685,Drug_A,chlorpropamide
+WSPOMRSOLSGNFJ,Chlorprothixene,686,Drug_A,chlorprothixene
+CTSNHMQGVWXIEG,Chlorsulfaquinoxaline,687,Drug_A,chlorsulfaquinoxaline
+CYDMQBQPVICBEU,Chlortetracycline,688,Drug_A,chlortetracycline
+TZFWDZFKRBELIQ,Chlorzoxazone,689,Drug_A,chlorzoxazone
+QYSXJUFSXHHAJI,Cholecalciferol,690,Drug_A,cholecalciferol
+HVYWMOMLDIMFJA,Cholesterol,691,Drug_A,cholesterol
+BHQCQFFYRZLCQQ,Cholic Acid,692,Drug_A,cholic acid
+OEYIOHPDSNJKLS,Choline,693,Drug_A,choline
+BFGKITSFLPAWGI,Chromic cation,694,Drug_A,chromic cation
+VYZAMTAEIAYCRO,Chromium,695,Drug_A,chromium
+SIOXPEMLGUPBBT,Chromium picolinate,696,Drug_A,chromium picolinate
+IPOBOOXFSRWSHL,Cibenzoline,697,Drug_A,cibenzoline
+LUKZNWIVRBCLON,Ciclesonide,698,Drug_A,ciclesonide
+CVKNDPRBJVBDSS,Cicletanine,699,Drug_A,cicletanine
+SCKYRAXSEDYPSA,Ciclopirox,700,Drug_B,ciclopirox
+VWFCHDSQECPREK,Cidofovir,701,Drug_A,cidofovir
+ODQWQRRAPPTVAG,Cidoxepin,702,Drug_A,cidoxepin
+YZFWTZACSRHJQD,Ciglitazone,703,Drug_A,ciglitazone
+NCNFDKWULDWJDS,Cilansetron,704,Drug_A,cilansetron
+DHSUYTOATWAVLW,Cilastatin,705,Drug_A,cilastatin
+HHHKFGXWKKUNCY,Cilazapril,706,Drug_A,cilazapril
+UVAUYSRYXACKSC,Cilazaprilat,707,Drug_A,cilazaprilat
+KJEBULYHNRNJTE,Cilnidipine,708,Drug_A,cilnidipine
+RRGUKTPIGVIEKM,Cilostazol,709,Drug_A,cilostazol
+AQIXAKUUQRKLND,Cimetidine,710,Drug_A,cimetidine
+QVVOZYKELHAIPX,Cimetropium,711,Drug_A,cimetropium
+KYXDNECMRLFQMZ,Cimicoxib,712,Drug_A,cimicoxib
+VDHAWDNDOKGFTD,Cinacalcet,713,Drug_A,cinacalcet
+NQTRBZXDWMDXAQ,Cinazepam,714,Drug_A,cinazepam
+PUFQVTATUTYEAL,Cinchocaine,715,Drug_A,cinchocaine
+YTRMTPPVNRALON,Cinchophen,716,Drug_B,cinchophen
+ZDLBNXXKDMLZMF,Cinitapride,717,Drug_A,cinitapride
+KJPRLNWUNMBNBZ,Cinnamaldehyde,718,Drug_A,cinnamaldehyde
+DERZBLKQOCDDDZ,Cinnarizine,719,Drug_A,cinnarizine
+XAXMYHMKTCNRRZ,Cinolazepam,720,Drug_A,cinolazepam
+VDUWPHTZYNWKRN,Cinoxacin,721,Drug_A,cinoxacin
+KPSRODZRAIWAKH,Ciprofibrate,722,Drug_A,ciprofibrate
+MYSWGUAQZAJSOK,Ciprofloxacin,723,Drug_A,ciprofloxacin
+YAORIDZYZDUZCM,Cirazoline,724,Drug_A,cirazoline
+DCSUBABJRXZOMT,Cisapride,725,Drug_A,cisapride
+WSEQXVZVJXJVFP,Citalopram,726,Drug_A,citalopram
+RHGKLRLOHDJJDR,Citrulline,727,Drug_A,citrulline
+PTOAARAWEBMLNO,Cladribine,728,Drug_A,cladribine
+AGOYDEPGAOXOCK,Clarithromycin,729,Drug_A,clarithromycin
+HZZVJAQRINQKSD,Clavulanic acid,730,Drug_A,clavulanic acid
+YNNUSGIPVFPVBX,Clemastine,731,Drug_A,clemastine
+STJMRWALKKWQGH,Clenbuterol,732,Drug_A,clenbuterol
+KPBZROQVTHLCDU,Clevidipine,733,Drug_A,clevidipine
+HOOSGZJRQIVJSZ,Clidinium,734,Drug_A,clidinium
+QGPKADBNRMWEQR,Clinafloxacin,735,Drug_A,clinafloxacin
+KDLRVYVGXIQJDK,Clindamycin,736,Drug_A,clindamycin
+CXOXHMZGEKVPMT,Clobazam,737,Drug_A,clobazam
+FCSHDIVRCWTZOX,Clobetasol,738,Drug_A,clobetasol
+CBGUOGMQLZIXBE,Clobetasol propionate,739,Drug_A,clobetasol propionate
+XXIFVOHLGBURIG,Clobetasone,740,Drug_B,clobetasone
+YMTMADLUXIRMGX,Clocortolone,741,Drug_B,clocortolone
+ARPLCFGLEYFDCN,Clocortolone acetate,742,Drug_A,clocortolone acetate
+ACSIXWWBWUQEHA,Clodronic acid,743,Drug_A,clodronic acid
+WDDPHFBMKLOVOX,Clofarabine,744,Drug_A,clofarabine
+WDQPAMHFFCXSNU,Clofazimine,745,Drug_A,clofazimine
+WRCHFMBCVFFYEQ,Clofedanol,746,Drug_B,clofedanol
+NENBAISIHCWPKP,Clofenamide,747,Drug_A,clofenamide
+KNHUKKLJHYUCFP,Clofibrate,748,Drug_A,clofibrate
+CXQGFLBVUNUQIA,Clofibride,749,Drug_A,clofibride
+PCLITLDOTJTVDJ,Clomethiazole,750,Drug_A,clomethiazole
+JKXQBIZCQJLVOS,Clometocillin,751,Drug_A,clometocillin
+GKIRPKYJQBWNGO,Clomifene,752,Drug_A,clomifene
+GDLIGKIOYRNHDA,Clomipramine,753,Drug_A,clomipramine
+GJGDLRSSCNAKGL,Clomocycline,754,Drug_A,clomocycline
+DGBIGWXXNGSACT,Clonazepam,755,Drug_A,clonazepam
+GJSURZIOUXUGAL,Clonidine,756,Drug_A,clonidine
+CLOMYZFHNHFSIQ,Clonixin,757,Drug_A,clonixin
+LBXHRAWDUMTPSE,Clopamide,758,Drug_A,clopamide
+WFPIAZLQTJBIFN,Clopenthixol,759,Drug_A,clopenthixol
+GKTWGGQPFAXNFI,Clopidogrel,760,Drug_A,clopidogrel
+YTJIBEDMAQUYSZ,Cloprednol,761,Drug_B,cloprednol
+VJGGHXVGBSZVMZ,Cloprostenol,762,Drug_A,cloprostenol
+XYCMOTOFHFTUIU,Cloranolol,763,Drug_A,cloranolol
+XDDJGVMJFWAHJX,Clorazepic acid,764,Drug_A,clorazepic acid
+VPMWFZKOWULPGT,Clorexolone,765,Drug_A,clorexolone
+BTFHLQRNAMSNLC,Clorgiline,766,Drug_A,clorgiline
+GYNNRVJJLAVVTQ,Cloricromen,767,Drug_A,cloricromen
+NJDUWAXIURWWLN,Clorindione,768,Drug_A,clorindione
+FJAQNRBDVKIIKK,Clorobiocin,769,Drug_A,clorobiocin
+QOVTVIYTBRHADL,Clorsulon,770,Drug_A,clorsulon
+KCZCIYZKSLLNNH,Clostebol,771,Drug_A,clostebol
+KAAZGXDPUNNEFN,Clothiapine,772,Drug_A,clothiapine
+CHBRHODLKOZEPZ,Clotiazepam,773,Drug_A,clotiazepam
+VNFPBHJOKIVQEB,Clotrimazole,774,Drug_B,clotrimazole
+LQOLIRLGBULYKD,Cloxacillin,775,Drug_A,cloxacillin
+ZIXNZOBDFKSQTC,Cloxazolam,776,Drug_A,cloxazolam
+QZUDBNBUXVUHMW,Clozapine,777,Drug_A,clozapine
+ZCIGNRJZKPOIKD,Cobicistat,778,Drug_A,cobicistat
+BSMCAPRUBJMWDF,Cobimetinib,779,Drug_A,cobimetinib
+ZPUCINDJVBIVPJ,Cocaine,780,Drug_A,cocaine
+OROGSEYTTFOCAN,Codeine,781,Drug_A,codeine
+IAKHMKGGTNLKSZ,Colchicine,782,Drug_A,colchicine
+BSSIRFLGSWHWDE,Colistimethate,783,Drug_A,colistimethate
+HVXBOLULGPECHP,Combretastatin A4,784,Drug_A,combretastatin a4
+IKENVDNFQMCRTR,Conivaptan,785,Drug_A,conivaptan
+PZBCKZWLPGJMAO,Copanlisib,786,Drug_A,copanlisib
+RYGMFSIKBFXOCR,Copper,787,Drug_A,copper
+OFEZSBMBBKLLBJ,Cordycepin,788,Drug_B,cordycepin
+OMFXVFTZEKFJBZ,Corticosterone,789,Drug_A,corticosterone
+MFYSYFVPBJMHGN,Cortisone,790,Drug_A,cortisone
+ITRJWOMZKQRYTA,Cortisone acetate,791,Drug_A,cortisone acetate
+RKHQGWMMUURILY,Cortivazol,792,Drug_A,cortivazol
+BXNANOICGRISHX,Coumaphos,793,Drug_A,coumaphos
+ZYGHJZDHTFUPRJ,Coumarin,794,Drug_B,coumarin
+WTIJXIZOODAMJT,Coumermycin A1,795,Drug_A,coumermycin a1
+DYNHJHQFHQTFTP,Crenolanib,796,Drug_A,crenolanib
+KTEIFNKAUNYNJU,Crizotinib,797,Drug_A,crizotinib
+VFLDPWHFBUODDF,Curcumin,798,Drug_A,curcumin
+NEJVQQBBTRFOHB,Curcumin sulfate,799,Drug_A,curcumin sulfate
+SLFGIOIONGJGRT,Cyamemazine,800,Drug_A,cyamemazine
+RMRCNWBMXRMIRW,Cyanocobalamin,801,Drug_A,cyanocobalamin
+HGBLNBBNRORJKI,Cyclacillin,802,Drug_A,cyclacillin
+WZHCOOQXZCIUNC,Cyclandelate,803,Drug_A,cyclandelate
+IVOMOUWHDPKRLL,Cyclic adenosine monophosphate,804,Drug_A,cyclic adenosine monophosphate
+UVKZSORBKUEBAZ,Cyclizine,805,Drug_A,cyclizine
+WTYGAUXICFETTC,Cyclobarbital,806,Drug_A,cyclobarbital
+JURKNVYFZMSNLP,Cyclobenzaprine,807,Drug_A,cyclobenzaprine
+QMNFFXRFOJIOKZ,Cycloguanil,808,Drug_A,cycloguanil
+PAFZNILMFXTMIY,Cyclohexylammonium Ion,809,Drug_A,cyclohexylammonium ion
+HFXKQSZZZPGLKQ,Cyclopentamine,810,Drug_A,cyclopentamine
+BKYKPTRYDKTTJY,Cyclopenthiazide,811,Drug_A,cyclopenthiazide
+SKYSRIRYMSLOIN,Cyclopentolate,812,Drug_A,cyclopentolate
+CMSMOCZEIVJLDB,Cyclophosphamide,813,Drug_A,cyclophosphamide
+LVZWSLJZHVFIQJ,Cyclopropane,814,Drug_A,cyclopropane
+DYDCUQKUCUHJBH,Cycloserine,815,Drug_A,cycloserine
+PMATZTZNYRCHOR,Cyclosporine,816,Drug_A,cyclosporine
+BOCUKUHCLICSIY,Cyclothiazide,817,Drug_A,cyclothiazide
+SWRUZBWLEWHWRI,Cycrimine,818,Drug_A,cycrimine
+XQCGNURMLWFQJR,Cymarin,819,Drug_A,cymarin
+JJCFRYNCJDLXIK,Cyproheptadine,820,Drug_A,cyproheptadine
+UWFYSQMTEOIJJG,Cyproterone acetate,821,Drug_A,cyproterone acetate
+UFULAYFCSOUIOV,Cysteamine,822,Drug_A,cysteamine
+UHDGCWIWMRVCDJ,Cytarabine,823,Drug_A,cytarabine
+GSDSWSVVBLHKDQ,D-Levofloxacin,824,Drug_A,d-levofloxacin
+COLNVLDHVKWLRT,D-Phenylalanine,825,Drug_A,d-phenylalanine
+QIVBCDIJIAJPQS,D-Tryptophan,826,Drug_A,d-tryptophan
+CDAISMWEOUEBRE,D-chiro-Inositol,827,Drug_A,d-chiro-inositol
+BGOQGUHWXBGXJW,DAR-0100A,828,Drug_A,dar-0100a
+FMCGSUUBYTWNDP,DL-Methylephedrine,829,Drug_A,dl-methylephedrine
+GVJHHUAWPYXKBD,DL-alpha-Tocopherol,830,Drug_A,dl-alpha-tocopherol
+MCMMCRYPQBNCPH,DPDPE,831,Drug_A,dpdpe
+YBSJFWOBGCMAKL,Dabigatran,832,Drug_A,dabigatran
+KSGXQBZTULBEEQ,Dabigatran etexilate,833,Drug_A,dabigatran etexilate
+BFSMGDJOXZAERB,Dabrafenib,834,Drug_A,dabrafenib
+FDKXTQMXEQVLRF,Dacarbazine,835,Drug_A,dacarbazine
+FKRSSPOQAMALKA,Daclatasvir,836,Drug_A,daclatasvir
+LVXJQMNHJWSHET,Dacomitinib,837,Drug_A,dacomitinib
+RJURFGZVJUQBHK,Dactinomycin,838,Drug_A,dactinomycin
+JOGKUKXHTYWRGZ,Dactolisib,839,Drug_A,dactolisib
+ZQSIJRDFPHDXIC,Daidzein,840,Drug_B,daidzein
+KYQZWONCHDNPDP,Daidzin,841,Drug_A,daidzin
+NUKYPUAOHBNCPY,Dalfampridine,842,Drug_A,dalfampridine
+SUYRLXYYZQTJHF,Dalfopristin,843,Drug_A,dalfopristin
+POZRVZJJTULAOH,Danazol,844,Drug_A,danazol
+PIBARDGJJAGJAJ,Danicopan,845,Drug_A,danicopan
+ZVTDLPBHTSMEJZ,Danoprevir,846,Drug_B,danoprevir
+OZOMQRBLCMDCEG,Dantrolene,847,Drug_A,dantrolene
+QBPFLULOKWLNNW,Dantron,848,Drug_A,dantron
+JVHXJTBJCFBINQ,Dapagliflozin,849,Drug_A,dapagliflozin
+RFWZESUMWJKKRN,Dapiprazole,850,Drug_B,dapiprazole
+USRHYDPUVLEVMC,Dapoxetine,851,Drug_A,dapoxetine
+RUEYEZADQJCKGV,Daprodustat,852,Drug_A,daprodustat
+MQJKPEGWNLWLTK,Dapsone,853,Drug_A,dapsone
+DOAKLVKFURWEDJ,Daptomycin,854,Drug_A,daptomycin
+IJNIQYINMSGIPS,Darexaban,855,Drug_A,darexaban
+NBGABHGMJVIVBW,Daridorexant,856,Drug_A,daridorexant
+HXGBXQDTNZMWGS,Darifenacin,857,Drug_A,darifenacin
+QERUYFVNIOLCHV,Darodipine,858,Drug_A,darodipine
+BLIJXOOIHRSQRB,Darolutamide,859,Drug_A,darolutamide
+CJBJHOAVZSMMDJ,Darunavir,860,Drug_A,darunavir
+NBRBXGKOEOGLOI,Dasabuvir,861,Drug_A,dasabuvir
+ZBNZXTGUTAYRHI,Dasatinib,862,Drug_A,dasatinib
+SRPXSILJHWNFMK,Dasotraline,863,Drug_A,dasotraline
+STQGQHZAVUOBTE,Daunorubicin,864,Drug_A,daunorubicin
+NNQIJOYQWYKBOW,Deacetoxycephalosporin C,865,Drug_A,deacetoxycephalosporin c
+LJROKJGQSPMTKB,Deacetylbisacodyl,866,Drug_A,deacetylbisacodyl
+UEEJHVSXFDXPFK,Deanol,867,Drug_A,deanol
+JWPGJSVJDAJRLW,Debrisoquine,868,Drug_A,debrisoquine
+MTCUAOILFDZKCO,Decamethonium,869,Drug_A,decamethonium
+ZADGGFKUEYIBJC,Decamethoxine,870,Drug_B,decamethoxine
+XAUDJQYHKZQPEU,Decitabine,871,Drug_A,decitabine
+BOFQWVMAQOTZIW,Deferasirox,872,Drug_A,deferasirox
+TZXKOCQBRNJULO,Deferiprone,873,Drug_A,deferiprone
+FBHSPRKOSMHSIF,Deflazacort,874,Drug_A,deflazacort
+MEUCPCLKGZSHTA,Degarelix,875,Drug_A,degarelix
+SBJKKFFYIZUCET,Dehydroascorbic acid,876,Drug_A,dehydroascorbic acid
+OHXPGWPVLFPUSM,Dehydrocholic acid,877,Drug_A,dehydrocholic acid
+DYDCPNMLZGFQTM,Delafloxacin,878,Drug_A,delafloxacin
+XDAOLTSRNUSPPH,Delamanid,879,Drug_A,delamanid
+WOUOLAUOZXOLJQ,Delapril,880,Drug_A,delapril
+WHBIGIKBNXZKFE,Delavirdine,881,Drug_A,delavirdine
+CHIFCDOIPRCHCF,Delorazepam,882,Drug_A,delorazepam
+QLUWQAFDTNAYPN,Delpazolid,883,Drug_A,delpazolid
+RWZVPVOZTJJMNU,Demecarium,884,Drug_A,demecarium
+FMTDIUIBLCQGJB,Demeclocycline,885,Drug_A,demeclocycline
+NNJPGOLRFBJNIW,Demecolcine,886,Drug_A,demecolcine
+JWAHBTQSSMYISL,Demegestone,887,Drug_A,demegestone
+KXGVEGMKQFWNSR,Deoxycholic acid,888,Drug_A,deoxycholic acid
+NGKZFDYBISXGGS,Deoxyepinephrine,889,Drug_A,deoxyepinephrine
+IDINUJSAMVOPCM,Deoxyspergualin,890,Drug_A,deoxyspergualin
+ZWPODSUQWXAZNC,Deptropine,891,Drug_B,deptropine
+PCSWXVJAIHCTMO,Dequalinium,892,Drug_A,dequalinium
+QOBGWWQAMAPULA,Deramciclane,893,Drug_A,deramciclane
+AVJBPWGFOQAPRH,Dermatan sulfate,894,Drug_A,dermatan sulfate
+AYEAMZDTWLXZIJ,Dersalazine,895,Drug_A,dersalazine
+CVBMAZKKCSYWQR,Deserpidine,896,Drug_A,deserpidine
+DPYMFVXJLLWWEU,Desflurane,897,Drug_A,desflurane
+HCYAFALTSJYZDH,Desipramine,898,Drug_A,desipramine
+OBATZBGFDSVCJD,Deslanoside,899,Drug_A,deslanoside
+JAUOIFJMECXRGI,Desloratadine,900,Drug_A,desloratadine
+NFLWUMRGJYTJIN,Desmopressin,901,Drug_A,desmopressin
+RPLCPCMSCLEKRS,Desogestrel,902,Drug_A,desogestrel
+LNNWVNGFPYWNQE,Desomorphine,903,Drug_A,desomorphine
+WBGKWQHBNHJJPZ,Desonide,904,Drug_B,desonide
+VWVSBHGCDBMOOT,Desoximetasone,905,Drug_A,desoximetasone
+VPGRYOFKCNULNK,Desoxycorticosterone acetate,906,Drug_B,desoxycorticosterone acetate
+VVOIQBFMTVCINR,Desoxycorticosterone pivalate,907,Drug_A,desoxycorticosterone pivalate
+KYYIDSXMWOZKMP,Desvenlafaxine,908,Drug_A,desvenlafaxine
+RHDJRPPFURBGLQ,Detomidine,909,Drug_A,detomidine
+BZZKEPGENYLQSC,Deucravacitinib,910,Drug_A,deucravacitinib
+MKXZASYAUGDDCJ,Deudextromethorphan,911,Drug_A,deudextromethorphan
+FGXWKSZFVQUSTL,Deudomperidone,912,Drug_A,deudomperidone
+ISWRGOKTTBVCFA,Deupirfenidone,913,Drug_A,deupirfenidone
+HFNKQEVNSGCOJV,Deuruxolitinib,914,Drug_A,deuruxolitinib
+MKJIEFSOBYUXJB,Deutetrabenazine,915,Drug_A,deutetrabenazine
+PURKAOJPTOLRMP,Deutivacaftor,916,Drug_A,deutivacaftor
+AKUJBENLRBOFTD,Dexamethasone acetate,917,Drug_A,dexamethasone acetate
+BQTXJHAJMDGOFI,Dexamethasone isonicotinate,918,Drug_A,dexamethasone isonicotinate
+LQQIVYSCPWCSSD,Dexetimide,919,Drug_A,dexetimide
+DBGIVFWFUFKIQN,Dexfenfluramine,920,Drug_A,dexfenfluramine
+HEFNNWSXXWATRW,Dexibuprofen,921,Drug_A,dexibuprofen
+XVQUOJBERHHONY,Dexisometheptene mucate,922,Drug_A,dexisometheptene mucate
+DKYWVDODHFEZIM,Dexketoprofen,923,Drug_A,dexketoprofen
+MJIHNNLFOKEZEW,Dexlansoprazole,924,Drug_A,dexlansoprazole
+QNQZBKQEIFTHFZ,Dexloxiglumide,925,Drug_A,dexloxiglumide
+IMYZQPCYWPFTAG,Dexmecamylamine,926,Drug_A,dexmecamylamine
+CUHVIMMYOGQXCV,Dexmedetomidine,927,Drug_A,dexmedetomidine
+DUGOZIWVEXMGBE,Dexmethylphenidate,928,Drug_A,dexmethylphenidate
+SVJMLYUFVDMUHP,Dexniguldipine,929,Drug_A,dexniguldipine
+SNPLKNRPJHDVJA,Dexpanthenol,930,Drug_A,dexpanthenol
+FASDKYOPVNHBLU,Dexpramipexole,931,Drug_A,dexpramipexole
+AQHHHDLHHXJYJD,Dexpropranolol,932,Drug_A,dexpropranolol
+YREYEVIYCVEVJK,Dexrabeprazole,933,Drug_B,dexrabeprazole
+BMKDZUISNHGIBY,Dexrazoxane,934,Drug_A,dexrazoxane
+WDEFBBTXULIOBB,Dextilidine,935,Drug_A,dextilidine
+RUJBDQSFYCKFAA,Dextofisopam,936,Drug_A,dextofisopam
+USSIQXCVUWKGNF,Dextromethadone,937,Drug_A,dextromethadone
+INUNXTSAACVKJS,Dextromoramide,938,Drug_A,dextromoramide
+XLMALTXPSGQGBX,Dextropropoxyphene,939,Drug_A,dextropropoxyphene
+JAQUASYNZVUNQP,Dextrorphan,940,Drug_A,dextrorphan
+XUIIKFGFIJCVMT,Dextrothyroxine,941,Drug_A,dextrothyroxine
+SGTNSNPWRIOYBX,Dexverapamil,942,Drug_A,dexverapamil
+VTMVHDZWSFQSQP,Dezocine,943,Drug_A,dezocine
+TYNLGDBUJLVSMA,Diacerein,944,Drug_A,diacerein
+GVGLGOZIDCSQPN,Diamorphine,945,Drug_A,diamorphine
+AAFJXZWCNVJTMK,Dianhydrogalactitol,946,Drug_A,dianhydrogalactitol
+YVPYQUNUQOZFHG,Diatrizoate,947,Drug_A,diatrizoate
+AAOVKJBEBIDNHE,Diazepam,948,Drug_A,diazepam
+GDLBFKVLRPITMI,Diazoxide,949,Drug_A,diazoxide
+JJCQSGDBDPYCEO,Dibekacin,950,Drug_B,dibekacin
+QPGGEKPRGVJKQB,Dibenzepin,951,Drug_A,dibenzepin
+COESHZUDRKCEPA,Dibromotyrosine,952,Drug_A,dibromotyrosine
+DBHODFSFBXJZNY,Dichlorobenzyl alcohol,953,Drug_A,dichlorobenzyl alcohol
+OEBRKCOSUFCWJD,Dichlorvos,954,Drug_A,dichlorvos
+DCOPUUMXTXDBNB,Diclofenac,955,Drug_A,diclofenac
+GJQPMPFPNINLKP,Diclofenamide,956,Drug_A,diclofenamide
+YFAGHNZHGGCZAX,Dicloxacillin,957,Drug_A,dicloxacillin
+DOBMPNYZJYQDGZ,Dicoumarol,958,Drug_A,dicoumarol
+CURUTKGFNZGFSE,Dicyclomine,959,Drug_A,dicyclomine
+BXZVVICBKDXVGW,Didanosine,960,Drug_A,didanosine
+QJMCKEPOKRERLN,Didox,961,Drug_A,didox
+NFDFQCUYFHCNBW,Dienestrol,962,Drug_A,dienestrol
+AZFLJNIPTRTECV,Dienogest,963,Drug_A,dienogest
+RTZKZFJDLAIYFH,Diethyl ether,964,Drug_A,diethyl ether
+RCKMWOKWVGPNJF,Diethylcarbamazine,965,Drug_A,diethylcarbamazine
+UMJJGDUYVQCBMC,Diethylnorspermine,966,Drug_A,diethylnorspermine
+XXEPPPIWZFICOJ,Diethylpropion,967,Drug_A,diethylpropion
+RGLYKWWBQGJZGM,Diethylstilbestrol,968,Drug_A,diethylstilbestrol
+GUONSMXZEYTWML,Difemerine,969,Drug_A,difemerine
+UFIVBRCCIRTJTN,Difenoxin,970,Drug_A,difenoxin
+PWHROYKAGRUWDQ,Difenpiramide,971,Drug_A,difenpiramide
+WXURHACBFYSXBI,Diflorasone,972,Drug_A,diflorasone
+NOCJXYPHIIZEHN,Difloxacin,973,Drug_A,difloxacin
+HUPFGZXOMWLGNK,Diflunisal,974,Drug_A,diflunisal
+OGPWIDANBSLJPC,Difluocortolone,975,Drug_A,difluocortolone
+WYQPLTPSGFELIB,Difluprednate,976,Drug_A,difluprednate
+WDJUZGPOPHTGOT,Digitoxin,977,Drug_A,digitoxin
+LTMHDMANZUZIPE,Digoxin,978,Drug_A,digoxin
+VAYJWFGRGMQINH,Dihematoporphyrin ether,979,Drug_B,dihematoporphyrin ether
+MNSQDVCVWNXBFQ,Dihexyverine,980,Drug_A,dihexyverine
+VQKLRVZQQYVIJW,Dihydralazine,981,Drug_A,dihydralazine
+DNZPLHRZXUJATK,"Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione",982,Drug_A,"dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1h,5h)-pyrimidinedione"
+PBUNVLRHZGSROC,Dihydro-alpha-ergocryptine,983,Drug_A,dihydro-alpha-ergocryptine
+RBOXVHNMENFORY,Dihydrocodeine,984,Drug_A,dihydrocodeine
+SEALOBQTUQIVGU,Dihydroergocornine,985,Drug_A,dihydroergocornine
+DEQITUUQPICUMR,Dihydroergocristine,986,Drug_A,dihydroergocristine
+LUZRJRNZXALNLM,Dihydroergotamine,987,Drug_A,dihydroergotamine
+BRTSNYPDACNMIP,Dihydroetorphine,988,Drug_A,dihydroetorphine
+IJVCSMSMFSCRME,Dihydromorphine,989,Drug_A,dihydromorphine
+ASXBYYWOLISCLQ,Dihydrostreptomycin,990,Drug_A,dihydrostreptomycin
+ILYCWAKSDCYMBB,Dihydrotachysterol,991,Drug_A,dihydrotachysterol
+HSUGRBWQSSZJOP,Diltiazem,992,Drug_A,diltiazem
+ZZVUWRFHKOJYTH,Dimenhydrinate,993,Drug_B,dimenhydrinate
+WQABCVAJNWAXTE,Dimercaprol,994,Drug_A,dimercaprol
+RYQOGSFEJBUZBX,Dimetacrine,995,Drug_A,dimetacrine
+LDCRTTXIJACKKU,Dimethyl fumarate,996,Drug_A,dimethyl fumarate
+IAZDPXIOMUYVGZ,Dimethyl sulfoxide,997,Drug_A,dimethyl sulfoxide
+DMULVCHRPCFFGV,Dimethyltryptamine,998,Drug_A,dimethyltryptamine
+MVMQESMQSYOVGV,Dimetindene,999,Drug_A,dimetindene
+VWNWVCJGUMZDIU,Dimetotiazine,1000,Drug_A,dimetotiazine
+PXGPLTODNUVGFL,Dinoprost,1001,Drug_A,dinoprost
+XEYBRNLFEZDVAW,Dinoprostone,1002,Drug_A,dinoprostone
+GZSOSUNBTXMUFQ,Diosmin,1003,Drug_A,diosmin
+LCTZPQRFOZKZNK,Diphemanil,1004,Drug_A,diphemanil
+JYGLAHSAISAEAL,Diphenadione,1005,Drug_A,diphenadione
+OGAKLTJNUQRZJU,Diphenidol,1006,Drug_A,diphenidol
+HYPPXZBJBPSRLK,Diphenoxylate,1007,Drug_A,diphenoxylate
+OWQUZNMMYNAXSL,Diphenylpyraline,1008,Drug_A,diphenylpyraline
+OCUJLLGVOUDECM,Dipivefrin,1009,Drug_A,dipivefrin
+OIJXLIIMXHRJJH,Diprenorphine,1010,Drug_B,diprenorphine
+IZEKFCXSFNUWAM,Dipyridamole,1011,Drug_A,dipyridamole
+WLOHNSSYAXHWNR,Dirithromycin,1012,Drug_A,dirithromycin
+YIMYDTCOUQIDMT,Diroximel fumarate,1013,Drug_B,diroximel fumarate
+UVTNFZQICZKOEM,Disopyramide,1014,Drug_A,disopyramide
+AHZBEVXBKNYXPU,Distigmine,1015,Drug_A,distigmine
+AUZONCFQVSMFAP,Disulfiram,1016,Drug_A,disulfiram
+UUCMDZWCRNZCOY,Ditazole,1017,Drug_A,ditazole
+LMBWSYZSUOEYSN,Ditiocarb,1018,Drug_A,ditiocarb
+MSYUMPGNGDNTIQ,Dixyrazine,1019,Drug_A,dixyrazine
+JRWZLRBJNMZMFE,Dobutamine,1020,Drug_A,dobutamine
+ZDZOTLJHXYCWBA,Docetaxel,1021,Drug_A,docetaxel
+MBMBGCFOFBJSGT,Doconexent,1022,Drug_A,doconexent
+HNSDLXPSAYFUHK,Docusate,1023,Drug_A,docusate
+IXTMWRCNAAVVAI,Dofetilide,1024,Drug_A,dofetilide
+UKTAZPQNNNJVKR,Dolasetron,1025,Drug_A,dolasetron
+OFDNQWIFNXBECV,Dolastatin 10,1026,Drug_A,dolastatin 10
+RHWKPHLQXYSBKR,Dolutegravir,1027,Drug_A,dolutegravir
+VZFRNCSOCOPNDB,Domoic Acid,1028,Drug_A,domoic acid
+VYFYYTLLBUKUHU,Dopamine,1029,Drug_A,dopamine
+RYBJORHCUPVNMB,Dopexamine,1030,Drug_A,dopexamine
+QLFZZSKTJWDQOS,Doramectin,1031,Drug_A,doramectin
+ZIAOVIPSKUPPQW,Doravirine,1032,Drug_B,doravirine
+VLULRUCCHYVXOH,Dordaviprone,1033,Drug_A,dordaviprone
+AVAACINZEOAHHE,Doripenem,1034,Drug_A,doripenem
+IAVUPMFITXYVAF,Dorzolamide,1035,Drug_A,dorzolamide
+PHTUQLWOUWZIMZ,Dosulepin,1036,Drug_A,dosulepin
+LRMJAFKKJLRDLE,Dotarizine,1037,Drug_A,dotarizine
+PIQCTGMSNWUMAF,Dovitinib,1038,Drug_A,dovitinib
+GBLRQXKSCRCLBZ,Doxacurium,1039,Drug_A,doxacurium
+XFDJYSQDBULQSI,Doxapram,1040,Drug_A,doxapram
+RUZYUOTYCVRMRZ,Doxazosin,1041,Drug_A,doxazosin
+VOJLELRQLPENHL,Doxefazepam,1042,Drug_A,doxefazepam
+HKXBNHCUPKIYDM,Doxercalciferol,1043,Drug_A,doxercalciferol
+ZWAOHEXOSAUJHY,Doxifluridine,1044,Drug_B,doxifluridine
+HWXIGFIVGWUZAO,Doxofylline,1045,Drug_A,doxofylline
+AOJJSUZBOXZQNB,Doxorubicin,1046,Drug_A,doxorubicin
+JBIWCJUYHHGXTC,Doxycycline,1047,Drug_A,doxycycline
+HCFDWZZGGLSKEP,Doxylamine,1048,Drug_A,doxylamine
+ZQZFYGIXNQKOAV,Droloxifene,1049,Drug_B,droloxifene
+CYQFCXCEBYINGO,Dronabinol,1050,Drug_A,dronabinol
+ZQTNQVWKHCQYLQ,Dronedarone,1051,Drug_A,dronedarone
+RMEDXOLNCUSCGS,Droperidol,1052,Drug_A,droperidol
+METQSPRSQINEEU,Drospirenone,1053,Drug_A,drospirenone
+NOTIQUSPUUHHEH,Drostanolone propionate,1054,Drug_B,drostanolone propionate
+LCAHPIFLPICNRW,Drotebanol,1055,Drug_A,drotebanol
+OEHFRZLKGRKFAS,Droxicam,1056,Drug_A,droxicam
+QXWYKJLNLSIPIN,Droxidopa,1057,Drug_A,droxidopa
+ZEUITGRIYCTCEM,Duloxetine,1058,Drug_A,duloxetine
+BISPBXFUKNXOQY,Durlobactam,1059,Drug_A,durlobactam
+JWJOTENAMICLJG,Dutasteride,1060,Drug_A,dutasteride
+DVJAMEIQRSHVKC,Dutogliptin,1061,Drug_A,dutogliptin
+SJVQHLPISAIATJ,Duvelisib,1062,Drug_A,duvelisib
+BZEWSEKUUPWQDQ,Dyclonine,1063,Drug_A,dyclonine
+JGMOKGBVKVMRFX,Dydrogesterone,1064,Drug_A,dydrogesterone
+KSCFJBIXMNOVSH,Dyphylline,1065,Drug_A,dyphylline
+MJJALKDDGIKVBE,Ebastine,1066,Drug_A,ebastine
+DYEFUKCXAQOFHX,Ebselen,1067,Drug_A,ebselen
+IWCWQNVIUXZOMJ,Ecabet,1068,Drug_B,ecabet
+PHMBVCPLDPDESM,Ecgonine,1069,Drug_A,ecgonine
+BJOLKYGKSZKIGU,Echothiophate,1070,Drug_A,echothiophate
+DMJWENQHWZZWDF,Ecopipam,1071,Drug_A,ecopipam
+KCXVZYZYPLLWCC,Edetate calcium disodium anhydrous,1072,Drug_A,edetate calcium disodium anhydrous
+CPBHSHYQQLFAPW,Edivoxetine,1073,Drug_A,edivoxetine
+HGVDHZBSSITLCT,Edoxaban,1074,Drug_A,edoxaban
+VWLHWLSRQJQWRG,Edrophonium,1075,Drug_A,edrophonium
+BNFRJXLZYUTIII,Efaproxiral,1076,Drug_A,efaproxiral
+JCYNMRJCUYVDBC,Efatutazone,1077,Drug_A,efatutazone
+XPOQHMRABVBWPR,Efavirenz,1078,Drug_A,efavirenz
+VLCYCQAOQCDTCN,Eflornithine,1079,Drug_B,eflornithine
+NSVFSAJIGAJDMR,Efonidipine,1080,Drug_A,efonidipine
+ZLECMEJICSWJLT,Efrotomycin,1081,Drug_A,efrotomycin
+SIFNOOUKXBRGGB,Elacestrant,1082,Drug_A,elacestrant
+OSFCMRGOZNQUSW,Elacridar,1083,Drug_A,elacridar
+AFLFKFHDSCQHOL,Elafibranor,1084,Drug_A,elafibranor
+HEAUOKZIVMZVQL,Elagolix,1085,Drug_A,elagolix
+BVAZQCUMNICBAQ,Elbasvir,1086,Drug_A,elbasvir
+JYSJVJJVLNYRKL,Elcatonin,1087,Drug_A,elcatonin
+FZEXGDDBXLBRTD,Eldecalcitol,1088,Drug_A,eldecalcitol
+PWVXXGRKLHYWKM,Eletriptan,1089,Drug_A,eletriptan
+MVRHVFSOIWFBTE,Elexacaftor,1090,Drug_A,elexacaftor
+FJZZPCZKBUKGGU,Eliglustat,1091,Drug_A,eliglustat
+AFSDNFLWKVMVRB,Ellagic acid,1092,Drug_A,ellagic acid
+LRLWXBHFPGSUOX,Elocalcitol,1093,Drug_A,elocalcitol
+MGQRRMONVLMKJL,Elsamitrucin,1094,Drug_A,elsamitrucin
+WVLHGCRWEHCIOT,Eltoprazine,1095,Drug_A,eltoprazine
+XDXWLKQMMKQXPV,Eltrombopag,1096,Drug_A,eltrombopag
+QFNHIDANIVGXPE,Eluxadoline,1097,Drug_A,eluxadoline
+JUZYLCPPVHEVSV,Elvitegravir,1098,Drug_A,elvitegravir
+KBUZBQVCBVDWKX,Emedastine,1099,Drug_A,emedastine
+JEJBJBKVPOWOQK,Emepronium,1100,Drug_A,emepronium
+AUVVAXYIELKVAI,Emetine,1101,Drug_A,emetine
+IHFMXHPNVAVTCJ,Emetonium iodide,1102,Drug_A,emetonium iodide
+RHMXXJGYXNZAPX,Emodin,1103,Drug_A,emodin
+DWAWDSVKAUWFHC,Emopamil,1104,Drug_A,emopamil
+OBWASQILIWPZMG,Empagliflozin,1105,Drug_A,empagliflozin
+XQSPYNMVSIKCOC,Emtricitabine,1106,Drug_B,emtricitabine
+SLWGJZPKHAXZQL,Emylcamate,1107,Drug_A,emylcamate
+GBXSMTUPTTWBMN,Enalapril,1108,Drug_A,enalapril
+LZFZMUMEGBBDTC,Enalaprilat,1109,Drug_A,enalaprilat
+DYLUUSLLRIQKOE,Enasidenib,1110,Drug_A,enasidenib
+PJWPNDMDCLXCOM,Encainide,1111,Drug_A,encainide
+CMJCXYNUCSMDBY,Encorafenib,1112,Drug_A,encorafenib
+ALAXZYHFVBSJKZ,Endralazine,1113,Drug_A,endralazine
+JPGQOUSTVILISH,Enflurane,1114,Drug_A,enflurane
+MVDXXGIBARMXSA,Englitazone,1115,Drug_A,englitazone
+WGMASVSHOSNKMF,Enibomal,1116,Drug_B,enibomal
+HFZITXBUTWITPT,Enmetazobactam,1117,Drug_A,enmetazobactam
+IDYZIJYBMGIQMJ,Enoxacin,1118,Drug_A,enoxacin
+ZJKNESGOIKRXQY,Enoximone,1119,Drug_B,enoximone
+PTOJVMZPWPAXER,Enprostil,1120,Drug_A,enprostil
+SPFYMRJSYKOXGV,Enrofloxacin,1121,Drug_A,enrofloxacin
+GLYMPHUVMRFTFV,Ensartinib,1122,Drug_A,ensartinib
+JRURYQJSLYLRLN,Entacapone,1123,Drug_A,entacapone
+QDGZDCVAUDNJFG,Entecavir,1124,Drug_A,entecavir
+INVTYAOGFAGBOE,Entinostat,1125,Drug_A,entinostat
+HAYYBYPASCDWEQ,Entrectinib,1126,Drug_A,entrectinib
+HPWIIERXAFODPP,Enviomycin,1127,Drug_A,enviomycin
+WXCXUHSOUPDCQV,Enzalutamide,1128,Drug_A,enzalutamide
+YARKMNAWFIMDKV,Epanolol,1129,Drug_A,epanolol
+SQUNAWUMZGQQJD,Eperisone,1130,Drug_A,eperisone
+KWGRBVOPPLSCSI,Ephedrine,1131,Drug_A,ephedrine
+NLPRAJRHRHZCQQ,Epibatidine,1132,Drug_B,epibatidine
+RPBAFSBGYDKNRG,Epicillin,1133,Drug_A,epicillin
+SBFXHXZNBNFPHV,Epicriptine,1134,Drug_A,epicriptine
+UHQGCIIQUZBJAE,Epimestrol,1135,Drug_A,epimestrol
+WHWZLSFABNNENI,Epinastine,1136,Drug_A,epinastine
+UCTWMZQNUQWSLP,Epinephrine,1137,Drug_A,epinephrine
+RHAXSHUQNIEUEY,Epirizole,1138,Drug_A,epirizole
+RINBGYCKMGDWPY,Epitizide,1139,Drug_A,epitizide
+JUKPWJGBANNWMW,Eplerenone,1140,Drug_A,eplerenone
+VAIOZOCLKVMIMN,Eplivanserin,1141,Drug_A,eplivanserin
+TURJYGRXEJIBGT,Epofolate,1142,Drug_A,epofolate
+KAQKFAOMNZTLHT,Epoprostenol,1143,Drug_A,epoprostenol
+XOZIUKBZLSUILX,Epothilone D,1144,Drug_A,epothilone d
+WPNHOHPRXXCPRA,Eprinomectin,1145,Drug_A,eprinomectin
+OROAFUQRIXKEMV,Eprosartan,1146,Drug_A,eprosartan
+PDRGHUMCVRDZLQ,Equilenin,1147,Drug_A,equilenin
+WKRLQDKEXYKHJB,Equilin,1148,Drug_A,equilin
+ADFCQWZHKCXPAJ,Equol,1149,Drug_A,equol
+HLFSMUUOKPBTSM,Eravacycline,1150,Drug_A,eravacycline
+OLAHOMJCDNXHFI,Erdafitinib,1151,Drug_A,erdafitinib
+MECHNRXZTMCUDQ,Ergocalciferol,1152,Drug_A,ergocalciferol
+WVVSZNPYNCNODU,Ergometrine,1153,Drug_A,ergometrine
+XCGSFFUVFURLIX,Ergotamine,1154,Drug_A,ergotamine
+UFNVPOGXISZXJD,Eribulin,1155,Drug_A,eribulin
+AAKJLRGGTJKAMG,Erlotinib,1156,Drug_A,erlotinib
+JUZNIMUFDBIJCM,Ertapenem,1157,Drug_A,ertapenem
+MCIACXAZCBVDEE,Ertugliflozin,1158,Drug_A,ertugliflozin
+SNFOERUNNSHUGP,Erythrityl tetranitrate,1159,Drug_A,erythrityl tetranitrate
+ULGZDMOVFRHVEP,Erythromycin,1160,Drug_A,erythromycin
+XHCADAYNFIFUHF,Esculin,1161,Drug_B,esculin
+SYTBZMRGLBWNTM,Esflurbiprofen,1162,Drug_A,esflurbiprofen
+BMPDWHIDQYTSHX,Eslicarbazepine,1163,Drug_A,eslicarbazepine
+QIALRBLEEWJACW,Eslicarbazepine acetate,1164,Drug_A,eslicarbazepine acetate
+RONZAEMNMFQXRA,Esmirtazapine,1165,Drug_A,esmirtazapine
+AQNDDEOPVVGCPG,Esmolol,1166,Drug_A,esmolol
+SUBDBMMJDZJVOS,Esomeprazole,1167,Drug_A,esomeprazole
+CBQGYUDMJHNJBX,Esreboxetine,1168,Drug_A,esreboxetine
+CDCHDCWJMGXXRH,Estazolam,1169,Drug_A,estazolam
+AJIPIJNNOJSSQC,Estetrol,1170,Drug_A,estetrol
+VOXZDWNPVJITMN,Estradiol,1171,Drug_A,estradiol
+FHXBMXJMKMWVRG,Estradiol acetate,1172,Drug_A,estradiol acetate
+UYIFTLBWAOGQBI,Estradiol benzoate,1173,Drug_A,estradiol benzoate
+UOACKFBJUYNSLK,Estradiol cypionate,1174,Drug_A,estradiol cypionate
+OVAHZPTYWMWNKO,Estradiol dienanthate,1175,Drug_A,estradiol dienanthate
+RSEPBGGWRJCQGY,Estradiol valerate,1176,Drug_A,estradiol valerate
+FRPJXPJMRWBBIH,Estramustine,1177,Drug_A,estramustine
+ADFOJJHRTBFFOF,Estramustine phosphate,1178,Drug_A,estramustine phosphate
+DNXHEGUUPJUMQT,Estrone,1179,Drug_A,estrone
+JKKFKPJIXZFSSB,Estrone sulfate,1180,Drug_A,estrone sulfate
+GBBSUAFBMRNDJC,Eszopiclone,1181,Drug_A,eszopiclone
+AVOLMBLBETYQHX,Etacrynic acid,1182,Drug_A,etacrynic acid
+IRVLBORJKFZWMI,Etafedrine,1183,Drug_A,etafedrine
+AWKLBIOQCIORSB,Etamiphylline,1184,Drug_A,etamiphylline
+WCDWBPCFGJXFJZ,Etanidazole,1185,Drug_A,etanidazole
+PQXGNJKJMFUPPM,Ethacizine,1186,Drug_A,ethacizine
+SIGSNYAYBSJATD,Ethadione,1187,Drug_A,ethadione
+AEUTYOVWOVBAKS,Ethambutol,1188,Drug_A,ethambutol
+LFQSCWFLJHTTHZ,Ethanol,1189,Drug_A,ethanol
+ZEHYJZXQEQOSON,Ethchlorvynol,1190,Drug_B,ethchlorvynol
+SBNKFTQSBPKMBZ,Ethenzamide,1191,Drug_A,ethenzamide
+BFPYWIDHMRZLRN,Ethinylestradiol,1192,Drug_A,ethinylestradiol
+AEOCXXJPGCBFJA,Ethionamide,1193,Drug_A,ethionamide
+HAPOVYFOVVWLRS,Ethosuximide,1194,Drug_A,ethosuximide
+SZQIFWWUIBRPBZ,Ethotoin,1195,Drug_A,ethotoin
+OUZWUKMCLIBBOG,Ethoxzolamide,1196,Drug_A,ethoxzolamide
+JCLHQFUTFHUXNN,Ethyl biscoumacetate,1197,Drug_A,ethyl biscoumacetate
+HRYZWHHZPQKTII,Ethyl chloride,1198,Drug_A,ethyl chloride
+CUCHJCMWNFEYOM,Ethyl loflazepate,1199,Drug_A,ethyl loflazepate
+OGDVEMNWJVYAJL,Ethylmorphine,1200,Drug_A,ethylmorphine
+ONKUMRGIYFNPJW,Ethynodiol diacetate,1201,Drug_A,ethynodiol diacetate
+AADCDMQTJNYOSS,Eticlopride,1202,Drug_A,eticlopride
+VTUSIVBDOCDNHS,Etidocaine,1203,Drug_A,etidocaine
+DBVJJBKOTRCVKF,Etidronic acid,1204,Drug_A,etidronic acid
+IBYCYJFUEJQSMK,Etifoxine,1205,Drug_A,etifoxine
+SQVIAVUSQAWMKL,Etilefrine,1206,Drug_A,etilefrine
+NULMGOSOSZBEQL,Etilevodopa,1207,Drug_B,etilevodopa
+HPHUVLMMVZITSG,Etiracetam,1208,Drug_A,etiracetam
+VMZUTJCNQWMAGF,Etizolam,1209,Drug_A,etizolam
+XILVEPYQJIOVNB,Etofenamate,1210,Drug_A,etofenamate
+XXRVYAFBUDSLJX,Etofibrate,1211,Drug_A,etofibrate
+UMILHIMHKXVDGH,Etoglucid,1212,Drug_A,etoglucid
+NPUKDXXFDDZOKR,Etomidate,1213,Drug_A,etomidate
+GCKFUYQCUCGESZ,Etonogestrel,1214,Drug_A,etonogestrel
+IZBNNCFOBMGTQX,Etoperidone,1215,Drug_A,etoperidone
+VJJPUSNTGOMMGY,Etoposide,1216,Drug_A,etoposide
+MNJVRJDLRVPLFE,Etoricoxib,1217,Drug_A,etoricoxib
+CAHCBJPUTCKATP,Etorphine,1218,Drug_A,etorphine
+MVGWUTBTXDYMND,Etrasimod,1219,Drug_A,etrasimod
+PYGWGZALEOIKDF,Etravirine,1220,Drug_A,etravirine
+HQMNCQVAMBCHCO,Etretinate,1221,Drug_A,etretinate
+PHTMLLGDZBZXMW,Etybenzatropine,1222,Drug_A,etybenzatropine
+JYILPERKVHXLNF,Etynodiol,1223,Drug_A,etynodiol
+HKVAMNSJSFKALM,Everolimus,1224,Drug_A,everolimus
+LCDDAGSJHKEABN,Evogliptin,1225,Drug_A,evogliptin
+ZVYVPGLRVWUPMP,Exatecan,1226,Drug_B,exatecan
+BFYIZQONLCFLEV,Exemestane,1227,Drug_A,exemestane
+MVGSNCBCUWPVDA,Exisulind,1228,Drug_B,exisulind
+OLNTVTPDXPETLC,Ezetimibe,1229,Drug_A,ezetimibe
+PCOBBVZJEWWZFR,Ezogabine,1230,Drug_A,ezogabine
+WWNUCVSRRUDYPP,Fabomotizole,1231,Drug_A,fabomotizole
+OABRYNHZQBZDMG,Fallypride,1232,Drug_A,fallypride
+XUFQPHANEAPEMJ,Famotidine,1233,Drug_A,famotidine
+JISACBWYRJHSMG,Famphur,1234,Drug_A,famphur
+VWFJDQUYCIWHTN,Farnesyl diphosphate,1235,Drug_A,farnesyl diphosphate
+MYMLCRQRXFRQGP,Farnesyl thiopyrophosphate,1236,Drug_A,farnesyl thiopyrophosphate
+FQVSDHOWSLEEKJ,Fasitibant,1237,Drug_A,fasitibant
+NGOGFTYYXHNFQH,Fasudil,1238,Drug_A,fasudil
+ZCGNOVWYSGBHAU,Favipiravir,1239,Drug_A,favipiravir
+NJAGGYXZTILBMJ,Fazadinium bromide,1240,Drug_A,fazadinium bromide
+QHZQILHUJDRDAI,Febarbamate,1241,Drug_A,febarbamate
+BQSJTQLCZDPROO,Febuxostat,1242,Drug_A,febuxostat
+JOOXLOJCABQBSG,Fedratinib,1243,Drug_A,fedratinib
+WKGXYQFOCVYPAC,Felbamate,1244,Drug_A,felbamate
+QRZAKQDHEVVFRX,Felbinac,1245,Drug_A,felbinac
+MZOITCJKGUIQEI,Felcisetrag,1246,Drug_A,felcisetrag
+RZTAMFZIAATZDJ,Felodipine,1247,Drug_A,felodipine
+ZPAKPRAICRBAOD,Fenbufen,1248,Drug_A,fenbufen
+IKFBPFGUINLYQI,Fencamfamin,1249,Drug_A,fencamfamin
+NMKSAYKQLCHXDK,Fendiline,1250,Drug_A,fendiline
+NMCHYWGKBADVMK,Fenethylline,1251,Drug_A,fenethylline
+YMTINGFKWWXKFG,Fenofibrate,1252,Drug_A,fenofibrate
+MQOBSOSZFYZQOK,Fenofibric acid,1253,Drug_A,fenofibric acid
+TVURRHSHRRELCG,Fenoldopam,1254,Drug_A,fenoldopam
+RDJGLLICXDHJDY,Fenoprofen,1255,Drug_A,fenoprofen
+LSLYOANBFKQKPT,Fenoterol,1256,Drug_A,fenoterol
+RXOIEVSUURELPG,Fenozolone,1257,Drug_A,fenozolone
+QDIYJDPBMZUZEH,Fenpiverinium,1258,Drug_A,fenpiverinium
+IQUFSXIQAFPIMR,Fenproporex,1259,Drug_A,fenproporex
+BYNHBQROLKAEDQ,Fenprostalene,1260,Drug_A,fenprostalene
+DBDTUXMDTSTPQZ,Fenquizone,1261,Drug_A,fenquizone
+AKJHMTWEGVYYSE,Fenretinide,1262,Drug_A,fenretinide
+PJMPHNIQZUBGLI,Fentanyl,1263,Drug_A,fentanyl
+PNVJTZOFSHSLTO,Fenthion,1264,Drug_A,fenthion
+JIEKMACRVQTPRC,Fentiazac,1265,Drug_A,fentiazac
+ZEAJXCPGHPJVNP,Fenyramidol,1266,Drug_A,fenyramidol
+RBBWCVQDXDFISW,Feprazone,1267,Drug_A,feprazone
+VTLYFUHAOXGGBS,Ferric cation,1268,Drug_A,ferric cation
+XPCTZQVDEJYUGT,Ferric maltol,1269,Drug_A,ferric maltol
+JEIPFZHSYJVQDO,Ferric oxide,1270,Drug_A,ferric oxide
+XPPKVPWEQAFLFU,Ferric pyrophosphate,1271,Drug_A,ferric pyrophosphate
+CWYNVVGOOAEACU,Ferrous cation,1272,Drug_A,ferrous cation
+VZCYOOQTPOCHFL,Ferrous fumarate,1273,Drug_A,ferrous fumarate
+KDYFGRWQOYBRFD,Ferrous succinate,1274,Drug_A,ferrous succinate
+KSEBMYQBYZTDHS,Ferulic acid,1275,Drug_A,ferulic acid
+DCCSDBARQIPTGU,Fesoterodine,1276,Drug_A,fesoterodine
+MIWWSGDADVMLTG,Fexinidazole,1277,Drug_A,fexinidazole
+RWTNPBWLLIMQHL,Fexofenadine,1278,Drug_A,fexofenadine
+PPSNFPASKFYPMN,Fezolinetant,1279,Drug_A,fezolinetant
+GIMSJJHKKXRFGV,Fiacitabine,1280,Drug_A,fiacitabine
+ZVGNESXIJDCBKN,Fidaxomicin,1281,Drug_B,fidaxomicin
+LLXISKGBWFTGEI,Filanesib,1282,Drug_A,filanesib
+RIJLVEAXPNLDTC,Filgotinib,1283,Drug_A,filgotinib
+AMEROGPZOLAFBN,Fimasartan,1284,Drug_A,fimasartan
+JOWXJLIFIIOYMS,Fimepinostat,1285,Drug_A,fimepinostat
+FYMHQCNFKNMJAV,Finafloxacin,1286,Drug_A,finafloxacin
+DBEPLOCGEIEOCV,Finasteride,1287,Drug_A,finasteride
+BTBHLEZXCOBLCY,Finerenone,1288,Drug_A,finerenone
+KKGQTZUTZRNORY,Fingolimod,1289,Drug_A,fingolimod
+FULAPETWGIGNMT,Firocoxib,1290,Drug_A,firocoxib
+SPIUTQOUKAMGCX,Flavoxate,1291,Drug_A,flavoxate
+DJBNUMBKLMJRSA,Flecainide,1292,Drug_A,flecainide
+XBJBPGROQZJDOJ,Fleroxacin,1293,Drug_A,fleroxacin
+PPRRDFIXUUSXRA,Flibanserin,1294,Drug_A,flibanserin
+APQPGQGAWABJLN,Floctafenine,1295,Drug_A,floctafenine
+UHRBTBZOWWGKMK,Flomoxef,1296,Drug_A,flomoxef
+NCWZOASIUQVOFA,Florbetaben F-18,1297,Drug_A,florbetaben f-18
+YNDIAUKFXKEXSV,Florbetapir F-18,1298,Drug_B,florbetapir f-18
+AYIRNRDRBQJXIF,Florfenicol,1299,Drug_A,florfenicol
+ODKNJVUHOIMIIZ,Floxuridine,1300,Drug_A,floxuridine
+IRYFCWPNDIUQOW,Fluanisone,1301,Drug_A,fluanisone
+VHZXNQKVFDBFIK,Fluasterone,1302,Drug_A,fluasterone
+VTWKPILBIUBMDS,Fluclorolone,1303,Drug_A,fluclorolone
+UIOFUWFRIANQPC,Flucloxacillin,1304,Drug_A,flucloxacillin
+RFHAOTPXVQNOHP,Fluconazole,1305,Drug_A,fluconazole
+XRECTZIEBJDKEO,Flucytosine,1306,Drug_A,flucytosine
+AOYNUTHNTBLRMT,Fludeoxyglucose,1307,Drug_A,fludeoxyglucose
+ROYOYTLGDLIGBX,Fludiazepam,1308,Drug_A,fludiazepam
+AAXVEMMRQDVLJB,Fludrocortisone,1309,Drug_A,fludrocortisone
+NASXCEITKQITLD,Fluindione,1310,Drug_A,fluindione
+BJCJYEYYYGBROF,Flumatinib,1311,Drug_A,flumatinib
+OFBIFZUFASYYRE,Flumazenil,1312,Drug_A,flumazenil
+DPSPPJIUMHPXMA,Flumequine,1313,Drug_A,flumequine
+SMANXXCATUTDDT,Flunarizine,1314,Drug_A,flunarizine
+XSFJVAJPIHIPKU,Flunisolide,1315,Drug_A,flunisolide
+PPTYJKAXVCCBDU,Flunitrazepam,1316,Drug_A,flunitrazepam
+NOOCSNJCXJYGPE,Flunixin,1317,Drug_A,flunixin
+ARPYQKTVRGFPIS,Flunoxaprofen,1318,Drug_A,flunoxaprofen
+FEBLZLNTKCEFIT,Fluocinolone acetonide,1319,Drug_A,fluocinolone acetonide
+WJOHZNCJWYWUJD,Fluocinonide,1320,Drug_A,fluocinonide
+PUWHHWCHAVXSIG,Fluocortin,1321,Drug_A,fluocortin
+GAKMQHDJQHZUTJ,Fluocortolone,1322,Drug_A,fluocortolone
+WHZRCUIISKRTJL,Fluocortolone caproate,1323,Drug_A,fluocortolone caproate
+XZBJVIQXJHGUBE,Fluocortolone pivalate,1324,Drug_B,fluocortolone pivalate
+GNBHRKFJIUUOQI,Fluorescein,1325,Drug_A,fluorescein
+KDLLNMRYZGUVMA,Fluoroestradiol F-18,1326,Drug_A,fluoroestradiol f-18
+FAOZLTXFLGPHNG,Fluorometholone,1327,Drug_A,fluorometholone
+GHASVSINZRGABV,Fluorouracil,1328,Drug_A,fluorouracil
+YLRFCQOZQXIBAB,Fluoxymesterone,1329,Drug_A,fluoxymesterone
+NJMYODHXAKYRHW,Flupentixol,1330,Drug_A,flupentixol
+SLVCCRYLKTYUQP,Fluperolone,1331,Drug_A,fluperolone
+PLDUPXSUYLZYBN,Fluphenazine,1332,Drug_A,fluphenazine
+JUUFBMODXQKSTD,Flupirtine,1333,Drug_A,flupirtine
+YVHXHNGGPURVOS,Fluprednidene,1334,Drug_A,fluprednidene
+DEFOZIFYUBUHHU,Fluprednidene acetate,1335,Drug_A,fluprednidene acetate
+MYYIMZRZXIQBGI,Fluprednisolone,1336,Drug_A,fluprednisolone
+WWSWYXNVCBLWNZ,Fluprostenol,1337,Drug_B,fluprostenol
+POPFMWWJOGLOIF,Flurandrenolide,1338,Drug_A,flurandrenolide
+SAADBVWGJQAEFS,Flurazepam,1339,Drug_A,flurazepam
+ALIVXCSEERJYHU,Flurbiprofen axetil,1340,Drug_A,flurbiprofen axetil
+XOEUHCONYHZURQ,Flurithromycin,1341,Drug_A,flurithromycin
+QOYHHIBFXOOADH,Fluspirilene,1342,Drug_A,fluspirilene
+MKXKFYHWDHIYRV,Flutamide,1343,Drug_A,flutamide
+MGNNYOODZCAHBA,Fluticasone,1344,Drug_A,fluticasone
+XTULMSXFIHGYFS,Fluticasone furoate,1345,Drug_A,fluticasone furoate
+WMWTYOKRWGGJOA,Fluticasone propionate,1346,Drug_A,fluticasone propionate
+FJLGEFLZQAZZCD,Fluvastatin,1347,Drug_A,fluvastatin
+CJOFXWAVKWHTFT,Fluvoxamine,1348,Drug_A,fluvoxamine
+OVBPIULPVIDEAO,Folic acid,1349,Drug_A,folic acid
+RIKMMFOAQPJVMX,Fomepizole,1350,Drug_A,fomepizole
+KANJSNBRCNMZMV,Fondaparinux,1351,Drug_A,fondaparinux
+YONOBYIBNBCDSJ,Forasartan,1352,Drug_A,forasartan
+CXQHYVUVSFXTMY,Foretinib,1353,Drug_B,foretinib
+AMVODTGMYSRMNP,Formebolone,1354,Drug_A,formebolone
+OSVMTWJCGUFAOD,Formestane,1355,Drug_A,formestane
+BDAGIHXWWSANSR,Formic acid,1356,Drug_A,formic acid
+QNXUUBBKHBYRFW,Formocortal,1357,Drug_A,formocortal
+HKQYGTCOTHHOMP,Formononetin,1358,Drug_A,formononetin
+MLBVMOWEQCZNCC,Fosamprenavir,1359,Drug_A,fosamprenavir
+BARDROPHSZEBKC,Fosaprepitant,1360,Drug_A,fosaprepitant
+WDOGQTQEKVLZIJ,Fosbretabulin,1361,Drug_A,fosbretabulin
+ZJAOAACCNHFJAH,Foscarnet,1362,Drug_A,foscarnet
+YMDXZJFXQJVXBF,Fosfomycin,1363,Drug_A,fosfomycin
+NHTKGYOMICWFQZ,Fosgemcitabine palabenamide,1364,Drug_B,fosgemcitabine palabenamide
+BIDNLKIUORFRQP,Fosinopril,1365,Drug_A,fosinopril
+WOIWWYDXDVSWAZ,Fosinoprilat,1366,Drug_A,fosinoprilat
+YNDMEEULGSTYJT,Foslevodopa,1367,Drug_B,foslevodopa
+GJXWDTUCERCKIX,Fosmidomycin,1368,Drug_A,fosmidomycin
+HZIYEEMJNBKMJH,Fosnetupitant,1369,Drug_A,fosnetupitant
+XWLUWCNOOVRFPX,Fosphenytoin,1370,Drug_A,fosphenytoin
+QVNNONOFASOXQV,Fospropofol,1371,Drug_A,fospropofol
+GKDRMWXFWHEQQT,Fostamatinib,1372,Drug_A,fostamatinib
+SWMDAPWAQQTBOG,Fostemsavir,1373,Drug_A,fostemsavir
+YAKWPXVTIGTRJH,Fotemustine,1374,Drug_B,fotemustine
+PGBHMTALBVVCIT,Framycetin,1375,Drug_A,framycetin
+XPSQPHWEGNHMSK,Frovatriptan,1376,Drug_A,frovatriptan
+BALLNEJQLSTPIO,Fruquintinib,1377,Drug_A,fruquintinib
+VWUXBMIQPBEWFH,Fulvestrant,1378,Drug_A,fulvestrant
+NGGMYCMLYOUNGM,Fumagillin,1379,Drug_A,fumagillin
+HMZQULPVMKITSP,Furafylline,1380,Drug_A,furafylline
+PLHJDBGFXBMTGZ,Furazolidone,1381,Drug_A,furazolidone
+ZZUFCTLCJUWOSV,Furosemide,1382,Drug_B,furosemide
+MIZMDSVSLSIMSC,Fusafungine,1383,Drug_A,fusafungine
+IECPWNUMDGFDKC,Fusidic acid,1384,Drug_A,fusidic acid
+KEIPNCCJPRMIAX,Futibatinib,1385,Drug_A,futibatinib
+JMDULECOHIXMNX,GE-2270A,1386,Drug_A,ge-2270a
+VAJGULUVTFDTAS,GLPG-0492,1387,Drug_A,glpg-0492
+FOPALECPEUVCTL,GPI-1485,1388,Drug_A,gpi-1485
+YANGEESWIGIKOP,GSK-1004723,1389,Drug_A,gsk-1004723
+YFRBKEVUUCQYOW,GSK-239512,1390,Drug_B,gsk-239512
+JFHROPTYMMSOLG,GSK-256066,1391,Drug_A,gsk-256066
+XTKLTGBKIDQGQL,GSK-2636771,1392,Drug_B,gsk-2636771
+RPYWXZCFYPVCNQ,GTS-21,1393,Drug_A,gts-21
+TWQYWUXBZHPIIV,GW842166,1394,Drug_A,gw842166
+UGJMXCAKCUNAIE,Gabapentin,1395,Drug_A,gabapentin
+TZDUHAJSIBHXDL,Gabapentin enacarbil,1396,Drug_A,gabapentin enacarbil
+YKGYIDJEEQRWQH,Gabexate,1397,Drug_B,gabexate
+ZXRVKCBLGJOCEE,Gaboxadol,1398,Drug_B,gaboxadol
+OEIYJWYTUDFZBH,Gadobenic acid,1399,Drug_A,gadobenic acid
+RZESKRXOCXWCFX,Gadodiamide,1400,Drug_A,gadodiamide
+NZLPWFTXPYJYSS,Gadofosveset trisodium,1401,Drug_A,gadofosveset trisodium
+QPCDCPDFJACHGM,Gadopentetic acid,1402,Drug_A,gadopentetic acid
+WDLRUFUQRNWCPK,Gadoteric acid,1403,Drug_A,gadoteric acid
+IQUHNCOJRJBMSU,Gadoteridol,1404,Drug_A,gadoteridol
+AQOXEJNYXXLRQQ,Gadoxetic acid,1405,Drug_A,gadoxetic acid
+ASUTZQLVASHGKV,Galantamine,1406,Drug_A,galantamine
+ICLWTJIMXVISSR,Gallamine,1407,Drug_A,gallamine
+OZLPUNFFCJDMJD,Gallamine triethiodide,1408,Drug_A,gallamine triethiodide
+XQLWNAFCTODIRK,Gallopamil,1409,Drug_A,gallopamil
+VWAMTBXLZPEDQO,Gamithromycin,1410,Drug_A,gamithromycin
+VZCCETWTMQHEPK,Gamolenic acid,1411,Drug_B,gamolenic acid
+PGTVWKLGGCQMBR,Ganaxolone,1412,Drug_A,ganaxolone
+IRSCQMHQWWYFCW,Ganciclovir,1413,Drug_A,ganciclovir
+ZQLDXCSTJFLRPY,Gantacurium,1414,Drug_A,gantacurium
+NJDRXTDGYFKORP,Garenoxacin,1415,Drug_A,garenoxacin
+XUBOMFCQGDBHNK,Gatifloxacin,1416,Drug_A,gatifloxacin
+WZBNEZWCNKUOSM,Gavestinel,1417,Drug_A,gavestinel
+SLYDYLLJUXFULK,Gedocarnil,1418,Drug_A,gedocarnil
+HLWURFKMDLAKOD,Gefapixant,1419,Drug_A,gefapixant
+XGALLCVXEZPNRQ,Gefitinib,1420,Drug_A,gefitinib
+QTQAWLPCGQOSGP,Geldanamycin,1421,Drug_B,geldanamycin
+SDUQYLNIPVEERB,Gemcitabine,1422,Drug_A,gemcitabine
+HEMJJKBWTPKOJG,Gemfibrozil,1423,Drug_A,gemfibrozil
+ZRCVYEYHRGVLOC,Gemifloxacin,1424,Drug_B,gemifloxacin
+ZWPRRQZNBDYKLH,Gemigliptin,1425,Drug_B,gemigliptin
+BRZYSWJRSDMWLG,Geneticin,1426,Drug_A,geneticin
+TZBJGXHYKVUXJN,Genistein,1427,Drug_A,genistein
+CEAZRRDELHUEMR,Gentamicin,1428,Drug_A,gentamicin
+VEGXETMJINRLTH,Gentamicin C1a,1429,Drug_A,gentamicin c1a
+WTDGMHYYGNJEKQ,Gepefrine,1430,Drug_A,gepefrine
+QOIGKGMMAGJZNZ,Gepirone,1431,Drug_A,gepirone
+GVVPGTZRZFNKDS,Geranyl Diphosphate,1432,Drug_A,geranyl diphosphate
+OINNEUNVOZHBOX,Geranylgeranyl diphosphate,1433,Drug_A,geranylgeranyl diphosphate
+SIGSPDASOTUPFS,Gestodene,1434,Drug_A,gestodene
+GTFUITFQDGVJSK,Gestonorone,1435,Drug_A,gestonorone
+BJJXHLWLUDYTGC,Gestrinone,1436,Drug_A,gestrinone
+GYQYAJJFPNQOOW,Gilteritinib,1437,Drug_A,gilteritinib
+UIVFUQKYVFCEKJ,Gimatecan,1438,Drug_A,gimatecan
+ZPLQIPFOCGIIHV,Gimeracil,1439,Drug_A,gimeracil
+GZYPWOGIYAIIPV,Ginsenoside Rb1,1440,Drug_A,ginsenoside rb1
+DOMHWKQEPDYUQX,Gitoformate,1441,Drug_A,gitoformate
+YALNUENQHAQXEA,Givinostat,1442,Drug_A,givinostat
+SFNSLLSYNZWZQG,Glasdegib,1443,Drug_A,glasdegib
+MLSQGNCUYAMAHD,Glecaprevir,1444,Drug_A,glecaprevir
+CDXJPGDTQSCRGD,Gleptoferron,1445,Drug_A,gleptoferron
+RMTYNAPTNBJHQI,Glibornuride,1446,Drug_A,glibornuride
+BOVGTQGAOIONJV,Gliclazide,1447,Drug_A,gliclazide
+WIGIZIANZCJQQY,Glimepiride,1448,Drug_A,glimepiride
+ZJJXGWJIGJFDTL,Glipizide,1449,Drug_A,glipizide
+LLJFMFZYVVLQKT,Gliquidone,1450,Drug_A,gliquidone
+ZKUDBRCEOBOWLF,Glisoxepide,1451,Drug_A,glisoxepide
+JFCQEDHGNNZCLN,Glutaric Acid,1452,Drug_A,glutaric acid
+JMBQKKAJIKAWKF,Glutethimide,1453,Drug_A,glutethimide
+ZNNLBTZKUZBEKO,Glyburide,1454,Drug_A,glyburide
+PEDCQBHIVMGVHV,Glycerin,1455,Drug_A,glycerin
+ZSDBFLMJVAGKOU,Glycerol phenylbutyrate,1456,Drug_B,glycerol phenylbutyrate
+GHCZAUBVMUEKKP,Glycochenodeoxycholic Acid,1457,Drug_A,glycochenodeoxycholic acid
+LVYLCBNXHHHPSB,Glycol salicylate,1458,Drug_A,glycol salicylate
+ANGKOCUUWGHLCE,Glycopyrronium,1459,Drug_A,glycopyrronium
+LPLVUJXQOOQHMX,Glycyrrhizic acid,1460,Drug_A,glycyrrhizic acid
+QFWPJPIVLCBXFJ,Glymidine,1461,Drug_A,glymidine
+BLCLNMBMMGCOAS,Goserelin,1462,Drug_A,goserelin
+QWEWGXUTRTXFRF,Gosogliptin,1463,Drug_A,gosogliptin
+NDAYQJDHGXTBJL,Gramicidin D,1464,Drug_A,gramicidin d
+MFWNKCLOYSRHCJ,Granisetron,1465,Drug_A,granisetron
+HZVLFTCYCLXTGV,Grapiprant,1466,Drug_A,grapiprant
+OBMNJSNZOWALQB,Grazoprevir,1467,Drug_A,grazoprevir
+AIJTTZAVMXIJGM,Grepafloxacin,1468,Drug_A,grepafloxacin
+DDUHZTYCFQRHIY,Griseofulvin,1469,Drug_A,griseofulvin
+HSJFYRYGGKLQBT,Guacetisal,1470,Drug_A,guacetisal
+GUWXKKAWLCENJA,Guadecitabine,1471,Drug_A,guadecitabine
+WDZVGELJXXEGPV,Guanabenz,1472,Drug_A,guanabenz
+HPBNRIOWIXYZFK,Guanadrel,1473,Drug_A,guanadrel
+ZCVAIGPGEINFCX,Guanazodine,1474,Drug_A,guanazodine
+ACGDKVXYNVEAGU,Guanethidine,1475,Drug_A,guanethidine
+INJOMKTZOLKMBF,Guanfacine,1476,Drug_A,guanfacine
+ZRALSGWEFCBTJO,Guanidine,1477,Drug_B,guanidine
+UYTPUPDQBNUYGX,Guanine,1478,Drug_A,guanine
+XIHXRRMCNSMUET,Guanoclor,1479,Drug_A,guanoclor
+QKIQJNNDIWGVEH,Guanoxabenz,1480,Drug_A,guanoxabenz
+HIUVKVDQFXDZHU,Guanoxan,1481,Drug_A,guanoxan
+JJKOQZHWYLMASZ,HE3286,1482,Drug_A,he3286
+URJHVPKUWOUENU,Hadacidin,1483,Drug_B,hadacidin
+WYCLKVQLVUQKNZ,Halazepam,1484,Drug_A,halazepam
+MUQNGPZZQDCDFT,Halcinonide,1485,Drug_A,halcinonide
+FOHHNHSLJDZUGQ,Halofantrine,1486,Drug_A,halofantrine
+LVASCWIMLIKXLA,Halofuginone,1487,Drug_A,halofuginone
+GGXMRPUKBWXVHE,Halometasone,1488,Drug_A,halometasone
+LNEPOXFFQSENCJ,Haloperidol,1489,Drug_A,haloperidol
+BCQZXOMGPXTTIC,Halothane,1490,Drug_A,halothane
+KULDXINYXFTXMO,Haloxon,1491,Drug_B,haloxon
+RERZNCLIYCABFS,Harmaline,1492,Drug_A,harmaline
+PAZQYDJGLKSCSI,Heptabarbital,1493,Drug_A,heptabarbital
+AIONOLUJZLIMTK,Hesperetin,1494,Drug_A,hesperetin
+DXVUYOAEDJXBPY,Hetacillin,1495,Drug_A,hetacillin
+HDZAQYPYABGTCL,Hexafluronium,1496,Drug_A,hexafluronium
+VZJFGSRCJCXDSG,Hexamethonium,1497,Drug_A,hexamethonium
+RYQOILLJDKPETL,Hexaminolevulinate,1498,Drug_B,hexaminolevulinate
+MIRHIEAGDGUXKL,Hexapropymate,1499,Drug_A,hexapropymate
+PBBGSZCBWVPOOL,Hexestrol,1500,Drug_A,hexestrol
+UYXAWHWODHRRMR,Hexobarbital,1501,Drug_A,hexobarbital
+ZRYHPQCHHOKSMD,Hexocyclium,1502,Drug_B,hexocyclium
+OXLZNBCNGJWPRV,Hexoprenaline,1503,Drug_A,hexoprenaline
+WZRCQWQRFZITDX,Higenamine,1504,Drug_A,higenamine
+NTYJJOPFIAHURM,Histamine,1505,Drug_A,histamine
+MXHODDGKGSGCDI,Histapyrrodine,1506,Drug_A,histapyrrodine
+HHXHVIJIIXKSOE,Histrelin,1507,Drug_A,histrelin
+ZTVIKZXZYLEVOL,Homatropine,1508,Drug_B,homatropine
+WKWOJBUWWZTUQV,Homatropine methylbromide,1509,Drug_A,homatropine methylbromide
+ZRJBHWIHUMBLCN,Huperzine A,1510,Drug_B,huperzine a
+WRYZEGZNBYOMLE,Hydracarbazine,1511,Drug_A,hydracarbazine
+RPTUSVTUFVMDQK,Hydralazine,1512,Drug_A,hydralazine
+JZUFKLXOESDKRF,Hydrochlorothiazide,1513,Drug_A,hydrochlorothiazide
+LLPOLZWFYMWNKH,Hydrocodone,1514,Drug_A,hydrocodone
+FWFVLWGEFDIZMJ,Hydrocortamate,1515,Drug_A,hydrocortamate
+JYGXADMDTFJGBT,Hydrocortisone,1516,Drug_A,hydrocortisone
+MFBMYAOAMQLLPK,Hydrocortisone aceponate,1517,Drug_A,hydrocortisone aceponate
+ALEXXDVDDISNDU,Hydrocortisone acetate,1518,Drug_A,hydrocortisone acetate
+BMCQMVFGOVHVNG,Hydrocortisone butyrate,1519,Drug_A,hydrocortisone butyrate
+DLVOSEUFIRPIRM,Hydrocortisone cypionate,1520,Drug_A,hydrocortisone cypionate
+BGSOJVFOEQLVMH,Hydrocortisone phosphate,1521,Drug_A,hydrocortisone phosphate
+FOGXJPFPZOHSQS,Hydrocortisone probutate,1522,Drug_A,hydrocortisone probutate
+VWQWXZAWFPZJDA,Hydrocortisone succinate,1523,Drug_A,hydrocortisone succinate
+FZCHYNWYXKICIO,Hydrocortisone valerate,1524,Drug_A,hydrocortisone valerate
+DMDGGSIALPNSEE,Hydroflumethiazide,1525,Drug_A,hydroflumethiazide
+XMBWDFGMSWQBCA,Hydrogen iodide,1526,Drug_A,hydrogen iodide
+MHAJPDPJQMAIIY,Hydrogen peroxide,1527,Drug_A,hydrogen peroxide
+JRYZEMHNDUZNMI,Hydrolyzed Cephalothin,1528,Drug_A,hydrolyzed cephalothin
+WVLOADHCBXTIJK,Hydromorphone,1529,Drug_A,hydromorphone
+LJOQGZACKSYWCH,Hydroquinidine,1530,Drug_A,hydroquinidine
+YOZNUFWCRFCGIH,Hydroxocobalamin,1531,Drug_A,hydroxocobalamin
+GIKNHHRFLCDOEU,Hydroxyamphetamine,1532,Drug_A,hydroxyamphetamine
+XXSMGPRMXLTPCZ,Hydroxychloroquine,1533,Drug_A,hydroxychloroquine
+ZAVGJDAFCZAWSZ,Hydroxyfasudil,1534,Drug_A,hydroxyfasudil
+DBPWSSGDRRHUNT,Hydroxyprogesterone,1535,Drug_A,hydroxyprogesterone
+DOMWKUIIPQCAJU,Hydroxyprogesterone caproate,1536,Drug_A,hydroxyprogesterone caproate
+JUUBCHWRXWPFFH,Hydroxytyrosol,1537,Drug_A,hydroxytyrosol
+VSNHCAURESNICA,Hydroxyurea,1538,Drug_A,hydroxyurea
+ZQDWXGKKHFNSQK,Hydroxyzine,1539,Drug_B,hydroxyzine
+GRRNUXAQVGOGFE,Hygromycin B,1540,Drug_A,hygromycin b
+HSHNITRMYYLLCV,Hymecromone,1541,Drug_B,hymecromone
+DGABKXLVXPYZII,Hyodeoxycholic Acid,1542,Drug_A,hyodeoxycholic acid
+IWBJJCOKGLUQIZ,Hyperforin,1543,Drug_A,hyperforin
+BTXNYTINYBABQR,Hypericin,1544,Drug_A,hypericin
+FDGQSTZJBFJUBT,Hypoxanthine,1545,Drug_A,hypoxanthine
+MPBVHIBUJCELCL,Ibandronate,1546,Drug_A,ibandronate
+AXJQVVLKUYCICH,Ibipinabant,1547,Drug_A,ibipinabant
+WDKXLLJDNUBYCY,Ibopamine,1548,Drug_B,ibopamine
+BODYFEUFKHPRCK,Ibrexafungerp,1549,Drug_A,ibrexafungerp
+XYFPWWZEPKGCCK,Ibrutinib,1550,Drug_A,ibrutinib
+ZJVFLBOZORBYFE,Ibudilast,1551,Drug_A,ibudilast
+BYPIURIATSUHDW,Ibuproxam,1552,Drug_A,ibuproxam
+ALOBUEHUHMBRLE,Ibutilide,1553,Drug_A,ibutilide
+JAZBEHYOTPTENJ,Icosapent,1554,Drug_A,icosapent
+SSQPWTVBQMWLSZ,Icosapent ethyl,1555,Drug_A,icosapent ethyl
+QQLKULDARVNMAL,Icotinib,1556,Drug_A,icotinib
+YBAWYTYNMZWMMJ,Idalopirdine,1557,Drug_A,idalopirdine
+XDXDZDZNSLXDNA,Idarubicin,1558,Drug_A,idarubicin
+HPMRFMKYPGXPEP,Idazoxan,1559,Drug_A,idazoxan
+JGPMMRGNQUBGND,Idebenone,1560,Drug_A,idebenone
+IFSDAJWBUCMOAH,Idelalisib,1561,Drug_A,idelalisib
+AJBMORBNKXNZSF,Idraparinux,1562,Drug_A,idraparinux
+UYNVMODNBIQBMV,Ifenprodil,1563,Drug_A,ifenprodil
+UXIPFQUBOVWAQW,Iferanserin,1564,Drug_A,iferanserin
+BBPRUNPUJIUXSE,Ifetroban,1565,Drug_A,ifetroban
+HOMGKSMUEGBAAB,Ifosfamide,1566,Drug_A,ifosfamide
+HRRXCXABAPSOCP,Ilaprazole,1567,Drug_A,ilaprazole
+XMXHEBAFVSFQEX,Iloperidone,1568,Drug_A,iloperidone
+HIFJCPQKFCZDDL,Iloprost,1569,Drug_A,iloprost
+WPHKIQPVPYJNAX,Ilorasertib,1570,Drug_A,ilorasertib
+JXEHXYFSIOYTAH,Imagabalin,1571,Drug_A,imagabalin
+KTUFNOKKBVMGRW,Imatinib,1572,Drug_A,imatinib
+LVZYXEALRXBLJZ,Imetelstat,1573,Drug_A,imetelstat
+SQKXYSGRELMAAU,Imidafenacin,1574,Drug_A,imidafenacin
+KLZWOWYOHUKJIG,Imidapril,1575,Drug_A,imidapril
+YGSDEFSMJLZEOE,Imidazole salicylate,1576,Drug_A,imidazole salicylate
+ZSKVGTPCRGIANV,Imipenem,1577,Drug_B,imipenem
+BCGWQEUPMDMJNV,Imipramine,1578,Drug_A,imipramine
+QZIQORUGXBPDSU,Imipramine oxide,1579,Drug_A,imipramine oxide
+DOUYETYNHWVLEO,Imiquimod,1580,Drug_A,imiquimod
+LWRDQHOZTAOILO,Incadronic acid,1581,Drug_A,incadronic acid
+QZZUEBNBZAPZLX,Indacaterol,1582,Drug_A,indacaterol
+SADQVAVFGNTEOD,Indalpine,1583,Drug_A,indalpine
+MPGBPFMOOXKQRX,Indenolol,1584,Drug_A,indenolol
+CFZXDJWFRVEWSR,Indigotindisulfonic acid,1585,Drug_A,indigotindisulfonic acid
+CBVCZFGXHXORBI,Indinavir,1586,Drug_A,indinavir
+CBIAWPMZSFFRGN,Indiplon,1587,Drug_A,indiplon
+CRDNMYFJWFXOCH,Indirubin,1588,Drug_A,indirubin
+SETFNECMODOHTO,Indisulam,1589,Drug_A,indisulam
+MCJGNVYPOGVAJF,Indium In-111 oxyquinoline,1590,Drug_A,indium in-111 oxyquinoline
+AYDXAULLCROVIT,Indobufen,1591,Drug_A,indobufen
+BDBMLMBYCXNVMC,Indocyanine green,1592,Drug_A,indocyanine green
+IVYPNXXAYMYVSP,Indole-3-carbinol,1593,Drug_A,indole-3-carbinol
+CGIGDMFJXJATDK,Indomethacin,1594,Drug_A,indomethacin
+RJMIEHBSYVWVIN,Indoprofen,1595,Drug_A,indoprofen
+JXZZEXZZKAWDSP,Indoramin,1596,Drug_A,indoramin
+HHGRMHMXKPQNGF,Inecalcitol,1597,Drug_A,inecalcitol
+QADPYRIHXKWUSV,Infigratinib,1598,Drug_A,infigratinib
+UGQMRVRMYYASKQ,Inosine,1599,Drug_A,inosine
+PDWUPXJEEYOOTR,Iobenguane,1600,Drug_A,iobenguane
+NBQNWMBBSKPBAY,Iodixanol,1601,Drug_A,iodixanol
+ISEHJSHTIVKELA,Iofetamine I-123,1602,Drug_A,iofetamine i-123
+HXWLAJVUJSVENX,Ioflupane F-18,1603,Drug_A,ioflupane f-18
+NTHXOOBQLCIOLC,Iohexol,1604,Drug_A,iohexol
+DGAIEPBNLOQYER,Iopromide,1605,Drug_A,iopromide
+UXIGWFXRQKWHHA,Iothalamic acid,1606,Drug_A,iothalamic acid
+AMDBBAQNWSUWGN,Ioversol,1607,Drug_A,ioversol
+UUMLTINZBQPNGF,Ioxilan,1608,Drug_A,ioxilan
+YLUSMKAJIQOXPV,Ipidacrine,1609,Drug_B,ipidacrine
+AHFWIQIYAXSLBA,Ipragliflozin,1610,Drug_A,ipragliflozin
+OEXHQOGQTVQTAT,Ipratropium,1611,Drug_A,ipratropium
+XZKVIDLLLOUTSS,Iprazochrome,1612,Drug_A,iprazochrome
+PLIGPBGDXASWPX,Iprindole,1613,Drug_A,iprindole
+GGECDTUJZOXAAR,Iproclozide,1614,Drug_A,iproclozide
+NYMGNSNKLVNMIA,Iproniazid,1615,Drug_A,iproniazid
+RENRQMCACQEWFC,Iptacopan,1616,Drug_A,iptacopan
+YOSHYTLCDANDAN,Irbesartan,1617,Drug_A,irbesartan
+UWKQSNNFCGGAFS,Irinotecan,1618,Drug_A,irinotecan
+NICJCIQSJJKZAH,Irofulven,1619,Drug_B,irofulven
+XEEYBQQBJWHFJM,Iron,1620,Drug_B,iron
+AYRXSINWFIIFAE,Iron polymaltose,1621,Drug_A,iron polymaltose
+CZMRCDWAGMRECN,Iron sucrose,1622,Drug_A,iron sucrose
+DDFOUSQFMYRUQK,Isavuconazole,1623,Drug_A,isavuconazole
+RSWOJTICKMKTER,Isavuconazonium,1624,Drug_A,isavuconazonium
+UDIIBEDMEYAVNG,Isepamicin,1625,Drug_A,isepamicin
+QFLZIWVSQDZLNW,Isobromindione,1626,Drug_B,isobromindione
+XKFPYPQQHFEXRZ,Isocarboxazid,1627,Drug_A,isocarboxazid
+HUYWAWARQUIQLE,Isoetharine,1628,Drug_A,isoetharine
+GOMNOOKGLZYEJT,Isoflavone,1629,Drug_A,isoflavone
+PIWKPBJCKXDKJR,Isoflurane,1630,Drug_A,isoflurane
+MUCZHBLJLSDCSD,Isoflurophate,1631,Drug_A,isoflurophate
+QRXWMOHMRWLFEY,Isoniazid,1632,Drug_A,isoniazid
+JWZZKOKVBUJMES,Isoprenaline,1633,Drug_A,isoprenaline
+JTPUMZTWMWIVPA,Isopropamide,1634,Drug_A,isopropamide
+KLDXJTOLSGUMSJ,Isosorbide,1635,Drug_A,isosorbide
+MOYKHGMNXAOIAT,Isosorbide dinitrate,1636,Drug_A,isosorbide dinitrate
+YWXYYJSYQOXTPL,Isosorbide mononitrate,1637,Drug_A,isosorbide mononitrate
+YFKDCGWIINMRQY,Isosulfan blue,1638,Drug_A,isosulfan blue
+OQJBSDFFQWMKBQ,Isothipendyl,1639,Drug_B,isothipendyl
+YYUAYBYLJSNDCX,Isoxicam,1640,Drug_A,isoxicam
+BMUKKTUHUDJSNZ,Isoxsuprine,1641,Drug_A,isoxsuprine
+HMJIYCCIJYRONP,Isradipine,1642,Drug_A,isradipine
+IQVRBWUUXZMOPW,Istradefylline,1643,Drug_A,istradefylline
+VHVPQPYKVGDNFY,Itraconazole,1644,Drug_A,itraconazole
+ACRHBAYQBXXRTO,Ivabradine,1645,Drug_A,ivabradine
+AZSNMRSAGSSBNP,Ivermectin,1646,Drug_A,ivermectin
+WIJZXSAJMHAVGX,Ivosidenib,1647,Drug_A,ivosidenib
+FABUFPQFXZVHFB,Ixabepilone,1648,Drug_A,ixabepilone
+MXAYKZJJDUDWDS,Ixazomib,1649,Drug_A,ixazomib
+KXSAIQPPGSSNKX,JNJ-26489112,1650,Drug_A,jnj-26489112
+XJSFLOJWULLJQS,Josamycin,1651,Drug_A,josamycin
+XAYAKDZVINDZGB,KOS-1584,1652,Drug_A,kos-1584
+LQIPDFIUPOYMPR,KRN-5500,1653,Drug_A,krn-5500
+VQFKFAKEUMHBLV,KRN-7000,1654,Drug_A,krn-7000
+SBUJHOSQTJFQJX,Kanamycin,1655,Drug_A,kanamycin
+KDJOAYSYCXTQGG,Kaolin,1656,Drug_A,kaolin
+LGYTZKPVOAIUKX,Kebuzone,1657,Drug_A,kebuzone
+FPCCSQOGAWCVBH,Ketanserin,1658,Drug_A,ketanserin
+PWAJCNITSBZRBL,Ketazolam,1659,Drug_A,ketazolam
+ALFGKMXHOUSVAD,Ketobemidone,1660,Drug_A,ketobemidone
+XMAYWYJOQHXEEK,Ketoconazole,1661,Drug_A,ketoconazole
+OZWKMVRBQXNZKK,Ketorolac,1662,Drug_A,ketorolac
+ZCVMWBYGMWKGHF,Ketotifen,1663,Drug_B,ketotifen
+IEMDOFXTVAPVLX,Kitasamycin,1664,Drug_A,kitasamycin
+MEZLKOACVSPNER,L-deprenyl-D2 C-11,1665,Drug_A,l-deprenyl-d2 c-11
+UFPFGVNKHCLJJO,LCL-161,1666,Drug_A,lcl-161
+SGUAFYQXFOLMHL,Labetalol,1667,Drug_A,labetalol
+GKQPCPXONLDCMU,Lacidipine,1668,Drug_A,lacidipine
+VPPJLAIAVCUEMN,Lacosamide,1669,Drug_A,lacosamide
+VQHSOMBJVWLPSR,Lactitol,1670,Drug_A,lactitol
+JCQLYHFGKNRPGE,Lactulose,1671,Drug_A,lactulose
+KMZQAVXSMUKBPD,Lafutidine,1672,Drug_A,lafutidine
+JTEGQNOMFQHVDC,Lamivudine,1673,Drug_A,lamivudine
+PYZRQGJRPPTADH,Lamotrigine,1674,Drug_A,lamotrigine
+JAYAGJDXJIDEKI,Lanatoside C,1675,Drug_A,lanatoside c
+WMDSZGFJQKSLLH,Landiolol,1676,Drug_A,landiolol
+FWUQWDCOOWEXRY,Lanicemine,1677,Drug_A,lanicemine
+TULGGJGJQXESOO,Laniquidar,1678,Drug_B,laniquidar
+SWHNZGMQMGFQGW,Lanopepden,1679,Drug_A,lanopepden
+PUDHBTGHUJUUFI,Lanreotide,1680,Drug_A,lanreotide
+CZMAIROVPAYCMU,Lanthanum III cation,1681,Drug_A,lanthanum iii cation
+BCFGMOOMADDAQU,Lapatinib,1682,Drug_A,lapatinib
+GKWPCEFFIHSJOE,Laquinimod,1683,Drug_A,laquinimod
+NYNZQNWKBKUAII,Larotrectinib,1684,Drug_A,larotrectinib
+XEDHVZKDSYZQBF,Lasmiditan,1685,Drug_A,lasmiditan
+GGXICVAJURFBLW,Latanoprost,1686,Drug_A,latanoprost
+LOVMMUBRQUFEAH,Latanoprostene bunod,1687,Drug_A,latanoprostene bunod
+VTLNPNNUIJHJQB,Lavoltidine,1688,Drug_A,lavoltidine
+RRMJMHOQSALEJJ,Lazertinib,1689,Drug_A,lazertinib
+VRTWBAAJJOHBQU,Ledipasvir,1690,Drug_A,ledipasvir
+KPVIXBKIJXZQJX,Lefamulin,1691,Drug_A,lefamulin
+VHOGYURTWQBHIL,Leflunomide,1692,Drug_A,leflunomide
+MUGXRYIUWFITCP,Lemborexant,1693,Drug_A,lemborexant
+YCHYFHOSGQABSW,Lenabasum,1694,Drug_A,lenabasum
+BRYXUCLEHAUSDY,Lenacapavir,1695,Drug_A,lenacapavir
+GOTYRUGSSMKFNF,Lenalidomide,1696,Drug_A,lenalidomide
+MWKYMZXCGYXLPL,Leniolisib,1697,Drug_A,leniolisib
+WOSKHXYHFSIKNG,Lenvatinib,1698,Drug_A,lenvatinib
+ZDXUKAKRHYTAKV,Lercanidipine,1699,Drug_A,lercanidipine
+FGQFOYHRJSUHMR,Lesinurad,1700,Drug_A,lesinurad
+UIARLYUEJFELEN,Lestaurtinib,1701,Drug_B,lestaurtinib
+GEHAEMCVKDPMKO,Letaxaban,1702,Drug_A,letaxaban
+FWYSMLBETOMXAG,Letermovir,1703,Drug_A,letermovir
+HPJKCIUCZWXJDR,Letrozole,1704,Drug_A,letrozole
+OZYUPQUCAUTOBP,Levallorphan,1705,Drug_B,levallorphan
+MYWUZJCMWCOHBA,Levmetamfetamine,1706,Drug_A,levmetamfetamine
+IXHBTMCLRNMKHZ,Levobunolol,1707,Drug_A,levobunolol
+ZCGOMHNNNFPNMX,Levocabastine,1708,Drug_B,levocabastine
+WTDRDQBEARUVNC,Levodopa,1709,Drug_A,levodopa
+RGZSQWQPBWRIAQ,Levomenol,1710,Drug_B,levomenol
+GJJFMKBJSRMPLA,Levomilnacipran,1711,Drug_A,levomilnacipran
+GEFQWZLICWMTKF,Levonordefrin,1712,Drug_A,levonordefrin
+WWYNJERNGUHSAO,Levonorgestrel,1713,Drug_A,levonorgestrel
+WHXMKTBCFHIYNQ,Levosimendan,1714,Drug_A,levosimendan
+BGRJTUBHPOOWDU,Levosulpiride,1715,Drug_A,levosulpiride
+IWUCXVSUMQZMFG,Levovirin,1716,Drug_A,levovirin
+KLZOTDOJMRMLDX,Lexacalcitol,1717,Drug_A,lexacalcitol
+UGFHIPBXIWJXNA,Liarozole,1718,Drug_B,liarozole
+UAWXGRJVZSAUSZ,Licofelone,1719,Drug_A,licofelone
+NNJVILVZKWQKPM,Lidocaine,1720,Drug_A,lidocaine
+ZBIAKUMOEKILTF,Lidoflazine,1721,Drug_A,lidoflazine
+OJZYRQPMEIEQFC,Limaprost,1722,Drug_A,limaprost
+KXGCNMMJRFDFNR,Linaclotide,1723,Drug_A,linaclotide
+LTXREWYXXSTFRX,Linagliptin,1724,Drug_A,linagliptin
+OJMMVQQUTAEWLP,Lincomycin,1725,Drug_A,lincomycin
+TYZROVQLWOKYKF,Linezolid,1726,Drug_A,linezolid
+FKDHHVKWGRFRTG,Linsidomine,1727,Drug_A,linsidomine
+BMAAMIIYNNPHAB,Linzagolix,1728,Drug_A,linzagolix
+AUYYCJSJGJYCDS,Liothyronine,1729,Drug_A,liothyronine
+AGBQKNBQESQNJD,Lipoic acid,1730,Drug_A,lipoic acid
+VOBHXZCDAVEXEY,Lisdexamfetamine,1731,Drug_A,lisdexamfetamine
+RLAWWYSOJDYHDC,Lisinopril,1732,Drug_A,lisinopril
+NSMXQKNUPPXBRG,Lisofylline,1733,Drug_A,lisofylline
+BKRGVLQUQGGVSM,Lisuride,1734,Drug_A,lisuride
+HBBGRARXTFLTSG,Lithium cation,1735,Drug_A,lithium cation
+CHHXEZSCHQVSRE,Lobeglitazone,1736,Drug_A,lobeglitazone
+MXYUKLILVYORSK,Lobeline,1737,Drug_A,lobeline
+GWFOVSGRNGAGDL,Lobucavir,1738,Drug_A,lobucavir
+IMYHGORQCPYVBZ,Lofentanil,1739,Drug_A,lofentanil
+SAPNXPWPAUFAJU,Lofepramine,1740,Drug_A,lofepramine
+KSMAGQUYOIHWFS,Lofexidine,1741,Drug_A,lofexidine
+ZEKZLJVOYLTDKK,Lomefloxacin,1742,Drug_A,lomefloxacin
+JQSAYKKFZOSZGJ,Lomerizine,1743,Drug_A,lomerizine
+ZUQBAQVRAURMCL,Lometrexol,1744,Drug_B,lometrexol
+XBEDAMVJWVPVDS,Lomifylline,1745,Drug_B,lomifylline
+MBBCVAKAJPKAKM,Lomitapide,1746,Drug_A,lomitapide
+GQYIWUVLTXOXAJ,Lomustine,1747,Drug_A,lomustine
+DHMTURDWPRKSOA,Lonafarnib,1748,Drug_A,lonafarnib
+XVUQHFRQHBLHQD,Lonazolac,1749,Drug_A,lonazolac
+WDRYRZXSPDWGEB,Lonidamine,1750,Drug_B,lonidamine
+RDOIQAHITMMDAJ,Loperamide,1751,Drug_A,loperamide
+KJHKTHWMRKYKJE,Lopinavir,1752,Drug_A,lopinavir
+UTEFBSAVJNEPTR,Loprazolam,1753,Drug_A,loprazolam
+LAHDERDHXJFFJU,Lorajmine,1754,Drug_A,lorajmine
+JCCNYMKQOSZNPW,Loratadine,1755,Drug_A,loratadine
+DIWRORZWFLOCLC,Lorazepam,1756,Drug_A,lorazepam
+XHOJAWVAWFHGHL,Lorcainide,1757,Drug_A,lorcainide
+XTTZERNUQAFMOF,Lorcaserin,1758,Drug_A,lorcaserin
+IIXWYSCJSQVBQM,Lorlatinib,1759,Drug_A,lorlatinib
+FJIKWRGCXUCUIG,Lormetazepam,1760,Drug_A,lormetazepam
+WLHQHAUOOXYABV,Lornoxicam,1761,Drug_A,lornoxicam
+BNRMWKUVWLKDQJ,Lorpiprazole,1762,Drug_A,lorpiprazole
+MJRPHRMGEKCADU,Lortalamine,1763,Drug_A,lortalamine
+PSIFNNKUMBGKDQ,Losartan,1764,Drug_A,losartan
+YPZVAYHNBBHPTO,Loteprednol,1765,Drug_B,loteprednol
+PCZOHLXUXFIOCF,Lovastatin,1766,Drug_A,lovastatin
+XJGVXQDUIWGIRW,Loxapine,1767,Drug_A,loxapine
+YMBXTVYHTMGZDW,Loxoprofen,1768,Drug_A,loxoprofen
+WGFOBBZOWHGYQH,Lubiprostone,1769,Drug_A,lubiprostone
+YTAOBBFIOAEMLL,Luliconazole,1770,Drug_B,luliconazole
+UFSKUSARDNFIRC,Lumacaftor,1771,Drug_A,lumacaftor
+HOIIHACBCFLJET,Lumateperone,1772,Drug_A,lumateperone
+DYLGFOYVTXJFJP,Lumefantrine,1773,Drug_A,lumefantrine
+KHPKQFYUPIUARC,Lumiracoxib,1774,Drug_A,lumiracoxib
+KFUDFIMHDRJVLV,Luprostiol,1775,Drug_B,luprostiol
+PQXKDMSYBGKCJA,Lurasidone,1776,Drug_A,lurasidone
+YDDMIZRDDREKEP,Lurbinectedin,1777,Drug_B,lurbinectedin
+RVFGKBWWUQOIOU,Lurtotecan,1778,Drug_B,lurtotecan
+WHSOLWOTCHFFBK,Luseogliflozin,1779,Drug_A,luseogliflozin
+NOZIJMHMKORZBA,Lusutrombopag,1780,Drug_A,lusutrombopag
+AHEVKYYGXVEWNO,Lymecycline,1781,Drug_A,lymecycline
+YNVGQYHLRCDXFQ,Lynestrenol,1782,Drug_B,lynestrenol
+BJFIDCADFRDPIO,Lypressin,1783,Drug_A,lypressin
+VAYOSLLFUXYJDT,Lysergic acid diethylamide,1784,Drug_A,lysergic acid diethylamide
+CJAWPFJGFFNXQI,MK-212,1785,Drug_A,mk-212
+ACAXGYADTLFREX,MLN576,1786,Drug_A,mln576
+YQYUWUKDEVZFDB,MMDA,1787,Drug_A,mmda
+GOIFCXRIFSYPFG,MRK-409,1788,Drug_A,mrk-409
+UJVDJAPJQWZRFR,Macimorelin,1789,Drug_A,macimorelin
+JGCMEBMXRHSZKX,Macitentan,1790,Drug_A,macitentan
+RWVUEZAROXKXRT,Maduramicin,1791,Drug_B,maduramicin
+PBUUPFTVAPUWDE,Mafosfamide,1792,Drug_A,mafosfamide
+RSHAOIXHUHAZPM,Magnesium,1793,Drug_A,magnesium
+JLVVSXFLKOJNIY,Magnesium cation,1794,Drug_A,magnesium cation
+PXQPEWDEAKTCGB,Magnesium orotate,1795,Drug_A,magnesium orotate
+RWMKKWXZFRMVPB,Magnesium silicate,1796,Drug_A,magnesium silicate
+NPEYATQABYMBPM,Magnesium trisilicate,1797,Drug_A,magnesium trisilicate
+SMTCDPMWINUUKC,Malacidin B,1798,Drug_B,malacidin b
+JXSJBGJIGXNWCI,Malathion,1799,Drug_A,malathion
+UYQJCPNSAVWAFU,Maltotetraose,1800,Drug_B,maltotetraose
+ZKCUQUAJNFHDFR,Mangafodipir,1801,Drug_B,mangafodipir
+ANEBWFXPVPTEET,Manidipine,1802,Drug_A,manidipine
+ODOISJJCWUVNDJ,Mannitol busulfan,1803,Drug_A,mannitol busulfan
+UUVIQYKKKBJYJT,Mannosulfan,1804,Drug_A,mannosulfan
+QSLMDECMDJKHMQ,Maprotiline,1805,Drug_A,maprotiline
+GSNHKUDZZFZSJB,Maraviroc,1806,Drug_A,maraviroc
+BPFYOAJNDMUVBL,Marbofloxacin,1807,Drug_A,marbofloxacin
+KJFBVJALEQWJBS,Maribavir,1808,Drug_A,maribavir
+HCZKYJDFEPMADG,Masoprocol,1809,Drug_B,masoprocol
+RLCLASQCAPXVLM,Mavacamten,1810,Drug_A,mavacamten
+WVLHHLRVNDMIAR,Mavorixafor,1811,Drug_A,mavorixafor
+DTXXSJZBSTYZKE,Maxacalcitol,1812,Drug_A,maxacalcitol
+AMHPTVWBZSYFSS,Mazaticol,1813,Drug_A,mazaticol
+ZPXSCAKFGYXMGA,Mazindol,1814,Drug_A,mazindol
+HHRZAEJMHSGZNP,Mebanazine,1815,Drug_A,mebanazine
+VYVKHNNGDFVQGA,Mebeverine,1816,Drug_A,mebeverine
+FQQIIPAOSKSOJM,Mebhydrolin,1817,Drug_A,mebhydrolin
+XIUUSFJTJXFNGH,Mebicar,1818,Drug_A,mebicar
+MHPZZZZLAQGTHT,Mebrofenin,1819,Drug_A,mebrofenin
+LEROTMJVBFSIMP,Mebutamate,1820,Drug_A,mebutamate
+KJLLKLRVCJAFRY,Mebutizide,1821,Drug_A,mebutizide
+HAWPXGHAZFHHAD,Mechlorethamine,1822,Drug_A,mechlorethamine
+OCJYIGYOJCODJL,Meclizine,1823,Drug_A,meclizine
+GGQJXCQBBONZFX,Meclocycline,1824,Drug_A,meclocycline
+SBDNJUWAMKYJOX,Meclofenamic acid,1825,Drug_A,meclofenamic acid
+YLCXGBZIZBEVPZ,Medazepam,1826,Drug_B,medazepam
+QNMGHBMGNRQPNL,Medifoxamine,1827,Drug_A,medifoxamine
+HCFSGRMEEXUOSS,Medrogestone,1828,Drug_A,medrogestone
+PSGAAPLEWMOORI,Medroxyprogesterone acetate,1829,Drug_A,medroxyprogesterone acetate
+GZENKSODFLBBHQ,Medrysone,1830,Drug_A,medrysone
+HYYBABOKPJLUIN,Mefenamic acid,1831,Drug_A,mefenamic acid
+XXVROGAVTTXONC,Mefenorex,1832,Drug_A,mefenorex
+SMNOERSLNYGGOU,Mefruside,1833,Drug_A,mefruside
+RQZAXGRLVPAYTJ,Megestrol acetate,1834,Drug_A,megestrol acetate
+DKWNMCUOEDMMIN,Melagatran,1835,Drug_A,melagatran
+DRLFMBDRBRZALE,Melatonin,1836,Drug_A,melatonin
+OKHAOBQKCCIRLO,Melengestrol,1837,Drug_A,melengestrol
+UDKABVSQKJNZBH,Melengestrol acetate,1838,Drug_A,melengestrol acetate
+XBBDACCLCFWBSI,Melevodopa,1839,Drug_B,melevodopa
+GWWLWDURRGNSRS,Melitracen,1840,Drug_A,melitracen
+ZRVUJXDFFKFLMG,Meloxicam,1841,Drug_A,meloxicam
+DKMFBWQBDIGMHM,Melperone,1842,Drug_A,melperone
+SGDBTWWWUNNDEQ,Melphalan,1843,Drug_A,melphalan
+BUGYDGFZZOZRHP,Memantine,1844,Drug_A,memantine
+MJVAVZPDRWSRRC,Menadione,1845,Drug_A,menadione
+SJOXEWUZWQYCGL,Menthyl salicylate,1846,Drug_A,menthyl salicylate
+GKNPSSNBBWDAGH,Mepenzolate,1847,Drug_A,mepenzolate
+XADCESSVHJOZHK,Meperidine,1848,Drug_A,meperidine
+YELGFTGWJGBAQU,Mephedrone,1849,Drug_A,mephedrone
+JWDYCNIAQWPBHD,Mephenesin,1850,Drug_A,mephenesin
+ZMNSRFNUONFLSP,Mephenoxalone,1851,Drug_A,mephenoxalone
+RXQCGGRTAILOIN,Mephentermine,1852,Drug_A,mephentermine
+GMHKMTDVRCWUDX,Mephenytoin,1853,Drug_A,mephenytoin
+NXWGWUVGUSFQJC,Mepindolol,1854,Drug_A,mepindolol
+INWLQCZOYSRPNW,Mepivacaine,1855,Drug_A,mepivacaine
+PIDANAQULIKBQS,Meprednisone,1856,Drug_A,meprednisone
+NPPQSCRMBWNHMW,Meprobamate,1857,Drug_A,meprobamate
+JLICHNCFTLFZJN,Meptazinol,1858,Drug_A,meptazinol
+YECBIJXISLIIDS,Mepyramine,1859,Drug_A,mepyramine
+HOKDBMAJZXIPGC,Mequitazine,1860,Drug_A,mequitazine
+GLVAUDGFNGKCSF,Mercaptopurine,1861,Drug_A,mercaptopurine
+QHADVLVFMKEIIP,Merestinib,1862,Drug_A,merestinib
+DMJNNHOOLUXYBV,Meropenem,1863,Drug_A,meropenem
+HQRSUIDICNOLPX,Mersalyl,1864,Drug_A,mersalyl
+KBOPZPXVLCULAV,Mesalazine,1865,Drug_A,mesalazine
+SLVMESMUVMCQIY,Mesoridazine,1866,Drug_A,mesoridazine
+UXYRZJKIQKRJCF,Mesterolone,1867,Drug_A,mesterolone
+IMSSROKUHAOUJS,Mestranol,1868,Drug_A,mestranol
+BXMFKNRZTLNAFY,Metabutethamine,1869,Drug_A,metabutethamine
+MHIGBKBJSQVXNH,Metacycline,1870,Drug_A,metacycline
+LXNHXLLTXMVWPM,Metadoxine,1871,Drug_A,metadoxine
+XXYTXQGCRQLRHA,Metahexamide,1872,Drug_A,metahexamide
+LVWZTYCIRDMTEY,Metamizole,1873,Drug_A,metamizole
+FZECHKJQHUVANE,Metampicillin,1874,Drug_A,metampicillin
+WXFIGDLSSYIKKV,Metaraminol,1875,Drug_A,metaraminol
+IMWZZHHPURKASS,Metaxalone,1876,Drug_A,metaxalone
+ANJQEDFWRSLVBR,Metenolone,1877,Drug_A,metenolone
+WZHJKEUHNJHDLS,Metergoline,1878,Drug_A,metergoline
+XZWYZXLIPXDOLR,Metformin,1879,Drug_A,metformin
+NZWOPGCLSHLLPA,Methacholine,1880,Drug_A,methacholine
+KHLJKRBMZVNZOC,Methallenestril,1881,Drug_A,methallenestril
+KNWQLFOXPQZGPX,Methanesulfonyl Fluoride,1882,Drug_A,methanesulfonyl fluoride
+GZHFODJQISUKAY,Methantheline,1883,Drug_A,methantheline
+HNJJXZKZRAWDPF,Methapyrilene,1884,Drug_A,methapyrilene
+JEYCTXHKTXCGPB,Methaqualone,1885,Drug_A,methaqualone
+FWJKNZONDWOGMI,Metharbital,1886,Drug_A,metharbital
+FLOSMHQXBMRNHR,Methazolamide,1887,Drug_A,methazolamide
+HTMIBDQKFHUPSX,Methdilazine,1888,Drug_A,methdilazine
+VKYKSIONXSXAKP,Methenamine,1889,Drug_A,methenamine
+PMRYVIKBURPHAH,Methimazole,1890,Drug_A,methimazole
+GNXFOGHNGIVQEH,Methocarbamol,1891,Drug_A,methocarbamol
+NZXKDOXHBHYTKP,Methohexital,1892,Drug_A,methohexital
+ULBNWNUHGJLQHO,Methoserpidine,1893,Drug_A,methoserpidine
+FBOZXECLQNJBKD,Methotrexate,1894,Drug_A,methotrexate
+VRQVVMDWGGWHTJ,Methotrimeprazine,1895,Drug_A,methotrimeprazine
+WJAJPNHVVFWKKL,Methoxamine,1896,Drug_A,methoxamine
+QXKHYNVANLEOEG,Methoxsalen,1897,Drug_A,methoxsalen
+RFKMCNOHBTXSMU,Methoxyflurane,1898,Drug_A,methoxyflurane
+OEHAYUOVELTAPG,Methoxyphenamine,1899,Drug_A,methoxyphenamine
+LZCOQTDXKCNBEE,Methscopolamine,1900,Drug_A,methscopolamine
+AJXPJJZHWIXJCJ,Methsuximide,1901,Drug_A,methsuximide
+CESYKOGBSMNBPD,Methyclothiazide,1902,Drug_A,methyclothiazide
+OSWPMRLSEDHDFF,Methyl salicylate,1903,Drug_A,methyl salicylate
+JRNSSSJKIGAFCT,Methyl-1-testosterone,1904,Drug_A,methyl-1-testosterone
+CJCSPKMFHVPWAR,Methyldopa,1905,Drug_A,methyldopa
+QIQNNBXHAYSQRY,Methylecgonine,1906,Drug_A,methylecgonine
+RBTBFTRPCNLSDE,Methylene blue,1907,Drug_A,methylene blue
+PVXVWWANJIWJOO,Methylenedioxyethamphetamine,1908,Drug_A,methylenedioxyethamphetamine
+UNBRKDKAWYKMIV,Methylergometrine,1909,Drug_A,methylergometrine
+ZXSWTMLNIIZPET,Methylestrenolone,1910,Drug_B,methylestrenolone
+JVLBPIPGETUEET,Methylnaltrexone,1911,Drug_A,methylnaltrexone
+QXLPXWSKPNOQLE,Methylpentynol,1912,Drug_A,methylpentynol
+ALARQZQTBTVLJV,Methylphenobarbital,1913,Drug_A,methylphenobarbital
+BCDIWLCKOCHCIH,Methylphosphinate,1914,Drug_A,methylphosphinate
+VHRSUDSXCMQTMA,Methylprednisolone,1915,Drug_A,methylprednisolone
+DALKLAYLIPSCQL,Methylprednisolone aceponate,1916,Drug_A,methylprednisolone aceponate
+IMBXEJJVJRTNOW,Methylprednisolone hemisuccinate,1917,Drug_A,methylprednisolone hemisuccinate
+SVYCRJXQZUCUND,Methylprednisone,1918,Drug_A,methylprednisone
+BLJBDLGFKNXUCB,Methylpropylpropanediol dinitrate,1919,Drug_A,methylpropylpropanediol dinitrate
+XDSSPSLGNGIIHP,Methylselenocysteine,1920,Drug_A,methylselenocysteine
+GCKMFJBGXUYNAG,Methyltestosterone,1921,Drug_A,methyltestosterone
+HWGBHCRJGXAGEU,Methylthiouracil,1922,Drug_A,methylthiouracil
+SIDLZWOQUZRBRU,Methyprylon,1923,Drug_A,methyprylon
+KPJZHOPZRAFDTN,Methysergide,1924,Drug_A,methysergide
+FPBPLBWLMYGIQR,Metiamide,1925,Drug_A,metiamide
+RJQXTJLFIWVMTO,Meticillin,1926,Drug_B,meticillin
+FNQQBFNIYODEMB,Meticrane,1927,Drug_A,meticrane
+IYJMSDVSVHDVGT,Metildigoxin,1928,Drug_A,metildigoxin
+BQIPXWYNLPYNHW,Metipranolol,1929,Drug_A,metipranolol
+MJFJKKXQDNNUJF,Metixene,1930,Drug_A,metixene
+TTWJBBZEZQICBI,Metoclopramide,1931,Drug_A,metoclopramide
+JFXBEKISTKFVAB,Metocurine,1932,Drug_A,metocurine
+AQCHWTWZEMGIFD,Metolazone,1933,Drug_A,metolazone
+VQJHOPSWBGJHQS,Metoprine,1934,Drug_A,metoprine
+IUBSYMUCCVWXPE,Metoprolol,1935,Drug_A,metoprolol
+NFACJZMKEDPNKN,Metrifonate,1936,Drug_A,metrifonate
+VAOCPAMSLUNLGC,Metronidazole,1937,Drug_A,metronidazole
+FJLBFSROUSIWMA,Metyrapone,1938,Drug_A,metyrapone
+NHTGHBARYWONDQ,Metyrosine,1939,Drug_A,metyrosine
+AJLFOPYRIVGYMJ,Mevastatin,1940,Drug_A,mevastatin
+YPBATNHYBCGSSN,Mezlocillin,1941,Drug_B,mezlocillin
+UEQUQVLFIPOEMF,Mianserin,1942,Drug_A,mianserin
+HBNPJJILLOYFJU,Mibefradil,1943,Drug_A,mibefradil
+PTQMMNYJKCSPET,Mibolerone,1944,Drug_A,mibolerone
+PIEUQSKUWLMALL,Micafungin,1945,Drug_A,micafungin
+BYBLEWFAAKGYCD,Miconazole,1946,Drug_A,miconazole
+DNYGXMICFMACRA,Micronomicin,1947,Drug_A,micronomicin
+DDLIGBOFAVUZHB,Midazolam,1948,Drug_A,midazolam
+DMUAPQTXSSNEDD,Midecamycin,1949,Drug_A,midecamycin
+PTKSEFOSCHHMPD,Midodrine,1950,Drug_A,midodrine
+SHXWCVYOXRDMCX,Midomafetamine,1951,Drug_A,midomafetamine
+BMGQWWVMWDBQGC,Midostaurin,1952,Drug_A,midostaurin
+ZVLWUMPAHCEZAW,Mifamurtide,1953,Drug_B,mifamurtide
+VKHAHZOOUSRJNA,Mifepristone,1954,Drug_A,mifepristone
+IBAQFPQHRJAVAV,Miglitol,1955,Drug_A,miglitol
+PZRHRDRVRGEVNW,Milrinone,1956,Drug_A,milrinone
+PQLXHQMOHUQAKB,Miltefosine,1957,Drug_B,miltefosine
+LDMWSLGGVTVJPG,Minaprine,1958,Drug_A,minaprine
+DYKFCLLONBREIL,Minocycline,1959,Drug_A,minocycline
+ZFMITUMMTDLWHR,Minoxidil,1960,Drug_B,minoxidil
+PBAPPPCECJKMCM,Mirabegron,1961,Drug_A,mirabegron
+MIJFNYMSCFYZNY,Mirodenafil,1962,Drug_A,mirodenafil
+OJLOPKGSLYJEMD,Misoprostol,1963,Drug_B,misoprostol
+XAYGBKHKBBXDAK,Mitapivat,1964,Drug_A,mitapivat
+BELMMAAWNYFCGF,Mitemcinal,1965,Drug_A,mitemcinal
+WPGGHFDDFPHPOB,Mitiglinide,1966,Drug_A,mitiglinide
+VFKZTMPDYBFSTM,Mitobronitol,1967,Drug_B,mitobronitol
+MXWHMTNPTTVWDM,Mitoguazone,1968,Drug_B,mitoguazone
+NWIBSHFKIJFRCO,Mitomycin,1969,Drug_A,mitomycin
+JWBOIMRXGHLCPP,Mitotane,1970,Drug_A,mitotane
+KKZJGLLVHKMTCM,Mitoxantrone,1971,Drug_A,mitoxantrone
+ILVYCEVXHALBSC,Mivacurium,1972,Drug_A,mivacurium
+PVLJETXTTWAYEW,Mizolastine,1973,Drug_A,mizolastine
+HZQDCMWJEBCWBR,Mizoribine,1974,Drug_A,mizoribine
+AZSRSNUQCUDCGG,Mobocertinib,1975,Drug_A,mobocertinib
+HRNLUBSXIHFDHP,Mocetinostat,1976,Drug_A,mocetinostat
+YHXISWVBGDMDLQ,Moclobemide,1977,Drug_A,moclobemide
+UWWDHYUMIORJTA,Moexipril,1978,Drug_A,moexipril
+CMPAGYDKASJORH,Moexiprilat,1979,Drug_A,moexiprilat
+REOJLIXKJWXUGB,Mofebutazone,1980,Drug_A,mofebutazone
+KLPWJLBORRMFGK,Molindone,1981,Drug_A,molindone
+XLFWDASMENKTKL,Molsidomine,1982,Drug_A,molsidomine
+ZVHNDZWQTBEVRY,Momelotinib,1983,Drug_B,momelotinib
+QLIIKPVHVRXHRI,Mometasone,1984,Drug_A,mometasone
+WOFMFGQZHJDGCX,Mometasone furoate,1985,Drug_A,mometasone furoate
+LOBCDGHHHHGHFA,Monastrol,1986,Drug_B,monastrol
+DWYMPOCYEZONEA,Monofluorophosphate ion,1987,Drug_A,monofluorophosphate ion
+NKHAVTQWNUWKEO,Monomethyl fumarate,1988,Drug_A,monomethyl fumarate
+UCHDWCPVSPXUMX,Montelukast,1989,Drug_A,montelukast
+VYPSYNLAJGMNEJ,Montmorillonite,1990,Drug_B,montmorillonite
+AGAHNABIDCTLHW,Moperone,1991,Drug_A,moperone
+FUBVWMNBEHXPSU,Moricizine,1992,Drug_A,moricizine
+LDXSPUSKBDTEKA,Morniflumate,1993,Drug_A,morniflumate
+BQJCRHHNABKAKU,Morphine,1994,Drug_A,morphine
+PXUIZULXJVRBPC,Mosapramine,1995,Drug_A,mosapramine
+YPELFRMCRYSPKZ,Mosapride,1996,Drug_A,mosapride
+RAHBGWKEPAQNFF,Motesanib,1997,Drug_A,motesanib
+AHNIKTNNZJNCFN,Motexafin gadolinium,1998,Drug_A,motexafin gadolinium
+IYIYMCASGKQOCZ,Motretinide,1999,Drug_A,motretinide
+MTMZZIPTQITGCY,Moxestrol,2000,Drug_A,moxestrol
+FABPRXSRWADJSP,Moxifloxacin,2001,Drug_A,moxifloxacin
+VRYMTAVOXVTQEF,Moxisylyte,2002,Drug_A,moxisylyte
+WPNJAUFVNXKLIM,Moxonidine,2003,Drug_A,moxonidine
+MINDHVHHQZYEEK,Mupirocin,2004,Drug_B,mupirocin
+IRLWJILLXJGJTD,Muraglitazar,2005,Drug_A,muraglitazar
+RIDRXGOBXZLKHZ,Murepavadin,2006,Drug_A,murepavadin
+RLWRMIYXDPXIEX,Muzolimine,2007,Drug_A,muzolimine
+RTGDFNSFWBGLEC,Mycophenolate mofetil,2008,Drug_A,mycophenolate mofetil
+HPNSFSBZBAHARI,Mycophenolic acid,2009,Drug_A,mycophenolic acid
+XKTFQMCPGMTBMD,Myxothiazol,2010,Drug_B,myxothiazol
+VWEDZTZAXHMZIL,"N-(2-hydroxybenzyl)-2,5-dimethoxy-4-cyanophenylethylamine",2011,Drug_A,"n-(2-hydroxybenzyl)-2,5-dimethoxy-4-cyanophenylethylamine"
+RUOKEQAAGRXIBM,N-Propargyl-1(S)-Aminoindan,2012,Drug_A,n-propargyl-1(s)-aminoindan
+CAHKINHBCWCHCF,N-acetyltyrosine,2013,Drug_A,n-acetyltyrosine
+ZYVXHFWBYUDDBM,N-methylnicotinamide,2014,Drug_B,n-methylnicotinamide
+PHOZOHFUXHPOCK,NGX267,2015,Drug_A,ngx267
+KTDZCOWXCWUPEO,NS-398,2016,Drug_A,ns-398
+GECBBEABIDMGGL,Nabilone,2017,Drug_A,nabilone
+BLXXJMDCKKHMKV,Nabumetone,2018,Drug_A,nabumetone
+VWPOSFSPZNDTMJ,Nadolol,2019,Drug_A,nadolol
+MQQNFDZXWVTQEH,Nafamostat,2020,Drug_A,nafamostat
+RWHUEXWOYVBUCI,Nafarelin,2021,Drug_A,nafarelin
+GPXLMGHLHQJAGZ,Nafcillin,2022,Drug_A,nafcillin
+KBAFPSLPKGSANY,Naftidrofuryl,2023,Drug_A,naftidrofuryl
+HRRBJVNMSRJFHQ,Naftopidil,2024,Drug_A,naftopidil
+NETZHAKZCGBWSS,Nalbuphine,2025,Drug_A,nalbuphine
+AXQACEQYCPKDMV,Naldemedine,2026,Drug_A,naldemedine
+MHWLWQUZZRMNGJ,Nalidixic acid,2027,Drug_A,nalidixic acid
+WJBLNOPPDWQMCH,Nalmefene,2028,Drug_A,nalmefene
+UIQMVEYFGZJHCZ,Nalorphine,2029,Drug_A,nalorphine
+XNKCCCKFOQNXKV,Naloxegol,2030,Drug_A,naloxegol
+UZHSEJADLWPNLE,Naloxone,2031,Drug_A,naloxone
+DQCKKXVULJGBQN,Naltrexone,2032,Drug_A,naltrexone
+SPWZXWDPAWDKQE,Naluzotan,2033,Drug_A,naluzotan
+IBTISPLPBBHVSU,Namitecan,2034,Drug_A,namitecan
+QRGHOAATPOLDPF,Nanatinostat,2035,Drug_A,nanatinostat
+NPAGDVCDWIYMMC,Nandrolone,2036,Drug_A,nandrolone
+JKWKMORAXJQQSR,Nandrolone decanoate,2037,Drug_A,nandrolone decanoate
+UBWXUGDQUBIEIZ,Nandrolone phenpropionate,2038,Drug_A,nandrolone phenpropionate
+CNIIGCLFLJGOGP,Naphazoline,2039,Drug_A,naphazoline
+CMWTZPSULFXXJA,Naproxen,2040,Drug_A,naproxen
+QKDCLUARMDUUKN,Naquotinib,2041,Drug_B,naquotinib
+AMKVXSZCKVJAGH,Naratriptan,2042,Drug_A,naratriptan
+FTVWIRXFELQLPI,Naringenin,2043,Drug_A,naringenin
+VGDDOIZXGFJDRC,Naronapride,2044,Drug_A,naronapride
+NCXMLFZGDNKEPB,Natamycin,2045,Drug_A,natamycin
+OELFLUMRDSZNSF,Nateglinide,2046,Drug_A,nateglinide
+JLYAXFNOILIKPP,Navitoclax,2047,Drug_A,navitoclax
+SYJXFKPQNSDJLI,Neamine,2048,Drug_A,neamine
+KOHIRBRYDXPAMZ,Nebivolol,2049,Drug_A,nebivolol
+MRWXACSTFXYYMV,Nebularine,2050,Drug_A,nebularine
+RQTOOFIXOKYGAN,Nedocromil,2051,Drug_A,nedocromil
+VRBKIVRKKCLPHA,Nefazodone,2052,Drug_A,nefazodone
+NGHTXZCKLWZPGK,Nefiracetam,2053,Drug_A,nefiracetam
+IXOXBSCIXZEQEQ,Nelarabine,2054,Drug_A,nelarabine
+QAGYKUNXZHXKMR,Nelfinavir,2055,Drug_A,nelfinavir
+AVPQPGFLVZTJOR,Nemonoxacin,2056,Drug_A,nemonoxacin
+PAJBBDCZSMDSFL,Neocitrullamon,2057,Drug_A,neocitrullamon
+PPEKGEBBBBNZKS,Neosaxitoxin,2058,Drug_A,neosaxitoxin
+ALWKGYPQUAPLQC,Neostigmine,2059,Drug_A,neostigmine
+QEFAQIPZVLVERP,Nepafenac,2060,Drug_A,nepafenac
+JWNPDZNEKVCWMY,Neratinib,2061,Drug_A,neratinib
+CIDUJQMULVCIBT,Netilmicin,2062,Drug_A,netilmicin
+PKWDZWYVIHVNKS,Netoglitazone,2063,Drug_A,netoglitazone
+WAXQNWCZJDTGBU,Netupitant,2064,Drug_A,netupitant
+NQDJXKOVJZTUJA,Nevirapine,2065,Drug_A,nevirapine
+NOIIUHRQUVNIDD,Nialamide,2066,Drug_A,nialamide
+RSKQGBFMNPDPLR,Niaprazine,2067,Drug_A,niaprazine
+ZBBHBTPTTSWHBA,Nicardipine,2068,Drug_A,nicardipine
+YSEXMKHXIOCEJA,Nicergoline,2069,Drug_A,nicergoline
+RJMUSRYZPJIFPJ,Niclosamide,2070,Drug_A,niclosamide
+HNDXBGYRMHRUFN,Nicomorphine,2071,Drug_A,nicomorphine
+LBHIOVVIQHSOQN,Nicorandil,2072,Drug_A,nicorandil
+SNICXCGAKADSCV,Nicotine,2073,Drug_A,nicotine
+MVQVNTPHUGQQHK,Nicotinyl alcohol,2074,Drug_A,nicotinyl alcohol
+HYIMSNHJOBLJNT,Nifedipine,2075,Drug_A,nifedipine
+BRZANEXCSZCZCI,Nifenazone,2076,Drug_A,nifenazone
+JZFPYUNJRRFVQU,Niflumic acid,2077,Drug_A,niflumic acid
+SRQKTCXJCCHINN,Nifuratel,2078,Drug_B,nifuratel
+DANUORFCFTYTSZ,Nigericin,2079,Drug_A,nigericin
+HHZIURLSWUIHRB,Nilotinib,2080,Drug_A,nilotinib
+VZWXXKDFACOXNT,Niludipine,2081,Drug_A,niludipine
+XWXYUMMDTVBTOU,Nilutamide,2082,Drug_A,nilutamide
+FAIIFDPAEUKBEP,Nilvadipine,2083,Drug_A,nilvadipine
+HYWYRSMBCFDLJT,Nimesulide,2084,Drug_A,nimesulide
+UIAGMCDKSXEBJQ,Nimodipine,2085,Drug_A,nimodipine
+VFEDRRNHLBGPNN,Nimustine,2086,Drug_B,nimustine
+XZXHXSATPCNXJR,Nintedanib,2087,Drug_A,nintedanib
+HXRSXEDVVARPHP,Niperotidine,2088,Drug_A,niperotidine
+PCHKPVIQAHNQLW,Niraparib,2089,Drug_A,niraparib
+LIENCHBZNNMNKG,Nirmatrelvir,2090,Drug_A,nirmatrelvir
+VFCRKLWBYMDAED,Nirogacestat,2091,Drug_A,nirogacestat
+VKQFCGNPDRICFG,Nisoldipine,2092,Drug_A,nisoldipine
+ITJNARMNRKSWTA,Nisoxetine,2093,Drug_A,nisoxetine
+KJONHKAYOJNZEC,Nitrazepam,2094,Drug_A,nitrazepam
+PVHUJELLJLJGLN,Nitrendipine,2095,Drug_A,nitrendipine
+MWUXSHHQAYIFBG,Nitric Oxide,2096,Drug_A,nitric oxide
+IOVCWXUNBOPUCH,Nitrite,2097,Drug_A,nitrite
+IOJUJUOXKXMJNF,Nitroaspirin,2098,Drug_A,nitroaspirin
+NXFQHRVNIOXGAQ,Nitrofurantoin,2099,Drug_A,nitrofurantoin
+SNIOPGDIGTZGOP,Nitroglycerin,2100,Drug_A,nitroglycerin
+ASPOIVQEUUCDQT,Nitroprusside,2101,Drug_A,nitroprusside
+GQPLMRYTRLFLPF,Nitrous oxide,2102,Drug_A,nitrous oxide
+SGXXNSQHWDMGGP,Nizatidine,2103,Drug_A,nizatidine
+WZGBZLHGOVJDET,Nizofenone,2104,Drug_A,nizofenone
+KYRVNWMVYQXFEU,Nocodazole,2105,Drug_B,nocodazole
+XHWRWCSCBDLOLM,Nolatrexed,2106,Drug_B,nolatrexed
+KZUIYQJTUIACIG,Nomegestrol,2107,Drug_A,nomegestrol
+IIVBFTNIGYRNQY,Nomegestrol acetate,2108,Drug_A,nomegestrol acetate
+XXPANQJNYNUNES,Nomifensine,2109,Drug_A,nomifensine
+FBWNMEQMRUMQSO,Nonoxynol-9,2110,Drug_A,nonoxynol-9
+AKPLHCDWDRPJGD,Nordazepam,2111,Drug_A,nordazepam
+ISHXLNHNDMZNMC,Norelgestromin,2112,Drug_A,norelgestromin
+SFLSHLFXELFNJZ,Norepinephrine,2113,Drug_A,norepinephrine
+APTGJECXMIKIET,Norethindrone enanthate,2114,Drug_A,norethindrone enanthate
+VIKNJXKGJWUCNN,Norethisterone,2115,Drug_A,norethisterone
+ICTXHFFSOAJUMG,Norethynodrel,2116,Drug_A,norethynodrel
+LRCXRAABFLIVAI,Norfenefrine,2117,Drug_A,norfenefrine
+OGJPXUAPXNRGGI,Norfloxacin,2118,Drug_A,norfloxacin
+KIQQMECNKUGGKA,Norgestimate,2119,Drug_A,norgestimate
+GVDMJXQHPUYPHP,Norgestrienone,2120,Drug_A,norgestrienone
+WCJFBSYALHQBSK,Normethadone,2121,Drug_A,normethadone
+PHVGLTMQBUFIQQ,Nortriptyline,2122,Drug_A,nortriptyline
+AKNNEGZIBPJZJG,Noscapine,2123,Drug_A,noscapine
+YJQPYGGHQPGBLI,Novobiocin,2124,Drug_A,novobiocin
+PTGXAUBQBSGPKF,Nylidrin,2125,Drug_A,nylidrin
+VQOXZBDYSJBXMA,Nystatin,2126,Drug_B,nystatin
+XFLBOEMFLGLWFF,OBP-801,2127,Drug_B,obp-801
+RSJCLODJSVZNQA,ONT-093,2128,Drug_B,ont-093
+OCUKPFWNSAAHRP,ORM-12741,2129,Drug_A,orm-12741
+GSOXMQLWUDQTNT,OXI-4503,2130,Drug_A,oxi-4503
+ZXERDUOLZKYMJM,Obeticholic acid,2131,Drug_B,obeticholic acid
+OQJFBUOFGHPMSR,Ocinaplon,2132,Drug_A,ocinaplon
+FODQIVGFADUBKE,Octamoxin,2133,Drug_A,octamoxin
+YBGZDTIWKVFICR,Octinoxate,2134,Drug_A,octinoxate
+QHGUCRYDKWKLMG,Octopamine,2135,Drug_A,octopamine
+WEGJDERSZWOWIB,Octylphenoxy polyethoxyethanol,2136,Drug_A,octylphenoxy polyethoxyethanol
+FWIVDMJALNEADT,Odanacatib,2137,Drug_A,odanacatib
+KVWDHTXUZHCGIO,Olanzapine,2138,Drug_A,olanzapine
+FDLYAMZZIXQODN,Olaparib,2139,Drug_A,olaparib
+RZPAKFUAFGMUPI,Oleandomycin,2140,Drug_A,oleandomycin
+JLPDBLFIVFSOCC,Oleandrin,2141,Drug_A,oleandrin
+DMNOVGJWPASQDL,Oliceridine,2142,Drug_A,oliceridine
+VTRAEEWXHOVJFV,Olmesartan,2143,Drug_A,olmesartan
+FDMQDKQUTRLUBU,Olmutinib,2144,Drug_A,olmutinib
+COUYJEVMBVSIHV,Olodaterol,2145,Drug_A,olodaterol
+SUFPWYYDCOKDLL,Olorofim,2146,Drug_A,olorofim
+QQBDLJCYGRGAKP,Olsalazine,2147,Drug_A,olsalazine
+CKNAQFVBEHDJQV,Oltipraz,2148,Drug_A,oltipraz
+NEQYWYXGTJDAKR,Olutasidenib,2149,Drug_A,olutasidenib
+HYFHYPWGAURHIV,Omacetaxine mepesuccinate,2150,Drug_A,omacetaxine mepesuccinate
+JEECQCWWSTZDCK,Omadacycline,2151,Drug_A,omadacycline
+LVRLSYPNFFBYCZ,Omapatrilat,2152,Drug_A,omapatrilat
+MKMPWKUAHLTIBJ,Omarigliptin,2153,Drug_A,omarigliptin
+RJCWBNBKOKFWNY,Omaveloxolone,2154,Drug_A,omaveloxolone
+PIDFDZJZLOTZTM,Ombitasvir,2155,Drug_A,ombitasvir
+IEXUMDBQLIVNHZ,Onapristone,2156,Drug_A,onapristone
+FELGMEQIXOGIFQ,Ondansetron,2157,Drug_A,ondansetron
+QWNDOCKIKKQJNN,Ondelopran,2158,Drug_A,ondelopran
+ASOADIZOVZTJSR,Opicapone,2159,Drug_A,opicapone
+YNZFUWZUGRBMHL,Opipramol,2160,Drug_A,opipramol
+QIPQASLPWJVQMH,Orbifloxacin,2161,Drug_A,orbifloxacin
+LMOINURANNBYCM,Orciprenaline,2162,Drug_A,orciprenaline
+VHFGEBVPHAGQPI,Oritavancin,2163,Drug_A,oritavancin
+AHLBNYSZXLDEJQ,Orlistat,2164,Drug_A,orlistat
+XZEUAXYWNKYKPL,Ormeloxifene,2165,Drug_A,ormeloxifene
+IPWKIXLWTCNBKN,Ornidazole,2166,Drug_A,ornidazole
+QVYRGXJJSLMXQH,Orphenadrine,2167,Drug_A,orphenadrine
+XWNBGDJPEXZSQM,Orvepitant,2168,Drug_A,orvepitant
+DZOJBGLFWINFBF,Osanetant,2169,Drug_A,osanetant
+VSZGPKBBMSAYNT,Oseltamivir,2170,Drug_A,oseltamivir
+USUZGMWDZDXMDG,Osilodrostat,2171,Drug_A,osilodrostat
+DUYJMQONPNNFPI,Osimertinib,2172,Drug_A,osimertinib
+LUMKNAVTFCDUIE,Ospemifene,2173,Drug_A,ospemifene
+PFGVNLZDWRZPJW,Otamixaban,2174,Drug_A,otamixaban
+IDUYJRXRDSPPRC,Oteseconazole,2175,Drug_A,oteseconazole
+NQHNLNLJPDMBFN,Otilonium,2176,Drug_A,otilonium
+LPMXVESGRSUGHW,Ouabain,2177,Drug_A,ouabain
+KHKDIUPVDIEHAH,Oxabolone cipionate,2178,Drug_A,oxabolone cipionate
+UWYHMGVUTGAWSP,Oxacillin,2179,Drug_A,oxacillin
+FVYUQFQCEOZYHZ,Oxaflozane,2180,Drug_A,oxaflozane
+XCGYUJZMCCFSRP,Oxamniquine,2181,Drug_A,oxamniquine
+QSLJIVKCVHQPLV,Oxandrolone,2182,Drug_A,oxandrolone
+FDXQKWSTUZCCTM,Oxaprotiline,2183,Drug_A,oxaprotiline
+OFPXSFXSNFPTHF,Oxaprozin,2184,Drug_A,oxaprozin
+BAINIUMDFURPJM,Oxatomide,2185,Drug_A,oxatomide
+ADIMAYPTOBDMTL,Oxazepam,2186,Drug_A,oxazepam
+FYRWUTOZBRWYCS,Oxazepam acetate,2187,Drug_A,oxazepam acetate
+CTRLABGOLIVAIY,Oxcarbazepine,2188,Drug_A,oxcarbazepine
+FTLDJPRFCGDUFH,Oxetacaine,2189,Drug_A,oxetacaine
+HJZKOAYDRQLPME,Oxidronic acid,2190,Drug_A,oxidronic acid
+IHLAQQPQKRMGSS,Oxiracetam,2191,Drug_A,oxiracetam
+LDCYZAJDBXYCGN,Oxitriptan,2192,Drug_A,oxitriptan
+NVOYVOBDTVTBDX,Oxitropium,2193,Drug_A,oxitropium
+KYGZCKSPAKDVKC,Oxolinic acid,2194,Drug_A,oxolinic acid
+CEMAWMOMDPGJMB,Oxprenolol,2195,Drug_A,oxprenolol
+DXGLGDHPHMLXJC,Oxybenzone,2196,Drug_A,oxybenzone
+CMHHMUWAYWTMGS,Oxybuprocaine,2197,Drug_A,oxybuprocaine
+XIQVNETUBQGFHX,Oxybutynin,2198,Drug_A,oxybutynin
+BRUQQQPBMZOVGD,Oxycodone,2199,Drug_A,oxycodone
+GDYUVHBMFVMBAF,Oxyfedrine,2200,Drug_A,oxyfedrine
+WYWIFABBXFUGLM,Oxymetazoline,2201,Drug_A,oxymetazoline
+ICMWWNHDUZJFDW,Oxymetholone,2202,Drug_A,oxymetholone
+UQCNKQCJZOAFTQ,Oxymorphone,2203,Drug_A,oxymorphone
+XCWPUUGSGHNIDZ,Oxypertine,2204,Drug_A,oxypertine
+HFHZKZSRXITVMK,Oxyphenbutazone,2205,Drug_A,oxyphenbutazone
+DUDKAZCAISNGQN,Oxyphencyclimine,2206,Drug_A,oxyphencyclimine
+SJDACOMXKWHBOW,Oxyphenisatin,2207,Drug_A,oxyphenisatin
+PHPUXYRXPHEJDF,Oxyphenisatin acetate,2208,Drug_A,oxyphenisatin acetate
+GFRUPHOKLBPHTQ,Oxyphenonium,2209,Drug_A,oxyphenonium
+IWVCMVBTMGNXQD,Oxytetracycline,2210,Drug_A,oxytetracycline
+XRVDGNKRPOAQTN,Ozanimod,2211,Drug_A,ozanimod
+VAARYSWULJUGST,PD173955,2212,Drug_B,pd173955
+YPHDIMUXXABSSO,PF-00610355,2213,Drug_A,pf-00610355
+IENZFHBNCRQMNP,PRX-08066,2214,Drug_A,prx-08066
+RCINICONZNJXQF,Paclitaxel,2215,Drug_A,paclitaxel
+HWXVIOGONBBTBY,Pacritinib,2216,Drug_A,pacritinib
+IKDNYFNBRFYHNO,Padeliporfin,2217,Drug_A,padeliporfin
+HIUPRQPBWVEQJJ,Pagoclone,2218,Drug_A,pagoclone
+AHJRHEGDXFFMBM,Palbociclib,2219,Drug_A,palbociclib
+BKCJZNIZRWYHBN,Palifosfamide,2220,Drug_A,palifosfamide
+PMXMIIMHBWHSKN,Paliperidone,2221,Drug_A,paliperidone
+HXYVTAGFYLMHSO,Palmidrol,2222,Drug_A,palmidrol
+CPZBLNMUGSZIPR,Palonosetron,2223,Drug_A,palonosetron
+YTFHCXIPDIHOIA,Palovarotene,2224,Drug_B,palovarotene
+WRUUGTRCQOWXEG,Pamidronic acid,2225,Drug_A,pamidronic acid
+GVEAYVLWDAFXET,Pancuronium,2226,Drug_A,pancuronium
+FPOHNWQLNRZRFC,Panobinostat,2227,Drug_A,panobinostat
+IQPSEEYGBUAQFF,Pantoprazole,2228,Drug_A,pantoprazole
+GHOKWGTUZJEAQD,Pantothenic acid,2229,Drug_A,pantothenic acid
+XQYZDYMELSJDRZ,Papaverine,2230,Drug_A,papaverine
+SQYNKIJPMDEDEG,Paraldehyde,2231,Drug_A,paraldehyde
+VQASKUSHBVDKGU,Paramethadione,2232,Drug_A,paramethadione
+MKPDWECBUAZOHP,Paramethasone,2233,Drug_A,paramethasone
+WYMSBXTXOHUIGT,Paraoxon,2234,Drug_A,paraoxon
+TZRHLKRLEZJVIJ,Parecoxib,2235,Drug_A,parecoxib
+DPWPWRLQFGFJFI,Pargyline,2236,Drug_A,pargyline
+BPKAHTKRCLCHEA,Paricalcitol,2237,Drug_A,paricalcitol
+UAUIUKWPKRJZJV,Paritaprevir,2238,Drug_A,paritaprevir
+UOZODPSAJZTQNH,Paromomycin,2239,Drug_A,paromomycin
+AHOUBRCZNHFOSL,Paroxetine,2240,Drug_A,paroxetine
+VMZMNAABQBOLAK,Pasireotide,2241,Drug_A,pasireotide
+DHAHKSQXIXFZJB,Patent Blue,2242,Drug_A,patent blue
+QXRSDHAAWVKZLJ,Patupilone,2243,Drug_A,patupilone
+CUIHSIWYWATEQL,Pazopanib,2244,Drug_A,pazopanib
+XAGMUUZPGZWTRP,Pazufloxacin,2245,Drug_A,pazufloxacin
+DREIJXJRTLTGJC,Peficitinib,2246,Drug_A,peficitinib
+FHFYDNQZQSQIAI,Pefloxacin,2247,Drug_A,pefloxacin
+DOHVAKFYAHLCJP,Peldesine,2248,Drug_A,peldesine
+WVUNYSQLFKLYNI,Pelitinib,2249,Drug_B,pelitinib
+ZHKNLJLMDFQVHJ,Pemafibrate,2250,Drug_A,pemafibrate
+WBXPDJSOTKVWSJ,Pemetrexed,2251,Drug_A,pemetrexed
+HCDMJFOHIXMBOV,Pemigatinib,2252,Drug_A,pemigatinib
+NLOOMWLTUVBWAW,Penamecillin,2253,Drug_A,penamecillin
+KQXKVJAGOJTNJS,Penbutolol,2254,Drug_A,penbutolol
+JNTOCHDNEULJHD,Penciclovir,2255,Drug_A,penciclovir
+DZVPGIORVGSQMC,Penclomedine,2256,Drug_A,penclomedine
+MDLAAYDRRZXJIF,Penfluridol,2257,Drug_A,penfluridol
+VVNCNSJFMMFHPL,Penicillamine,2258,Drug_A,penicillamine
+USNINKBPBVKHHZ,Penicillin G Acyl-Serine,2259,Drug_A,penicillin g acyl-serine
+XATZHCXBMKRRDO,Penimepicycline,2260,Drug_A,penimepicycline
+WXZMFSXDPGVJKK,Pentaerithrityl,2261,Drug_B,pentaerithrityl
+TZRXHJWUDPFEEY,Pentaerythritol tetranitrate,2262,Drug_A,pentaerythritol tetranitrate
+XDRYMKDFEDOLFX,Pentamidine,2263,Drug_A,pentamidine
+VOKSWYLNZZRQPF,Pentazocine,2264,Drug_A,pentazocine
+NEMLPWNINZELKP,Penthienate,2265,Drug_A,penthienate
+MRWQRJMESRRJJB,Pentifylline,2266,Drug_A,pentifylline
+WEXRUCMBJFQVBZ,Pentobarbital,2267,Drug_A,pentobarbital
+XSBSKEQEUFOSDD,Pentolinium,2268,Drug_A,pentolinium
+FCCNSUIJIOOXEZ,Pentosan polysulfate,2269,Drug_A,pentosan polysulfate
+FPVKHBSQESCIEP,Pentostatin,2270,Drug_A,pentostatin
+BYPFEZZEUUWMEJ,Pentoxifylline,2271,Drug_A,pentoxifylline
+PRMWGUBFXWROHD,Perampanel,2272,Drug_A,perampanel
+WEYVCQFUGFRXOM,Perazine,2273,Drug_A,perazine
+VLTRZXGMWDSKGL,Perchlorate,2274,Drug_A,perchlorate
+KAVGMUDTWQVPDF,Perflubutane,2275,Drug_A,perflubutane
+QYSGYZVSCZSLHT,Perflutren,2276,Drug_A,perflutren
+YEHCICAEULNIGD,Pergolide,2277,Drug_A,pergolide
+CYXKNKQEMFBLER,Perhexiline,2278,Drug_A,perhexiline
+LUALIOATIOESLM,Periciazine,2279,Drug_A,periciazine
+NDTYTMIUWGWIMO,Perillyl alcohol,2280,Drug_A,perillyl alcohol
+IPVQLZZIHOAWMC,Perindopril,2281,Drug_A,perindopril
+ODAIHABQVKJNIY,Perindoprilat,2282,Drug_A,perindoprilat
+RLLPVAHGXHCWKJ,Permethrin,2283,Drug_A,permethrin
+FBVFZWUMDDXLLG,Perospirone,2284,Drug_A,perospirone
+RGCVKNLCSQQDEP,Perphenazine,2285,Drug_A,perphenazine
+PWEGQJCIAMJJHC,Perphenazine enanthate,2286,Drug_A,perphenazine enanthate
+PMTSPAGBAFCORP,Peruvoside,2287,Drug_A,peruvoside
+JGWRKYUXBBNENE,Pexidartinib,2288,Drug_A,pexidartinib
+XPFRXWCVYUEORT,Phenacemide,2289,Drug_A,phenacemide
+CPJSUEIXXCENMM,Phenacetin,2290,Drug_A,phenacetin
+ZQHYKVKNPWDQSL,Phenazocine,2291,Drug_A,phenazocine
+QPFYXYFORQJZEC,Phenazopyridine,2292,Drug_A,phenazopyridine
+JTJMJGYZQZDUJJ,Phencyclidine,2293,Drug_A,phencyclidine
+MFOCDFTXLCYLKU,Phendimetrazine,2294,Drug_A,phendimetrazine
+RMUCZJUITONUFY,Phenelzine,2295,Drug_A,phenelzine
+IZJDOKYDEWTZSO,Phenethyl Isothiocyanate,2296,Drug_A,phenethyl isothiocyanate
+BHHGXPLMPWCGHP,Phenethylamine,2297,Drug_A,phenethylamine
+NONJJLVGHLVQQM,Pheneticillin,2298,Drug_A,pheneticillin
+AJOQSQHYDOFIOX,Pheneturide,2299,Drug_A,pheneturide
+ICFJFFQQTFMIBG,Phenformin,2300,Drug_A,phenformin
+BFMBKRQFMIILCH,Phenglutarimide,2301,Drug_A,phenglutarimide
+DAFOCGYVTAOKAJ,Phenibut,2302,Drug_A,phenibut
+ISFHAYSTHMVOJR,Phenindamine,2303,Drug_A,phenindamine
+NFBAXHOPROOJAW,Phenindione,2304,Drug_A,phenindione
+VXTWEDPZMSVFEF,Pheniprazine,2305,Drug_A,pheniprazine
+IJHNSHDBIRRJRN,Pheniramine,2306,Drug_A,pheniramine
+OOBHFESNSZDWIU,Phenmetrazine,2307,Drug_A,phenmetrazine
+DDBREPKUVSBGFI,Phenobarbital,2308,Drug_A,phenobarbital
+ISWSIDIOOBJBQZ,Phenol,2309,Drug_A,phenol
+KJFMBFZCATUALV,Phenolphthalein,2310,Drug_A,phenolphthalein
+IPOPQVVNCFQFRK,Phenoperidine,2311,Drug_A,phenoperidine
+WJFKNYWRSNBZNX,Phenothiazine,2312,Drug_A,phenothiazine
+QZVCTJOXCFMACW,Phenoxybenzamine,2313,Drug_A,phenoxybenzamine
+BPLBGHOLXOTWMN,Phenoxymethylpenicillin,2314,Drug_A,phenoxymethylpenicillin
+QNEXFJFTGQBXBJ,Phenoxypropazine,2315,Drug_A,phenoxypropazine
+CAMYKONBWHRPDD,Phenprobamate,2316,Drug_A,phenprobamate
+DQDAYGNAKTZFIW,Phenprocoumon,2317,Drug_A,phenprocoumon
+PBHFNBQPZCRWQP,Phenserine,2318,Drug_A,phenserine
+WLWFNJKHKGIJNW,Phensuximide,2319,Drug_A,phensuximide
+DHHVAGZRUROJKS,Phentermine,2320,Drug_A,phentermine
+MRBDMNSDAVCSSF,Phentolamine,2321,Drug_A,phentolamine
+DNVVZWSVACQWJE,Phenyl aminosalicylate,2322,Drug_A,phenyl aminosalicylate
+WLJVXDMOQOGPHL,Phenylacetic acid,2323,Drug_B,phenylacetic acid
+VYMDGNCVAMGZFE,Phenylbutazone,2324,Drug_A,phenylbutazone
+OBKXEAXTFZPCHS,Phenylbutyric acid,2325,Drug_A,phenylbutyric acid
+SONNWYBIRXJNDC,Phenylephrine,2326,Drug_A,phenylephrine
+CXOFVDLJLONNDW,Phenytoin,2327,Drug_A,phenytoin
+GPFAJKDEDBRFOS,Pholcodine,2328,Drug_A,pholcodine
+LMNZTLDVJIUSHT,Phosmet,2329,Drug_A,phosmet
+DRBBFCLWYRJSJZ,Phosphocreatine,2330,Drug_A,phosphocreatine
+PBMSWVPMRUJMPE,Phthalylsulfathiazole,2331,Drug_A,phthalylsulfathiazole
+MBWXNTAXLNYFJB,Phylloquinone,2332,Drug_A,phylloquinone
+PIJVFDBKTWXHHD,Physostigmine,2333,Drug_A,physostigmine
+VJYSBPDEJWLKKJ,Pibrentasvir,2334,Drug_A,pibrentasvir
+CDRPUGZCRXZLFL,Piceatannol,2335,Drug_A,piceatannol
+RRRUXBQSQLKHEL,Piclamilast,2336,Drug_A,piclamilast
+URMTUEWUIGOJBW,Piclozotan,2337,Drug_A,piclozotan
+UJIDKYTZIQTXPM,Picosulfuric acid,2338,Drug_A,picosulfuric acid
+KYWCWBXGRWWINE,Picotamide,2339,Drug_A,picotamide
+UUTKICFRNVKFRG,Pidotimod,2340,Drug_A,pidotimod
+QCHFTSOMWOSFHM,Pilocarpine,2341,Drug_A,pilocarpine
+BCQTVJKBTWGHCX,Pilsicainide,2342,Drug_A,pilsicainide
+RKEWSXXUOLRFBX,Pimavanserin,2343,Drug_A,pimavanserin
+KASDHRXLYQOAKZ,Pimecrolimus,2344,Drug_A,pimecrolimus
+YVUQSNJEYSNKRX,Pimozide,2345,Drug_A,pimozide
+IVVNZDGDKPTYHK,Pinacidil,2346,Drug_A,pinacidil
+DDHUTBKXLWCZCO,Pinaverium,2347,Drug_A,pinaverium
+MFZOSKPPVCIFMT,Pinazepam,2348,Drug_A,pinazepam
+JZQKKSLKJUAGIC,Pindolol,2349,Drug_A,pindolol
+LXFOLMYKSYSZQS,Pinometostat,2350,Drug_B,pinometostat
+HYAFETHFCAUJAY,Pioglitazone,2351,Drug_A,pioglitazone
+AXKPFOAXAHJUAG,Pipamperone,2352,Drug_A,pipamperone
+OWWLUIWOFHMHOQ,Pipecuronium,2353,Drug_A,pipecuronium
+JOHZPMXAZQZXHR,Pipemidic acid,2354,Drug_A,pipemidic acid
+WPUKUEMZZRVAKZ,Pipenzolate,2355,Drug_A,pipenzolate
+IVBHGBMCVLDMKU,Piperacillin,2356,Drug_A,piperacillin
+UCRHFBCYFMIWHC,Piperaquine,2357,Drug_A,piperaquine
+GLUUGHFHXGJENI,Piperazine,2358,Drug_A,piperazine
+KTHVBAZBLKXIHZ,Piperidolate,2359,Drug_A,piperidolate
+MXXWOMGUGJBKIW,Piperine,2360,Drug_A,piperine
+NJBFOOCLYDNZJN,Pipobroman,2361,Drug_A,pipobroman
+JOMHSQGEWSNUKU,Pipotiazine,2362,Drug_A,pipotiazine
+GMZVRMREEHBGGF,Piracetam,2363,Drug_A,piracetam
+KMSKQZKKOZQFFG,Pirarubicin,2364,Drug_A,pirarubicin
+VQDBNKDJNJQRDG,Pirbuterol,2365,Drug_A,pirbuterol
+RMHMFHUVIITRHF,Pirenzepine,2366,Drug_A,pirenzepine
+UJEWTUDSLQGTOA,Piretanide,2367,Drug_A,piretanide
+OQDPVLVUJFGPGQ,Piribedil,2368,Drug_A,piribedil
+IHEHEFLXQFOQJO,Piritramide,2369,Drug_A,piritramide
+VJXSSYDSOJBUAV,Piritrexim,2370,Drug_A,piritrexim
+HBJOXQRURQPDEX,Pirlimycin,2371,Drug_A,pirlimycin
+IWVRVEIKCBFZNF,Pirlindole,2372,Drug_A,pirlindole
+RCIMBBZXSXFZBV,Piromidic acid,2373,Drug_A,piromidic acid
+QYSPLQLAKJAUJT,Piroxicam,2374,Drug_A,piroxicam
+PIDSZXPFGCURGN,Pirprofen,2375,Drug_A,pirprofen
+FWZAWAUZXYCBKZ,Pirtobrutinib,2376,Drug_A,pirtobrutinib
+VGYFMXBACGZSIL,Pitavastatin,2377,Drug_A,pitavastatin
+NNACHAUCXXVJSP,Pitolisant,2378,Drug_A,pitolisant
+SRPNQDXRVRCTNK,Pivagabine,2379,Drug_A,pivagabine
+ZEMIJUDPLILVNQ,Pivampicillin,2380,Drug_B,pivampicillin
+FWWDFDMCZLOXQI,Pivhydrazine,2381,Drug_A,pivhydrazine
+NPGNOVNWUSPMDP,Pivmecillinam,2382,Drug_A,pivmecillinam
+PEZPMAYDXJQYRV,Pixantrone,2383,Drug_B,pixantrone
+FIADGNVRKBPQEU,Pizotifen,2384,Drug_A,pizotifen
+HVAUUPRFYPCOCA,Platelet Activating Factor,2385,Drug_A,platelet activating factor
+BASFCYQUMIYNBI,Platinum,2386,Drug_A,platinum
+IYDYFVUFSPQPPV,Plazomicin,2387,Drug_A,plazomicin
+NSPHQWLKCGGCQR,Plecanatide,2388,Drug_A,plecanatide
+YIQPUIGJQJDJOS,Plerixafor,2389,Drug_A,plerixafor
+IEJSCSAMMLUINT,Plevitrexed,2390,Drug_A,plevitrexed
+CFCUWKMKBJTWLW,Plicamycin,2391,Drug_B,plicamycin
+UUSZLLQJYRSZIS,Plitidepsin,2392,Drug_A,plitidepsin
+VCMMXZQDRFWYSE,Plumbagin,2393,Drug_A,plumbagin
+IGXZLYMCFZHNKW,Polaprezinc,2394,Drug_A,polaprezinc
+CQRKVVAGMJJJSR,Poldine,2395,Drug_A,poldine
+IJWPAFMIFNSIGD,Polmacoxib,2396,Drug_A,polmacoxib
+CYLWJCABXYDINA,Polythiazide,2397,Drug_A,polythiazide
+UVSMNLNDYGZFPF,Pomalidomide,2398,Drug_A,pomalidomide
+PHXJVRSECIGDHY,Ponatinib,2399,Drug_A,ponatinib
+LPAUOXUZGSBGDU,Ponesimod,2400,Drug_A,ponesimod
+HRHKSTOGXBBQCB,Porfiromycin,2401,Drug_A,porfiromycin
+RAGOYPUPXAKGKH,Posaconazole,2402,Drug_A,posaconazole
+HBUJYEUPIIJJOS,Posizolid,2403,Drug_A,posizolid
+NTTOTNSKUYCDAV,Potassium,2404,Drug_A,potassium
+NPYPAHLBTDXSSS,Potassium cation,2405,Drug_A,potassium cation
+ZBAWCYJPZGOFOT,Potassium triiodide,2406,Drug_B,potassium triiodide
+JHDKZFFAIZKUCU,Pracinostat,2407,Drug_A,pracinostat
+DURULFYMVIFBIR,Practolol,2408,Drug_A,practolol
+GXALXAKNHIROPE,Pradigastat,2409,Drug_A,pradigastat
+UAUHEPXILIZYCU,Prajmaline,2410,Drug_A,prajmaline
+OGSBUKJUDHAQEA,Pralatrexate,2411,Drug_A,pralatrexate
+JBKPUQTUERUYQE,Pralidoxime,2412,Drug_A,pralidoxime
+GBLBJPZSROAGMF,Pralsetinib,2413,Drug_A,pralsetinib
+TZIRZGBAFTZREM,Pramlintide,2414,Drug_A,pramlintide
+DQKXQSGTHWVTAD,Pramocaine,2415,Drug_A,pramocaine
+NBQKINXMPLXUET,Pranlukast,2416,Drug_A,pranlukast
+TVQZAMVBTVNYLA,Pranoprofen,2417,Drug_A,pranoprofen
+FMGSKLZLMKYGDP,Prasterone,2418,Drug_A,prasterone
+HHENOUDBWKNPAB,Prasterone enantate,2419,Drug_A,prasterone enantate
+CZWCKYRVOZZJNM,Prasterone sulfate,2420,Drug_A,prasterone sulfate
+DTGLZDAWLRGWQN,Prasugrel,2421,Drug_A,prasugrel
+TUZYXOIXSAXUGO,Pravastatin,2422,Drug_A,pravastatin
+MWQCHHACWWAQLJ,Prazepam,2423,Drug_A,prazepam
+IENZQIKPVFGBNW,Prazosin,2424,Drug_A,prazosin
+FNPXMHRZILFCKX,Prednicarbate,2425,Drug_A,prednicarbate
+HFVNWDWLWUCIHC,Prednimustine,2426,Drug_A,prednimustine
+OIGNJSKKLXVSLS,Prednisolone,2427,Drug_A,prednisolone
+LRJOMUJRLNCICJ,Prednisolone acetate,2428,Drug_A,prednisolone acetate
+APGDTXUMTIZLCJ,Prednisolone hemisuccinate,2429,Drug_A,prednisolone hemisuccinate
+JDOZJEUDSLGTLU,Prednisolone phosphate,2430,Drug_A,prednisolone phosphate
+XOFYZVNMUHMLCC,Prednisone,2431,Drug_A,prednisone
+MOVRKLZUVNCBIP,Prednisone acetate,2432,Drug_A,prednisone acetate
+WSVOMANDJDYYEY,Prednylidene,2433,Drug_A,prednylidene
+AYXYPKUFHZROOJ,Pregabalin,2434,Drug_A,pregabalin
+ORNBQBCIOKFOEO,Pregnenolone,2435,Drug_A,pregnenolone
+ADUKCCWBEDSMEB,Prenalterol,2436,Drug_A,prenalterol
+IFFPICMESYHZPQ,Prenylamine,2437,Drug_A,prenylamine
+ZLHZLMOSPGACSZ,Pretomanid,2438,Drug_A,pretomanid
+YUGCAAVRZWBXEQ,Previtamin D(3),2439,Drug_B,previtamin d(3)
+RQXCLMGKHJWMOA,Pridinol,2440,Drug_A,pridinol
+ZYEPZINLLPPBMI,Prifinium,2441,Drug_B,prifinium
+MVFGUOIZUNYYSO,Prilocaine,2442,Drug_A,prilocaine
+INDBQLZJXZLFIT,Primaquine,2443,Drug_A,primaquine
+DQMZLTXERSFNPB,Primidone,2444,Drug_A,primidone
+DBABZHXKTCFAPX,Probenecid,2445,Drug_A,probenecid
+FYPMFJGVHOHGLL,Probucol,2446,Drug_A,probucol
+REQCZEXYDRLIBE,Procainamide,2447,Drug_A,procainamide
+MFDFERRIHVXMIY,Procaine,2448,Drug_A,procaine
+CPTBDICYNRMXFX,Procarbazine,2449,Drug_A,procarbazine
+FKNXQNWAXFXVNW,Procaterol,2450,Drug_A,procaterol
+WIKYUJGCLQQFNW,Prochlorperazine,2451,Drug_A,prochlorperazine
+WYDUSKDSKCASEF,Procyclidine,2452,Drug_B,procyclidine
+CDOZDBSBBXSXLB,Profenamine,2453,Drug_A,profenamine
+IBALRBWGSVJPAP,Progabide,2454,Drug_A,progabide
+RJKFOVLPORLFTN,Progesterone,2455,Drug_A,progesterone
+PTXGHCGBYMQQIG,Proglumetacin,2456,Drug_A,proglumetacin
+SSOLNOMRVKKSON,Proguanil,2457,Drug_A,proguanil
+ZGUGWUXLJSTTMA,Promazine,2458,Drug_A,promazine
+QFFCYTLOTYIJMR,Promegestone,2459,Drug_A,promegestone
+PWWVAXIEGOYWEE,Promethazine,2460,Drug_A,promethazine
+QTGAJCQTLIRCFL,Propacetamol,2461,Drug_A,propacetamol
+KEJXLQUPYHWCNM,Propanidid,2462,Drug_A,propanidid
+VVWYOYDLCMFIEM,Propantheline,2463,Drug_A,propantheline
+KCLANYCVBBTKTO,Proparacaine,2464,Drug_A,proparacaine
+YZZCJYJBCUJISI,Propatyl nitrate,2465,Drug_A,propatyl nitrate
+GCHKUUOPYMFGEY,Propenidazole,2466,Drug_A,propenidazole
+RBQOQRRFDPXAGN,Propentofylline,2467,Drug_A,propentofylline
+HOCWPKXKMNXINF,Propicillin,2468,Drug_A,propicillin
+UVOIBTBFPOZKGP,Propiomazine,2469,Drug_A,propiomazine
+ZQTVCQIJTREKSP,Propiopromazine,2470,Drug_B,propiopromazine
+QPCVHQBVMYCJOM,Propiverine,2471,Drug_A,propiverine
+OLBCVFGFOZPWHH,Propofol,2472,Drug_A,propofol
+CAJIGINSTLKQMM,Propoxycaine,2473,Drug_A,propoxycaine
+KNAHARQHSZJURB,Propylthiouracil,2474,Drug_A,propylthiouracil
+PXWLVJLKJGVOKE,Propyphenazone,2475,Drug_A,propyphenazone
+JTIGKVIOEQASGT,Proquazone,2476,Drug_A,proquazone
+MYEJFUXQJGHEQK,Proscillaridin,2477,Drug_A,proscillaridin
+PRFXRIUZNKLRHM,Prostaglandin B2,2478,Drug_A,prostaglandin b2
+BHMBVRSPMRCCGG,Prostaglandin D2,2479,Drug_A,prostaglandin d2
+SGUKUZOVHSFKPH,Prostaglandin G2,2480,Drug_A,prostaglandin g2
+GNIYHUSSKSFYBD,Prostalene,2481,Drug_A,prostalene
+JTTAUPUMOLRVRA,Prothipendyl,2482,Drug_A,prothipendyl
+VRDIULHPQTYCLN,Protionamide,2483,Drug_A,protionamide
+XNSAINXGIQZQOO,Protirelin,2484,Drug_B,protirelin
+IBGBGRVKPALMCQ,Protocatechualdehyde,2485,Drug_A,protocatechualdehyde
+LUMAEVHDZXIGEP,Protokylol,2486,Drug_A,protokylol
+BWPIARFWQZKAIA,Protriptyline,2487,Drug_A,protriptyline
+VNLMRPAWAMPLNZ,Proxibarbal,2488,Drug_A,proxibarbal
+KYHQZNGJUGFTGR,Proxyphylline,2489,Drug_A,proxyphylline
+ZPMNHBXQOOVQJL,Prucalopride,2490,Drug_A,prucalopride
+PWNMXPDKBYZCOO,Prulifloxacin,2491,Drug_A,prulifloxacin
+ORXDSIPBTFAEKJ,Prussian blue,2492,Drug_A,prussian blue
+QVDSEJDULKLHCG,Psilocybin,2493,Drug_A,psilocybin
+RXWNCPJZOCPEPQ,Puromycin,2494,Drug_A,puromycin
+YSAUAVHXTIETRK,Pyrantel,2495,Drug_A,pyrantel
+IPEHBUMCGVEMRF,Pyrazinamide,2496,Drug_A,pyrazinamide
+BGRWSFIQQPVEML,Pyrazolam,2497,Drug_A,pyrazolam
+RVOLLAQWKVFTGE,Pyridostigmine,2498,Drug_A,pyridostigmine
+WKSAUQYGYAYLPV,Pyrimethamine,2499,Drug_A,pyrimethamine
+NZASCBIBXNPDMH,Pyrithyldione,2500,Drug_A,pyrithyldione
+DJUFPMUQJKWIJB,Pyronaridine,2501,Drug_A,pyronaridine
+IKMPWMZBZSAONZ,Quazepam,2502,Drug_A,quazepam
+REFJWTPEDVJJIY,Quercetin,2503,Drug_A,quercetin
+URKOMYMAXPYINW,Quetiapine,2504,Drug_A,quetiapine
+PZMAHNDJABQWGS,Quifenadine,2505,Drug_A,quifenadine
+GPKJTRJOBQGKQK,Quinacrine,2506,Drug_A,quinacrine
+GDFGTRDCCWFXTG,Quinagolide,2507,Drug_A,quinagolide
+JSDRRTOADPPCHY,Quinapril,2508,Drug_A,quinapril
+FLSLEGPOVLMJMN,Quinaprilat,2509,Drug_A,quinaprilat
+PWZUUYSISTUNDW,Quinestrol,2510,Drug_A,quinestrol
+AGMMTXLNIQSRCG,Quinethazone,2511,Drug_A,quinethazone
+PCJFRMOEZQQSAX,Quingestanol,2512,Drug_A,quingestanol
+FLGJKPPXEKYCBY,Quingestanol acetate,2513,Drug_B,quingestanol acetate
+LOUPRKONTZGTKE,Quinidine,2514,Drug_A,quinidine
+XNMYNYSCEJBRPZ,Quinisocaine,2515,Drug_A,quinisocaine
+JCBQCKFFSPGEDY,Quinupramine,2516,Drug_A,quinupramine
+WTHRRGMBUAHGNI,Quinupristin,2517,Drug_A,quinupristin
+CVWXJKQAOSCOAB,Quizartinib,2518,Drug_A,quizartinib
+ZUJMMGHIYSAEOU,"R,S-Warfarin alcohol",2519,Drug_A,"r,s-warfarin alcohol"
+MUTBJZVSRNUIHA,R-306465,2520,Drug_A,r-306465
+WAOQONBSWFLFPE,Raclopride,2521,Drug_A,raclopride
+YJQZYXCXBBCEAQ,Ractopamine,2522,Drug_A,ractopamine
+BTTNOGHPGJANSW,Radezolid,2523,Drug_A,radezolid
+PZDJSXWIQXZUBJ,Radium Ra-223 cation,2524,Drug_A,radium ra-223 cation
+GZUITABIAKMVPG,Raloxifene,2525,Drug_A,raloxifene
+CZFFBEXEKNGXKS,Raltegravir,2526,Drug_A,raltegravir
+IVTVGDXNLFLDRM,Raltitrexed,2527,Drug_A,raltitrexed
+LDXDSHIEDAPSSA,Ramatroban,2528,Drug_A,ramatroban
+YLXDSYKOBKBWJQ,Ramelteon,2529,Drug_A,ramelteon
+HDACQVRGBOVJII,Ramipril,2530,Drug_A,ramipril
+KEDYTOTWMPBSLG,Ramiprilat,2531,Drug_A,ramiprilat
+NTHPAPBPFQJABD,Ramosetron,2532,Drug_A,ramosetron
+VMXUWOKSQNHOCA,Ranitidine,2533,Drug_A,ranitidine
+XKLMZUWKNUAPSZ,Ranolazine,2534,Drug_A,ranolazine
+HTIKWNNIPGXLGM,Rapacuronium,2535,Drug_A,rapacuronium
+OPAHEYNNJWPQPX,Ravuconazole,2536,Drug_A,ravuconazole
+WVXNSAVVKYZVOE,Rebastinib,2537,Drug_B,rebastinib
+LZPZPHGJDAGEJZ,Regadenoson,2538,Drug_B,regadenoson
+FNHKPVJBJVTLMP,Regorafenib,2539,Drug_A,regorafenib
+CEBYCSRFKCEUSW,Relcovaptan,2540,Drug_A,relcovaptan
+SMOBCLHAZXOKDQ,Relebactam,2541,Drug_A,relebactam
+AOMXMOCNKJTRQP,Relugolix,2542,Drug_A,relugolix
+YSGASDXSLKIKOD,Remacemide,2543,Drug_A,remacemide
+RWWYLEGWBNMMLJ,Remdesivir,2544,Drug_A,remdesivir
+ZTVQQQVZCWLTDF,Remifentanil,2545,Drug_B,remifentanil
+UXIGZRQVLGFTOU,Remikiren,2546,Drug_A,remikiren
+CYHWMBVXXDIZNZ,Remimazolam,2547,Drug_A,remimazolam
+UAOCLDQAQNNEAX,Remogliflozin etabonate,2548,Drug_A,remogliflozin etabonate
+GUJRSXAPGDDABA,Remoxipride,2549,Drug_A,remoxipride
+YFUAYKVMQVBSNG,Renzapride,2550,Drug_A,renzapride
+FAEKWTJYAYMJKF,Repaglinide,2551,Drug_A,repaglinide
+YGYBFMRFXNDIPO,Repinotan,2552,Drug_B,repinotan
+MKELYWOVSPVORM,Reposal,2553,Drug_A,reposal
+FIKPXCOQUIZNHB,Repotrectinib,2554,Drug_A,repotrectinib
+WVLAAKXASPCBGT,Reproterol,2555,Drug_A,reproterol
+SZLZWPPUNLXJEA,Rescinnamine,2556,Drug_A,rescinnamine
+QEVHRUUCFGRFIF,Reserpine,2557,Drug_A,reserpine
+FDBYIYFVSAHJLY,Resmetirom,2558,Drug_A,resmetirom
+GHMLBKRAJCXXBS,Resorcinol,2559,Drug_A,resorcinol
+LUKBXSAWLPMMSZ,Resveratrol,2560,Drug_A,resveratrol
+STZYTFJPGGDRJD,Retapamulin,2561,Drug_A,retapamulin
+FYDWDCIFZSGNBU,Revefenacin,2562,Drug_A,revefenacin
+FRVSRBKUQZKTOW,Revumenib,2563,Drug_A,revumenib
+FCDLCPWAQCPTKC,Rhein,2564,Drug_A,rhein
+RHXHGRAEPCAFML,Ribociclib,2565,Drug_A,ribociclib
+NSKGQURZWSPSBC,Ribostamycin,2566,Drug_A,ribostamycin
+QGZYDVAGYRLSKP,Ricolinostat,2567,Drug_A,ricolinostat
+BUROJSBIWGDYCN,Ridaforolimus,2568,Drug_A,ridaforolimus
+GLLPUTYLZIKEGF,Ridogrel,2569,Drug_A,ridogrel
+ATEBXHFBFRCZMA,Rifabutin,2570,Drug_A,rifabutin
+UEFHFKKWYKVLDC,Rifalazil,2571,Drug_B,rifalazil
+JQXXHWHPUNPDRT,Rifampin,2572,Drug_A,rifampin
+HJYYPODYNSCCOU,Rifamycin,2573,Drug_A,rifamycin
+WDZCUPBHRAEYDL,Rifapentine,2574,Drug_A,rifapentine
+NZCRJKRKKOLAOJ,Rifaximin,2575,Drug_A,rifaximin
+OWBFCJROIKNMGD,Rigosertib,2576,Drug_A,rigosertib
+CQXADFVORZEARL,Rilmenidine,2577,Drug_A,rilmenidine
+YIBOMRUWOWDFLG,Rilpivirine,2578,Drug_A,rilpivirine
+FTALBRSUTCGOEG,Riluzole,2579,Drug_A,riluzole
+KRNAOFGYEFKHPB,Rimegepant,2580,Drug_A,rimegepant
+QTTRZHGPGKRAFB,Rimexolone,2581,Drug_A,rimexolone
+IYMMESGOJVNCKV,Rimiterol,2582,Drug_A,rimiterol
+JZCPYUJPEARBJL,Rimonabant,2583,Drug_A,rimonabant
+WXXSNCNJFUAIDG,Riociguat,2584,Drug_A,riociguat
+CEFJVGZHQAGLHS,Ripretinib,2585,Drug_A,ripretinib
+ASKZRYGFUPSJPN,Risdiplam,2586,Drug_A,risdiplam
+IIDJRNMFWXDHID,Risedronic acid,2587,Drug_A,risedronic acid
+RAPZEAPATHNIPO,Risperidone,2588,Drug_A,risperidone
+JUQLTPCYUFPYKE,Ritanserin,2589,Drug_A,ritanserin
+CBRJPFGIXUFMTM,Ritlecitinib,2590,Drug_A,ritlecitinib
+VMMYRRFPMAGXNP,Ritobegron,2591,Drug_A,ritobegron
+IOVGROKTTNBUGK,Ritodrine,2592,Drug_A,ritodrine
+NCDNCNXCDXHOMX,Ritonavir,2593,Drug_A,ritonavir
+KGFYHTZWPPHNLQ,Rivaroxaban,2594,Drug_A,rivaroxaban
+XSVMFMHYUFZWBK,Rivastigmine,2595,Drug_A,rivastigmine
+WPEWQEMJFLWMLV,Rivoceranib,2596,Drug_A,rivoceranib
+XMSXOLDPMGMWTH,Rivoglitazone,2597,Drug_A,rivoglitazone
+ULFRLSNUDGIQQP,Rizatriptan,2598,Drug_A,rizatriptan
+CAAFTBWHFUPDGX,Ro 12-7310,2599,Drug_A,ro 12-7310
+ZEXGDYFACFXQPF,Robenacoxib,2600,Drug_A,robenacoxib
+HUFOZJXAKZVRNJ,Rociletinib,2601,Drug_B,rociletinib
+XPYLKZZOBVLVHB,Rociverine,2602,Drug_A,rociverine
+YXRDKMPIGHSVRX,Rocuronium,2603,Drug_A,rocuronium
+RZJQGNCSTQAWON,Rofecoxib,2604,Drug_A,rofecoxib
+MNDBXUUTURYVHR,Roflumilast,2605,Drug_A,roflumilast
+VYWWNRMSAPEJLS,Rokitamycin,2606,Drug_A,rokitamycin
+FIVSJYGQAIEMOC,Rolapitant,2607,Drug_A,rolapitant
+HMEYVGGHISAPJR,Rolitetracycline,2608,Drug_A,rolitetracycline
+PJBFVWGQFLYWCB,Rolofylline,2609,Drug_A,rolofylline
+OHRURASPPZQGQM,Romidepsin,2610,Drug_A,romidepsin
+KDPNLRQZHDJRFU,Romifidine,2611,Drug_A,romifidine
+AYJVGKWCGIYEAK,Ronifibrate,2612,Drug_A,ronifibrate
+UHSKFQJFRQCDBE,Ropinirole,2613,Drug_A,ropinirole
+ZKMNUMMKYBVTFN,Ropivacaine,2614,Drug_A,ropivacaine
+SGOOQMRIPALTEL,Roquinimex,2615,Drug_B,roquinimex
+YASAKCUCGLMORW,Rosiglitazone,2616,Drug_A,rosiglitazone
+XBPZXDSZHPDXQU,Rosoxacin,2617,Drug_A,rosoxacin
+BPRHUIZQVSMCRT,Rosuvastatin,2618,Drug_A,rosuvastatin
+KFQYTPMOWPVWEJ,Rotigotine,2619,Drug_A,rotigotine
+YOZBGTLTNGAVFU,Roxadustat,2620,Drug_A,roxadustat
+XMVJITFPVVRMHC,Roxarsone,2621,Drug_B,roxarsone
+SMTZFNFIKUPEJC,Roxatidine acetate,2622,Drug_A,roxatidine acetate
+RXZBMPWDPOLZGW,Roxithromycin,2623,Drug_A,roxithromycin
+HMABYWSNWIZPAG,Rucaparib,2624,Drug_A,rucaparib
+POGQSBRIGCQNEG,Rufinamide,2625,Drug_A,rufinamide
+NJCJBUHJQLFDSW,Rufloxacin,2626,Drug_A,rufloxacin
+WUZYKBABMWJHDL,Rupatadine,2627,Drug_A,rupatadine
+VFIZBHJTOHUOEK,S-Ethylisothiourea,2628,Drug_A,s-ethylisothiourea
+NSQNZEUFHPTJME,SC-236,2629,Drug_A,sc-236
+FJHBVJOVLFPMQE,SN-38,2630,Drug_A,sn-38
+PYNXFZCZUAOOQC,Sacubitril,2631,Drug_A,sacubitril
+NEMGRZFTLSKBAP,Safinamide,2632,Drug_A,safinamide
+IBWPUTAKVGZXRB,Safrazine,2633,Drug_A,safrazine
+BFZKMNSQCNVFGM,Sagopilone,2634,Drug_A,sagopilone
+SKZKKFZAGNVIMN,Salicylamide,2635,Drug_A,salicylamide
+KQXDHUJYNAXLNZ,Salinomycin,2636,Drug_A,salinomycin
+WUILNKCFCLNXOK,Salirasib,2637,Drug_B,salirasib
+GIIZNNXWQWCKIB,Salmeterol,2638,Drug_A,salmeterol
+WVYADZUPLLSGPU,Salsalate,2639,Drug_A,salsalate
+OBSYBRPAKCASQB,Salvinorin A,2640,Drug_A,salvinorin a
+RYIDHLJADOKWFM,Samidorphan,2641,Drug_A,samidorphan
+LBGFKUUHOPIEMA,Sapacitabine,2642,Drug_A,sapacitabine
+DUEWVPTZCSAMNB,Saprisartan,2643,Drug_A,saprisartan
+QWAXKHKRTORLEM,Saquinavir,2644,Drug_A,saquinavir
+OUPXSLGGCPUZJJ,"Sar9, Met (O2)11-Substance P",2645,Drug_A,"sar9, met (o2)11-substance p"
+OUKYUETWWIPKQR,Saracatinib,2646,Drug_A,saracatinib
+XBHBWNFJWIASRO,Sarafloxacin,2647,Drug_A,sarafloxacin
+PFGWGEPQIUAZME,Saralasin,2648,Drug_A,saralasin
+PQJQFLNBMSCUSH,Sarecycline,2649,Drug_A,sarecycline
+PGKXDIMONUAMFR,Saredutant,2650,Drug_A,saredutant
+FFYNAVGJSYHHFO,Sarpogrelate,2651,Drug_A,sarpogrelate
+STECJAGHUSJQJN,Scopolamine,2652,Drug_A,scopolamine
+KQPKPCNLIDLUMF,Secobarbital,2653,Drug_A,secobarbital
+CKFBRGLGTWAVLG,Segesterone acetate,2654,Drug_A,segesterone acetate
+JWHYSEDOYMYMNM,Seladelpar,2655,Drug_A,seladelpar
+AFJYYKSVHJGXSN,Selamectin,2656,Drug_A,selamectin
+MCAHWIHFGHIESP,Selenious acid,2657,Drug_A,selenious acid
+BUGBHKTXTAQXES,Selenium,2658,Drug_A,selenium
+ANWPENAPCIFDSZ,Seletracetam,2659,Drug_A,seletracetam
+QXWZQTURMXZVHJ,Selexipag,2660,Drug_A,selexipag
+BTIHMVBBUGXLCJ,Seliciclib,2661,Drug_A,seliciclib
+DEVSOMFAQLZNKR,Selinexor,2662,Drug_A,selinexor
+XIIOFHFUYBLOLW,Selpercatinib,2663,Drug_A,selpercatinib
+CYOHGALHFOKKQC,Selumetinib,2664,Drug_A,selumetinib
+DLSWIYLPEUIQAV,Semaglutide,2665,Drug_A,semaglutide
+WUWDLXZGHZSWQZ,Semaxanib,2666,Drug_A,semaxanib
+IPQVTOJGNYVQEO,Sennosides,2667,Drug_A,sennosides
+LVLLALCJVJNGQQ,Seocalcitol,2668,Drug_A,seocalcitol
+WIQRCHMSJFFONW,Seproxetine,2669,Drug_A,seproxetine
+ZBVKEHDGYSLCCC,Seratrodast,2670,Drug_A,seratrodast
+UBZPNQRBUOBBLN,Serdexmethylphenidate,2671,Drug_A,serdexmethylphenidate
+QZAYGJVTTNCVMB,Serotonin,2672,Drug_A,serotonin
+GZKLJWGUPQBVJQ,Sertindole,2673,Drug_A,sertindole
+VGKDLMBJGBXTGI,Sertraline,2674,Drug_A,sertraline
+GVPIXRLYKVFFMK,Setiptiline,2675,Drug_A,setiptiline
+DEKOYVOWOVJMPM,Setrobuvir,2676,Drug_A,setrobuvir
+VVJKKWFAADXIJK,Sevelamer,2677,Drug_A,sevelamer
+DFEYYRMXOJXZRJ,Sevoflurane,2678,Drug_A,sevoflurane
+UNAANXDKBXWMLN,Sibutramine,2679,Drug_A,sibutramine
+BNRNXUUZRGQAQC,Sildenafil,2680,Drug_A,sildenafil
+SEBFKMXJBCUCAI,Silibinin,2681,Drug_A,silibinin
+PNCPYILNMDWPEY,Silodosin,2682,Drug_A,silodosin
+SEEPANYCNGTZFQ,Silver sulfadiazine,2683,Drug_A,silver sulfadiazine
+JTZZSQYMACOLNN,Simeprevir,2684,Drug_A,simeprevir
+JLRNKCZRCMIVKA,Simfibrate,2685,Drug_A,simfibrate
+RYMZZMVNJRMUDD,Simvastatin,2686,Drug_A,simvastatin
+LMXOHSDXUQEUSF,Sinefungin,2687,Drug_B,sinefungin
+KIHYPELVXPAIDH,Siponimod,2688,Drug_A,siponimod
+QFJCIRLUMZQUOT,Sirolimus,2689,Drug_A,sirolimus
+URWAJWIAIPFPJE,Sisomicin,2690,Drug_A,sisomicin
+PNUZDKCDAWUEGK,Sitafloxacin,2691,Drug_A,sitafloxacin
+MFFMDFFZMYYVKS,Sitagliptin,2692,Drug_A,sitagliptin
+PHWXUGHIIBDVKD,Sitaxentan,2693,Drug_A,sitaxentan
+DZMVCVHATYROOS,Soblidotin,2694,Drug_A,soblidotin
+XJHSMFDIQHVMCY,Sodium aurothiomalate,2695,Drug_A,sodium aurothiomalate
+DHCDFWKWKRSZHF,Sodium aurotiosulfate,2696,Drug_A,sodium aurotiosulfate
+FKNQFGJONOIPTF,Sodium cation,2697,Drug_A,sodium cation
+UOMQUZPKALKDCA,Sodium feredetate,2698,Drug_B,sodium feredetate
+GROJOWHVXQYQGN,Sodium tetradecyl sulfate,2699,Drug_A,sodium tetradecyl sulfate
+WWKQZIMLZGFMEC,Sodium zirconium cyclosilicate,2700,Drug_A,sodium zirconium cyclosilicate
+TTZHDVOVKQGIBA,Sofosbuvir,2701,Drug_A,sofosbuvir
+SEVCTUCCZYBJER,Sofpironium,2702,Drug_A,sofpironium
+LLDXOPKUNJTIRF,Solabegron,2703,Drug_A,solabegron
+FBOUYBDGKBSUES,Solifenacin,2704,Drug_A,solifenacin
+IXXFZUPTQVDPPK,Solithromycin,2705,Drug_A,solithromycin
+UCTRAOBQFUDCSR,Solriamfetol,2706,Drug_A,solriamfetol
+NHXLMOGPVYXJNR,Somatostatin,2707,Drug_A,somatostatin
+VZZJRYRQSPEMTK,Sonidegib,2708,Drug_A,sonidegib
+QKDRXGFQVGOQKS,Sotagliflozin,2709,Drug_A,sotagliflozin
+ZBMZVLHSJCTVON,Sotalol,2710,Drug_A,sotalol
+NXQKSXLFSAEQCZ,Sotorasib,2711,Drug_A,sotorasib
+DZZWHBIBMUVIIW,Sparfloxacin,2712,Drug_A,sparfloxacin
+ZZKNRXZVGOYGJT,Sparfosic acid,2713,Drug_B,sparfosic acid
+WRFHGDPIDHPWIQ,Sparsentan,2714,Drug_A,sparsentan
+XKLZIVIOZDNKEQ,Sparsomycin,2715,Drug_B,sparsomycin
+UNFWWIHTNXNPBV,Spectinomycin,2716,Drug_A,spectinomycin
+ATHGHQPFGPMSJY,Spermidine,2717,Drug_A,spermidine
+PFNFFQXMRSDOHW,Spermine,2718,Drug_A,spermine
+NYKCGQQJNVPOLU,Spiradoline,2719,Drug_A,spiradoline
+ACTOXUHEUCPTEW,Spiramycin,2720,Drug_A,spiramycin
+HRWCVUIFMSZDJS,Spirapril,2721,Drug_A,spirapril
+LXMSZDCAJNLERA,Spironolactone,2722,Drug_A,spironolactone
+UIRKNQLZZXALBI,Squalamine,2723,Drug_B,squalamine
+ILCTUFVQFCIIDS,Stanolone acetate,2724,Drug_A,stanolone acetate
+LKAJKIOFIWVMDJ,Stanozolol,2725,Drug_A,stanozolol
+XNKLLVCARDGLGL,Stavudine,2726,Drug_B,stavudine
+JNYSEDHQJCOWQU,Stepronin,2727,Drug_A,stepronin
+IBLNKMRFIPWSOY,Stiripentol,2728,Drug_A,stiripentol
+KVTPRMVXYZKLIG,Streptolydigin,2729,Drug_A,streptolydigin
+UCSJYZPVAKXKNQ,Streptomycin,2730,Drug_A,streptomycin
+AGRCPNMCOXLKFO,Streptozocin,2731,Drug_A,streptozocin
+PWYYWQHXAPXYMF,Strontium cation Sr-89,2732,Drug_A,strontium cation sr-89
+DJSXNILVACEBLP,Strontium ranelate,2733,Drug_A,strontium ranelate
+OCSOHUROTFFTFO,Styramate,2734,Drug_A,styramate
+AXOIZCJOOAYSMI,Succinylcholine,2735,Drug_A,succinylcholine
+SKVLYVHULOWXTD,Succinylsulfathiazole,2736,Drug_A,succinylsulfathiazole
+ULRRHTDDELHNOW,Sucralfate,2737,Drug_A,sucralfate
+GGCSSNBKKAUURC,Sufentanil,2738,Drug_A,sufentanil
+WHRODDIHRRDWEW,Sugammadex,2739,Drug_A,sugammadex
+FKENQMMABCRJMK,Sulbactam,2740,Drug_A,sulbactam
+JETQIUPBHQNHNZ,Sulbenicillin,2741,Drug_A,sulbenicillin
+AFNXATANNDIXLG,Sulconazole,2742,Drug_A,sulconazole
+SKIVFJLNDNKQPD,Sulfacetamide,2743,Drug_A,sulfacetamide
+XRVJPLDTMUSSDE,Sulfadicramide,2744,Drug_B,sulfadicramide
+ZZORFUFYDOWNEF,Sulfadimethoxine,2745,Drug_B,sulfadimethoxine
+PJSFRIWCGOHTNF,Sulfadoxine,2746,Drug_A,sulfadoxine
+FFJIWWBSBCOKLS,Sulfaethoxypyridazine,2747,Drug_A,sulfaethoxypyridazine
+BRBKOPJOKNSWSG,Sulfaguanidine,2748,Drug_A,sulfaguanidine
+YZMCKZRAOLZXAZ,Sulfaisodimidine,2749,Drug_A,sulfaisodimidine
+BGLHAKAJGYLSOX,Sulfamazone,2750,Drug_A,sulfamazone
+QPPBRPIAZZHUNT,Sulfamerazine,2751,Drug_B,sulfamerazine
+GPTONYMQFTZPKC,Sulfameter,2752,Drug_A,sulfameter
+ASWVTGNCAZCNNR,Sulfamethazine,2753,Drug_A,sulfamethazine
+VACCAVUAMIDAGB,Sulfamethizole,2754,Drug_A,sulfamethizole
+JLKIGFTWXXRPMT,Sulfamethoxazole,2755,Drug_A,sulfamethoxazole
+VLYWMPOKSSWJAL,Sulfamethoxypyridazine,2756,Drug_A,sulfamethoxypyridazine
+QKLSCPPJEVXONT,Sulfametomidine,2757,Drug_A,sulfametomidine
+KXRZBTAEDBELFD,Sulfametopyrazine,2758,Drug_A,sulfametopyrazine
+IZOYMGQQVNAMHS,Sulfametrole,2759,Drug_A,sulfametrole
+CYFLXLSBHQBMFT,Sulfamoxole,2760,Drug_A,sulfamoxole
+FDDDEECHVMSUSB,Sulfanilamide,2761,Drug_A,sulfanilamide
+GWBPFRGXNGPPMF,Sulfanitran,2762,Drug_A,sulfanitran
+DZQVFHSCSRACSX,Sulfaperin,2763,Drug_A,sulfaperin
+QWCJHSGMANYXCW,Sulfaphenazole,2764,Drug_A,sulfaphenazole
+GECHUMIMRBOMGK,Sulfapyridine,2765,Drug_A,sulfapyridine
+NHZLNPMOSADWGC,Sulfaquinoxaline,2766,Drug_A,sulfaquinoxaline
+NCEXYHBECQHGNR,Sulfasalazine,2767,Drug_A,sulfasalazine
+UEMLYRZWLVXWRU,Sulfathiourea,2768,Drug_A,sulfathiourea
+MBGGBVCUIVRRBF,Sulfinpyrazone,2769,Drug_A,sulfinpyrazone
+NHUHCSRWZMLRLA,Sulfisoxazole,2770,Drug_A,sulfisoxazole
+SUVMJBTUFCVSAD,Sulforaphane,2771,Drug_B,sulforaphane
+MLKXDPUZXIRXEP,Sulindac,2772,Drug_A,sulindac
+NBPVNGWRLGHULH,Sulopenem etzadroxil,2773,Drug_A,sulopenem etzadroxil
+UQZVCDCIMBLVNR,Sulprostone,2774,Drug_B,sulprostone
+OPYGFNJSCUDTBT,Sultamicillin,2775,Drug_A,sultamicillin
+HMHVCUVYZFYAJI,Sulthiame,2776,Drug_A,sulthiame
+UNRHXEPDKXPRTM,Sultopride,2777,Drug_A,sultopride
+KQKPFRSPSRPDEB,Sumatriptan,2778,Drug_A,sumatriptan
+WINHZLLDWRZWRT,Sunitinib,2779,Drug_A,sunitinib
+MDKGKXOCJGEUJW,Suprofen,2780,Drug_A,suprofen
+HMXDWDSNPRNUKI,Surinabant,2781,Drug_A,surinabant
+JYTNQNCOQXFQPK,Suvorexant,2782,Drug_A,suvorexant
+ONWXNHPOAGOMTG,Suxibuzone,2783,Drug_A,suxibuzone
+YRCWQPVGYLYSOX,Synephrine,2784,Drug_B,synephrine
+MSHZHSPISPJWHW,TNP-470,2785,Drug_A,tnp-470
+YLJREFDVOIBQDA,Tacrine,2786,Drug_A,tacrine
+QJJXYPPXXYFBGM,Tacrolimus,2787,Drug_A,tacrolimus
+WOXKDUGGOYFFRN,Tadalafil,2788,Drug_A,tadalafil
+TXEIIPDJKFWEEC,Tafamidis,2789,Drug_A,tafamidis
+LBHLFPGPEGDCJG,Tafenoquine,2790,Drug_A,tafenoquine
+WSNODXPBBALQOF,Tafluprost,2791,Drug_B,tafluprost
+SOROUYSPFADXSN,Talampicillin,2792,Drug_A,talampicillin
+LCAAMXMULMCKLJ,Talastine,2793,Drug_A,talastine
+HWGQMRYQVZSGDQ,Talazoparib,2794,Drug_A,talazoparib
+BJVVMKUXKQHWJK,Talbutal,2795,Drug_A,talbutal
+MXFWWQICDIZSOA,Talinolol,2796,Drug_A,talinolol
+ARKYUICTMUZVEW,Tallimustine,2797,Drug_A,tallimustine
+ANMLJLFWUCQGKZ,Talniflumate,2798,Drug_A,talniflumate
+LJBBMCNHIUJBDU,Talopram,2799,Drug_A,talopram
+NKANXQFJJICGDU,Tamoxifen,2800,Drug_A,tamoxifen
+DRHKJLXJIQTDTD,Tamsulosin,2801,Drug_A,tamsulosin
+CEIJFEGBUDEYSX,Tandospirone,2802,Drug_A,tandospirone
+UXXQOJXBIDBUAC,Tandutinib,2803,Drug_A,tandutinib
+KWTWDQCKEHXFFR,Tapentadol,2804,Drug_A,tapentadol
+QLYKJCMUNUWAGO,Taranabant,2805,Drug_A,taranabant
+LGGHDPFKSSRQNS,Tariquidar,2806,Drug_A,tariquidar
+PTOIAAWZLUQTIO,Tasimelteon,2807,Drug_A,tasimelteon
+ADXGNEYLLLSOAR,Tasosartan,2808,Drug_A,tasosartan
+WRGVLTAWMNZWGT,Taspoglutide,2809,Drug_A,taspoglutide
+BHTRKEVKTKCXOH,Taurochenodeoxycholic acid,2810,Drug_A,taurochenodeoxycholic acid
+WBWWGRHZICKQGZ,Taurocholic acid,2811,Drug_A,taurocholic acid
+AJKIRUJIDFJUKJ,Taurolidine,2812,Drug_A,taurolidine
+CXQWRCVTCMQVQX,Taxifolin,2813,Drug_A,taxifolin
+OGQICQVSFDPSEI,Tazarotene,2814,Drug_A,tazarotene
+NSQSAUGJQHDYNO,Tazemetostat,2815,Drug_A,tazemetostat
+LPQZKKCYTLCDGQ,Tazobactam,2816,Drug_A,tazobactam
+QFLNTQDOVCLQKW,Tecarfarin,2817,Drug_A,tecarfarin
+LJJFNFYPZOHRHM,Technetium Tc-99m sestamibi,2818,Drug_A,technetium tc-99m sestamibi
+CSKDFZIMJXRJGH,Tecovirimat,2819,Drug_A,tecovirimat
+CTIRHWCPXYGDGF,Tedisamil,2820,Drug_A,tedisamil
+XFALPSLJIHVRKE,Tedizolid,2821,Drug_B,tedizolid
+QCGUSIANLFXSGE,Tedizolid phosphate,2822,Drug_A,tedizolid phosphate
+GLNWREBYRLDPQP,Tefinostat,2823,Drug_A,tefinostat
+WFWLQNSHRPWKFK,Tegafur,2824,Drug_A,tegafur
+IKBKZGMPCYNSLU,Tegaserod,2825,Drug_A,tegaserod
+CLIQCDHNPDMGSL,Tegoprazan,2826,Drug_A,tegoprazan
+BJNLLBUOHPVGFT,Teicoplanin,2827,Drug_A,teicoplanin
+BBAWEDCPNXPBQM,Telaprevir,2828,Drug_A,telaprevir
+ONUMZHGUFYIKPM,Telavancin,2829,Drug_A,telavancin
+LJVAJPDWBABPEJ,Telithromycin,2830,Drug_A,telithromycin
+RMMXLENWKUUMAY,Telmisartan,2831,Drug_A,telmisartan
+MDSQOJYHHZBZKA,Telotristat ethyl,2832,Drug_A,telotristat ethyl
+QKDHBVNJCZBTMR,Temafloxacin,2833,Drug_A,temafloxacin
+SEQDDYPDSLOBDC,Temazepam,2834,Drug_A,temazepam
+WWJZWCUNLNYYAU,Temefos,2835,Drug_A,temefos
+FIQOFIRCTOWDOW,Temocapril,2836,Drug_A,temocapril
+BVCKFLJARNKCSS,Temocillin,2837,Drug_A,temocillin
+BPEGJWRSRHCHSN,Temozolomide,2838,Drug_A,temozolomide
+CBPNZQVSJQDFBE,Temsirolimus,2839,Drug_A,temsirolimus
+NGBBVGZWCFBOGO,Tenamfetamine,2840,Drug_A,tenamfetamine
+DNHPDWGIXIMXSA,Tenapanor,2841,Drug_A,tenapanor
+WGRQANOPCQRCME,Teneligliptin,2842,Drug_A,teneligliptin
+LXIKEPCNDFVJKC,Tenidap,2843,Drug_A,tenidap
+NRUKOCRGYNPUPR,Teniposide,2844,Drug_A,teniposide
+SGOIRFVFHAKUTI,Tenofovir,2845,Drug_A,tenofovir
+LDEKQSIMHVQZJK,Tenofovir alafenamide,2846,Drug_A,tenofovir alafenamide
+JFVZFKDSXNQEJW,Tenofovir disoproxil,2847,Drug_A,tenofovir disoproxil
+LZNWYQJJBLGYLT,Tenoxicam,2848,Drug_A,tenoxicam
+AHYMHWXQRWRBKT,Tepotinib,2849,Drug_A,tepotinib
+XYKWNRUXCOIMFZ,Tepoxalin,2850,Drug_A,tepoxalin
+VCKUSRYTPJJLNI,Terazosin,2851,Drug_A,terazosin
+DOMXUEMWDBAQBQ,Terbinafine,2852,Drug_A,terbinafine
+XWTYSIMOBUGWOL,Terbutaline,2853,Drug_A,terbutaline
+GUGOEEXESWIERI,Terfenadine,2854,Drug_A,terfenadine
+JOAHPSVPXZTVEP,Terguride,2855,Drug_A,terguride
+UTNUDOFZCWSZMS,Teriflunomide,2856,Drug_A,teriflunomide
+UISARWKNNNHPGI,Terodiline,2857,Drug_A,terodiline
+HTWFXPCUFWKXOP,Tertatolol,2858,Drug_A,tertatolol
+HVXKQKFEHMGHSL,Tesevatinib,2859,Drug_A,tesevatinib
+NFIXBCVWIPOYCD,Tesmilifene,2860,Drug_A,tesmilifene
+BPEWUONYVDABNZ,Testolactone,2861,Drug_A,testolactone
+HPFVBGJFAYZEBE,Testosterone cypionate,2862,Drug_A,testosterone cypionate
+LBERVHLCXUMDOT,Testosterone decanoate,2863,Drug_A,testosterone decanoate
+PTVXYACXDYZNID,Testosterone enantate benzilic acid hydrazone,2864,Drug_A,testosterone enantate benzilic acid hydrazone
+VOCBWIIFXDYGNZ,Testosterone enanthate,2865,Drug_A,testosterone enanthate
+PPYHLSBUTAPNGT,Testosterone isocaproate,2866,Drug_A,testosterone isocaproate
+HHSXYDOROIURIP,Testosterone phenylpropionate,2867,Drug_A,testosterone phenylpropionate
+PDMMFKSKQVNJMI,Testosterone propionate,2868,Drug_A,testosterone propionate
+CJQNBXFUHQZFOE,Testosterone succinate,2869,Drug_A,testosterone succinate
+UDSFVOAUHKGBEK,Testosterone undecanoate,2870,Drug_A,testosterone undecanoate
+GKCBAIGFKIBETG,Tetracaine,2871,Drug_A,tetracaine
+ZOEFCCMDUURGSE,Tetracosactide,2872,Drug_A,tetracosactide
+OFVLGDICTFRJMM,Tetracycline,2873,Drug_A,tetracycline
+ZROLHBHDLIHEMS,Tetrahydrocannabivarin,2874,Drug_B,tetrahydrocannabivarin
+AEQDJSLRWYMAQI,Tetrahydropalmatine,2875,Drug_A,tetrahydropalmatine
+WVTKBKWTSCPRNU,Tetrandrine,2876,Drug_A,tetrandrine
+IQWYAQCHYZHJOS,Tetrazepam,2877,Drug_A,tetrazepam
+CFMYXEVWODSLAX,Tetrodotoxin,2878,Drug_A,tetrodotoxin
+BYJAVTDNIXVSPW,Tetryzoline,2879,Drug_A,tetryzoline
+MJUVRTYWUMPBTR,Tezacaftor,2880,Drug_A,tezacaftor
+GFFXZLZWLOBBLO,Tezacitabine,2881,Drug_B,tezacitabine
+TUYWTLTWNJOZNY,Tezosentan,2882,Drug_B,tezosentan
+UEJJHQNACJXSKW,Thalidomide,2883,Drug_A,thalidomide
+YAPQBXQYLJRXSA,Theobromine,2884,Drug_A,theobromine
+WMCMJIGLYZDKRN,Theodrenaline,2885,Drug_A,theodrenaline
+WJCNZQLZVWNLKY,Thiabendazole,2886,Drug_A,thiabendazole
+JZRWCGZRTZMZEH,Thiamine,2887,Drug_A,thiamine
+OTVAEFIXJLOWRX,Thiamphenicol,2888,Drug_B,thiamphenicol
+XLOMZPUITCYLMJ,Thiamylal,2889,Drug_A,thiamylal
+CDXCCYNINPIWGE,Thiazinam,2890,Drug_A,thiazinam
+XCTYLCDETUVOIP,Thiethylperazine,2891,Drug_A,thiethylperazine
+LEQAKWQJCITZNK,Thiocolchicoside,2892,Drug_A,thiocolchicoside
+IUJDSEJGGMCXSG,Thiopental,2893,Drug_A,thiopental
+AIUHRQHVWSUTGJ,Thiopropazate,2894,Drug_A,thiopropazate
+VZYCZNZBPPHOFY,Thioproperazine,2895,Drug_A,thioproperazine
+HWTUHTNZLQJJEV,Thiopyrophosphate,2896,Drug_A,thiopyrophosphate
+KLBQZWRITKRQQV,Thioridazine,2897,Drug_A,thioridazine
+NBOMNTLFRHMDEZ,Thiosalicylic acid,2898,Drug_A,thiosalicylic acid
+NSFFHOGKXHRQEW,Thiostrepton,2899,Drug_A,thiostrepton
+FOCVUCIESVLUNU,Thiotepa,2900,Drug_A,thiotepa
+GFBKORZTTCHDGY,Thiothixene,2901,Drug_A,thiothixene
+GULNIHOSWFYMRN,Thonzylamine,2902,Drug_A,thonzylamine
+MGSRCZKZVOBKFT,Thymol,2903,Drug_A,thymol
+PBJUNZJWGZTSKL,Tiagabine,2904,Drug_A,tiagabine
+UURAUHCOJAIIRQ,Tiamulin,2905,Drug_B,tiamulin
+JICJBGPOMZQUBB,Tianeptine,2906,Drug_A,tianeptine
+JTVPZMFULRWINT,Tiapride,2907,Drug_A,tiapride
+GUHPRPJDBZHYCJ,Tiaprofenic acid,2908,Drug_A,tiaprofenic acid
+WZDGZWOAQTVYBX,Tibolone,2909,Drug_A,tibolone
+OEKWJQXRCDYSHL,Ticagrelor,2910,Drug_A,ticagrelor
+OHKOGUYZJXTSFX,Ticarcillin,2911,Drug_A,ticarcillin
+PHWBOXQYWZNQIN,Ticlopidine,2912,Drug_A,ticlopidine
+HJDYAOBDPZQHOD,Tiemonium iodide,2913,Drug_A,tiemonium iodide
+AGHANLSBXUWXTB,Tienilic acid,2914,Drug_A,tienilic acid
+FPZLLRFZJZRHSY,Tigecycline,2915,Drug_A,tigecycline
+HNDXPZPJZGTJLJ,Tildipirosin,2916,Drug_A,tildipirosin
+QAXBVGVYDCAVLV,Tiletamine,2917,Drug_A,tiletamine
+JTSDBFGMPLKDCD,Tilmicosin,2918,Drug_A,tilmicosin
+DKJJVAGXPKPDRL,Tiludronic acid,2919,Drug_A,tiludronic acid
+PDYOTUCJOLELJU,Timepidium,2920,Drug_A,timepidium
+BLJRIMJGRPQVNF,Timolol,2921,Drug_A,timolol
+HJLSLZFTEKNLFI,Tinidazole,2922,Drug_A,tinidazole
+PFENFDGYVLAFBR,Tinoridine,2923,Drug_A,tinoridine
+WRGOVNKNTPWHLZ,Tioclomarol,2924,Drug_A,tioclomarol
+QXHHHPZILQDDPS,Tioconazole,2925,Drug_B,tioconazole
+WYWHKKSPHMUBEB,Tioguanine,2926,Drug_A,tioguanine
+YTGJWQPHMWSCST,Tiopronin,2927,Drug_B,tiopronin
+LERNTVKEWCAPOY,Tiotropium,2928,Drug_A,tiotropium
+PLHJCIYEEKOWNM,Tipifarnib,2929,Drug_A,tipifarnib
+QQHMKNYGKVVGCZ,Tipiracil,2930,Drug_B,tipiracil
+SUJUHGSWHZTSEU,Tipranavir,2931,Drug_A,tipranavir
+KJAMZCVTJDTESW,Tiracizine,2932,Drug_A,tiracizine
+ORYDPOVDJJZGHQ,Tirapazamine,2933,Drug_A,tirapazamine
+UOWZUVNAGUAEQC,Tiratricol,2934,Drug_A,tiratricol
+COKMIXFXJJXBQG,Tirofiban,2935,Drug_A,tirofiban
+PYAOPMWCFSVFOT,Tisopurine,2936,Drug_B,tisopurine
+SPMVMDHWKHCIDT,Tivozanib,2937,Drug_A,tivozanib
+YWDBSCORAARPPF,Tixocortol,2938,Drug_A,tixocortol
+XFYDIVBRZNQMJC,Tizanidine,2939,Drug_A,tizanidine
+NLVFBUXFDBBNBW,Tobramycin,2940,Drug_A,tobramycin
+BUJAGSGYPOAWEI,Tocainide,2941,Drug_A,tocainide
+CLLFEJLEDNXZNR,Tocladesine,2942,Drug_B,tocladesine
+LTVDFSLWFKLJDQ,Tocopherylquinone,2943,Drug_A,tocopherylquinone
+GJJVAFUKOBZPCB,Tocotrienol,2944,Drug_B,tocotrienol
+UJLAWZDWDVHWOW,Tofacitinib,2945,Drug_A,tofacitinib
+VWVKUNOPTJGDOB,Tofogliflozin,2946,Drug_A,tofogliflozin
+OUDSBRTVNLOZBN,Tolazamide,2947,Drug_A,tolazamide
+JIVZKJJQOZQXQB,Tolazoline,2948,Drug_A,tolazoline
+JLRGJRBPOGGCBT,Tolbutamide,2949,Drug_A,tolbutamide
+MIQPIUSUKVNLNT,Tolcapone,2950,Drug_A,tolcapone
+YEZNLOUZAIOMLT,Tolfenamic acid,2951,Drug_A,tolfenamic acid
+UPSPUYADGBWSHF,Tolmetin,2952,Drug_A,tolmetin
+KWBTZIFLQYYPTH,Tolonidine,2953,Drug_A,tolonidine
+MXUNKHLAEDCYJL,Toloxatone,2954,Drug_A,toloxatone
+FSKFPVLPFLJRQB,Tolperisone,2955,Drug_A,tolperisone
+OOGJQPCLVADCPB,Tolterodine,2956,Drug_A,tolterodine
+GYHCTFXIZSNGJT,Tolvaptan,2957,Drug_A,tolvaptan
+KJADKKWYZYXHBB,Topiramate,2958,Drug_A,topiramate
+UBVZQGOVTLIHLH,Topiroxostat,2959,Drug_A,topiroxostat
+UCFGDBYHRUNTLO,Topotecan,2960,Drug_A,topotecan
+NGBFQHCMQULJNZ,Torasemide,2961,Drug_A,torasemide
+XFCLJVABOIYOMF,Toremifene,2962,Drug_A,toremifene
+VWMJHAFYPMOMGF,Tovorafenib,2963,Drug_B,tovorafenib
+XOKJUSAYZUAMGJ,Toyocamycin,2964,Drug_B,toyocamycin
+PKVRCIRHQMSYJX,Trabectedin,2965,Drug_A,trabectedin
+TVYLLZQTGLZFBW,Tramadol,2966,Drug_A,tramadol
+QQJLHRRUATVHED,Tramazoline,2967,Drug_A,tramazoline
+LIRYPHYGHXZJBZ,Trametinib,2968,Drug_A,trametinib
+SNKZJIOFVMKAOJ,Tramiprosate,2969,Drug_A,tramiprosate
+VXFJYXUZANRPDJ,Trandolapril,2970,Drug_A,trandolapril
+AHYHTSYNOHNUSH,Trandolaprilat,2971,Drug_A,trandolaprilat
+GYDJEQRTZSCIOI,Tranexamic acid,2972,Drug_B,tranexamic acid
+NZHGWWWHIYHZNX,Tranilast,2973,Drug_A,tranilast
+PANKHBYNKQNAHN,Transcrocetinate,2974,Drug_B,transcrocetinate
+GSNOZLZNQMLSKJ,Trapidil,2975,Drug_A,trapidil
+MKPLKVHSHYCHOC,Travoprost,2976,Drug_A,travoprost
+PHLBKPHSAVXXEF,Trazodone,2977,Drug_A,trazodone
+YCPOZVAOBBQLRI,Treosulfan,2978,Drug_B,treosulfan
+PAJMKGZZBBTTOY,Treprostinil,2979,Drug_A,treprostinil
+YSGQGNQWBLYHPE,Trestolone,2980,Drug_B,trestolone
+IVCRCPJOLWECJU,Trestolone acetate,2981,Drug_A,trestolone acetate
+IUCJMVBFZDHPDX,Tretamine,2982,Drug_A,tretamine
+WOCXQMCIOTUMJV,Tretazicar,2983,Drug_A,tretazicar
+RGVPOXRFEPSFGH,Tretoquinol,2984,Drug_A,tretoquinol
+GFNANZIMVAIWHM,Triamcinolone,2985,Drug_A,triamcinolone
+FNYLWPVRPXGIIP,Triamterene,2986,Drug_A,triamterene
+PXSOHRWMIRDKMP,Triaziquone,2987,Drug_A,triaziquone
+JOFWLTCLBGQGBO,Triazolam,2988,Drug_A,triazolam
+ZMCBYSBVJIMENC,Tricaine,2989,Drug_A,tricaine
+XSTXAVWGXDQKEL,Trichloroethylene,2990,Drug_A,trichloroethylene
+RTKIYFITIVXBLE,Trichostatin A,2991,Drug_B,trichostatin a
+NQPDXQQQCQDHHW,Triclabendazole,2992,Drug_A,triclabendazole
+YYQRGCZGSFRBAM,Triclofos,2993,Drug_B,triclofos
+NPRHVSBSZMAEIN,Tridihexethyl,2994,Drug_A,tridihexethyl
+VILCJCGEZXAXTO,Triethylenetetramine,2995,Drug_A,triethylenetetramine
+ZEWQUBUPAILYHI,Trifluoperazine,2996,Drug_A,trifluoperazine
+GPMXUUPHFNMNDH,Trifluperidol,2997,Drug_A,trifluperidol
+XSCGXQMFQXDFCW,Triflupromazine,2998,Drug_A,triflupromazine
+VSQQQLOSPVPRAZ,Trifluridine,2999,Drug_A,trifluridine
+RMWVZGDJPAKBDE,Triflusal,3000,Drug_A,triflusal
+ZLOMJLIQXBKNHU,Triglu-5-formyl-tetrahydrofolate,3001,Drug_B,triglu-5-formyl-tetrahydrofolate
+HWHLPVGTWGOCJO,Trihexyphenidyl,3002,Drug_A,trihexyphenidyl
+PDGKHKMBHVFCMG,Trilaciclib,3003,Drug_A,trilaciclib
+KVJXBPDAXMEYOA,Trilostane,3004,Drug_A,trilostane
+YNZXWQJZEDLQEG,Trimazosin,3005,Drug_A,trimazosin
+LORDFXWUHHSAQU,Trimebutine,3006,Drug_A,trimebutine
+IRYJRGCIQBGHIV,Trimethadione,3007,Drug_A,trimethadione
+CHQOEHPMXSHGCL,Trimethaphan,3008,Drug_A,trimethaphan
+FEZBIKUBAYAZIU,Trimethobenzamide,3009,Drug_A,trimethobenzamide
+NOYPYLRCIDNJJB,Trimetrexate,3010,Drug_A,trimetrexate
+ZSCDBOWYZJWBIY,Trimipramine,3011,Drug_B,trimipramine
+FMHHVULEAZTJMA,Trioxsalen,3012,Drug_A,trioxsalen
+UHLOVGKIEARANS,Tripamide,3013,Drug_A,tripamide
+UFLGIAIHIAPJJC,Tripelennamine,3014,Drug_A,tripelennamine
+CBEQULMOCCWAQT,Triprolidine,3015,Drug_A,triprolidine
+DFBIRQPKNDILPW,Triptolide,3016,Drug_A,triptolide
+VXKHXGOKWPXYNA,Triptorelin,3017,Drug_A,triptorelin
+BUSXWGRAOZQTEY,Trofinetide,3018,Drug_A,trofinetide
+UMKFEPPTGMDVMI,Trofosfamide,3019,Drug_A,trofosfamide
+GSEJCLTVZPLZKY,Trolamine,3020,Drug_A,trolamine
+LQCLVBQBTUVCEQ,Troleandomycin,3021,Drug_A,troleandomycin
+HWKQNAWCHQMZHK,Trolnitrate,3022,Drug_A,trolnitrate
+JOQKFRLFXDPXHX,Tropatepine,3023,Drug_A,tropatepine
+BGDKAVGWHJFAGW,Tropicamide,3024,Drug_A,tropicamide
+ZNRGQMMCGHDTEI,Tropisetron,3025,Drug_A,tropisetron
+OYYDSUSKLWTMMQ,Trospium,3026,Drug_A,trospium
+WVPSKSLAZQPAKQ,Trovafloxacin,3027,Drug_A,trovafloxacin
+RXRGZNYSEHTMHC,Troxacitabine,3028,Drug_A,troxacitabine
+IYVFNTXFRYQLRP,Troxerutin,3029,Drug_A,troxerutin
+HDZZVAMISRMYHH,Tubercidin,3030,Drug_B,tubercidin
+JFJZZMVDLULRGK,Tubocurarine,3031,Drug_A,tubocurarine
+XEDONBRPTABQFB,Tucaresol,3032,Drug_B,tucaresol
+SDEAXTCZPQIFQM,Tucatinib,3033,Drug_A,tucatinib
+SZMJVTADHFNAIS,Tucidinostat,3034,Drug_A,tucidinostat
+GUARTUJKFNAVIK,Tulathromycin A,3035,Drug_B,tulathromycin a
+YREYLAVBNPACJM,Tulobuterol,3036,Drug_A,tulobuterol
+WBPYTXDJUQJLPQ,Tylosin,3037,Drug_A,tylosin
+KCJJINQANFZSAM,Tylvalosin,3038,Drug_A,tylvalosin
+DZGWFCGJZKJUFP,Tyramine,3039,Drug_A,tyramine
+VGGGPCQERPFHOB,Ubenimex,3040,Drug_B,ubenimex
+ACTIUHUUMQJHFO,Ubidecarenone,3041,Drug_A,ubidecarenone
+DDOOFTLHJSMHLN,Ubrogepant,3042,Drug_A,ubrogepant
+IYFNEFQTYQPVOC,Udenafil,3043,Drug_A,udenafil
+IUCCYQIEZNQWRS,Ularitide,3044,Drug_A,ularitide
+HKDLNTKNLJPAIY,Ulipristal,3045,Drug_A,ulipristal
+LEHFPXVYPMWYQD,Ulobetasol,3046,Drug_A,ulobetasol
+IUVCFHHAEHNCFT,Umbralisib,3047,Drug_A,umbralisib
+FVTWTVQXNAJTQP,Umeclidinium,3048,Drug_A,umeclidinium
+KCFYEAOKVJSACF,Umifenovir,3049,Drug_A,umifenovir
+TVHAZVBUYQMHBC,Unoprostone,3050,Drug_A,unoprostone
+WYQFJHHDOKWSHR,Upadacitinib,3051,Drug_A,upadacitinib
+ISAKRJDGNUQOIC,Uracil,3052,Drug_A,uracil
+IDPUKCWIGUEADI,Uracil mustard,3053,Drug_A,uracil mustard
+ICMGLRUYEQNHPF,Urapidil,3054,Drug_A,urapidil
+JOYRKODLDBILNP,Urethane,3055,Drug_A,urethane
+LEHOTFFKMJEONL,Uric acid,3056,Drug_A,uric acid
+NPTIPEQJIDTVKR,Vabicaserin,3057,Drug_A,vabicaserin
+IOOWNWLVCOUUEX,Vaborbactam,3058,Drug_A,vaborbactam
+JGRXMPYUTJLTKT,Vadadustat,3059,Drug_A,vadadustat
+XGOYIMQSIKSOBS,Vadimezan,3060,Drug_A,vadimezan
+HDOVUKNUBWVHOX,Valaciclovir,3061,Drug_A,valaciclovir
+GEJDGVNQKABXKG,Valbenazine,3062,Drug_A,valbenazine
+LNPDTQAFDNKSHK,Valdecoxib,3063,Drug_A,valdecoxib
+WPVFJKSGQUFQAP,Valganciclovir,3064,Drug_A,valganciclovir
+FCFNRCROJUBPLU,Valinomycin,3065,Drug_A,valinomycin
+QRCJOCOSPZMDJY,Valnoctamide,3066,Drug_A,valnoctamide
+ATSZELKUSAREPW,Valomaciclovir,3067,Drug_A,valomaciclovir
+NIJJYAXOARWZEE,Valproate bismuth,3068,Drug_A,valproate bismuth
+OMOMUFTZPTXCHP,Valpromide,3069,Drug_A,valpromide
+ZOCKGBMQLCSHFP,Valrubicin,3070,Drug_B,valrubicin
+ACWBQPMHZXGDFX,Valsartan,3071,Drug_A,valsartan
+YJDYDFNKCBANTM,Valspodar,3072,Drug_B,valspodar
+ZYTXTXAMMDTYDQ,Vamorolone,3073,Drug_B,vamorolone
+MYPYJXKWCTUITO,Vancomycin,3074,Drug_A,vancomycin
+UHTHHESEBZOYNR,Vandetanib,3075,Drug_A,vandetanib
+NAUWTFJOPJWYOT,Vanoxerine,3076,Drug_A,vanoxerine
+SECKRCOLJRRGGV,Vardenafil,3077,Drug_A,vardenafil
+JQSHBVHOMNKWFT,Varenicline,3078,Drug_A,varenicline
+YCOYDOIWSSHVCK,Vatalanib,3079,Drug_B,vatalanib
+BGSZAXLLHYERSY,Vecuronium,3080,Drug_A,vecuronium
+FHCUMDQMBHQXKK,Velpatasvir,3081,Drug_A,velpatasvir
+GPXBXXGIAQBQNI,Vemurafenib,3082,Drug_A,vemurafenib
+LQBVNQSMGBZMKD,Venetoclax,3083,Drug_A,venetoclax
+PNVNVHUZROJLTJ,Venlafaxine,3084,Drug_A,venlafaxine
+RYJXBGGBZJGVQF,Veralipride,3085,Drug_A,veralipride
+QZFHIXARHDBPBY,Vericiguat,3086,Drug_A,vericiguat
+YYBOLPLTQDKXPM,Verinurad,3087,Drug_B,verinurad
+VBHQKCBVWWUUKN,Vernakalant,3088,Drug_A,vernakalant
+ZVNYJIZDIRKMBF,Vesnarinone,3089,Drug_B,vesnarinone
+DJXRIQMCROIRCZ,Vibegron,3090,Drug_A,vibegron
+CNPVJJQCETWNEU,Vicriviroc,3091,Drug_A,vicriviroc
+PJDFLNIOAUIZSL,Vigabatrin,3092,Drug_A,vigabatrin
+DAFYYTQWSAWIGS,Vilanterol,3093,Drug_A,vilanterol
+SGEGOXDYSFKCPT,Vilazodone,3094,Drug_A,vilazodone
+SYOKIDBDQMKNDQ,Vildagliptin,3095,Drug_A,vildagliptin
+YWPHCCPCQOJSGZ,Viloxazine,3096,Drug_A,viloxazine
+RAFOHKSPUDGZPR,Vinbarbital,3097,Drug_A,vinbarbital
+JXLYSJRDGCGARV,Vinblastine,3098,Drug_A,vinblastine
+RXPRRQLKFXBCSJ,Vincamine,3099,Drug_A,vincamine
+OGWKCGZFUXNPDA,Vincristine,3100,Drug_A,vincristine
+HHJUWIANJFBDHT,Vindesine,3101,Drug_A,vindesine
+NMDYYWFGPIMTKO,Vinflunine,3102,Drug_A,vinflunine
+GBABOYUKABKIAF,Vinorelbine,3103,Drug_A,vinorelbine
+DDNCQMVWWZOMLN,Vinpocetine,3104,Drug_A,vinpocetine
+KUZYSQSABONDME,Vintafolide,3105,Drug_A,vintafolide
+QYKIQEUNHZKYBP,Vinyl ether,3106,Drug_A,vinyl ether
+KGKJZEKQJQQOTD,Vinylbital,3107,Drug_A,vinylbital
+GXFAIFRPOKBQRV,Viomycin,3108,Drug_A,viomycin
+BPQMGSKTAYIVFO,Vismodegib,3109,Drug_A,vismodegib
+FPIPGXGPPPQFEQ,Vitamin A,3110,Drug_A,vitamin a
+BICRTLVBTLFLRD,Voclosporin,3111,Drug_A,voclosporin
+FZNCGRZWXLXZSZ,Voglibose,3112,Drug_A,voglibose
+SXNJFOWDRLKDSF,Volasertib,3113,Drug_B,volasertib
+BFDBKMOZYNOTPK,Vonoprazan,3114,Drug_A,vonoprazan
+ZBGXUVOIWDMMJE,Vorapaxar,3115,Drug_A,vorapaxar
+QCZAWDGAVJMPTA,Vorasidenib,3116,Drug_A,vorasidenib
+BCEHBSKCWLPMDN,Voriconazole,3117,Drug_A,voriconazole
+WAEXFXRVDQXREF,Vorinostat,3118,Drug_A,vorinostat
+YQNWZWMKLDQSAC,Vortioxetine,3119,Drug_A,vortioxetine
+XZAFZXJXZHRNAQ,Vosaroxin,3120,Drug_B,vosaroxin
+FWCVZAQENIZVMY,Voxelotor,3121,Drug_A,voxelotor
+MZBLZLWXUBZHSL,Voxilaprevir,3122,Drug_A,voxilaprevir
+HQVHOQAKMCMIIM,WIN 55212-2,3123,Drug_A,win 55212-2
+QDLHCMPXEPAAMD,Wortmannin,3124,Drug_A,wortmannin
+DXPOSRCHIDYWHW,Xamoterol,3125,Drug_A,xamoterol
+JOLJIIDDOBNFHW,Xanomeline,3126,Drug_A,xanomeline
+LRFVTYWOQMYALW,Xanthine,3127,Drug_A,xanthine
+FHNFHKCVQCLJFQ,Xenon,3128,Drug_A,xenon
+ZXIBCJHYVWYIKI,Ximelagatran,3129,Drug_A,ximelagatran
+MTZBBNMLMNBNJL,Xipamide,3130,Drug_A,xipamide
+BPICBUSOMSTKRF,Xylazine,3131,Drug_A,xylazine
+HUCJFAOMUPXHDK,Xylometazoline,3132,Drug_A,xylometazoline
+BLGXFZZNTVWLAY,Yohimbine,3133,Drug_A,yohimbine
+YEEZWCHGZNKEEK,Zafirlukast,3134,Drug_B,zafirlukast
+WREGKURFCTUGRC,Zalcitabine,3135,Drug_B,zalcitabine
+HUNXMJYCHXQEGX,Zaleplon,3136,Drug_A,zaleplon
+MUXFZBHBYYYLTH,Zaltoprofen,3137,Drug_A,zaltoprofen
+ARAIBEBZBOPLMB,Zanamivir,3138,Drug_A,zanamivir
+RNOAOAWBMHREKO,Zanubrutinib,3139,Drug_A,zanubrutinib
+JJVAPHYEOZSKJZ,Zavegepant,3140,Drug_A,zavegepant
+SUPVGFZUWFMATN,Zelavespib,3141,Drug_B,zelavespib
+DWTTZBARDOXEAM,Zeranol,3142,Drug_A,zeranol
+HBOMLICNUCNMMY,Zidovudine,3143,Drug_A,zidovudine
+MWLSOWXNZPKENC,Zileuton,3144,Drug_A,zileuton
+JDXCOXKBIGBZSK,Zilucoplan,3145,Drug_A,zilucoplan
+OYPPVKRFBIWMSX,Zimelidine,3146,Drug_A,zimelidine
+HCHKCACWOHOZIP,Zinc,3147,Drug_A,zinc
+WPVGKSBEZSOQJZ,Zinc Substituted Heme C,3148,Drug_A,zinc substituted heme c
+PTFCDOFLOPIGGS,Zinc cation,3149,Drug_A,zinc cation
+XLOMVQKBTHCTTD,Zinc oxide,3150,Drug_B,zinc oxide
+MVWVFYHBGMAFLY,Ziprasidone,3151,Drug_A,ziprasidone
+IAIDUHCBNLFXEF,Zofenopril,3152,Drug_A,zofenopril
+GDSCFOSHSOWNDL,Zolazepam,3153,Drug_A,zolazepam
+XRASPMIURGNCCH,"Zoledronate D,L-Lysine Monohydrate",3154,Drug_A,"zoledronate d,l-lysine monohydrate"
+ULSDMUVEXKOYBU,Zolmitriptan,3155,Drug_A,zolmitriptan
+ZAFYATHCZYHLPB,Zolpidem,3156,Drug_A,zolpidem
+ZXVNMYWKKDOREA,Zomepirac,3157,Drug_B,zomepirac
+UBQNRHZMVUUOMG,Zonisamide,3158,Drug_A,zonisamide
+FBTUMDXHSRTGRV,Zorubicin,3159,Drug_A,zorubicin
+IHOVFYSQUDPMCN,Zosuquidar,3160,Drug_A,zosuquidar
+HDOZVRUNCMBHFH,Zotepine,3161,Drug_A,zotepine
+HARRKNSQXBRBGZ,Zuranolone,3162,Drug_A,zuranolone
+MSWZFWKMSRAUBD,beta-D-Galactosamine,3163,Drug_A,beta-d-galactosamine
+SLRCCWJSBJZJBV,beta-Isosparteine,3164,Drug_A,beta-isosparteine
+OUGIDAPQYNCXRA,beta-Naphthoflavone,3165,Drug_A,beta-naphthoflavone
+RFDAIACWWDREDC,cis-Diamminechlorocholylglycinateplatinum(II),3166,Drug_A,cis-diamminechlorocholylglycinateplatinum(ii)
+SJZRECIVHVDYJC,gamma-Hydroxybutyric acid,3167,Drug_A,gamma-hydroxybutyric acid
+VHFVKMTVMIZMIK,m-Chlorophenylpiperazine,3168,Drug_A,m-chlorophenylpiperazine
+PMOWTIHVNWZYFI,trans-2-hydroxycinnamic acid,3169,Drug_A,trans-2-hydroxycinnamic acid

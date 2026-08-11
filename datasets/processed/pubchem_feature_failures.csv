@@ -1,0 +1,218 @@
+DrugID,DrugName,CID,Property,Status,Reason
+257,Antazoline,2200,MolecularWeight,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/MolecularWeight/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,ExactMass,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/ExactMass/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,MonoisotopicMass,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/MonoisotopicMass/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,HeavyAtomCount,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/HeavyAtomCount/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,FormalCharge,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/Charge/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,XLogP,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/XLogP/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,TPSA,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/TPSA/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,HBondDonorCount,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/HBondDonorCount/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,HBondAcceptorCount,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/HBondAcceptorCount/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,RotatableBondCount,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/RotatableBondCount/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,Complexity,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/Complexity/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,ConnectivitySMILES,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/CanonicalSMILES/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,IsomericSMILES,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/IsomericSMILES/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,InChI,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/InChI/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+257,Antazoline,2200,InChIKey,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/2200/property/InChIKey/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+1020,Dobutamine,36811,TPSA,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/36811/property/TPSA/JSON (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001FBD13B5450>: Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+1020,Dobutamine,36811,HBondDonorCount,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/36811/property/HBondDonorCount/JSON (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001FBD13B4F50>: Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"
+2008,Mycophenolate mofetil,5281078,HBondAcceptorCount,Failed,Failed after retries
+2011,"N-(2-hydroxybenzyl)-2,5-dimethoxy-4-cyanophenylethylamine",90489020,InChIKey,Failed,Failed after retries
+2014,N-methylnicotinamide,64950,XLogP,Failed,Failed after retries
+2014,N-methylnicotinamide,64950,TPSA,Failed,Failed after retries
+2016,NS-398,4553,RotatableBondCount,Failed,Failed after retries
+2020,Nafamostat,4413,HeavyAtomCount,Failed,Failed after retries
+2022,Nafcillin,8982,HBondDonorCount,Failed,Failed after retries
+2024,Naftopidil,4418,InChI,Failed,Failed after retries
+2026,Naldemedine,54732242,RotatableBondCount,Failed,Failed after retries
+2026,Naldemedine,54732242,InChI,Failed,Failed after retries
+2028,Nalmefene,5284594,HBondAcceptorCount,Failed,Failed after retries
+2028,Nalmefene,5284594,ConnectivitySMILES,Failed,Failed after retries
+2030,Naloxegol,56959087,IsomericSMILES,Failed,Failed after retries
+2032,Naltrexone,5360515,IsomericSMILES,Failed,Failed after retries
+2035,Nanatinostat,49857317,FormalCharge,Failed,Failed after retries
+2036,Nandrolone,9904,FormalCharge,Failed,Failed after retries
+2036,Nandrolone,9904,RotatableBondCount,Failed,Failed after retries
+2038,Nandrolone phenpropionate,229455,MonoisotopicMass,Failed,Failed after retries
+2038,Nandrolone phenpropionate,229455,HeavyAtomCount,Failed,Failed after retries
+2040,Naproxen,156391,InChIKey,Failed,Failed after retries
+2042,Naratriptan,4440,ConnectivitySMILES,Failed,Failed after retries
+2044,Naronapride,11237985,XLogP,Failed,Failed after retries
+2045,Natamycin,5284447,IsomericSMILES,Failed,Failed after retries
+2047,Navitoclax,24978538,HBondAcceptorCount,Failed,Failed after retries
+2047,Navitoclax,24978538,InChI,Failed,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+2050,Nebularine,68368,ExactMass,Failed,Failed after retries
+2054,Nelarabine,3011155,XLogP,Failed,Failed after retries
+2056,Nemonoxacin,11993740,HBondAcceptorCount,Failed,Failed after retries
+2056,Nemonoxacin,11993740,InChI,Failed,Failed after retries
+2059,Neostigmine,4456,ExactMass,Failed,Failed after retries
+2060,Nepafenac,151075,HBondAcceptorCount,Failed,Failed after retries
+2062,Netilmicin,441306,IsomericSMILES,Failed,Failed after retries
+2067,Niaprazine,71919,XLogP,Failed,Failed after retries
+2069,Nicergoline,34040,HBondDonorCount,Failed,Failed after retries
+2074,Nicotinyl alcohol,7510,MolecularFormula,Failed,Failed after retries
+2078,Nifuratel,6433427,FormalCharge,Failed,Failed after retries
+2078,Nifuratel,6433427,XLogP,Failed,Failed after retries
+2080,Nilotinib,644241,RotatableBondCount,Failed,Failed after retries
+2082,Nilutamide,4493,RotatableBondCount,Failed,Failed after retries
+2082,Nilutamide,4493,IsomericSMILES,Failed,Failed after retries
+2084,Nimesulide,4495,XLogP,Failed,Failed after retries
+2085,Nimodipine,4497,FormalCharge,Failed,Failed after retries
+2087,Nintedanib,135423438,HBondAcceptorCount,Failed,Failed after retries
+2089,Niraparib,24958200,InChI,Failed,Failed after retries
+2091,Nirogacestat,46224413,IsomericSMILES,Failed,Failed after retries
+2092,Nisoldipine,4499,XLogP,Failed,Failed after retries
+2094,Nitrazepam,4506,ConnectivitySMILES,Failed,Failed after retries
+2096,Nitric Oxide,145068,RotatableBondCount,Failed,Failed after retries
+2097,Nitrite,946,FormalCharge,Failed,Failed after retries
+2099,Nitrofurantoin,6604200,MolecularFormula,Failed,Failed after retries
+2100,Nitroglycerin,4510,IsomericSMILES,Failed,Failed after retries
+2102,Nitrous oxide,948,MolecularWeight,Failed,Failed after retries
+2104,Nizofenone,4514,FormalCharge,Failed,Failed after retries
+2106,Nolatrexed,135400184,MolecularWeight,Failed,Failed after retries
+2107,Nomegestrol,68783,InChI,Failed,Failed after retries
+2108,Nomegestrol acetate,91668,InChI,Failed,Failed after retries
+2111,Nordazepam,2997,MolecularFormula,Failed,Failed after retries
+2115,Norethisterone,6230,MonoisotopicMass,Failed,Failed after retries
+2117,Norfenefrine,4538,InChIKey,Failed,Failed after retries
+2118,Norfloxacin,4539,HeavyAtomCount,Failed,Failed after retries
+2118,Norfloxacin,4539,FormalCharge,Failed,Failed after retries
+2120,Norgestrienone,13313,HBondDonorCount,Failed,Failed after retries
+2120,Norgestrienone,13313,ConnectivitySMILES,Failed,Failed after retries
+2120,Norgestrienone,13313,IsomericSMILES,Failed,Failed after retries
+2122,Nortriptyline,4543,TPSA,Failed,Failed after retries
+2122,Nortriptyline,4543,HBondDonorCount,Failed,Failed after retries
+2124,Novobiocin,54675769,MonoisotopicMass,Failed,Failed after retries
+2124,Novobiocin,54675769,FormalCharge,Failed,Failed after retries
+2126,Nystatin,6433272,TPSA,Failed,Failed after retries
+2129,ORM-12741,71301276,MonoisotopicMass,Failed,Failed after retries
+2131,Obeticholic acid,447715,XLogP,Failed,Failed after retries
+2134,Octinoxate,5355130,ExactMass,Failed,Failed after retries
+2137,Odanacatib,10152654,FormalCharge,Failed,Failed after retries
+2139,Olaparib,23725625,HBondDonorCount,Failed,Failed after retries
+2139,Olaparib,23725625,Complexity,Failed,Failed after retries
+2140,Oleandomycin,72493,MonoisotopicMass,Failed,Failed after retries
+2141,Oleandrin,11541511,InChI,Failed,Failed after retries
+2144,Olmutinib,54758501,XLogP,Failed,Failed after retries
+2146,Olorofim,91885568,Complexity,Failed,Failed after retries
+2149,Olutasidenib,118955396,ExactMass,Failed,Failed after retries
+2151,Omadacycline,54697325,ExactMass,Failed,Failed after retries
+2151,Omadacycline,54697325,MonoisotopicMass,Failed,Failed after retries
+2153,Omarigliptin,46209133,XLogP,Failed,Failed after retries
+2153,Omarigliptin,46209133,HBondAcceptorCount,Failed,Failed after retries
+2155,Ombitasvir,54767916,FormalCharge,Failed,Failed after retries
+2155,Ombitasvir,54767916,RotatableBondCount,Failed,Failed after retries
+2157,Ondansetron,4595,HBondDonorCount,Failed,Failed after retries
+2157,Ondansetron,4595,Complexity,Failed,Failed after retries
+2160,Opipramol,9417,MolecularFormula,Failed,Failed after retries
+2161,Orbifloxacin,60605,HeavyAtomCount,Failed,Failed after retries
+2161,Orbifloxacin,60605,FormalCharge,Failed,Failed after retries
+2163,Oritavancin,16136912,IsomericSMILES,Failed,Failed after retries
+2163,Oritavancin,16136912,InChIKey,Failed,Failed after retries
+2166,Ornidazole,28061,ExactMass,Failed,Failed after retries
+2166,Ornidazole,28061,RotatableBondCount,Failed,Failed after retries
+2168,Orvepitant,9852175,HeavyAtomCount,Failed,Failed after retries
+2171,Osilodrostat,44139752,MolecularFormula,Failed,Failed after retries
+2174,Otamixaban,5496659,MonoisotopicMass,Failed,Failed after retries
+2174,Otamixaban,5496659,Complexity,Failed,Failed after retries
+2176,Otilonium,72093,InChI,Failed,Failed after retries
+2177,Ouabain,439501,ExactMass,Failed,Failed after retries
+2177,Ouabain,439501,MonoisotopicMass,Failed,Failed after retries
+2179,Oxacillin,6196,TPSA,Failed,Failed after retries
+2181,Oxamniquine,4612,MolecularWeight,Failed,Failed after retries
+2184,Oxaprozin,4614,XLogP,Failed,Failed after retries
+2186,Oxazepam,4616,TPSA,Failed,Failed after retries
+2188,Oxcarbazepine,34312,IsomericSMILES,Failed,Failed after retries
+2192,Oxitriptan,439280,ExactMass,Failed,Failed after retries
+2196,Oxybenzone,4632,HBondAcceptorCount,Failed,Failed after retries
+2205,Oxyphenbutazone,4641,ExactMass,Failed,Failed after retries
+2205,Oxyphenbutazone,4641,HeavyAtomCount,Failed,Failed after retries
+2205,Oxyphenbutazone,4641,FormalCharge,Failed,Failed after retries
+2207,Oxyphenisatin,31315,InChIKey,Failed,Failed after retries
+2209,Oxyphenonium,5749,ConnectivitySMILES,Failed,Failed after retries
+2212,PD173955,447077,HeavyAtomCount,Failed,Failed after retries
+2212,PD173955,447077,InChIKey,Failed,Failed after retries
+2215,Paclitaxel,36314,FormalCharge,Failed,Failed after retries
+2216,Pacritinib,46216796,Complexity,Failed,Failed after retries
+2217,Padeliporfin,171041442,MolecularWeight,Failed,Failed after retries
+2219,Palbociclib,5330286,ExactMass,Failed,Failed after retries
+2221,Paliperidone,115237,MonoisotopicMass,Failed,Failed after retries
+2225,Pamidronic acid,4674,TPSA,Failed,Failed after retries
+2226,Pancuronium,441289,ExactMass,Failed,Failed after retries
+2229,Pantothenic acid,6613,HBondAcceptorCount,Failed,Failed after retries
+2229,Pantothenic acid,6613,RotatableBondCount,Failed,Failed after retries
+2230,Papaverine,4680,Complexity,Failed,Failed after retries
+2232,Paramethadione,8280,InChI,Failed,Failed after retries
+2235,Parecoxib,119828,RotatableBondCount,Failed,Failed after retries
+2237,Paricalcitol,5281104,RotatableBondCount,Failed,Failed after retries
+2237,Paricalcitol,5281104,Complexity,Failed,Failed after retries
+2240,Paroxetine,43815,MolecularFormula,Failed,Failed after retries
+2242,Patent Blue,77074,HeavyAtomCount,Failed,Failed after retries
+2242,Patent Blue,77074,FormalCharge,Failed,Failed after retries
+2254,Penbutolol,37464,RotatableBondCount,Failed,Failed after retries
+2258,Penicillamine,5852,ExactMass,Failed,Failed after retries
+2258,Penicillamine,5852,HeavyAtomCount,Failed,Failed after retries
+2260,Penimepicycline,54686187,XLogP,Failed,Failed after retries
+2260,Penimepicycline,54686187,RotatableBondCount,Failed,Failed after retries
+2260,Penimepicycline,54686187,Complexity,Failed,Failed after retries
+2263,Pentamidine,4735,HBondDonorCount,Failed,Failed after retries
+2270,Pentostatin,439693,XLogP,Failed,Failed after retries
+2271,Pentoxifylline,4740,InChIKey,Failed,Failed after retries
+2272,Perampanel,9924495,MolecularFormula,Failed,Failed after retries
+2275,Perflubutane,9638,IsomericSMILES,Failed,Failed after retries
+2275,Perflubutane,9638,InChIKey,Failed,Failed after retries
+2278,Perhexiline,4746,ExactMass,Failed,Failed after retries
+2280,Perillyl alcohol,10819,Complexity,Failed,Failed after retries
+2283,Permethrin,40326,Complexity,Failed,Failed after retries
+2285,Perphenazine,4748,HBondAcceptorCount,Failed,Failed after retries
+2287,Peruvoside,12314120,RotatableBondCount,Failed,Failed after retries
+2292,Phenazopyridine,4756,MolecularFormula,Failed,Failed after retries
+2292,Phenazopyridine,4756,IsomericSMILES,Failed,Failed after retries
+2294,Phendimetrazine,30487,Complexity,Failed,Failed after retries
+2296,Phenethyl Isothiocyanate,16741,ConnectivitySMILES,Failed,Failed after retries
+2298,Pheneticillin,272833,InChIKey,Failed,Failed after retries
+2299,Pheneturide,72060,MolecularWeight,Failed,Failed after retries
+2299,Pheneturide,72060,ExactMass,Failed,Failed after retries
+2301,Phenglutarimide,102669,MolecularWeight,Failed,Failed after retries
+2304,Phenindione,4760,ConnectivitySMILES,Failed,Failed after retries
+2304,Phenindione,4760,InChIKey,Failed,Failed after retries
+2307,Phenmetrazine,4762,HBondDonorCount,Failed,Failed after retries
+2314,Phenoxymethylpenicillin,6869,XLogP,Failed,Failed after retries
+2315,Phenoxypropazine,71467,ExactMass,Failed,Failed after retries
+2330,Phosphocreatine,9548602,RotatableBondCount,Failed,Failed after retries
+2333,Physostigmine,5983,HeavyAtomCount,Failed,Failed after retries
+2338,Picosulfuric acid,5243,MonoisotopicMass,Failed,Failed after retries
+2340,Pidotimod,65944,ExactMass,Failed,Failed after retries
+2340,Pidotimod,65944,HeavyAtomCount,Failed,Failed after retries
+2345,Pimozide,16362,ExactMass,Failed,Failed after retries
+2345,Pimozide,16362,HBondAcceptorCount,Failed,Failed after retries
+2347,Pinaverium,40704,IsomericSMILES,Failed,Failed after retries
+2352,Pipamperone,4830,MonoisotopicMass,Failed,Failed after retries
+2356,Piperacillin,43672,InChI,Failed,Failed after retries
+2359,Piperidolate,4839,MolecularWeight,Failed,Failed after retries
+2361,Pipobroman,4842,HBondAcceptorCount,Failed,Failed after retries
+2369,Piritramide,9331,IsomericSMILES,Failed,Failed after retries
+2376,Pirtobrutinib,129269915,HeavyAtomCount,Failed,Failed after retries
+2376,Pirtobrutinib,129269915,FormalCharge,Failed,Failed after retries
+2376,Pirtobrutinib,129269915,TPSA,Failed,Failed after retries
+2380,Pivampicillin,33478,ConnectivitySMILES,Failed,Failed after retries
+2382,Pivmecillinam,115163,Complexity,Failed,Failed after retries
+2383,Pixantrone,134019,XLogP,Failed,Failed after retries
+2385,Platelet Activating Factor,108156,HBondAcceptorCount,Failed,Failed after retries
+2389,Plerixafor,65015,HBondAcceptorCount,Failed,Failed after retries
+2391,Plicamycin,163659,MonoisotopicMass,Failed,Failed after retries
+2391,Plicamycin,163659,XLogP,Failed,Failed after retries
+2398,Pomalidomide,134780,TPSA,Failed,Failed after retries
+2404,Potassium,5462222,MonoisotopicMass,Failed,Failed after retries
+2406,Potassium triiodide,105053,HeavyAtomCount,Failed,Failed after retries
+2408,Practolol,4883,IsomericSMILES,Failed,Failed after retries
+2418,Prasterone,5881,HeavyAtomCount,Failed,Failed after retries
+2422,Pravastatin,54687,MonoisotopicMass,Failed,Failed after retries
+2423,Prazepam,4890,InChIKey,Failed,Failed after retries
+2426,Prednimustine,34457,ExactMass,Failed,Failed after retries
+2428,Prednisolone acetate,5834,HBondAcceptorCount,Failed,Failed after retries
+2437,Prenylamine,9801,ExactMass,Failed,Failed after retries
+2440,Pridinol,4904,RotatableBondCount,Failed,Failed after retries
+2440,Pridinol,4904,InChIKey,Failed,Failed after retries
+2442,Prilocaine,4906,TPSA,Failed,Failed after retries
+3090,Vibegron,44472635,IsomericSMILES,Failed,"HTTPSConnectionPool(host='pubchem.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /rest/pug/compound/cid/44472635/property/IsomericSMILES/JSON (Caused by NameResolutionError(""HTTPSConnection(host='pubchem.ncbi.nlm.nih.gov', port=443): Failed to resolve 'pubchem.ncbi.nlm.nih.gov' ([Errno 11001] getaddrinfo failed)""))"

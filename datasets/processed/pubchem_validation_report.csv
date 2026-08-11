@@ -1,0 +1,16 @@
+Check,Value
+Total master drugs,3170
+Total PubChem records,3149
+Unique PubChem drugs,3149
+Duplicate drug names,0
+Duplicate CIDs,0
+Missing drugs from PubChem,21
+Missing DrugName,0
+Missing CID,0
+Missing ConnectivitySMILES,0
+Missing MolecularWeight,0
+Missing XLogP,127
+Missing TPSA,0
+Missing HBondDonorCount,0
+Missing HBondAcceptorCount,0
+Missing RotatableBondCount,0

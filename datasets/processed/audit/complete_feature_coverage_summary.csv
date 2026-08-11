@@ -1,0 +1,8 @@
+Dataset,Rows,Unique_DrugIDs,Coverage_%,Missing_Drugs,Duplicate_DrugIDs
+Master,3170,3170,100.0,0,0
+Chemical,3170,3170,100.0,0,0
+Pathway,3170,3170,100.0,0,0
+SMILES,3170,3170,100.0,0,0
+SIDER,65947,558,17.6,2612,65389
+ChEBI,3151,3151,99.4,19,0
+Targets,26561,2204,69.53,966,24357

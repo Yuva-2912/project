@@ -1,0 +1,20 @@
+DrugID,DrugName,CID,MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,HeavyAtomCount,FormalCharge,XLogP,TPSA,HBondDonorCount,HBondAcceptorCount,RotatableBondCount,Complexity,ConnectivitySMILES,IsomericSMILES,InChI,InChIKey,PubChemStatus
+23,"1,6-Fructose Diphosphate (Linear Form)",,,,,,,,,,,,,,,,,,Unresolved
+404,Benzylpenicilloyl polylysine,,,,,,,,,,,,,,,,,,Unresolved
+653,Cephalosporin analog,,,,,,,,,,,,,,,,,,Unresolved
+783,Colistimethate,,,,,,,,,,,,,,,,,,Unresolved
+979,Dihematoporphyrin ether,,,,,,,,,,,,,,,,,,Unresolved
+1445,Gleptoferron,,,,,,,,,,,,,,,,,,Unresolved
+1528,Hydrolyzed Cephalothin,,,,,,,,,,,,,,,,,,Unresolved
+1621,Iron polymaltose,,,,,,,,,,,,,,,,,,Unresolved
+1622,Iron sucrose,,,,,,,,,,,,,,,,,,Unresolved
+1646,Ivermectin,,,,,,,,,,,,,,,,,,Unresolved
+1656,Kaolin,,,,,,,,,,,,,,,,,,Unresolved
+1664,Kitasamycin,,,,,,,,,,,,,,,,,,Unresolved
+2101,Nitroprusside,,,,,,,,,,,,,,,,,,Unresolved
+2136,Octylphenoxy polyethoxyethanol,,,,,,,,,,,,,,,,,,Unresolved
+2269,Pentosan polysulfate,,,,,,,,,,,,,,,,,,Unresolved
+2397,Polythiazide,,,,,,,,,,,,,,,,,,Unresolved
+2524,Radium Ra-223 cation,,,,,,,,,,,,,,,,,,Unresolved
+2677,Sevelamer,,,,,,,,,,,,,,,,,,Unresolved
+2737,Sucralfate,,,,,,,,,,,,,,,,,,Unresolved
